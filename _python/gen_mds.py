@@ -36,7 +36,7 @@ _NEW_LINE = '\n'
 _N_DAYS = 250
 
 
-with open('tickers') as f:
+with open('tickers.kospi200') as f:
   tickers = f.read()
 tickers = tickers.strip().split(_NEW_LINE)
 
