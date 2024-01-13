@@ -21,9 +21,12 @@ categories:
 - Stock
 ---
 
+{name}는 시가({open_price}원), 고가({high_price}), 저가({low_price}), 종가({close_price})였습니다.
+
+<!-- more -->
+
 ![{ticker}](/assets/stock_images/{ticker}.png)
 
-{name}는 시가({open_price}원), 고가({high_price}), 저가({low_price}), 종가({close_price})였습니다.
 '''
 _MD_TMPL = _MD_TMPL.replace('\n', '{_NEW_LINE}')
 _NEW_LINE = '\n'
