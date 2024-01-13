@@ -23,6 +23,7 @@ categories:
 ---
 
 {name}는 시가({open_price}원), 고가({high_price}원), 저가({low_price}원), 종가({close_price}원)였습니다.
+
 전일 종가 대비 {(pct_change * 100):.1f}% {pct_change_label}했습니다.
 
 <!-- more -->
@@ -47,7 +48,7 @@ for ticker in tqdm(tickers):
   with open(_FILE_PATH, 'w') as f:
     f.write(fstr(_MD_TMPL))
 
-  plt.figure(figsize = (10, 6))
+  plt.figure(figsize = (8, 6))
   df.Close[-_N_DAYS: ].plot(label = f'{name}({ticker})')
   plt.title(f'{name} 최근 {_N_DAYS} 거래일 주가 흐름')
   plt.ylabel('가격 (원)')
