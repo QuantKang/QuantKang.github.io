@@ -38,5 +38,6 @@ for ticker in tqdm(tickers):
   _IMG_PATH = f'{_BASE_PATH}/assets/stock_images/{ticker}.png'
   with open(_FILE_PATH, 'w') as f:
     f.write(fstr(_MD_TMPL))
+  df.Close[-252: ].plot(label = f'{name}({ticker})')
   plt.savefig(_IMG_PATH)
   plt.close()
