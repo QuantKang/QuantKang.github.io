@@ -17,7 +17,7 @@ _MD_TMPL = '''
 ---
 title: {name}({ticker}) 주가 정보
 categories:
-- stock
+- KRXStock
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
