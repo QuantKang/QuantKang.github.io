@@ -1,11 +1,12 @@
 import FinanceDataReader as fdr
 import pandas as pd
 import bt
-from tqdm import tqdm
 import matplotlib.pyplot as plt
 import seaborn as sns
+from tqdm import tqdm
 
 sns.set_style('whitegrid')
+plt.rc('font', family='NanumBarunGothic')
 
 stock_df = fdr.StockListing('KRX')
 
@@ -30,6 +31,7 @@ categories:
 '''
 _MD_TMPL = _MD_TMPL.replace('\n', '{_NEW_LINE}')
 _NEW_LINE = '\n'
+_N_DAYS = 250
 
 tickers = ['005930', '000660']
 
@@ -41,6 +43,11 @@ for ticker in tqdm(tickers):
   _IMG_PATH = f'{_BASE_PATH}/assets/stock_images/{ticker}.png'
   with open(_FILE_PATH, 'w') as f:
     f.write(fstr(_MD_TMPL))
-  df.Close[-252: ].plot(label = f'{name}({ticker})')
+
+  plt.figure(figsize = (10, 6))
+  df.Close[-_N_DAYS: ].plot(label = f'{name}({ticker})')
+  plt.title(f'{name} 최근 {_N_DAYS} 거래일 주가 흐름')
+  plt.ylabel('가격 (원)')
+  plt.xlabel('')
   plt.savefig(_IMG_PATH)
   plt.close()
