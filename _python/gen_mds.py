@@ -48,10 +48,18 @@ for ticker in tqdm(tickers):
   with open(_FILE_PATH, 'w') as f:
     f.write(fstr(_MD_TMPL))
 
-  plt.figure(figsize = (8, 6))
-  df.Close[-_N_DAYS: ].plot(label = f'{name}({ticker})')
+  window_l = [5, 20, 60]
+  for w in window_l:
+    df[f'MA {w}'] = df.Close.rolling(w).mean()
+
+  #plt.figure(figsize = (8, 6))
+  df = df[-_N_DAYS: ]
+  df.Close.plot(label = name)
+  for w in window_l:
+    df[f'MA {w}'].plot(label = f'{w} MA', lw = 1)
   plt.title(f'{name} 최근 {_N_DAYS} 거래일 주가 흐름')
   plt.ylabel('가격 (원)')
   plt.xlabel('')
+  plt.legend()
   plt.savefig(_IMG_PATH)
   plt.close()
