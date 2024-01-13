@@ -40,10 +40,11 @@ tickers = ['005930', '000660']
 for ticker in tqdm(tickers):
   name = stock_df[stock_df.Code == ticker].Name.iloc[0]
   df = fdr.DataReader(ticker)
+  last_date = df.index[-1].strftime('%Y-%m-%d')
   open_price, high_price, low_price, close_price = df[['Open', 'High', 'Low', 'Close']].iloc[-1]
   pct_change = df.Close.iloc[-1] / df.Close.iloc[-2] - 1
   pct_change_label = '상승' if pct_change > 0 else '하락'
-  _FILE_PATH = f'{_BASE_PATH}/_posts/2024-01-01-{ticker}.md'
+  _FILE_PATH = f'{_BASE_PATH}/_posts/{last_date}-{ticker}.md'
   _IMG_PATH = f'{_BASE_PATH}/assets/stock_images/{ticker}.png'
   with open(_FILE_PATH, 'w') as f:
     f.write(fstr(_MD_TMPL))
