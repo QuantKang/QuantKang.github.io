@@ -18,7 +18,7 @@ _MD_TMPL = '''
 ---
 title: {name}({ticker}) 주가 정보
 categories:
-- 개별 종목
+- Stock
 ---
 {name}는 시가({open_price}원), 고가({high_price}), 저가({low_price}), 종가({close_price})였습니다.
 '''
