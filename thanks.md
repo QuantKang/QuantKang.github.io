@@ -1,5 +1,5 @@
 ---
-title: Thanks!
+title: 감사합니다!
 indexing: false
 sitemap: false
 ---
