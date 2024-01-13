@@ -35,7 +35,10 @@ _MD_TMPL = _MD_TMPL.replace('\n', '{_NEW_LINE}')
 _NEW_LINE = '\n'
 _N_DAYS = 250
 
-tickers = ['005930', '000660']
+
+with open('tickers') as f:
+  tickers = f.read()
+tickers = tickers.strip().split(_NEW_LINE)
 
 for ticker in tqdm(tickers):
   name = stock_df[stock_df.Code == ticker].Name.iloc[0]
