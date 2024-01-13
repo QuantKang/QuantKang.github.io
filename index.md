@@ -1,5 +1,5 @@
 ---
-title: About Alembic
+title: 퀀트강의 슬기로운 주식 정보
 feature_text: |
   ## Alembic
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
