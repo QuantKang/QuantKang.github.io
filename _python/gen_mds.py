@@ -1,6 +1,7 @@
 import FinanceDataReader as fdr
 import pandas as pd
 import bt
+from tqdm import tqdm
 import matplotlib.pyplot as plt
 import seaborn as sns
 
@@ -17,7 +18,7 @@ _MD_TMPL = '''
 ---
 title: {name}({ticker}) 주가 정보
 categories:
-- KRXStock
+- 개별 종목
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
@@ -28,7 +29,7 @@ _NEW_LINE = '\n'
 
 tickers = ['005930', '000660']
 
-for ticker in tickers:
+for ticker in tqdm(tickers):
   name = stock_df[stock_df.Code == ticker].Name.iloc[0]
   df = fdr.DataReader(ticker)
   open_price, high_price, low_price, close_price = df[['Open', 'High', 'Low', 'Close']].iloc[-1]
