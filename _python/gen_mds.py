@@ -9,7 +9,7 @@ sns.set_style('whitegrid')
 stock_df = fdr.StockListing('KRX')
 
 def fstr(template):
-    return eval(f"f'{template}'")
+    return eval(f"f'{template}'").strip()
 
 
 _BASE_PATH = '../_posts/'
