@@ -124,13 +124,13 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: Home
+- title: 메인
   url: /
 - title: 주식 정보
   url: /blog/
-- title: Categories
+- title: 카테고리
   url: /categories/
-- title: Search
+- title: 검색
   url: /search/
     # - title: Elements
     #  url: /elements/
@@ -138,12 +138,12 @@ navigation_header:
     #url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-- title: Created by David Darnes
-  url: https://darn.es
+- title: Created by Quant Kang
+  url: https://quantkang.github.io
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   GitHub: https://github.com/QuantKang
-  link: https://quantkang.github.io/
+  link: https://quantkang.github.io
   RSS: /feed.xml
   # Twitter: https://twitter.com/DavidDarnes
   # LinkedIn: https://www.linkedin.com/in/daviddarnes
