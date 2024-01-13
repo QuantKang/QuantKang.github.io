@@ -52,7 +52,7 @@ for ticker in tqdm(tickers):
   for w in window_l:
     df[f'MA {w}'] = df.Close.rolling(w).mean()
 
-  #plt.figure(figsize = (8, 6))
+  plt.figure(figsize = (8, 6))
   df = df[-_N_DAYS: ]
   df.Close.plot(label = name)
   for w in window_l:
