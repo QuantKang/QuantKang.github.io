@@ -17,14 +17,14 @@ def fstr(template):
 _BASE_PATH = '../'
 _MD_TMPL = '''
 ---
-title: {name}({ticker}) 주가 정보
+title: {name} ({ticker}) 주가 정보
 categories:
 - Stock
 ---
 
 {name}는 시가({open_price}원), 고가({high_price}원), 저가({low_price}원), 종가({close_price}원)였습니다.
 
-전일 종가 대비 {(pct_change * 100):.1f}% {pct_change_label}했습니다.
+전일 종가 대비 {(pct_change * 100):.2f}% {pct_change_label}했습니다.
 
 <!-- more -->
 
