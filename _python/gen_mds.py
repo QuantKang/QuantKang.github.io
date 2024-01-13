@@ -32,6 +32,6 @@ for ticker in tickers:
   name = stock_df[stock_df.Code == ticker].Name.iloc[0]
   df = fdr.DataReader(ticker)
   open_price, high_price, low_price, close_price = df[['Open', 'High', 'Low', 'Close']].iloc[-1]
-  _FILE_PATH = f'{_BASE_PATH}/{ticker}.md'
+  _FILE_PATH = f'{_BASE_PATH}/2024-01-01-{ticker}.md'
   with open(_FILE_PATH, 'w') as f:
     f.write(fstr(_MD_TMPL))
