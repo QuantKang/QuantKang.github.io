@@ -28,7 +28,7 @@ categories:
 
 <!-- more -->
 
-![{ticker}](/assets/stock_images/{ticker}.png)
+![{ticker}](/assets/images/stock/{ticker}.png)
 
 '''
 _MD_TMPL = _MD_TMPL.replace('\n', '{_NEW_LINE}')
@@ -47,8 +47,8 @@ for ticker in tqdm(tickers):
   open_price, high_price, low_price, close_price = df[['Open', 'High', 'Low', 'Close']].iloc[-1]
   pct_change = df.Close.iloc[-1] / df.Close.iloc[-2] - 1
   pct_change_label = '상승' if pct_change > 0 else '하락'
-  _FILE_PATH = f'{_BASE_PATH}/_posts/{last_date}-{ticker}.md'
-  _IMG_PATH = f'{_BASE_PATH}/assets/stock_images/{ticker}.png'
+  _FILE_PATH = f'{_BASE_PATH}/_posts/stock/{last_date}-{ticker}.md'
+  _IMG_PATH = f'{_BASE_PATH}/assets/images/stock/{ticker}.png'
   with open(_FILE_PATH, 'w') as f:
     f.write(fstr(_MD_TMPL))
 
