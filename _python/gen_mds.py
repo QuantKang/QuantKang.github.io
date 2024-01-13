@@ -22,7 +22,8 @@ categories:
 - Stock
 ---
 
-{name}는 시가({open_price}원), 고가({high_price}), 저가({low_price}), 종가({close_price})였습니다.
+{name}는 시가({open_price}원), 고가({high_price}원), 저가({low_price}원), 종가({close_price}원)였습니다.
+전일 종가 대비 {(pct_change * 100):.1f}% {pct_change_label}했습니다.
 
 <!-- more -->
 
@@ -39,6 +40,8 @@ for ticker in tqdm(tickers):
   name = stock_df[stock_df.Code == ticker].Name.iloc[0]
   df = fdr.DataReader(ticker)
   open_price, high_price, low_price, close_price = df[['Open', 'High', 'Low', 'Close']].iloc[-1]
+  pct_change = df.Close[-1] / df.Close[-2] - 1
+  pct_change_label = '상승' if pct_change > 0 else '하락'
   _FILE_PATH = f'{_BASE_PATH}/_posts/2024-01-01-{ticker}.md'
   _IMG_PATH = f'{_BASE_PATH}/assets/stock_images/{ticker}.png'
   with open(_FILE_PATH, 'w') as f:
