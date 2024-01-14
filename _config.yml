@@ -139,8 +139,7 @@ navigation_header:
 #  url: /blog/
 
 navigation_footer:
-#- title: 퀀트강 제작
-- title:
+- title: 퀀트강 제작
   url: https://quantkang.github.io
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
