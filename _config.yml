@@ -127,16 +127,16 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: 메인
   url: /
-- title: 주식 정보
-  url: /blog/
 - title: 카테고리
   url: /categories/
 - title: 검색
   url: /search/
-    # - title: Elements
-    #  url: /elements/
-    #- title: Fork Alembic
-    #url: https://github.com/daviddarnes/alembic
+#- title: Elements
+#  url: /elements/
+#- title: Fork Alembic
+#  url: https://github.com/daviddarnes/alembic
+#- title: 주식 정보
+#  url: /blog/
 
 navigation_footer:
 - title: 퀀트강 제작
