@@ -11,7 +11,5 @@ excerpt: "퀀트강의 슬기로운 주식 정보는 주식 시세와 재무 데
 - 종목의 이동평균선이 포함된 주가 그래프
 - 유사한 주가 변화를 보였던 타 종목 제시
 
-[삼성전자](/005930/)
-![삼성전자](assets/images/stock/005930_sim.png)
-[KB금융](/105560/)
-![KB금융](assets/images/stock/105560_sim.png)
+[![삼성전자](assets/images/stock/005930_sim.png)](/005930/)
+[![KB금융](assets/images/stock/105560_sim.png)](/105560/)
