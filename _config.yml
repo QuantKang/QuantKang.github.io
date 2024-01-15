@@ -105,6 +105,7 @@ baseurl: ""
 #repo: "https://github.com/daviddarnes/alembic"
 #email: "me@daviddarnes.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
+date_format: "%Y-%m-%d" # Blog post date formatting using placeholder formatting
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 google_analytics: "G-WXLKNYCMNQ"
 google_analytics_anonymize_ip: false
