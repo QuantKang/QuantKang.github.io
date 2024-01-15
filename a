@@ -1,0 +1,6 @@
+grep: assets: Is a directory
+grep: blog: Is a directory
+grep: _includes: Is a directory
+grep: _layouts: Is a directory
+grep: _posts: Is a directory
+grep: _sass: Is a directory
