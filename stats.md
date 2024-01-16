@@ -13,6 +13,8 @@ aside: false
 | :-----------: | :---------------: |
 | ![시장별 상장사 비율](/assets/images/stats/krx_market_count.png) | ![시장별 상장사 비중](/assets/images/stats/krx_market_marcap.png) |
 
+<br>
+
 > **지역**<a id="region"></a>
 
 | **갯수 기준** | **시가총액 기준** |
