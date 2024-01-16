@@ -7,9 +7,10 @@ excerpt: "퀀트강의 슬기로운 주식 정보는 주식 시세와 재무 데
 ---
 
 > ##### 코스닥 200 및 코스피 150 지수 편입 종목 대상으로 분석
-<br>
 
+<br>
 > ##### 최근 1주일 DART 신규 공시 목록 (공시 링크 포함)
+
 <br>
 {% include_relative _posts/stock/sample_dart.md %}
 
