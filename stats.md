@@ -1,7 +1,7 @@
 ---
 title: 여러가지 통계
 feature_text: |
-  흥미로운 여러가지 주식 관련 통계를 제공합니다.
+  흥미로운 주식 관련 통계를 제공합니다.
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "흥미로운 주식 관련 통계 정보"
 aside: false
