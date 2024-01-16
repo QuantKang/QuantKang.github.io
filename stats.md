@@ -43,7 +43,7 @@ aside: false
 
 | **갯수 기준** | **시가총액 기준** |
 | :-----------: | :---------------: |
-| KRX | |
+| KRX ||
 | ![KRX 결산월별 상장사 비율](/assets/images/stats/krx_settlemonth_count.png) | ![KRX 결산월별 상장사 비중](/assets/images/stats/krx_settlemonth_marcap.png) |
 | KOSPI | |
 | ![KOSPI 결산월별 상장사 비율](/assets/images/stats/kospi_settlemonth_count.png) | ![KOSPI 결산월빌 상장사 비중](/assets/images/stats/kospi_settlemonth_marcap.png) |
