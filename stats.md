@@ -16,31 +16,33 @@ aside: false
 > **지역**
 
 | 갯수 기준 | 시가총액 기준 |
-|:---------:|:-------------:|
+| :-------: | :-----------: |
 | KRX | |
 | ![KRX 지역별 상장사 비율](/assets/images/stats/krx_region_count.png) | ![KRX 지역별 상장사 비중](/assets/images/stats/krx_region_marcap.png) |
 | KOSPI | |
 | ![KOSPI 지역별 상장사 비율](/assets/images/stats/kospi_region_count.png) | ![KOSPI 지역별 상장사 비중](/assets/images/stats/kospi_region_marcap.png) |
 | KOSDAQ | |
 | ![KOSDAQ 지역별 상장사 비율](/assets/images/stats/kosdaq_region_count.png) | ![KOSDAQ 지역별 상장사 비중](/assets/images/stats/kosdaq_region_marcap.png) |
+
 <br>
 
 > **업종**
 
 | 갯수 기준 | 시가총액 기준 |
-|:---------:|:-------------:|
+| :-------: | :-----------: |
 | KRX | |
 | ![KRX 업종별 상장사 비율](/assets/images/stats/krx_sector_count.png) | ![KRX 업종별 상장사 비중](/assets/images/stats/krx_sector_marcap.png) |
 | KOSPI | |
 | ![KOSPI 업종별 상장사 비율](/assets/images/stats/kospi_sector_count.png) | ![KOSPI 업종별 상장사 비중](/assets/images/stats/kospi_sector_marcap.png) |
 | KOSDAQ | |
 | ![KOSDAQ 업종별 상장사 비율](/assets/images/stats/kosdaq_sector_count.png) | ![KOSDAQ 업종별 상장사 비중](/assets/images/stats/kosdaq_sector_marcap.png) |
+
 <br>
 
 > **결산 월**
 
 | 갯수 기준 | 시가총액 기준 |
-|:---------:|:-------------:|
+| :-------: | :-----------: |
 | KRX | |
 | ![KRX 결산월별 상장사 비율](/assets/images/stats/krx_settlemonth_count.png) | ![KRX 결산월별 상장사 비중](/assets/images/stats/krx_settlemonth_marcap.png) |
 | KOSPI | |
