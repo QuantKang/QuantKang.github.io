@@ -52,11 +52,11 @@ social: # jekyll-seo-tag > social overrides
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
   # extensions: ["strikethrough", "autolink", "table"]
-markdown: kramdown
+# markdown: kramdown
 kramdown:
-  input: GFM
-  gfm_quirks: [paragraph_end]
   footnote_backlink: ''
+  # input: GFM
+  # gfm_quirks: [paragraph_end]
 
 # 4. Jekyll settings
 sass:
