@@ -66,10 +66,20 @@ collections:
   posts:
     title: 주식 정보 # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: "개별 주식에 대한 정보" # The post list page content
     feature_text: |
       주식 정보 페이지에 오신 것을 환영합니다.
     feature_image: "https://picsum.photos/2560/600?image=866"
+
+  posts:
+    title: 통계 정보 # Needed for Siteleaf
+    output: true
+    description: "투자 관련 통계 정보" # The post list page content
+    feature_text: |
+      통계 정보 정보 페이지에 오신 것을 환영합니다.
+    feature_image: "https://picsum.photos/2560/600?image=866"
+    permalink: /nstats/:title/ # Permalink style (/YYYY/MM/DD/page-name/)
+
 
 # 6. Jekyll collections settings
 defaults:
