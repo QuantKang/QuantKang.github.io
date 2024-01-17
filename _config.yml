@@ -56,7 +56,6 @@ social: # jekyll-seo-tag > social overrides
 kramdown:
   gfm_quirks: [paragraph_end]
   footnote_backlink: ''
-  parse_block_html: true
 
 # 4. Jekyll settings
 sass:
