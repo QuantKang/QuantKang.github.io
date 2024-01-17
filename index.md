@@ -18,7 +18,7 @@ excerpt: "퀀트강의 슬기로운 주식 정보는 주식 시세와 재무 데
 {% include_relative _posts/stock/sample_dart.md %}
 
 <br>
-> <H5>**투자에 도움이 되는 다양한 통계 제공</h5>
+> <h5>**투자에 도움이 되는 다양한 통계 제공</h5>
 
 | **KRX 시장 비중** | **KOSPI 지역별 비율** |
 | :---: | :---: |
