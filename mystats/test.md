@@ -1,12 +1,13 @@
 ---
-title: 여러가지 통계
+title: 여러가지 통계 2
 feature_text: |
-  흥미로운 주식 관련 통계를 제공합니다.
+  TEST 흥미로운 주식 관련 통계를 제공합니다.
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "흥미로운 주식 관련 통계 정보"
 aside: false
 ---
 
+두번째
 > **시장**<a id="market"></a>
 
 | **갯수 기준** | **시가총액 기준** |
