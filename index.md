@@ -9,7 +9,6 @@ excerpt: "퀀트강의 슬기로운 주식 정보는 주식 시세와 재무 데
 > **다양한 종목과 데이터를 주기적으로 분석**
 
 매일 장마감 후 당일 업데이트 합니다.<small>[^fn_update]</small>
-
 - 코스피 200 지수 편입 종목
 - 코스닥 150 지수 편입 종목
 
@@ -24,6 +23,7 @@ excerpt: "퀀트강의 슬기로운 주식 정보는 주식 시세와 재무 데
 | :---: | :---: |
 | [![KRX 시장 비중](/assets/images/stats/krx_market_marcap.png)](/stats/#market) | [![KOSPI 지역별 비율](/assets/images/stats/kospi_region_count.png)](/stats/#region) |
 
+<br>
 > **이동평균선이 포함된 주가 그래프 제공**
 
 | **[삼성전자](/005930/#price)** | **[에코프로비엠](/247540/#price)** |
