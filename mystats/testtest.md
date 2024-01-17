@@ -7,7 +7,7 @@ excerpt: "흥미로운 주식 관련 통계 정보"
 aside: false
 ---
 
-[시장별 상장사 비율](/mystats/testtest.png)
+![시장별 상장사 비율](/mystats/testtest.png)
 
 두번째
 > **시장**<a id="market"></a>
