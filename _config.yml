@@ -52,9 +52,6 @@ social: # jekyll-seo-tag > social overrides
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
   # extensions: ["strikethrough", "autolink", "table"]
-commonmark:
-  options: ["SMART", "FOOTNOTES"]
-  extensions: ["strikethrough", "autolink", "table"]
 
 # 4. Jekyll settings
 sass:
