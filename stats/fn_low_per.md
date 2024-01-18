@@ -1,14 +1,14 @@
 ---
-title: 고배당 상위 10% 종목
+title: 저PER 상위 10% 종목
 feature_text: |
-  꾸준히 배당이 지급되는 고배당주는 흔들림 없는 장기 투자에 도움이 됩니다.
+  저PER 종목은 기업이 벌어 들이는 수익에 비해 주가가 저평가되어 있을 수 있습니다. 하지만 기업의 미래가 불투명하여 낮은 주가가 형성되어 저PER로 보이는 경우도 있을 수 있습니다.
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "배당률이 높은 상위 10% 종목을 소개합니다"
+excerpt: "PER이 낮은 상위 10% 종목을 소개합니다"
 ---
 
-> **고배당 상위 10% 종목**<small>[^fn_finance_metric]</small>
+> **저PER 상위 10% 종목**<small>[^fn_finance_metric]</small>
 
-{% include_relative fn_high_div_inc.md %}
+{% include_relative fn_low_per_inc.md %}
 
 ---
 

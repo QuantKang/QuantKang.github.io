@@ -13,7 +13,7 @@ aside: false
 - [저PBR 상위 10% 종목](fn_low_pbr/)
 - [고배당 상위 10% 종목](fn_high_div/)
 - [고PER 상위 10% 종목](fn_high_per/)
-- [고PBR 상위 10% 종목](fn(high_pbr/)
+- [고PBR 상위 10% 종목](fn_high_pbr/)
 
 <br>
 

@@ -1,14 +1,14 @@
 ---
-title: 고배당 상위 10% 종목
+title: 저PBR 상위 10% 종목
 feature_text: |
-  꾸준히 배당이 지급되는 고배당주는 흔들림 없는 장기 투자에 도움이 됩니다.
+  청산 가치에 비해 주가가 낮게 형성된 자산주입니다. 경우에 따라서는 기업의 미래가 불투명하여 낮은 PBR을 보일 수도 있습니다.
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "배당률이 높은 상위 10% 종목을 소개합니다"
+excerpt: "PBR이 낮은 상위 10% 종목을 소개합니다"
 ---
 
-> **고배당 상위 10% 종목**<small>[^fn_finance_metric]</small>
+> **저PBR 상위 10% 종목**<small>[^fn_finance_metric]</small>
 
-{% include_relative fn_high_div_inc.md %}
+{% include_relative fn_low_pbr_inc.md %}
 
 ---
 
