@@ -13,7 +13,7 @@ excerpt: "퀀트강의 슬기로운 주식 정보는 주식 시세와 재무 데
 - 코스닥 150 지수 편입 종목
 
 <br>
-> **DART 신규 공시 목록 제공 (공시 링크 포함)**
+> **DART 신규 공시 목록 제공 (공시 링크 포함)**<small>[^fn_dart]</small>
 
 {% include_relative _posts/stock/sample_dart.md %}
 
@@ -50,5 +50,6 @@ excerpt: "퀀트강의 슬기로운 주식 정보는 주식 시세와 재무 데
 | [![LG에너지솔루션](assets/images/stock/373220_2x.png)](/373220/#2x) | [![엘앤에프](assets/images/stock/066970_2x.png)](/066970/#2x) |
 
 ---
+[^fn_dart]: <small>증권 업종에서 빈번한 투자 상품 (예: 신규 ETF) 설정과 관련한 공시는 제외하였습니다.</small>
 [^fn_update]: <small>장 마감 후 두어시간 이내 업데이트를 목표로 하지만, 상황에 따라서는 지연될 수 있습니다.</small>
 [^fn_corr]: <small>미래에도 유사한 주가 흐름을 보일 것이라는 예상이 아닙니다.</small>
