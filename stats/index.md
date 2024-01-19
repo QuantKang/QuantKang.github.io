@@ -17,6 +17,12 @@ aside: false
 
 <br>
 
+> **업종별 상장사 비중 및 목록**<a id="sector_detailed"></a>
+
+{% include_relative sector/sector_inc.md %}
+
+<br>
+
 > **시장**<a id="market"></a>
 
 | **갯수 기준** | **시가총액 기준** |
