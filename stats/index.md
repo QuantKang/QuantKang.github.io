@@ -17,7 +17,7 @@ aside: false
 
 <br>
 
-> **업종별 비중**<a id="sector_weights"></a>
+> **<big>업종별 비중</big>**<a id="sector_weights"></a>
 
 | **KOSPI** | **KOSDAQ** |
 | :-------: | :--------: |
