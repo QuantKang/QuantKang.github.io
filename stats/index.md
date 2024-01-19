@@ -7,7 +7,7 @@ excerpt: "흥미로운 주식 관련 기초 통계 정보"
 aside: false
 ---
 
-> **재무 데이터 기반 상위 종목**
+> **재무 데이터 기반 상위 종목**<small>[^fn_finance_metric]</small>
 
 - [저PER 상위 10% 종목](/fn/fn_low_per/)
 - [저PBR 상위 10% 종목](/fn/fn_low_pbr/)
@@ -61,3 +61,6 @@ aside: false
 | ![KOSPI 결산월별 상장사 비율](/assets/images/stats/kospi_settlemonth_count.png) | ![KOSPI 결산월빌 상장사 비중](/assets/images/stats/kospi_settlemonth_marcap.png) |
 | KOSDAQ ||
 | ![KOSDAQ 결산월별 상장사 비율](/assets/images/stats/kosdaq_settlemonth_count.png) | ![KOSDAQ 결산월별 상장사 비중](/assets/images/stats/kosdaq_settlemonth_marcap.png) |
+
+---
+{% include_ /assets/commons/footnotes.md %}
