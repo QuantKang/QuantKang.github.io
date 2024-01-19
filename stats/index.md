@@ -17,9 +17,19 @@ aside: false
 
 <br>
 
-> **업종별 상장사 비중 및 목록**<a id="sector_detailed"></a>
+> **업종별 비중**<a id="sector_weights"></a>
 
-{% include_relative sector/sector_inc.md %}
+| **KOSPI** | **KOSDAQ** |
+| :-------: | :--------: |
+| ![KOSPI 업종별 비중](sector/images/kospi_all_all_업종.png) | ![KOSDAQ 업종별 비중]((sector/images/kosdaq_all_all_업종.png) |
+
+<br>
+
+> **종목별 비중**<a id="stock_weights"></a>
+
+| **KOSPI** | **KOSDAQ** |
+| :-------: | :--------: |
+| ![KOSPI 종목별 비중](sector/images/kospi_all_all_종목.png) | ![KOSDAQ 종목별 비중]((sector/images/kosdaq_all_all_종목.png) |
 
 <br>
 
