@@ -9,6 +9,6 @@ aside: false
 
 > **전체**<a id="all"></a>
 
-![업종별 시가총액 비중](images/krx_all_all_업종명.png)
+![업종별 시가총액 비중](images/krx_all_all_업종.png)
 
-![종목별 시가총액 비중](images/krx_all_all_종목명.png)
+![종목별 시가총액 비중](images/krx_all_all_종목.png)
