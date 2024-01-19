@@ -49,7 +49,7 @@ aside: false
 | ![KRX 지역별 상장사 비율](/assets/images/stats/krx_region_count.png) | ![KRX 지역별 상장사 비중](/assets/images/stats/krx_region_marcap.png) |
 | KOSPI<small><sup>저</sup></small> ||
 | ![KOSPI 지역별 상장사 비율](/assets/images/stats/kospi_region_count.png) | ![KOSPI 지역별 상장사 비중](/assets/images/stats/kospi_region_marcap.png) |
-| KOSDAQ ||
+| KOSDAQ<sup><small>고</small></sup> ||
 | ![KOSDAQ 지역별 상장사 비율](/assets/images/stats/kosdaq_region_count.png) | ![KOSDAQ 지역별 상장사 비중](/assets/images/stats/kosdaq_region_marcap.png) |
 
 <br>
