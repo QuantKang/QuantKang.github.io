@@ -1,4 +1,4 @@
-[^fn_update]: <small>장마감 후 당일 업데이트 합니다. 장 마감 후 두어시간 이내 업데이트를 목표로 하지만, 상황에 따라서는 지연될 수 있습니다.</small>
+[^fn_update]: <small>장 마감 후 두어시간 이내 업데이트를 목표로 하지만, 상황에 따라서는 지연될 수 있습니다.</small>
 [^fn_corr]: <small>미래에도 유사한 주가 흐름을 보일 것이라는 예상이 아닙니다.</small>
 [^fn_price_metric]: <small>모든 지표는 최근 1년 데이터만을 이용하며 산출합니다. 표준편차는 일일 변동성으로 추정한 연단위 변동성입니다. 샤프(Sharpe)는 1년 수익률 / 연단위 표준편차입니다. MDD(Maximum Drawdown) 최대 낙폭(손실폭)입니다. DD(Drawdown)은 현재 낙폭입니다. AvDD(Average Drawdown)은 평균 낙폭입니다. MARr(Managed Account Reports Ratio)은 1년 수익률 / MDD입니다. Calmar Ratio라 불리기도 합니다.</small>
 [^fn_finance_metric]: <small>가장 최근에 제출된 연간 보고서 기준입니다. KRX(한국거래소)의 검토 후 개제되는 데이터에 기반하고 있습니다. 이로 인해 시장에서 추정하는 현재 재무 상태와 상당한 차이가 있을 수 있습니다. 각 기업의 결산 마감일 >기준으로 최대 1년 5개월까지 시차가 발생합니다.</small>
