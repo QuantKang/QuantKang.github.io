@@ -13,7 +13,7 @@ aside: false
 | :------- | :------- | :------- |
 | PER | [저PER 10%](/fn/fn_low_per/) | [고PER 10%](/fn/fn_high_per/) |
 | PBR | [저PBR 10%](/fn/fn_low_pbr/) | [고PBR 10%](/fn/fn_high_br/) |
-| 배당 | | [고배당 10%](/fn/fn_high_div/) |
+| 배당 | - | [고배당 10%](/fn/fn_high_div/) |
 
 <br>
 
@@ -21,7 +21,7 @@ aside: false
 
 | **KOSPI** | **KOSDAQ** |
 | :-------: | :--------: |
-| [![KOSPI 업종별 비중](sector/images/kospi_all_all_업종.png)](sector/images/kospi_all_all_업종/) | [![KOSDAQ 업종별 비중](sector/images/kosdaq_all_all_업종.png)](sector/images/kosdaq_all_all_업종/) |
+| [![KOSPI 업종별 비중](sector/images/kospi_all_all_업종.png)](sector/kospi_all_all_업종/) | [![KOSDAQ 업종별 비중](sector/images/kosdaq_all_all_업종.png)](sector/kosdaq_all_all_업종/) |
 
 <br>
 
@@ -29,7 +29,7 @@ aside: false
 
 | **KOSPI** | **KOSDAQ** |
 | :-------: | :--------: |
-| [![KOSPI 종목별 비중](sector/images/kospi_all_all_종목.png)](sector/images/kospi_all_all_종목/) | [![KOSDAQ 종목별 비중](sector/images/kosdaq_all_all_종목.png)](sector/images/kosdaq_all_all_종목/) |
+| [![KOSPI 종목별 비중](sector/images/kospi_all_all_종목.png)](sector/kospi_all_all_종목/) | [![KOSDAQ 종목별 비중](sector/images/kosdaq_all_all_종목.png)](sector/kosdaq_all_all_종목/) |
 
 <br>
 
@@ -45,9 +45,9 @@ aside: false
 
 | **종목수 기준** | **시가총액 기준** |
 | :-------------: | :---------------: |
-| KRX ||
+| KRX<sup>고</sup> ||
 | ![KRX 지역별 상장사 비율](/assets/images/stats/krx_region_count.png) | ![KRX 지역별 상장사 비중](/assets/images/stats/krx_region_marcap.png) |
-| KOSPI ||
+| KOSPI<small><sup>저</sup></small> ||
 | ![KOSPI 지역별 상장사 비율](/assets/images/stats/kospi_region_count.png) | ![KOSPI 지역별 상장사 비중](/assets/images/stats/kospi_region_marcap.png) |
 | KOSDAQ ||
 | ![KOSDAQ 지역별 상장사 비율](/assets/images/stats/kosdaq_region_count.png) | ![KOSDAQ 지역별 상장사 비중](/assets/images/stats/kosdaq_region_marcap.png) |
