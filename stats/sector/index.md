@@ -7,8 +7,7 @@ excerpt: "국내 주식 시장 업종별 통계 제공"
 aside: false
 ---
 
-> **전체**<a id="all"></a>
+{% include_relative _sector_inc.md %}
 
-![업종별 시가총액 비중](images/krx_all_all_업종.png)
-
-![종목별 시가총액 비중](images/krx_all_all_종목.png)
+---
+{% include commons/footnotes.md %}
