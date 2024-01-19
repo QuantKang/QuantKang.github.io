@@ -12,7 +12,7 @@ aside: false
 | **지표** | **조건** | **조건** |
 | :------- | :------- | :------- |
 | PER | [저PER 10%](/fn/fn_low_per/) | [고PER 10%](/fn/fn_high_per/) |
-| PBR | [저PBR 10%](/fn/fn_low_pbr/) | [고PBR 10%](/fn/fn_high_br/) |
+| PBR | [저PBR 10%](/fn/fn_low_pbr/) | [고PBR 10%](/fn/fn_high_pbr/) |
 | 배당 | - | [고배당 10%](/fn/fn_high_div/) |
 
 <br>
