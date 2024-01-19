@@ -1,0 +1,10 @@
+---
+title: KOSPI 기타금융 업종 종목별 시가총액 비중
+---
+<br>
+> **KOSPI 기타금융 업종 종목별 시가총액 비중<a id="pie"></a>**
+
+![294090](images/kospi_업종_기타금융_종목.png)
+
+---
+{% include commons/footnotes.md %}
