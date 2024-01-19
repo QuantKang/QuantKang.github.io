@@ -63,4 +63,4 @@ aside: false
 | ![KOSDAQ 결산월별 상장사 비율](/assets/images/stats/kosdaq_settlemonth_count.png) | ![KOSDAQ 결산월별 상장사 비중](/assets/images/stats/kosdaq_settlemonth_marcap.png) |
 
 ---
-{% include /assets/commons/footnotes.md %}
+{% include commons/footnotes.md %}
