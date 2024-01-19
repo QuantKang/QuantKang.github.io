@@ -7,13 +7,13 @@ excerpt: "흥미로운 주식 관련 기초 통계 정보"
 aside: false
 ---
 
-> **재무 데이터 기반 상위 종목**<small>[^fn_finance_metric]</small>
+> **재무 데이터 기반 지표**<small>[^fn_finance_metric]</small>
 
 | **지표** | **조건** | **조건** |
 | :------- | :------- | :------- |
-| PER | [저PER 10%](/fn/fn_low_per/) | [고PER 10%](/fn/high_per/) |
-| PBR | [저PBR 10%](/fn/fn/low_per/) | [고PBR 10%](/fn/high_br/) |
-| 배당 | | [고배당 10%](/fn/high_div/) |
+| PER | [저PER 10%](/fn/fn_low_per/) | [고PER 10%](/fn/fn_high_per/) |
+| PBR | [저PBR 10%](/fn/fn_low_pbr/) | [고PBR 10%](/fn/fn_high_br/) |
+| 배당 | | [고배당 10%](/fn/fn_high_div/) |
 
 <br>
 
@@ -35,16 +35,16 @@ aside: false
 
 > **시장**<a id="market"></a>
 
-| **갯수 기준** | **시가총액 기준** |
-| :-----------: | :---------------: |
+| **종목수 기준** | **시가총액 기준** |
+| :-------------: | :---------------: |
 | ![시장별 상장사 비율](/assets/images/stats/krx_market_count.png) | ![시장별 상장사 비중](/assets/images/stats/krx_market_marcap.png) |
 
 <br>
 
 > **지역**<a id="region"></a>
 
-| **갯수 기준** | **시가총액 기준** |
-| :-----------: | :---------------: |
+| **종목수 기준** | **시가총액 기준** |
+| :-------------: | :---------------: |
 | KRX ||
 | ![KRX 지역별 상장사 비율](/assets/images/stats/krx_region_count.png) | ![KRX 지역별 상장사 비중](/assets/images/stats/krx_region_marcap.png) |
 | KOSPI ||
@@ -71,8 +71,8 @@ aside: false
 
 > **결산 월**<a id="settlemonth"></a>
 
-| **갯수 기준** | **시가총액 기준** |
-| :-----------: | :---------------: |
+| **종목수 기준** | **시가총액 기준** |
+| :-------------: | :---------------: |
 | KRX ||
 | ![KRX 결산월별 상장사 비율](/assets/images/stats/krx_settlemonth_count.png) | ![KRX 결산월별 상장사 비중](/assets/images/stats/krx_settlemonth_marcap.png) |
 | KOSPI ||
