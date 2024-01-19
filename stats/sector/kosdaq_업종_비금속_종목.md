@@ -8,7 +8,7 @@ title: KOSDAQ 비금속 업종 종목별 시가총액 비중
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| 원익QnC | 15.4 | 2.2 | 0.5<small>%</small> | 37.7<small>%</small> |
+| [원익QnC](/074600/) | 15.4 | 2.2 | 0.5<small>%</small> | 37.7<small>%</small> |
 | 삼표시멘트 | 10.6 | 0.5 | 3.0<small>%</small> | 14.7<small>%</small> |
 | 유진기업 | 8.2 | 0.3 | 5.1<small>%</small> | 11.8<small>%</small> |
 | 보광산업 | 15.5 | 2.1 | 2.9<small>%</small> | 8.5<small>%</small> |
