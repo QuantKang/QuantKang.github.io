@@ -7,7 +7,7 @@ excerpt: "국내 주식 시장 업종별 통계 제공"
 aside: false
 ---
 
-{% include_relative _sector_inc.md %}
+{% include_relative sector_inc.md %}
 
 ---
 {% include commons/footnotes.md %}
