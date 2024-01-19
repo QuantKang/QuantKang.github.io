@@ -50,5 +50,4 @@ excerpt: "퀀트강의 슬기로운 주식 정보는 주식 시세와 재무 데
 | [![LG에너지솔루션](assets/images/stock/373220_2x.png)](/373220/#2x) | [![엘앤에프](assets/images/stock/066970_2x.png)](/066970/#2x) |
 
 ---
-[^fn_update]: <small>장 마감 후 두어시간 이내 업데이트를 목표로 하지만, 상황에 따라서는 지연될 수 있습니다.</small>
-[^fn_corr]: <small>미래에도 유사한 주가 흐름을 보일 것이라는 예상이 아닙니다.</small>
+{% include_relative assets/commons/footnotes.md %}

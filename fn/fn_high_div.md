@@ -8,7 +8,7 @@ excerpt: "배당률이 높은 상위 10% 종목을 소개합니다"
 
 > **고배당 상위 10% 종목**<small>[^fn_finance_metric]</small>
 
-{% include_relative _include/fn_high_div_inc.md %}
+{% include_relative _includes/fn_high_div_inc.md %}
 
 ---
 

@@ -1,19 +1,19 @@
 ---
-title: 여러가지 통계
+title: 기초 통계
 feature_text: |
   흥미로운 주식 관련 통계를 제공합니다.
 feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "흥미로운 주식 관련 통계 정보"
+excerpt: "흥미로운 주식 관련 기초 통계 정보"
 aside: false
 ---
 
 > **재무 데이터 기반 상위 종목**
 
-- [저PER 상위 10% 종목](fn_low_per/)
-- [저PBR 상위 10% 종목](fn_low_pbr/)
-- [고배당 상위 10% 종목](fn_high_div/)
-- [고PER 상위 10% 종목](fn_high_per/)
-- [고PBR 상위 10% 종목](fn_high_pbr/)
+- [저PER 상위 10% 종목](/fn/fn_low_per/)
+- [저PBR 상위 10% 종목](/fn/fn_low_pbr/)
+- [고배당 상위 10% 종목](/fn/fn_high_div/)
+- [고PER 상위 10% 종목](/fn/fn_high_per/)
+- [고PBR 상위 10% 종목](/fn/fn_high_pbr/)
 
 <br>
 

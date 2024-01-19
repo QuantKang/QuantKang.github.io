@@ -8,7 +8,7 @@ excerpt: "PBR이 낮은 상위 10% 종목을 소개합니다"
 
 > **저PBR 상위 10% 종목**<small>[^fn_finance_metric]</small>
 
-{% include_relative _include/fn_low_pbr_inc.md %}
+{% include_relative _includes/fn_low_pbr_inc.md %}
 
 ---
 
