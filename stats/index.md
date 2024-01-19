@@ -45,11 +45,11 @@ aside: false
 
 | **종목수 기준** | **시가총액 기준** |
 | :-------------: | :---------------: |
-| KRX<sup>고</sup> ||
+| KRX ||
 | ![KRX 지역별 상장사 비율](/assets/images/stats/krx_region_count.png) | ![KRX 지역별 상장사 비중](/assets/images/stats/krx_region_marcap.png) |
-| KOSPI<small><sup>저</sup></small> ||
+| KOSPI ||
 | ![KOSPI 지역별 상장사 비율](/assets/images/stats/kospi_region_count.png) | ![KOSPI 지역별 상장사 비중](/assets/images/stats/kospi_region_marcap.png) |
-| KOSDAQ<sup><small>고</small></sup> ||
+| KOSDAQ ||
 | ![KOSDAQ 지역별 상장사 비율](/assets/images/stats/kosdaq_region_count.png) | ![KOSDAQ 지역별 상장사 비중](/assets/images/stats/kosdaq_region_marcap.png) |
 
 <br>

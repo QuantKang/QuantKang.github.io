@@ -20,11 +20,13 @@ excerpt: "퀀트강의 슬기로운 주식 정보는 주식 시세와 재무 데
 {% include_relative _posts/stock/sample_dart.md %}
 
 <br>
-> **투자에 도움이 되는 다양한 통계 제공**
+> **투자에 도움이 되는 [다양한 통계](/stats/) 제공**
 
-| **KRX 시장 비중** | **KOSPI 지역별 비율** |
+| **KOSPI 업종 비중** | **KOSDAQ 종목 비중** |
 | :---: | :---: |
-| [![KRX 시장 비중](/assets/images/stats/krx_market_marcap.png)](/stats/#market) | [![KOSPI 지역별 비율](/assets/images/stats/kospi_region_count.png)](/stats/#region) |
+| [![KOSPI 업종 비중](/stats/sector/images/kospi_all_all_업종.png)](/stats/sector/kospi_all_all_업종/) | [![KOSDAQ 종목 비중](/stats/sector/images/kosdaq_all_all_종목.png)](/stats/sector/kosdaq_all_all_종목/) |
+| **KOSPI 전기전자 업종** | **KOSDAQ 디지털컨텐츠 업종** |
+| [![KOSPI 전기전자 업종](/stats/sector/images/kospi_업종_전기전자_종목.png)](/stats/sector/kospi_업종_전기전자_종목/) | [![KOSDAQ 디지털컨텐츠 업종](/stats/sector/images/kosdaq_업종_디지털컨텐츠_종목.png)](/stats/sector/kosdaq_업종_디지털컨텐츠_종목/) |
 
 <br>
 > **이동평균선이 포함된 주가 그래프 제공**
