@@ -8,9 +8,9 @@ title: KOSPI 농업임업및어업 업종 종목별 시가총액 비중
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| 사조산업 | 2.9 | 0.4 | 0.9% | 55.1% |
-| 신라교역 | 9.3 | 0.2 | 6.0% | 36.1% |
-| 동원수산 | 5.3 | 0.5 | 3.5% | 8.9% |
+| 사조산업 | 2.9<small></small> | 0.4<small></small> | 0.9<small>%</small> | 55.1<small>%</small> |
+| 신라교역 | 9.3<small></small> | 0.2<small></small> | 6.0<small>%</small> | 36.1<small>%</small> |
+| 동원수산 | 5.3<small></small> | 0.5<small></small> | 3.5<small>%</small> | 8.9<small>%</small> |
 
 ---
 {% include commons/footnotes.md %}
