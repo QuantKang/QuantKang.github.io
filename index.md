@@ -1,8 +1,8 @@
 ---
 title: 퀀트강의 슬기로운 주식 정보
 feature_text: |
-  주식 시세와 재무 데이터를 통계적으로 분석하여 퀀트 투자에 도움이 될 수 있는 정보를 제공합니다.
-feature_image: "https://picsum.photos/1300/400?image=989"
+  주식 시세와 재무 데이터를 통계적으로 분석하여 <span style="color; white">퀀트 투자</span>에 도움이 될 수 있는 정보를 제공합니다.
+feature_image: "/assets/images/main.png"
 excerpt: "퀀트강의 슬기로운 주식 정보는 주식 시세와 재무 데이터를 통계적으로 분석하여 퀀트 투자에 도움이 될 수 있는 정보를 제공합니다."
 ---
 
