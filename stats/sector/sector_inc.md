@@ -2,6 +2,7 @@
 > **KOSPI**
 
 [전체 업종](kospi_all_all_업종/)
+
 ![KOSPI 전체 업종별 시가총액 비중](images/kospi_all_all_업종.png)
 
 [전체 종목](kospi_all_all_종목/)
@@ -108,6 +109,7 @@
 > **KOSDAQ**
 
 [전체 업종](kosdaq_all_all_업종/)
+
 ![KOSDAQ 전체 업종별 시가총액 비중](images/kosdaq_all_all_업종.png)
 
 [전체 종목](kosdaq_all_all_종목/)
