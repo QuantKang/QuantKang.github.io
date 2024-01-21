@@ -120,8 +120,4 @@ title: KOSDAQ 기타서비스 업종 종목별 시가총액 비중
 | 비엘 | - | 2.4 | - | 0.2<small>%</small> |
 | 에이디엠코리아 | 189.6 | 1.6 | - | 0.2<small>%</small> |
 | EDGC | - | 1.1 | - | 0.2<small>%</small> |
-| 에스엘에스바이오 | 12.6 | 5.3 | - | 0.1<small>%</small> |
-| 우정바이오 | - | 0.8 | - | 0.1<small>%</small> |
-
----
-{% include commons/footnotes.md %}
+| 에스엘에스바이오 | 12

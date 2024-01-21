@@ -81,7 +81,4 @@ title: KOSDAQ 일반전기전자 업종 종목별 시가총액 비중
 | 인터엠 | 25.2 | 0.8 | - | 0.1<small>%</small> |
 | 파인테크닉스 | 0.2 | 0.3 | - | 0.1<small>%</small> |
 | 피피아이 | 44.2 | 4.7 | - | 0.0<small>%</small> |
-| 위니아 | - | 0.8 | - | 0.0<small>%</small> |
-
----
-{% include commons/footnotes.md %}
+| 위

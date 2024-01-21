@@ -144,12 +144,4 @@ title: KOSDAQ 반도체 업종 종목별 시가총액 비중
 | 성우테크론 | 8.5 | 0.6 | 1.0<small>%</small> | 0.1<small>%</small> |
 | 앤씨앤 | - | 0.7 | - | 0.1<small>%</small> |
 | 엔시트론 | - | 1.0 | - | 0.1<small>%</small> |
-| 알파홀딩스 | - | 0.5 | - | 0.1<small>%</small> |
-| 이엘피 | - | 0.5 | 1.7<small>%</small> | 0.1<small>%</small> |
-| 더코디 | - | 0.5 | - | 0.1<small>%</small> |
-| 스킨앤스킨 | - | 0.9 | - | 0.0<small>%</small> |
-| 에스엘에너지 | - | 0.3 | - | 0.0<small>%</small> |
-| 엘디티 | 10.2 | 1.3 | - | 0.0<small>%</small> |
-
----
-{% include commons/footnotes.md %}
+| 알파홀딩스 | - | 0.5 | - |
