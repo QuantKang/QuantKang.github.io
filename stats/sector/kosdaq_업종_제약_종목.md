@@ -123,4 +123,10 @@ title: KOSDAQ 제약 업종 종목별 시가총액 비중
 | 그린생명과학 | - | 0.8 | - | 0.1<small>%</small> |
 | 서울제약 | 38.0 | 1.2 | - | 0.1<small>%</small> |
 | 한국유니온제약 | - | 0.7 | - | 0.1<small>%</small> |
-| 
+| 우진비앤지 | 42.8 | 1.0 | - | 0.1<small>%</small> |
+| 셀레믹스 | - | 1.9 | - | 0.1<small>%</small> |
+| 애드바이오텍 | 11.4 | 1.9 | - | 0.1<small>%</small> |
+| 올리패스 | - | 1.7 | - | 0.0<small>%</small> |
+
+---
+{% include commons/footnotes.md %}
