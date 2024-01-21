@@ -8,10 +8,10 @@ title: KOSPI 증권 업종 종목별 시가총액 비중
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| 미래에셋증권 | 6.3 | 0.3 | 3.1<small>%</small> | 20.2<small>%</small> |
-| NH투자증권 | 11.1 | 0.5 | 7.1<small>%</small> | 16.7<small>%</small> |
-| 삼성증권 | 7.5 | 0.5 | 4.8<small>%</small> | 16.3<small>%</small> |
-| 키움증권 | 5.1 | 0.5 | 3.3<small>%</small> | 12.4<small>%</small> |
+| [미래에셋증권](/006800/) | 6.3 | 0.3 | 3.1<small>%</small> | 20.2<small>%</small> |
+| [NH투자증권](/005940/) | 11.1 | 0.5 | 7.1<small>%</small> | 16.7<small>%</small> |
+| [삼성증권](/016360/) | 7.5 | 0.5 | 4.8<small>%</small> | 16.3<small>%</small> |
+| [키움증권](/039490/) | 5.1 | 0.5 | 3.3<small>%</small> | 12.4<small>%</small> |
 | 한화투자증권 | - | 0.5 | - | 3.9<small>%</small> |
 | 대신증권 | 8.0 | 0.3 | 8.6<small>%</small> | 3.7<small>%</small> |
 | 신영증권 | 5.0 | 0.3 | 6.8<small>%</small> | 2.9<small>%</small> |
