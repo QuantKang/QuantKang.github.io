@@ -1,4 +1,5 @@
 <br>
+
 > **KOSPI**<a id="KOSPI"></a>
 
 | [![KOSPI 전체 업종별 시가총액 비중](images/kospi_all_all_업종.png)](kospi_all_all_업종/) | [![KOSPI 전체 종목별 시가총액 비중](images/kospi_all_all_종목.png)](kospi_all_all_종목/) |
@@ -15,7 +16,9 @@
 | [![KOSPI 비금속광물 업종 종목별 시가총액 비중](images/kospi_업종_비금속광물_종목.png)](kospi_업종_비금속광물_종목/) | [![KOSPI 섬유의복 업종 종목별 시가총액 비중](images/kospi_업종_섬유의복_종목.png)](kospi_업종_섬유의복_종목/) |
 | [![KOSPI 의료정밀 업종 종목별 시가총액 비중](images/kospi_업종_의료정밀_종목.png)](kospi_업종_의료정밀_종목/) | [![KOSPI 종이목재 업종 종목별 시가총액 비중](images/kospi_업종_종이목재_종목.png)](kospi_업종_종이목재_종목/) |
 | [![KOSPI 농업임업및어업 업종 종목별 시가총액 비중](images/kospi_업종_농업임업및어업_종목.png)](kospi_업종_농업임업및어업_종목/) | [![KOSPI 광업 업종 종목별 시가총액 비중](images/kospi_업종_광업_종목.png)](kospi_업종_광업_종목/) |
+
 <br>
+
 > **KOSDAQ**<a id="KOSDAQ"></a>
 
 | [![KOSDAQ 전체 업종별 시가총액 비중](images/kosdaq_all_all_업종.png)](kosdaq_all_all_업종/) | [![KOSDAQ 전체 종목별 시가총액 비중](images/kosdaq_all_all_종목.png)](kosdaq_all_all_종목/) |
