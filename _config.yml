@@ -103,7 +103,8 @@ lang: ko-KR # Set the site language
 title: "퀀트강의 슬기로운 주식 정보" # Site name or title, also used in jekyll-seo-tag
 #logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
-description: "퀀트강의 술기로운 주식 정보 사이트는 퀀트 투자를 위한 다양하고 유익한 정보를 제공합니다." # Site description and default description, also used in jekyll-seo-tag
+#description: "퀀트강의 술기로운 주식 정보 사이트는 퀀트 투자를 위한 다양하고 유익한 정보를 제공합니다." # Site description and default description, also used in jekyll-seo-tag
+description: "퀀트 투자를 위한 다양하고 유익한 정보를 제공합니다." # Site description and default description, also used in jekyll-seo-tag
 url: "https://quantkang.github.io" # Site url, also used in jekyll-seo-tag
 #url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
