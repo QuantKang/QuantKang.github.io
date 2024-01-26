@@ -7,9 +7,9 @@
 | DIA | 1<small>배</small> | <span style="color: red">15.0<small>%</small></span> | - | - | - |
 | [DDM](/ddm/) | 2<small>배</small> | <span style="color: red">22.2<small>%</small></span> | 1.2<small>%</small> | 6.5<small>%</small> | 7.6<small>%</small> |
 | [UDOW](/udow/) | 3<small>배</small> | <span style="color: red">29.4<small>%</small></span> | 3.5<small>%</small> | 11.9<small>%</small> | 15.0<small>%</small> |
-| DOG | 1<small>배</small> | <span style="color: blue">-6.0<small>%</small></span> | - | - | - |
-| [DXD](/dxd/) | 2<small>배</small> | <span style="color: blue">-16.9<small>%</small></span> | 1.2<small>%</small> | 4.9<small>%</small> | 6.0<small>%</small> |
-| [SDOW](/sdow/) | 3<small>배</small> | <span style="color: blue">-26.3<small>%</small></span> | 3.5<small>%</small> | 8.1<small>%</small> | 11.3<small>%</small> |
+| DOG | -1<small>배</small> | <span style="color: blue">-6.0<small>%</small></span> | - | - | - |
+| [DXD](/dxd/) | -2<small>배</small> | <span style="color: blue">-16.9<small>%</small></span> | 1.2<small>%</small> | 4.9<small>%</small> | 6.0<small>%</small> |
+| [SDOW](/sdow/) | -3<small>배</small> | <span style="color: blue">-26.3<small>%</small></span> | 3.5<small>%</small> | 8.1<small>%</small> | 11.3<small>%</small> |
 
 <br>
 
@@ -69,7 +69,7 @@
 
 <br>
 
-> **테슬라**
+> **테슬라 <small>(개별 종목)</small>**
 
 | **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
