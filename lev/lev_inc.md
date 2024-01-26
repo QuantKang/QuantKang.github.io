@@ -41,12 +41,12 @@
 
 <br>
 
-> **ICE 반도체 지수**
+> **필라델피아 반도체 지수**
 
 | **종목** | **배율** | **1년** | **변동성 비용** | **금융 비용** | **전체 비용** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| SOXX | - | <span style="color: red">54.0<small>%</small></span> | - | - | - |
-| [SOXL](/soxl/) | 3<small>배</small> | <span style="color: red">157.4<small>%</small></span> | 20.6<small>%</small> | 11.2<small>%</small> | 29.4<small>%</small> |
+| SOXQ | - | <span style="color: red">54.9<small>%</small></span> | - | - | - |
+| [SOXL](/soxl/) | 3<small>배</small> | <span style="color: red">157.4<small>%</small></span> | 20.9<small>%</small> | 12.3<small>%</small> | 30.7<small>%</small> |
 
 <br>
 
@@ -59,10 +59,20 @@
 
 <br>
 
+> **FTSE China A50 지수**
+
+| **종목** | **배율** | **1년** | **변동성 비용** | **금융 비용** | **전체 비용** |
+| :------- | -------: | ------: | --------------: | ------------: | ------------: |
+| YXI | - | <span style="color: red">38.5<small>%</small></span> | - | - | - |
+| [FXP](/fxp/) | 2<small>배</small> | <span style="color: red">70.3<small>%</small></span> | 7.3<small>%</small> | 4.2<small>%</small> | 11.2<small>%</small> |
+| [YANG](/yang/) | 3<small>배</small> | <span style="color: red">107.4<small>%</small></span> | 20.4<small>%</small> | 1.9<small>%</small> | 21.9<small>%</small> |
+
+<br>
+
 > **테슬라**
 
 | **종목** | **배율** | **1년** | **변동성 비용** | **금융 비용** | **전체 비용** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | TSLA | - | <span style="color: red">26.5<small>%</small></span> | - | - | - |
 | [TSLL](/tsll/) | 1.5<small>배</small> | <span style="color: red">19.8<small>%</small></span> | 9.8<small>%</small> | 6.6<small>%</small> | 15.7<small>%</small> |
-| [TSL3.L](/tsl3/) | 3<small>배</small> | <span style="color: blue">-11.9<small>%</small></span> | 52.4<small>%</small> | 15.0<small>%</small> | 59.6<small>%</small> |
+| [TSL3.L](/tsl3/) | 3<small>배</small> | <span style="color: red">18.5<small>%</small></span> | 53.8<small>%</small> | 15.0<small>%</small> | 60.7<small>%</small> |
