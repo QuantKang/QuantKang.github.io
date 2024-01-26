@@ -2,7 +2,7 @@
 
 > **다우 존스 산업평균 지수**
 
-| **종목** | **배율** | **1년** | **변동성 비용** | **금융 비용** | **전체 비용** |
+| **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | DIA | - | <span style="color: red">15.0<small>%</small></span> | - | - | - |
 | [DDM](/ddm/) | 2<small>배</small> | <span style="color: red">22.2<small>%</small></span> | 1.2<small>%</small> | 6.5<small>%</small> | 7.6<small>%</small> |
@@ -15,7 +15,7 @@
 
 > **S&P 500 지수**
 
-| **종목** | **배율** | **1년** | **변동성 비용** | **금융 비용** | **전체 비용** |
+| **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | SPY | - | <span style="color: red">23.8<small>%</small></span> | - | - | - |
 | [SSO](/sso/) | 2<small>배</small> | <span style="color: red">41.0<small>%</small></span> | 1.6<small>%</small> | 6.5<small>%</small> | 8.0<small>%</small> |
@@ -30,7 +30,7 @@
 
 > **나스닥 100 지수**
 
-| **종목** | **배율** | **1년** | **변동성 비용** | **금융 비용** | **전체 비용** |
+| **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | QQQ | - | <span style="color: red">49.2<small>%</small></span> | - | - | - |
 | [QLD](/qld/) | 2<small>배</small> | <span style="color: red">102.6<small>%</small></span> | 3.0<small>%</small> | 6.2<small>%</small> | 9.0<small>%</small> |
@@ -43,7 +43,7 @@
 
 > **필라델피아 반도체 지수**
 
-| **종목** | **배율** | **1년** | **변동성 비용** | **금융 비용** | **전체 비용** |
+| **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | SOXQ | - | <span style="color: red">54.9<small>%</small></span> | - | - | - |
 | [SOXL](/soxl/) | 3<small>배</small> | <span style="color: red">157.4<small>%</small></span> | 20.9<small>%</small> | 12.3<small>%</small> | 30.7<small>%</small> |
@@ -52,7 +52,7 @@
 
 > **S&P 바이오 지수**
 
-| **종목** | **배율** | **1년** | **변동성 비용** | **금융 비용** | **전체 비용** |
+| **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | XBI | - | <span style="color: blue">-0.4<small>%</small></span> | - | - | - |
 | [LABU](/labu/) | 3<small>배</small> | <span style="color: blue">-30.5<small>%</small></span> | 21.1<small>%</small> | 10.8<small>%</small> | 29.6<small>%</small> |
@@ -61,7 +61,7 @@
 
 > **FTSE China A50 지수**
 
-| **종목** | **배율** | **1년** | **변동성 비용** | **금융 비용** | **전체 비용** |
+| **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | YXI | - | <span style="color: red">38.5<small>%</small></span> | - | - | - |
 | [FXP](/fxp/) | 2<small>배</small> | <span style="color: red">70.3<small>%</small></span> | 7.3<small>%</small> | 4.2<small>%</small> | 11.2<small>%</small> |
@@ -71,7 +71,7 @@
 
 > **테슬라**
 
-| **종목** | **배율** | **1년** | **변동성 비용** | **금융 비용** | **전체 비용** |
+| **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | TSLA | - | <span style="color: red">26.5<small>%</small></span> | - | - | - |
 | [TSLL](/tsll/) | 1.5<small>배</small> | <span style="color: red">19.8<small>%</small></span> | 9.8<small>%</small> | 6.6<small>%</small> | 15.7<small>%</small> |
