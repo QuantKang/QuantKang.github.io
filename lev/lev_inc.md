@@ -76,3 +76,46 @@
 | TSLA | 1<small>배</small> | <span style="color: red">26.5<small>%</small></span> | - | - | - |
 | [TSLL](/tsll/) | 1.5<small>배</small> | <span style="color: red">19.8<small>%</small></span> | 9.8<small>%</small> | 6.6<small>%</small> | 15.7<small>%</small> |
 | [TSL3.L](/tsl3/) | 3<small>배</small> | <span style="color: red">18.5<small>%</small></span> | 53.8<small>%</small> | 15.0<small>%</small> | 60.7<small>%</small> |
+| TSLQ | -1<small>배</small> | <span style="color: blue">-42.2<small>%</small></span> | - | - | - |
+| [TS3S.L](/ts3s/) | -3<small>배</small> | <span style="color: red">7184.5<small>%</small></span> | 56.3<small>%</small> | -85810.9<small>%</small> | -37421.0<small>%</small> |
+
+<br>
+
+> **엔비디아 <small>(개별 종목)</small>**
+
+| **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
+| :------- | -------: | ------: | --------------: | ------------: | ------------: |
+| NVDA | 1<small>배</small> | <span style="color: red">219.3<small>%</small></span> | - | - | - |
+| [NVD2.L](/nvd2/) | 2<small>배</small> | <span style="color: red">733.2<small>%</small></span> | 17.9<small>%</small> | 0.5<small>%</small> | 18.3<small>%</small> |
+| [NVDL](/nvdl/) | 1.5<small>배</small> | <span style="color: red">393.6<small>%</small></span> | 7.3<small>%</small> | 6.7<small>%</small> | 13.5<small>%</small> |
+| NVDD | -1<small>배</small> | <span style="color: blue">-57.7<small>%</small></span> | - | - | - |
+| [NVDS](/nvds/) | -1.25<small>배</small> | <span style="color: blue">-66.4<small>%</small></span> | 0.7<small>%</small> | -0.1<small>%</small> | 0.6<small>%</small> |
+| [NVD](/nvd/) | -1.5<small>배</small> | <span style="color: blue">-76.3<small>%</small></span> | 1.6<small>%</small> | 3.8<small>%</small> | 5.3<small>%</small> |
+| [NVDQ](/nvdq/) | -2<small>배</small> | <span style="color: blue">-96.2<small>%</small></span> | 3.0<small>%</small> | 2.6<small>%</small> | 5.5<small>%</small> |
+
+<br>
+
+> **페이팔 <small>(개별 종목)</small>**
+
+| **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
+| :------- | -------: | ------: | --------------: | ------------: | ------------: |
+| PYPL | 1<small>배</small> | <span style="color: blue">-33.8<small>%</small></span> | - | - | - |
+| [PYPT](/pypt/) | 1.5<small>배</small> | <span style="color: blue">-66.4<small>%</small></span> | 6.5<small>%</small> | 33.4<small>%</small> | 37.7<small>%</small> |
+
+<br>
+
+> **나이키 <small>(개별 종목)</small>**
+
+| **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
+| :------- | -------: | ------: | --------------: | ------------: | ------------: |
+| NKE | 1<small>배</small> | <span style="color: red">12.0<small>%</small></span> | - | - | - |
+| [NKEL](/nkel/) | 2<small>배</small> | <span style="color: blue">-31.4<small>%</small></span> | 11.9<small>%</small> | 36.1<small>%</small> | 43.7<small>%</small> |
+
+<br>
+
+> **화이자 <small>(개별 종목)</small>**
+
+| **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
+| :------- | -------: | ------: | --------------: | ------------: | ------------: |
+| PFE | 1<small>배</small> | <span style="color: blue">-27.6<small>%</small></span> | - | - | - |
+| [PFEL](/pfel/) | 2<small>배</small> | <span style="color: blue">-45.3<small>%</small></span> | 4.9<small>%</small> | -9.5<small>%</small> | -4.2<small>%</small> |
