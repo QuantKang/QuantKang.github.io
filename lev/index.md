@@ -9,7 +9,7 @@ aside: false
 
 레버리지 상품 링크를 클릭하면 최근 1년 주가 추이와 수익률 및 각종 기초 정보를 추가로 볼 수 있습니다.
 
-{% include_relative lev_inc.md %}
+<!-- {% include_relative lev_inc.md %} -->
 
 ---
 {% include commons/footnotes.md %}
