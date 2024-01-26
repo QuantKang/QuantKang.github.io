@@ -69,6 +69,15 @@
 
 <br>
 
+> **장기 미국채 (20+ 년) <small>(개별 종목)</small>**
+
+| **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
+| :------- | -------: | ------: | --------------: | ------------: | ------------: |
+| TLT | 1<small>배</small> | <span style="color: blue">-9.5<small>%</small></span> | - | - | - |
+| [TMF](/tmf/) | 3<small>배</small> | <span style="color: blue">-41.2<small>%</small></span> | 9.1<small>%</small> | 12.6<small>%</small> | 20.5<small>%</small> |
+
+<br>
+
 > **테슬라 <small>(개별 종목)</small>**
 
 | **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
