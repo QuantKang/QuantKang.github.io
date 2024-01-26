@@ -75,6 +75,10 @@
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | TLT | 1<small>배</small> | <span style="color: blue">-9.5<small>%</small></span> | - | - | - |
 | [TMF](/tmf/) | 3<small>배</small> | <span style="color: blue">-41.2<small>%</small></span> | 9.1<small>%</small> | 12.6<small>%</small> | 20.5<small>%</small> |
+| TBF | -1<small>배</small> | <span style="color: red">16.7<small>%</small></span> | - | - | - |
+| [TBT](/tbt/) | -2<small>배</small> | <span style="color: red">27.4<small>%</small></span> | 3.1<small>%</small> | 3.5<small>%</small> | 6.5<small>%</small> |
+| [TTT](/ttt/) | -3<small>배</small> | <span style="color: red">36.9<small>%</small></span> | 9.0<small>%</small> | 5.4<small>%</small> | 13.9<small>%</small> |
+| [TMV](/tmv/) | -3<small>배</small> | <span style="color: red">44.1<small>%</small></span> | 9.0<small>%</small> | 0.4<small>%</small> | 9.4<small>%</small> |
 
 <br>
 
