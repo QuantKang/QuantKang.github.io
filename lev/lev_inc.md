@@ -4,13 +4,13 @@
 
 | **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| DIA | 기초 | <span style="color: red">14.5<small>%</small></span> | - | - | - |
-| [DDM](/ddm/) | 2<small>배</small> | <span style="color: red">21.1<small>%</small></span> | 1.2<small>%</small> | 6.5<small>%</small> | 7.6<small>%</small> |
-| [UDOW](/udow/) | 3<small>배</small> | <span style="color: red">27.8<small>%</small></span> | 3.5<small>%</small> | 11.8<small>%</small> | 14.9<small>%</small> |
-| [SDOW](/sdow/) | -1<small>배</small> | <span style="color: blue">-25.3<small>%</small></span> | 1.2<small>%</small> | 13.4<small>%</small> | 14.4<small>%</small> |
-| [DOG](/dog/) | -1<small>배</small> | <span style="color: blue">-5.5<small>%</small></span> | 1.2<small>%</small> | -9.5<small>%</small> | -8.2<small>%</small> |
-| [DXD](/dxd/) | -2<small>배</small> | <span style="color: blue">-16.2<small>%</small></span> | 3.5<small>%</small> | -13.9<small>%</small> | -9.9<small>%</small> |
-| [SDOW](/sdow/) | -3<small>배</small> | <span style="color: blue">-25.3<small>%</small></span> | 6.9<small>%</small> | -20.5<small>%</small> | -12.2<small>%</small> |
+| DIA | 기초 | <span style="color: red">21.1<small>%</small></span> | - | - | - |
+| [DDM](/dia/) | 2<small>배</small> | <span style="color: red">14.5<small>%</small></span> | 4.6<small>%</small> | 18.2<small>%</small> | 21.9<small>%</small> |
+| [UDOW](/dia/) | 3<small>배</small> | <span style="color: red">14.5<small>%</small></span> | 27.2<small>%</small> | 24.5<small>%</small> | 45.1<small>%</small> |
+| [SDOW](/dia/) | -1<small>배</small> | <span style="color: red">14.5<small>%</small></span> | 10.1<small>%</small> | 4.8<small>%</small> | 14.4<small>%</small> |
+| [DOG](/dia/) | -1<small>배</small> | <span style="color: red">14.5<small>%</small></span> | 1.2<small>%</small> | -9.5<small>%</small> | -8.2<small>%</small> |
+| [DXD](/dia/) | -2<small>배</small> | <span style="color: red">14.5<small>%</small></span> | 13.2<small>%</small> | 7.3<small>%</small> | 19.5<small>%</small> |
+| [SDOW](/dia/) | -3<small>배</small> | <span style="color: red">14.5<small>%</small></span> | 47.2<small>%</small> | 9.5<small>%</small> | 52.2<small>%</small> |
 
 <br>
 
@@ -18,15 +18,15 @@
 
 | **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| SPY | 기초 | <span style="color: red">22.3<small>%</small></span> | - | - | - |
-| [SSO](/sso/) | 2<small>배</small> | <span style="color: red">37.7<small>%</small></span> | 1.6<small>%</small> | 6.4<small>%</small> | 7.9<small>%</small> |
-| [SPUU](/spuu/) | 2<small>배</small> | <span style="color: red">38.1<small>%</small></span> | 1.6<small>%</small> | 6.1<small>%</small> | 7.6<small>%</small> |
-| [UPRO](/upro/) | 3<small>배</small> | <span style="color: red">53.9<small>%</small></span> | 4.6<small>%</small> | 11.7<small>%</small> | 15.8<small>%</small> |
-| [SPXL](/spxl/) | 3<small>배</small> | <span style="color: red">54.6<small>%</small></span> | 4.6<small>%</small> | 11.3<small>%</small> | 15.4<small>%</small> |
-| [SH](/sh/) | -1<small>배</small> | <span style="color: blue">-11.8<small>%</small></span> | 1.6<small>%</small> | -9.5<small>%</small> | -7.8<small>%</small> |
-| [SPDN](/spdn/) | -1<small>배</small> | <span style="color: blue">-12.0<small>%</small></span> | 1.6<small>%</small> | -9.3<small>%</small> | -7.6<small>%</small> |
-| [SDS](/sds/) | -2<small>배</small> | <span style="color: blue">-26.6<small>%</small></span> | 4.7<small>%</small> | -15.0<small>%</small> | -9.7<small>%</small> |
-| [SPXU](/spxu/) | -3<small>배</small> | <span style="color: blue">-40.0<small>%</small></span> | 9.1<small>%</small> | -20.8<small>%</small> | -9.7<small>%</small> |
+| SPY | 기초 | <span style="color: red">37.7<small>%</small></span> | - | - | - |
+| [SSO](/spy/) | 2<small>배</small> | <span style="color: red">22.3<small>%</small></span> | 6.1<small>%</small> | 31.3<small>%</small> | 35.5<small>%</small> |
+| [SPUU](/spy/) | 2<small>배</small> | <span style="color: red">22.3<small>%</small></span> | 6.0<small>%</small> | 31.8<small>%</small> | 35.9<small>%</small> |
+| [UPRO](/spy/) | 3<small>배</small> | <span style="color: red">22.3<small>%</small></span> | 34.4<small>%</small> | 48.8<small>%</small> | 66.4<small>%</small> |
+| [SPXL](/spy/) | 3<small>배</small> | <span style="color: red">22.3<small>%</small></span> | 34.3<small>%</small> | 49.6<small>%</small> | 66.9<small>%</small> |
+| [SH](/spy/) | -1<small>배</small> | <span style="color: red">22.3<small>%</small></span> | 1.6<small>%</small> | -9.5<small>%</small> | -7.8<small>%</small> |
+| [SPDN](/spy/) | -1<small>배</small> | <span style="color: red">22.3<small>%</small></span> | 1.6<small>%</small> | -9.3<small>%</small> | -7.6<small>%</small> |
+| [SDS](/spy/) | -2<small>배</small> | <span style="color: red">22.3<small>%</small></span> | 17.2<small>%</small> | 20.5<small>%</small> | 34.2<small>%</small> |
+| [SPXU](/spy/) | -3<small>배</small> | <span style="color: red">22.3<small>%</small></span> | 56.7<small>%</small> | 38.9<small>%</small> | 73.5<small>%</small> |
 
 <br>
 
@@ -34,12 +34,12 @@
 
 | **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| QQQ | 기초 | <span style="color: red">45.5<small>%</small></span> | - | - | - |
-| [QLD](/qld/) | 2<small>배</small> | <span style="color: red">92.7<small>%</small></span> | 3.0<small>%</small> | 6.2<small>%</small> | 9.0<small>%</small> |
-| [TQQQ](/tqqq/) | 3<small>배</small> | <span style="color: red">148.8<small>%</small></span> | 8.7<small>%</small> | 11.6<small>%</small> | 19.3<small>%</small> |
-| [PSQ](/psq/) | -1<small>배</small> | <span style="color: blue">-27.5<small>%</small></span> | 3.0<small>%</small> | -8.8<small>%</small> | -5.5<small>%</small> |
-| [QID](/qid/) | -2<small>배</small> | <span style="color: blue">-51.2<small>%</small></span> | 8.8<small>%</small> | -13.3<small>%</small> | -3.4<small>%</small> |
-| [SQQQ](/sqqq/) | -3<small>배</small> | <span style="color: blue">-67.7<small>%</small></span> | 16.9<small>%</small> | -19.6<small>%</small> | 0.5<small>%</small> |
+| QQQ | 기초 | <span style="color: red">92.7<small>%</small></span> | - | - | - |
+| [QLD](/qqq/) | 2<small>배</small> | <span style="color: red">45.5<small>%</small></span> | 11.4<small>%</small> | 55.8<small>%</small> | 60.8<small>%</small> |
+| [TQQQ](/qqq/) | 3<small>배</small> | <span style="color: red">45.5<small>%</small></span> | 54.9<small>%</small> | 79.0<small>%</small> | 90.5<small>%</small> |
+| [PSQ](/qqq/) | -1<small>배</small> | <span style="color: red">45.5<small>%</small></span> | 3.0<small>%</small> | -8.8<small>%</small> | -5.5<small>%</small> |
+| [QID](/qqq/) | -2<small>배</small> | <span style="color: red">45.5<small>%</small></span> | 30.5<small>%</small> | 50.0<small>%</small> | 65.3<small>%</small> |
+| [SQQQ](/qqq/) | -3<small>배</small> | <span style="color: red">45.5<small>%</small></span> | 80.1<small>%</small> | 75.3<small>%</small> | 95.1<small>%</small> |
 
 <br>
 
@@ -47,9 +47,9 @@
 
 | **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| SOXQ | 기초 | <span style="color: red">48.2<small>%</small></span> | - | - | - |
-| [SOXL](/soxl/) | 3<small>배</small> | <span style="color: red">124.8<small>%</small></span> | 21.1<small>%</small> | 12.5<small>%</small> | 31.0<small>%</small> |
-| [SOXS](/soxs/) | -3<small>배</small> | <span style="color: blue">-77.1<small>%</small></span> | 39.2<small>%</small> | -22.5<small>%</small> | 25.5<small>%</small> |
+| SOXQ | 기초 | <span style="color: red">124.8<small>%</small></span> | - | - | - |
+| [SOXL](/soxq/) | 3<small>배</small> | <span style="color: red">48.2<small>%</small></span> | 86.3<small>%</small> | 4.3<small>%</small> | 86.9<small>%</small> |
+| [SOXS](/soxq/) | -3<small>배</small> | <span style="color: red">48.2<small>%</small></span> | 98.4<small>%</small> | -13.7<small>%</small> | 98.2<small>%</small> |
 
 <br>
 
@@ -57,9 +57,9 @@
 
 | **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| XLK | 기초 | <span style="color: red">49.5<small>%</small></span> | - | - | - |
-| [ROM](/rom/) | 2<small>배</small> | <span style="color: red">107.7<small>%</small></span> | 3.3<small>%</small> | 3.9<small>%</small> | 7.1<small>%</small> |
-| [REW](/rew/) | -2<small>배</small> | <span style="color: blue">-56.6<small>%</small></span> | 9.7<small>%</small> | -7.4<small>%</small> | 3.1<small>%</small> |
+| XLK | 기초 | <span style="color: red">107.7<small>%</small></span> | - | - | - |
+| [ROM](/xlk/) | 2<small>배</small> | <span style="color: red">49.5<small>%</small></span> | 13.7<small>%</small> | 59.8<small>%</small> | 65.3<small>%</small> |
+| [REW](/xlk/) | -2<small>배</small> | <span style="color: red">49.5<small>%</small></span> | 35.1<small>%</small> | 56.7<small>%</small> | 71.9<small>%</small> |
 
 <br>
 
@@ -67,9 +67,9 @@
 
 | **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| XBI | 기초 | <span style="color: blue">-0.4<small>%</small></span> | - | - | - |
-| [LABU](/labu/) | 3<small>배</small> | <span style="color: blue">-30.8<small>%</small></span> | 21.1<small>%</small> | 11.3<small>%</small> | 30.0<small>%</small> |
-| [LABD](/labd/) | -3<small>배</small> | <span style="color: blue">-26.8<small>%</small></span> | 38.1<small>%</small> | -17.0<small>%</small> | 27.6<small>%</small> |
+| XBI | 기초 | <span style="color: blue">-30.8<small>%</small></span> | - | - | - |
+| [LABU](/xbi/) | 3<small>배</small> | <span style="color: blue">-0.4<small>%</small></span> | 87.8<small>%</small> | -2366.8<small>%</small> | -200.2<small>%</small> |
+| [LABD](/xbi/) | -3<small>배</small> | <span style="color: blue">-0.4<small>%</small></span> | 98.6<small>%</small> | -2788.0<small>%</small> | 60.8<small>%</small> |
 
 <br>
 
@@ -77,12 +77,12 @@
 
 | **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| TLT | 기초 | <span style="color: blue">-9.3<small>%</small></span> | - | - | - |
-| [TMF](/tmf/) | 3<small>배</small> | <span style="color: blue">-40.6<small>%</small></span> | 9.0<small>%</small> | 12.5<small>%</small> | 20.4<small>%</small> |
-| [TBF](/tbf/) | -1<small>배</small> | <span style="color: red">16.3<small>%</small></span> | 3.1<small>%</small> | -8.9<small>%</small> | -5.5<small>%</small> |
-| [TBT](/tbt/) | -2<small>배</small> | <span style="color: red">26.4<small>%</small></span> | 9.1<small>%</small> | -14.3<small>%</small> | -4.0<small>%</small> |
-| [TTT](/ttt/) | -3<small>배</small> | <span style="color: red">35.9<small>%</small></span> | 17.3<small>%</small> | -22.6<small>%</small> | -1.4<small>%</small> |
-| [TMV](/tmv/) | -3<small>배</small> | <span style="color: red">42.8<small>%</small></span> | 17.3<small>%</small> | -28.8<small>%</small> | -6.5<small>%</small> |
+| TLT | 기초 | <span style="color: blue">-40.6<small>%</small></span> | - | - | - |
+| [TMF](/tlt/) | 3<small>배</small> | <span style="color: blue">-9.3<small>%</small></span> | 56.1<small>%</small> | -885.1<small>%</small> | -332.8<small>%</small> |
+| [TBF](/tlt/) | -1<small>배</small> | <span style="color: blue">-9.3<small>%</small></span> | 3.1<small>%</small> | -8.8<small>%</small> | -5.5<small>%</small> |
+| [TBT](/tlt/) | -2<small>배</small> | <span style="color: blue">-9.3<small>%</small></span> | 31.2<small>%</small> | -110.7<small>%</small> | -44.9<small>%</small> |
+| [TTT](/tlt/) | -3<small>배</small> | <span style="color: blue">-9.3<small>%</small></span> | 81.6<small>%</small> | -1138.7<small>%</small> | -127.4<small>%</small> |
+| [TMV](/tlt/) | -3<small>배</small> | <span style="color: blue">-9.3<small>%</small></span> | 82.2<small>%</small> | -1379.1<small>%</small> | -163.9<small>%</small> |
 
 <br>
 
@@ -90,9 +90,9 @@
 
 | **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| TSLA | 기초 | <span style="color: red">14.3<small>%</small></span> | - | - | - |
-| [TSLL](/tsll/) | 1.5<small>배</small> | <span style="color: red">3.4<small>%</small></span> | 9.4<small>%</small> | 6.7<small>%</small> | 15.5<small>%</small> |
-| [TSL3.L](/tsl3/) | 3<small>배</small> | <span style="color: blue">-41.9<small>%</small></span> | 55.2<small>%</small> | 13.2<small>%</small> | 61.1<small>%</small> |
+| TSLA | 기초 | <span style="color: red">3.4<small>%</small></span> | - | - | - |
+| [TSLL](/tsla/) | 1.5<small>배</small> | <span style="color: red">14.3<small>%</small></span> | 20.2<small>%</small> | -36.4<small>%</small> | -8.8<small>%</small> |
+| [TSL3.L](/tsla/) | 3<small>배</small> | <span style="color: red">14.3<small>%</small></span> | 100.0<small>%</small> | 51223469.3<small>%</small> | -482.9<small>%</small> |
 
 <br>
 
@@ -100,8 +100,8 @@
 
 | **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| NVDA | 기초 | <span style="color: red">208.6<small>%</small></span> | - | - | - |
-| [NVDL](/nvdl/) | 1.5<small>배</small> | <span style="color: red">368.8<small>%</small></span> | 7.3<small>%</small> | 6.7<small>%</small> | 13.5<small>%</small> |
-| [NVDD](/nvdd/) | -1<small>배</small> | <span style="color: blue">-56.1<small>%</small></span> | 4.2<small>%</small> | -3.3<small>%</small> | 1.0<small>%</small> |
-| [NVD](/nvd/) | -1.5<small>배</small> | <span style="color: blue">-66.2<small>%</small></span> | 8.5<small>%</small> | -1.3<small>%</small> | 7.3<small>%</small> |
-| [NVDQ](/nvdq/) | -2<small>배</small> | <span style="color: blue">-95.8<small>%</small></span> | 8.6<small>%</small> | -1.7<small>%</small> | 7.1<small>%</small> |
+| NVDA | 기초 | <span style="color: red">368.8<small>%</small></span> | - | - | - |
+| [NVDL](/nvda/) | 1.5<small>배</small> | <span style="color: red">208.6<small>%</small></span> | 15.0<small>%</small> | 64.2<small>%</small> | 69.6<small>%</small> |
+| [NVDD](/nvda/) | -1<small>배</small> | <span style="color: red">121.6<small>%</small></span> | 4.2<small>%</small> | -3.3<small>%</small> | 1.0<small>%</small> |
+| [NVD](/nvda/) | -1.5<small>배</small> | <span style="color: red">83.4<small>%</small></span> | 18.5<small>%</small> | 20.7<small>%</small> | 35.4<small>%</small> |
+| [NVDQ](/nvda/) | -2<small>배</small> | <span style="color: red">325.4<small>%</small></span> | 29.5<small>%</small> | 61.8<small>%</small> | 73.1<small>%</small> |
