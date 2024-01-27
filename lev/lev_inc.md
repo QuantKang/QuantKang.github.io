@@ -90,9 +90,9 @@
 
 | **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| TLSA | 기초 | <span style="color: blue">-13.9<small>%</small></span> | - | - | - |
-| [TSLL](/tsll/) | 1.5<small>배</small> | <span style="color: red">3.4<small>%</small></span> | 25.8<small>%</small> | -74.2<small>%</small> | -29.2<small>%</small> |
-| [TSL3.L](/tsl3/) | 3<small>배</small> | <span style="color: blue">-41.9<small>%</small></span> | 91.5<small>%</small> | -972.0<small>%</small> | 9.1<small>%</small> |
+| TSLA | 기초 | <span style="color: red">14.3<small>%</small></span> | - | - | - |
+| [TSLL](/tsll/) | 1.5<small>배</small> | <span style="color: red">3.4<small>%</small></span> | 9.4<small>%</small> | 6.7<small>%</small> | 15.5<small>%</small> |
+| [TSL3.L](/tsl3/) | 3<small>배</small> | <span style="color: blue">-41.9<small>%</small></span> | 55.2<small>%</small> | 13.2<small>%</small> | 61.1<small>%</small> |
 
 <br>
 
