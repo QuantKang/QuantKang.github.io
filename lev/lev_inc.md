@@ -15,7 +15,7 @@
 
 | **종목** | **배율** | **1년** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| KODEX 코스닥 150 | 기초 | <span style="color: red">26.5<small>%</small></span> | - | - | - |
+| KODEX 150 | 기초 | <span style="color: red">26.5<small>%</small></span> | - | - | - |
 | [KODEX 150 L.](/233740/) | 2<small>배</small> | <span style="color: red">40.6<small>%</small></span> | 9.2<small>%</small> | 3.4<small>%</small> | 12.2<small>%</small> |
 | [KODEX 150 I.](/251340/) | -1<small>배</small> | <span style="color: blue">-26.7<small>%</small></span> | 9.6<small>%</small> | -2.7<small>%</small> | 7.2<small>%</small> |
 | [삼성 150 I. 2x](/530107/) | -2<small>배</small> | <span style="color: blue">-54.9<small>%</small></span> | 26.8<small>%</small> | 1.3<small>%</small> | 27.8<small>%</small> |
