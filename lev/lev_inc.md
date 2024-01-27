@@ -5,9 +5,9 @@
 | **종목** | **배율** | **1년** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | KODEX 200 | 기초 | <span style="color: red">4.5<small>%</small></span> | - | - | - |
-| [KODEX L.](/122630/) | 2<small>배</small> | <span style="color: red">2.0<small>%</small></span> | 2.4<small>%</small> | 4.3<small>%</small> | 6.6<small>%</small> |
-| [KODEX I.](/114800/) | -1<small>배</small> | <span style="color: blue">-1.5<small>%</small></span> | 2.4<small>%</small> | -5.4<small>%</small> | -2.9<small>%</small> |
-| [KODEX I. 2x](/252670/) | -2<small>배</small> | <span style="color: blue">-8.5<small>%</small></span> | 7.0<small>%</small> | -7.4<small>%</small> | 0.1<small>%</small> |
+| [KODEX 2x](/122630/) | 2<small>배</small> | <span style="color: red">2.0<small>%</small></span> | 2.4<small>%</small> | 4.3<small>%</small> | 6.6<small>%</small> |
+| [KODEX -1x](/114800/) | -1<small>배</small> | <span style="color: blue">-1.5<small>%</small></span> | 2.4<small>%</small> | -5.4<small>%</small> | -2.9<small>%</small> |
+| [KODEX -2x](/252670/) | -2<small>배</small> | <span style="color: blue">-8.5<small>%</small></span> | 7.0<small>%</small> | -7.4<small>%</small> | 0.1<small>%</small> |
 
 <br>
 
@@ -16,10 +16,10 @@
 | **종목** | **배율** | **1년** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | KODEX 150 | 기초 | <span style="color: red">26.5<small>%</small></span> | - | - | - |
-| [KODEX 150 L.](/233740/) | 2<small>배</small> | <span style="color: red">40.6<small>%</small></span> | 9.2<small>%</small> | 3.4<small>%</small> | 12.2<small>%</small> |
-| [KODEX 150 I.](/251340/) | -1<small>배</small> | <span style="color: blue">-26.7<small>%</small></span> | 9.6<small>%</small> | -2.7<small>%</small> | 7.2<small>%</small> |
-| [삼성 150 I. 2x](/530107/) | -2<small>배</small> | <span style="color: blue">-54.9<small>%</small></span> | 26.8<small>%</small> | 1.3<small>%</small> | 27.8<small>%</small> |
-| [미래 150 I. 2x](/520057/) | -2<small>배</small> | <span style="color: blue">-54.8<small>%</small></span> | 26.8<small>%</small> | 1.2<small>%</small> | 27.7<small>%</small> |
+| [KODEX 150 2x](/233740/) | 2<small>배</small> | <span style="color: red">40.6<small>%</small></span> | 9.2<small>%</small> | 3.4<small>%</small> | 12.2<small>%</small> |
+| [KODEX 150 -1x](/251340/) | -1<small>배</small> | <span style="color: blue">-26.7<small>%</small></span> | 9.6<small>%</small> | -2.7<small>%</small> | 7.2<small>%</small> |
+| [삼성 150 -2x](/530107/) | -2<small>배</small> | <span style="color: blue">-54.9<small>%</small></span> | 26.8<small>%</small> | 1.3<small>%</small> | 27.8<small>%</small> |
+| [미래 150 -2x](/520057/) | -2<small>배</small> | <span style="color: blue">-54.8<small>%</small></span> | 26.8<small>%</small> | 1.2<small>%</small> | 27.7<small>%</small> |
 
 <br>
 
