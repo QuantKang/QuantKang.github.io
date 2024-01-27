@@ -15,7 +15,7 @@
 
 <br>
 
-> **S&P 500 지수**
+> **S&P 500 지수 (배당 고려)**
 
 | **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
@@ -58,7 +58,7 @@
 
 <br>
 
-> **기술 섹터 지수**
+> **기술 섹터 지수 (배당 미고려)**
 
 | **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
@@ -68,7 +68,7 @@
 
 <br>
 
-> **S&P 바이오 지수**
+> **S&P 바이오 지수 (배당 미고려)**
 
 | **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
@@ -78,7 +78,7 @@
 
 <br>
 
-> **장기 미국채 (20+ 년) <small>(개별 종목)</small>**
+> **미국 20+년 장기채 (배당 미고려)**
 
 | **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
@@ -91,7 +91,7 @@
 
 <br>
 
-> **테슬라 <small>(개별 종목)</small>**
+> **테슬라 (배당 고려)**
 
 | **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
@@ -101,13 +101,12 @@
 
 <br>
 
-> **엔비디아 <small>(개별 종목)</small>**
+> **엔비디아 (배당 고려)**
 
 | **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | NVDA | 기초 | <span style="color: red">208.6<small>%</small></span> | - | - | - |
 | [NVDL](/nvdl/) | 1.5<small>배</small> | <span style="color: red">368.8<small>%</small></span> | 7.3<small>%</small> | 6.7<small>%</small> | 13.5<small>%</small> |
 | [NVDD](/nvdd/) | -1<small>배</small> | <span style="color: blue">-56.1<small>%</small></span> | 4.2<small>%</small> | -3.3<small>%</small> | 1.0<small>%</small> |
-| [NVDS](/nvds/) | -1.25<small>배</small> | <span style="color: blue">-96.1<small>%</small></span> | 27.9<small>%</small> | 78.0<small>%</small> | 84.2<small>%</small> |
 | [NVD](/nvd/) | -1.5<small>배</small> | <span style="color: blue">-66.2<small>%</small></span> | 8.5<small>%</small> | -1.3<small>%</small> | 7.3<small>%</small> |
 | [NVDQ](/nvdq/) | -2<small>배</small> | <span style="color: blue">-95.8<small>%</small></span> | 8.6<small>%</small> | -1.7<small>%</small> | 7.1<small>%</small> |
