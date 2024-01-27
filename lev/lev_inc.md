@@ -1,6 +1,6 @@
 <br>
 
-> **다우 존스 산업평균 지수**
+> **다우 존스 산업평균 지수 (배당 미고려)**
 
 | **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
@@ -11,8 +11,7 @@
 | [SDOW](/sdow/) | -1<small>배</small> | <span style="color: blue">-25.3<small>%</small></span> | 1.2<small>%</small> | 15.1<small>%</small> | 16.1<small>%</small> |
 | [DOG](/dog/) | -1<small>배</small> | <span style="color: blue">-5.5<small>%</small></span> | 1.2<small>%</small> | -7.3<small>%</small> | -6.1<small>%</small> |
 | [DXD](/dxd/) | -2<small>배</small> | <span style="color: blue">-16.2<small>%</small></span> | 3.5<small>%</small> | -9.5<small>%</small> | -5.6<small>%</small> |
-| DJI | 기초 | <span style="color: red">8.0<small>%</small></span> | - | - | - |
-| [SDOW](/sdow/) | -3<small>배</small> | <span style="color: blue">-32.4<small>%</small></span> | 9.7<small>%</small> | 5.8<small>%</small> | 14.9<small>%</small> |
+| [SDOW](/sdow/) | -3<small>배</small> | <span style="color: blue">-25.3<small>%</small></span> | 6.9<small>%</small> | -13.5<small>%</small> | -5.7<small>%</small> |
 
 <br>
 
@@ -20,22 +19,22 @@
 
 | **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| ^GSPC | 기초 | <span style="color: red">20.5<small>%</small></span> | - | - | - |
-| [SPY](/spy/) | 1<small>배</small> | <span style="color: red">22.3<small>%</small></span> | 0.0<small>%</small> | -1.5<small>%</small> | -1.5<small>%</small> |
-| [VOO](/voo/) | 1<small>배</small> | <span style="color: red">22.5<small>%</small></span> | -0.0<small>%</small> | -1.7<small>%</small> | -1.7<small>%</small> |
-| [IVV](/ivv/) | 1<small>배</small> | <span style="color: red">22.4<small>%</small></span> | 0.0<small>%</small> | -1.6<small>%</small> | -1.6<small>%</small> |
-| [SSO](/sso/) | 2<small>배</small> | <span style="color: red">37.7<small>%</small></span> | 1.6<small>%</small> | 3.6<small>%</small> | 5.1<small>%</small> |
-| [SPUU](/spuu/) | 2<small>배</small> | <span style="color: red">38.1<small>%</small></span> | 1.6<small>%</small> | 3.3<small>%</small> | 4.8<small>%</small> |
-| [UPRO](/upro/) | 3<small>배</small> | <span style="color: red">53.9<small>%</small></span> | 4.6<small>%</small> | 7.7<small>%</small> | 12.0<small>%</small> |
-| [SPXL](/spxl/) | 3<small>배</small> | <span style="color: red">54.6<small>%</small></span> | 4.6<small>%</small> | 7.3<small>%</small> | 11.6<small>%</small> |
-| [SH](/sh/) | -1<small>배</small> | <span style="color: blue">-11.8<small>%</small></span> | 1.6<small>%</small> | -7.9<small>%</small> | -6.2<small>%</small> |
-| [SPDN](/spdn/) | -1<small>배</small> | <span style="color: blue">-12.0<small>%</small></span> | 1.6<small>%</small> | -7.7<small>%</small> | -6.0<small>%</small> |
-| [SDS](/sds/) | -2<small>배</small> | <span style="color: blue">-26.6<small>%</small></span> | 4.7<small>%</small> | -11.7<small>%</small> | -6.5<small>%</small> |
-| [SPXU](/spxu/) | -3<small>배</small> | <span style="color: blue">-40.0<small>%</small></span> | 9.1<small>%</small> | -15.5<small>%</small> | -5.0<small>%</small> |
+| ^SP500TR | 기초 | <span style="color: red">22.5<small>%</small></span> | - | - | - |
+| [SPY](/spy/) | 1<small>배</small> | <span style="color: red">22.3<small>%</small></span> | 0.0<small>%</small> | 0.1<small>%</small> | 0.1<small>%</small> |
+| [VOO](/voo/) | 1<small>배</small> | <span style="color: red">22.5<small>%</small></span> | -0.0<small>%</small> | -0.0<small>%</small> | -0.0<small>%</small> |
+| [IVV](/ivv/) | 1<small>배</small> | <span style="color: red">22.4<small>%</small></span> | 0.0<small>%</small> | 0.0<small>%</small> | 0.0<small>%</small> |
+| [SSO](/sso/) | 2<small>배</small> | <span style="color: red">37.7<small>%</small></span> | 1.6<small>%</small> | 6.7<small>%</small> | 8.2<small>%</small> |
+| [SPUU](/spuu/) | 2<small>배</small> | <span style="color: red">38.1<small>%</small></span> | 1.6<small>%</small> | 6.4<small>%</small> | 7.9<small>%</small> |
+| [UPRO](/upro/) | 3<small>배</small> | <span style="color: red">53.9<small>%</small></span> | 4.7<small>%</small> | 12.1<small>%</small> | 16.2<small>%</small> |
+| [SPXL](/spxl/) | 3<small>배</small> | <span style="color: red">54.6<small>%</small></span> | 4.7<small>%</small> | 11.7<small>%</small> | 15.8<small>%</small> |
+| [SH](/sh/) | -1<small>배</small> | <span style="color: blue">-11.8<small>%</small></span> | 1.6<small>%</small> | -9.7<small>%</small> | -8.0<small>%</small> |
+| [SPDN](/spdn/) | -1<small>배</small> | <span style="color: blue">-12.0<small>%</small></span> | 1.6<small>%</small> | -9.5<small>%</small> | -7.8<small>%</small> |
+| [SDS](/sds/) | -2<small>배</small> | <span style="color: blue">-26.6<small>%</small></span> | 4.7<small>%</small> | -15.4<small>%</small> | -10.0<small>%</small> |
+| [SPXU](/spxu/) | -3<small>배</small> | <span style="color: blue">-40.0<small>%</small></span> | 9.2<small>%</small> | -21.3<small>%</small> | -10.2<small>%</small> |
 
 <br>
 
-> **나스닥 100 지수**
+> **나스닥 100 지수 (배당 미고려)**
 
 | **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
@@ -49,12 +48,11 @@
 
 <br>
 
-> **필라델피아 반도체 지수**
+> **필라델피아 반도체 지수 (배당 미고려)**
 
 | **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | ^SOX | 기초 | <span style="color: red">46.4<small>%</small></span> | - | - | - |
-| [SOXL](/soxl/) | 1<small>배</small> | <span style="color: red">124.8<small>%</small></span> | 0.0<small>%</small> | -53.5<small>%</small> | -53.5<small>%</small> |
 | [SOXL](/soxl/) | 3<small>배</small> | <span style="color: red">124.8<small>%</small></span> | 20.9<small>%</small> | 9.4<small>%</small> | 28.3<small>%</small> |
 | [SOXS](/soxs/) | -3<small>배</small> | <span style="color: blue">-77.1<small>%</small></span> | 38.8<small>%</small> | -17.3<small>%</small> | 28.2<small>%</small> |
 
@@ -65,7 +63,6 @@
 | **종목** | **배율** | **1년** | **변동성<small>비용</small>** | **금융<small>비용</small>** | **전체<small>비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | XLK | 기초 | <span style="color: red">49.5<small>%</small></span> | - | - | - |
-| [ROM](/rom/) | 2<small>배</small> | <span style="color: red">107.7<small>%</small></span> | 3.3<small>%</small> | 3.9<small>%</small> | 7.1<small>%</small> |
 | [ROM](/rom/) | 2<small>배</small> | <span style="color: red">107.7<small>%</small></span> | 3.3<small>%</small> | 3.9<small>%</small> | 7.1<small>%</small> |
 | [REW](/rew/) | -2<small>배</small> | <span style="color: blue">-56.6<small>%</small></span> | 9.7<small>%</small> | -7.4<small>%</small> | 3.1<small>%</small> |
 
@@ -87,10 +84,10 @@
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | TLT | 기초 | <span style="color: blue">-9.3<small>%</small></span> | - | - | - |
 | [TMF](/tmf/) | 3<small>배</small> | <span style="color: blue">-40.6<small>%</small></span> | 9.0<small>%</small> | 12.5<small>%</small> | 20.4<small>%</small> |
-| TBF | 기초 | <span style="color: red">16.3<small>%</small></span> | - | - | - |
-| [TBT](/tbt/) | -2<small>배</small> | <span style="color: red">26.4<small>%</small></span> | 8.9<small>%</small> | -87.8<small>%</small> | -70.9<small>%</small> |
-| [TTT](/ttt/) | -3<small>배</small> | <span style="color: red">35.9<small>%</small></span> | 17.1<small>%</small> | -157.8<small>%</small> | -113.7<small>%</small> |
-| [TMV](/tmv/) | -3<small>배</small> | <span style="color: red">42.8<small>%</small></span> | 17.1<small>%</small> | -170.9<small>%</small> | -124.5<small>%</small> |
+| [TBF](/tbf/) | -1<small>배</small> | <span style="color: red">16.3<small>%</small></span> | 3.1<small>%</small> | -8.9<small>%</small> | -5.5<small>%</small> |
+| [TBT](/tbt/) | -2<small>배</small> | <span style="color: red">26.4<small>%</small></span> | 9.1<small>%</small> | -14.3<small>%</small> | -4.0<small>%</small> |
+| [TTT](/ttt/) | -3<small>배</small> | <span style="color: red">35.9<small>%</small></span> | 17.3<small>%</small> | -22.6<small>%</small> | -1.4<small>%</small> |
+| [TMV](/tmv/) | -3<small>배</small> | <span style="color: red">42.8<small>%</small></span> | 17.3<small>%</small> | -28.8<small>%</small> | -6.5<small>%</small> |
 
 <br>
 
