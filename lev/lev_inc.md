@@ -5,7 +5,7 @@
 | **종목** | **배율** | **1년** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | KODEX 200 | 기초 | <span style="color: red">6.6<small>%</small></span> | - | - | - |
-| [KODEX 2x](/122630/) | 2<small>배</small> | <span style="color: red">6.2<small>%</small></span> | 2.4<small>%</small> | 4.3<small>%</small> | 6.5<small>%</small> |
+| [KODEX 2x](/122630/) | 2<small>배</small> | <span style="color: red">6.0<small>%</small></span> | 2.4<small>%</small> | 4.5<small>%</small> | 6.7<small>%</small> |
 | [KODEX -1x](/114800/) | -1<small>배</small> | <span style="color: blue">-3.6<small>%</small></span> | 2.4<small>%</small> | -5.2<small>%</small> | -2.7<small>%</small> |
 | [KODEX -2x](/252670/) | -2<small>배</small> | <span style="color: blue">-12.3<small>%</small></span> | 6.9<small>%</small> | -7.1<small>%</small> | 0.3<small>%</small> |
 
@@ -15,11 +15,11 @@
 
 | **종목** | **배율** | **1년** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| KODEX 150 | 기초 | <span style="color: red">27.7<small>%</small></span> | - | - | - |
-| [KODEX 150 2x](/233740/) | 2<small>배</small> | <span style="color: red">43.0<small>%</small></span> | 9.2<small>%</small> | 3.4<small>%</small> | 12.2<small>%</small> |
-| [KODEX 150 -1x](/251340/) | -1<small>배</small> | <span style="color: blue">-27.2<small>%</small></span> | 9.6<small>%</small> | -2.8<small>%</small> | 7.0<small>%</small> |
-| [삼성 150 -2x](/530107/) | -2<small>배</small> | <span style="color: blue">-55.6<small>%</small></span> | 26.8<small>%</small> | 1.1<small>%</small> | 27.6<small>%</small> |
-| [미래 150 -2x](/520057/) | -2<small>배</small> | <span style="color: blue">-55.5<small>%</small></span> | 26.8<small>%</small> | 1.0<small>%</small> | 27.5<small>%</small> |
+| KODEX 150 | 기초 | <span style="color: red">25.5<small>%</small></span> | - | - | - |
+| [KODEX 150 2x](/233740/) | 2<small>배</small> | <span style="color: red">38.0<small>%</small></span> | 9.2<small>%</small> | 3.4<small>%</small> | 12.3<small>%</small> |
+| [KODEX 150 -1x](/251340/) | -1<small>배</small> | <span style="color: blue">-25.9<small>%</small></span> | 9.6<small>%</small> | -3.0<small>%</small> | 6.9<small>%</small> |
+| [삼성 150 -2x](/530107/) | -2<small>배</small> | <span style="color: blue">-54.0<small>%</small></span> | 26.8<small>%</small> | 0.9<small>%</small> | 27.5<small>%</small> |
+| [미래 150 -2x](/520057/) | -2<small>배</small> | <span style="color: blue">-54.0<small>%</small></span> | 26.8<small>%</small> | 1.0<small>%</small> | 27.6<small>%</small> |
 
 <br>
 
@@ -56,7 +56,7 @@
 | QQQ | 기초 | <span style="color: red">44.5<small>%</small></span> | - | - | - |
 | [QLD](/qld/) | 2<small>배</small> | <span style="color: red">91.9<small>%</small></span> | 3.0<small>%</small> | 5.3<small>%</small> | 8.1<small>%</small> |
 | [TQQQ](/tqqq/) | 3<small>배</small> | <span style="color: red">144.6<small>%</small></span> | 8.6<small>%</small> | 11.3<small>%</small> | 18.9<small>%</small> |
-| [QQQ5.L](/qqq5/) | 5<small>배</small> | <span style="color: red">281.4<small>%</small></span> | 26.3<small>%</small> | 17.9<small>%</small> | 39.5<small>%</small> |
+| [QQQ5.L](/qqq5/) | 5<small>배</small> | <span style="color: red">272.7<small>%</small></span> | 26.3<small>%</small> | 19.8<small>%</small> | 40.9<small>%</small> |
 | [PSQ](/psq/) | -1<small>배</small> | <span style="color: blue">-31.3<small>%</small></span> | 3.0<small>%</small> | -2.3<small>%</small> | 0.7<small>%</small> |
 | [QID](/qid/) | -2<small>배</small> | <span style="color: blue">-53.4<small>%</small></span> | 8.8<small>%</small> | -6.6<small>%</small> | 2.7<small>%</small> |
 | [SQQQ](/sqqq/) | -3<small>배</small> | <span style="color: blue">-69.5<small>%</small></span> | 16.8<small>%</small> | -10.6<small>%</small> | 8.1<small>%</small> |
@@ -132,7 +132,7 @@
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | TSLA | 기초 | <span style="color: red">14.3<small>%</small></span> | - | - | - |
 | [TSLL](/tsll/) | 1.5<small>배</small> | <span style="color: blue">-1.0<small>%</small></span> | 9.4<small>%</small> | 10.6<small>%</small> | 19.0<small>%</small> |
-| [TSL3.L](/tsl3/) | 3<small>배</small> | <span style="color: blue">-41.9<small>%</small></span> | 55.2<small>%</small> | 13.2<small>%</small> | 61.1<small>%</small> |
+| [TSL3.L](/tsl3/) | 3<small>배</small> | <span style="color: blue">-43.4<small>%</small></span> | 55.4<small>%</small> | 15.0<small>%</small> | 62.1<small>%</small> |
 
 <br>
 
