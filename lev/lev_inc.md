@@ -56,7 +56,7 @@
 | QQQ | 기초 | <span style="color: red">46.6<small>%</small></span> | - | - | - |
 | [QLD](/qld/) | 2<small>배</small> | <span style="color: red">97.6<small>%</small></span> | 2.9<small>%</small> | 5.2<small>%</small> | 8.0<small>%</small> |
 | [TQQQ](/tqqq/) | 3<small>배</small> | <span style="color: red">155.2<small>%</small></span> | 8.5<small>%</small> | 11.3<small>%</small> | 18.9<small>%</small> |
-| [QQQ5.L](/qqq5/) | 5<small>배</small> | <span style="color: red">307.3<small>%</small></span> | 26.0<small>%</small> | 18.6<small>%</small> | 39.7<small>%</small> |
+| [QQQ5.L](/qqq5/) | 5<small>배</small> | <span style="color: red">301.2<small>%</small></span> | 26.0<small>%</small> | 19.8<small>%</small> | 40.6<small>%</small> |
 | [PSQ](/psq/) | -1<small>배</small> | <span style="color: blue">-32.2<small>%</small></span> | 3.0<small>%</small> | -2.3<small>%</small> | 0.7<small>%</small> |
 | [QID](/qid/) | -2<small>배</small> | <span style="color: blue">-54.7<small>%</small></span> | 8.7<small>%</small> | -6.4<small>%</small> | 2.8<small>%</small> |
 | [SQQQ](/sqqq/) | -3<small>배</small> | <span style="color: blue">-70.7<small>%</small></span> | 16.7<small>%</small> | -10.6<small>%</small> | 7.9<small>%</small> |
@@ -105,6 +105,19 @@
 
 <br>
 
+> **FTSE China A50 지수**
+
+| **종목** | **배율** | **1년** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
+| :------- | -------: | ------: | --------------: | ------------: | ------------: |
+| FXI | 기초 | <span style="color: blue">-31.5<small>%</small></span> | - | - | - |
+| [XPP](/xpp/) | 2<small>배</small> | <span style="color: blue">-58.5<small>%</small></span> | 7.6<small>%</small> | 4.4<small>%</small> | 11.7<small>%</small> |
+| [YINN](/yinn/) | 3<small>배</small> | <span style="color: blue">-76.2<small>%</small></span> | 21.1<small>%</small> | 6.1<small>%</small> | 25.9<small>%</small> |
+| [YXI](/yxi/) | -1<small>배</small> | <span style="color: red">36.2<small>%</small></span> | 7.6<small>%</small> | -1.0<small>%</small> | 6.7<small>%</small> |
+| [FXP](/fxp/) | -2<small>배</small> | <span style="color: red">70.1<small>%</small></span> | 21.1<small>%</small> | -1.1<small>%</small> | 20.2<small>%</small> |
+| [YANG](/yang/) | -3<small>배</small> | <span style="color: red">106.7<small>%</small></span> | 37.8<small>%</small> | -6.9<small>%</small> | 33.5<small>%</small> |
+
+<br>
+
 > **CSI 중국 인터넷 지수**
 
 | **종목** | **배율** | **1년** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
@@ -132,7 +145,7 @@
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | TSLA | 기초 | <span style="color: red">15.0<small>%</small></span> | - | - | - |
 | [TSLL](/tsll/) | 1.5<small>배</small> | <span style="color: red">0.1<small>%</small></span> | 9.0<small>%</small> | 10.8<small>%</small> | 18.8<small>%</small> |
-| [TSL3.L](/tsl3/) | 3<small>배</small> | <span style="color: blue">-38.8<small>%</small></span> | 53.7<small>%</small> | 13.0<small>%</small> | 59.7<small>%</small> |
+| [TSL3.L](/tsl3/) | 3<small>배</small> | <span style="color: blue">-40.3<small>%</small></span> | 53.7<small>%</small> | 15.1<small>%</small> | 60.7<small>%</small> |
 
 <br>
 
