@@ -44,9 +44,9 @@ excerpt: "퀀트강의 슬기로운 주식 정보는 주식 시세와 재무 데
 
 지난 1년간 레버리지/인버스 상품의 수익률과 위험도를 추정 비용과 함께 제공합니다.
 
-| **[TQQQ](/tqqq/)** | **[TMV](/tmv/)** |
+| **[KODEX 레버리지](/122630/)** | **[TQQQ](/tqqq/)** |
 | :----------------------------: | :--------------------------------: |
-| [![TQQQ](/lev/images/tqqq.png)](/tqqq/) | [![TMV](/lev/images/tmv.png)](/tmv/) |
+| [![KODEX 레버리지](/lev/images/122630.png)](/122630/) | [![TQQQ](/lev/images/qqq_ideal.png)](/tqqq/) |
 
 <br>
 > **유사 주가 흐름을 보인 타 종목 제시**<small>[^fn_corr]</small>

@@ -1,6 +1,6 @@
 [^fn_update]: <small>장 마감 후 두어시간 이내 업데이트를 목표로 하지만, 상황에 따라서는 지연될 수 있습니다.</small>
 [^fn_corr]: <small>미래에도 유사한 주가 흐름을 보일 것이라는 예상이 아닙니다.</small>
-[^fn_price_metric]: <small>모든 지표는 최근 1년 데이터만을 이용하며 산출합니다. 표준편차는 일일 변동성으로 추정한 연단위 변동성입니다. 샤프(Sharpe)는 1년 수익률 / 연단위 표준편차입니다. MDD(Maximum Drawdown) 최대 낙폭(손실폭)입니다. DD(Drawdown)은 현재 낙폭입니다. AvDD(Average Drawdown)은 평균 낙폭입니다. MARr(Managed Account Reports Ratio)은 1년 수익률 / MDD입니다. Calmar Ratio라 불리기도 합니다.</small>
+[^fn_price_metric]: <small>모든 지표는 최근 1년 데이터만을 이용하며 산출합니다. 거래된지 1년 미만인 종목은 해당 기간을 연단위로 환산해서 추정합니다. 표준편차는 일일 변동성으로 추정한 연단위 변동성입니다. 샤프(Sharpe)는 1년 수익률 / 연단위 표준편차입니다. MDD(Maximum Drawdown) 최대 낙폭(손실폭)입니다. DD(Drawdown)은 현재 낙폭입니다. AvDD(Average Drawdown)은 평균 낙폭입니다. MARr(Managed Account Reports Ratio)은 1년 수익률 / MDD입니다. Calmar Ratio라 불리기도 합니다.</small>
 [^fn_finance_metric]: <small>가장 최근에 제출된 연간 보고서 기준입니다. KRX(한국거래소)의 검토 후 개제되는 데이터에 기반하고 있습니다. 이로 인해 시장에서 추정하는 현재 재무 상태와 상당한 차이가 있을 수 있습니다. 각 기업의 결산 마감일 >기준으로 최대 1년 4개월까지 시차가 발생합니다.</small>
 [^fn_sector_abbr]: <small>코스닥과 코스피는 업종 분류가 조금 다릅니다. 본 사이트는 각 시장의 분류명을 그대로 이용합니다. 어느 시장에 해당되는지 명확하게 하기 위하여 코스피(P:) 또는 코스닥(Q:)를 접두어로 붙여 표기합니다.</small>
 [^fn_finance_basic_tags]: <small>저PER와 저PBR는 각각 PER과 PBR가 가장 우수한(낮은) 상위 10%에 포함되는 경우입니다. 고배당은 DIV(배당률)이 가장 우수한(높은) 상위 10%에 포함되는 경우입니다. 너무 낮은 PER나 PBR 또는 고배당은 경우에 따라서는 기업에 문제가 있다는 신호일 수 있습니다. 기업의 문제로 주가가 낮아져서 저PER, 저PBR, 또는 고배당으로 보이는 착시가 발생할 수 있습니다. 고PER와 고PBR은 저PER와 저PBR의 반대되는 경우입니다. 성장업종인지 사양업종인지에 따라 이들 항목의 평균적인 수치가 크게 다를 수 있습니다. 업종의 특성을 고려하지 않고 모든 종목에 동일한 기준을 적용하는 것은 적절하지 못할 수 있습니다.</small>
