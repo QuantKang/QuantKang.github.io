@@ -4,10 +4,10 @@
 
 | **종목** | **배율** | **1년** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| KODEX 200 | 기초 | <span style="color: red">7.5<small>%</small></span> | - | - | - |
-| [KODEX 2x](/122630/) | 2<small>배</small> | <span style="color: red">8.1<small>%</small></span> | 2.3<small>%</small> | 4.3<small>%</small> | 6.6<small>%</small> |
-| [KODEX -1x](/114800/) | -1<small>배</small> | <span style="color: blue">-4.4<small>%</small></span> | 2.3<small>%</small> | -5.3<small>%</small> | -2.8<small>%</small> |
-| [KODEX -2x](/252670/) | -2<small>배</small> | <span style="color: blue">-13.6<small>%</small></span> | 6.9<small>%</small> | -7.3<small>%</small> | 0.1<small>%</small> |
+| KODEX 200 | 기초 | <span style="color: red">8.2<small>%</small></span> | - | - | - |
+| [KODEX 2x](/122630/) | 2<small>배</small> | <span style="color: red">9.2<small>%</small></span> | 2.3<small>%</small> | 4.5<small>%</small> | 6.7<small>%</small> |
+| [KODEX -1x](/114800/) | -1<small>배</small> | <span style="color: blue">-5.0<small>%</small></span> | 2.4<small>%</small> | -5.3<small>%</small> | -2.8<small>%</small> |
+| [KODEX -2x](/252670/) | -2<small>배</small> | <span style="color: blue">-14.6<small>%</small></span> | 6.9<small>%</small> | -7.4<small>%</small> | 0.0<small>%</small> |
 
 <br>
 
@@ -15,11 +15,11 @@
 
 | **종목** | **배율** | **1년** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| KODEX 150 | 기초 | <span style="color: red">22.1<small>%</small></span> | - | - | - |
-| [KODEX 150 2x](/233740/) | 2<small>배</small> | <span style="color: red">31.8<small>%</small></span> | 9.3<small>%</small> | 2.6<small>%</small> | 11.6<small>%</small> |
-| [KODEX 150 -1x](/251340/) | -1<small>배</small> | <span style="color: blue">-24.0<small>%</small></span> | 9.7<small>%</small> | -2.8<small>%</small> | 7.1<small>%</small> |
-| [삼성 150 -2x](/530107/) | -2<small>배</small> | <span style="color: blue">-51.8<small>%</small></span> | 27.0<small>%</small> | 1.5<small>%</small> | 28.0<small>%</small> |
-| [미래 150 -2x](/520057/) | -2<small>배</small> | <span style="color: blue">-51.8<small>%</small></span> | 27.0<small>%</small> | 1.5<small>%</small> | 28.1<small>%</small> |
+| KODEX 150 | 기초 | <span style="color: red">20.2<small>%</small></span> | - | - | - |
+| [KODEX 150 2x](/233740/) | 2<small>배</small> | <span style="color: red">28.0<small>%</small></span> | 9.2<small>%</small> | 2.3<small>%</small> | 11.3<small>%</small> |
+| [KODEX 150 -1x](/251340/) | -1<small>배</small> | <span style="color: blue">-22.9<small>%</small></span> | 9.7<small>%</small> | -2.5<small>%</small> | 7.4<small>%</small> |
+| [삼성 150 -2x](/530107/) | -2<small>배</small> | <span style="color: blue">-50.2<small>%</small></span> | 26.9<small>%</small> | 1.7<small>%</small> | 28.1<small>%</small> |
+| [미래 150 -2x](/520057/) | -2<small>배</small> | <span style="color: blue">-50.1<small>%</small></span> | 26.9<small>%</small> | 1.5<small>%</small> | 28.0<small>%</small> |
 
 <br>
 
@@ -110,7 +110,7 @@
 | **종목** | **배율** | **1년** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | FXI | 기초 | <span style="color: blue">-31.6<small>%</small></span> | - | - | - |
-| [XPP](/xpp/) | 2<small>배</small> | <span style="color: blue">-58.7<small>%</small></span> | 7.6<small>%</small> | 4.4<small>%</small> | 11.7<small>%</small> |
+| [XPP](/xpp/) | 2<small>배</small> | <span style="color: blue">-58.7<small>%</small></span> | 7.6<small>%</small> | 4.4<small>%</small> | 11.6<small>%</small> |
 | [YINN](/yinn/) | 3<small>배</small> | <span style="color: blue">-76.3<small>%</small></span> | 21.1<small>%</small> | 6.0<small>%</small> | 25.8<small>%</small> |
 | [YXI](/yxi/) | -1<small>배</small> | <span style="color: red">36.2<small>%</small></span> | 7.6<small>%</small> | -0.8<small>%</small> | 6.8<small>%</small> |
 | [FXP](/fxp/) | -2<small>배</small> | <span style="color: red">70.8<small>%</small></span> | 21.1<small>%</small> | -1.3<small>%</small> | 20.1<small>%</small> |
@@ -145,6 +145,7 @@
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | TSLA | 기초 | <span style="color: red">8.1<small>%</small></span> | - | - | - |
 | [TSLL](/tsll/) | 1.5<small>배</small> | <span style="color: blue">-8.5<small>%</small></span> | 8.9<small>%</small> | 10.6<small>%</small> | 18.6<small>%</small> |
+| [TSLT](/tslt/) | 2<small>배</small> | <span style="color: blue">-70.3<small>%</small></span> | 5.8<small>%</small> | 3.5<small>%</small> | 9.1<small>%</small> |
 | [TSL3.L](/tsl3/) | 3<small>배</small> | <span style="color: blue">-47.9<small>%</small></span> | 53.6<small>%</small> | 11.2<small>%</small> | 58.8<small>%</small> |
 
 <br>
@@ -154,4 +155,7 @@
 | **종목** | **배율** | **1년** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | NVDA | 기초 | <span style="color: red">215.2<small>%</small></span> | - | - | - |
-| [NVDL](/nvdl/) | 1.5<small>배</small> | <span style="color: red">336.4<small>%</small></span> | 7.1<small>%</small> | 16.0<small>%</small> | 22.0<small>%</small> |
+| [NVDL](/nvdl/) | 2<small>배</small> | <span style="color: red">336.4<small>%</small></span> | 17.6<small>%</small> | 46.6<small>%</small> | 56.0<small>%</small> |
+| [NVDD](/nvdd/) | -1<small>배</small> | <span style="color: blue">-57.2<small>%</small></span> | 4.2<small>%</small> | -2.0<small>%</small> | 2.3<small>%</small> |
+| [NVDS](/nvds/) | -1.25<small>배</small> | <span style="color: blue">-96.7<small>%</small></span> | 27.5<small>%</small> | 80.8<small>%</small> | 86.1<small>%</small> |
+| [NVD](/nvd/) | -2<small>배</small> | <span style="color: blue">-76.0<small>%</small></span> | 13.5<small>%</small> | -5.0<small>%</small> | 9.2<small>%</small> |
