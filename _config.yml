@@ -134,10 +134,15 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: 메인
   url: /
-- title: 기초 통계
+- title: 각종 통계
   url: /stats/
-- title: 카테고리
-  url: /categories/
+  - sublinks:
+    - title: 섹터
+      url: /stats/sector/
+    - title: 재무 데이터 기반
+      url: /fn/
+- title: 레버리지/인버스
+  url: /lev/
 - title: 검색
   url: /search/
 #- title: Elements
