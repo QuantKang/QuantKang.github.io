@@ -135,7 +135,6 @@ navigation_header:
 - title: 메인
   url: /
 - title: 각종 통계
-  url: /stats/
   sublinks:
     - title: 섹터
       url: /stats/sector/
