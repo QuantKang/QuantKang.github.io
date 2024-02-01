@@ -8,7 +8,7 @@ title: KOSDAQ 방송서비스 업종 종목별 시가총액 비중
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [CJ ENM](/035760/) | - | 0.4 | - | 55.3<small>%</small> |
+| CJ ENM | - | 0.4 | - | 55.3<small>%</small> |
 | YTN | 43.0 | 0.9 | 1.1<small>%</small> | 8.3<small>%</small> |
 | KX | 9.9 | 0.8 | 3.4<small>%</small> | 7.8<small>%</small> |
 | SM C&C | 31.1 | 1.6 | - | 6.0<small>%</small> |

@@ -8,8 +8,8 @@ title: KOSPI 섬유의복 업종 종목별 시가총액 비중
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [F&F](/383220/) | 6.1 | 2.9 | 2.3<small>%</small> | 44.1<small>%</small> |
-| [한세실업](/105630/) | 9.4 | 1.5 | 2.4<small>%</small> | 13.4<small>%</small> |
+| F&F | 6.1 | 2.9 | 2.3<small>%</small> | 44.1<small>%</small> |
+| 한세실업 | 9.4 | 1.5 | 2.4<small>%</small> | 13.4<small>%</small> |
 | 한섬 | 3.3 | 0.3 | 4.0<small>%</small> | 7.4<small>%</small> |
 | LF | 2.5 | 0.2 | 5.3<small>%</small> | 6.2<small>%</small> |
 | BYC | 9.8 | 0.5 | 0.7<small>%</small> | 4.2<small>%</small> |

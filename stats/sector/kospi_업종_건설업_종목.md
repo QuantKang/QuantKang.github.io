@@ -8,11 +8,11 @@ title: KOSPI 건설업 업종 종목별 시가총액 비중
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [현대건설](/000720/) | 9.5 | 0.5 | 1.7<small>%</small> | 26.4<small>%</small> |
-| [대우건설](/047040/) | 3.2 | 0.4 | - | 11.2<small>%</small> |
-| [DL이앤씨](/375500/) | 4.1 | 0.4 | 2.4<small>%</small> | 11.0<small>%</small> |
-| [한전KPS](/051600/) | 15.2 | 1.3 | 3.8<small>%</small> | 10.4<small>%</small> |
-| [GS건설](/006360/) | 3.8 | 0.3 | 8.6<small>%</small> | 8.8<small>%</small> |
+| 현대건설 | 9.5 | 0.5 | 1.7<small>%</small> | 26.4<small>%</small> |
+| 대우건설 | 3.2 | 0.4 | - | 11.2<small>%</small> |
+| DL이앤씨 | 4.1 | 0.4 | 2.4<small>%</small> | 11.0<small>%</small> |
+| 한전KPS | 15.2 | 1.3 | 3.8<small>%</small> | 10.4<small>%</small> |
+| GS건설 | 3.8 | 0.3 | 8.6<small>%</small> | 8.8<small>%</small> |
 | HDC현대산업개발 | 23.5 | 0.4 | 3.3<small>%</small> | 8.1<small>%</small> |
 | 삼부토건 | - | 2.0 | - | 2.8<small>%</small> |
 | DL건설 | 6.1 | 0.3 | 1.7<small>%</small> | 2.3<small>%</small> |
