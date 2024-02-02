@@ -29,7 +29,7 @@ excerpt: "퀀트강의 슬기로운 주식 정보는 주식 시세와 재무 데
 | [![KOSPI 업종 비중](/stats/sector/images/kospi_all_all_업종.png)](/stats/sector/kospi_all_all_업종/) | [![KOSDAQ 반도체 업종](/stats/sector/images/kosdaq_업종_반도체_종목.png)](/stats/sector/kosdaq_업종_디지털컨텐츠_종목/) |
 
 <br>
-> **[재무 지표 기반 종목](/fn) 선별**
+> **[재무<small>[^fn_finance_metric]</small> 지표 기반 종목](/fn) 선별**
 
 | **저PBR** | **고배당** |
 | :---: | :---: |
