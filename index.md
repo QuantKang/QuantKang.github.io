@@ -24,11 +24,15 @@ excerpt: "퀀트강의 슬기로운 주식 정보는 주식 시세와 재무 데
 <br>
 > **투자에 도움이 되는 [다양한 통계](/stats/) 제공**
 
-| **KOSPI 업종 비중** | **KOSDAQ 종목 비중** |
+| **KOSPI 업종별 비중** | **KOSDAQ 반도체 업종** |
 | :---: | :---: |
-| [![KOSPI 업종 비중](/stats/sector/images/kospi_all_all_업종.png)](/stats/sector/kospi_all_all_업종/) | [![KOSDAQ 종목 비중](/stats/sector/images/kosdaq_all_all_종목.png)](/stats/sector/kosdaq_all_all_종목/) |
-| **KOSPI 전기전자 업종** | **KOSDAQ 디지털컨텐츠 업종** |
-| [![KOSPI 전기전자 업종](/stats/sector/images/kospi_업종_전기전자_종목.png)](/stats/sector/kospi_업종_전기전자_종목/) | [![KOSDAQ 디지털컨텐츠 업종](/stats/sector/images/kosdaq_업종_디지털컨텐츠_종목.png)](/stats/sector/kosdaq_업종_디지털컨텐츠_종목/) |
+| [![KOSPI 업종 비중](/stats/sector/images/kospi_all_all_업종.png)](/stats/sector/kospi_all_all_업종/) | [![KOSDAQ 반도체 업종](/stats/sector/images/kosdaq_업종_반도체_종목.png)](/stats/sector/kosdaq_업종_디지털컨텐츠_종목/) |
+
+<br>
+> **[재무 지표 기반 종목 목록](/fn/)**
+
+| **저PBR** | **고배당** |
+| [![저PBR 상위 10%](/fn/images/fn_low_pbr_table5.png)](/fn/fn_low_pbr/) | [![고배당 PBR 상위 10%](/fn/images/fn_high_div_table5.png)](/fn/fn_high_div/) |
 
 <br>
 > **기술적 지표가 포함된 주가 그래프 제공**
