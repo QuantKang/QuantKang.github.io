@@ -7,8 +7,8 @@
 | [알테오젠](/196170/) | <small>Q:기타서비스</small> | <small>-</small> | <small>24.7</small> | <small>-</small> |
 | [루닛](/328130/) | <small>Q:소프트웨어</small> | <small>-</small> | <small>23.2</small> | <small>-</small> |
 | [SK바이오팜](/326030/) | <small>P:서비스업</small> | <small>-</small> | <small>22.3</small> | <small>-</small> |
-| [HPSP](/403870/) | <small>Q:반도체</small> | <small>49.7</small> | <small>18.6</small> | <small>0.3<small>%</small></small> |
-| [에코프로비엠](/247540/) | <small>Q:일반전기전자</small> | <small>79.1</small> | <small>16.3</small> | <small>0.2<small>%</small></small> |
+| [HPSP](/403870/) | <small>Q:반도체</small> | <small>49.7</small> | <small>18.6</small> | <small>0.3%</small> |
+| [에코프로비엠](/247540/) | <small>Q:일반전기전자</small> | <small>79.1</small> | <small>16.3</small> | <small>0.2%</small> |
 | [박셀바이오](/323990/) | <small>Q:기타서비스</small> | <small>-</small> | <small>16.0</small> | <small>-</small> |
 | [현대바이오](/048410/) | <small>Q:화학</small> | <small>-</small> | <small>15.3</small> | <small>-</small> |
 | [에이비엘바이오](/298380/) | <small>Q:제약</small> | <small>325.4</small> | <small>15.0</small> | <small>-</small> |
@@ -19,19 +19,19 @@
 | [셀트리온제약](/068760/) | <small>Q:제약</small> | <small>160.7</small> | <small>11.7</small> | <small>-</small> |
 | [레이크머티리얼즈](/281740/) | <small>Q:화학</small> | <small>36.2</small> | <small>11.3</small> | <small>-</small> |
 | [강원에너지](/114190/) | <small>Q:금속</small> | <small>99.5</small> | <small>10.6</small> | <small>-</small> |
-| [에코프로에이치엔](/383310/) | <small>Q:화학</small> | <small>28.2</small> | <small>10.5</small> | <small>1.0<small>%</small></small> |
-| [에코프로](/086520/) | <small>Q:금융</small> | <small>373.2</small> | <small>10.5</small> | <small>0.1<small>%</small></small> |
+| [에코프로에이치엔](/383310/) | <small>Q:화학</small> | <small>28.2</small> | <small>10.5</small> | <small>1.0%</small> |
+| [에코프로](/086520/) | <small>Q:금융</small> | <small>373.2</small> | <small>10.5</small> | <small>0.1%</small> |
 | [엔켐](/348370/) | <small>Q:화학</small> | <small>127.4</small> | <small>10.1</small> | <small>-</small> |
-| [파크시스템스](/140860/) | <small>Q:의료정밀기기</small> | <small>39.7</small> | <small>9.3</small> | <small>0.2<small>%</small></small> |
-| [대주전자재료](/078600/) | <small>Q:IT부품</small> | <small>1062.7</small> | <small>8.8</small> | <small>0.1<small>%</small></small> |
+| [파크시스템스](/140860/) | <small>Q:의료정밀기기</small> | <small>39.7</small> | <small>9.3</small> | <small>0.2%</small> |
+| [대주전자재료](/078600/) | <small>Q:IT부품</small> | <small>1062.7</small> | <small>8.8</small> | <small>0.1%</small> |
 | [네이처셀](/007390/) | <small>Q:제약</small> | <small>-</small> | <small>8.8</small> | <small>-</small> |
 | [한올바이오파마](/009420/) | <small>P:의약품</small> | <small>5780.0</small> | <small>8.7</small> | <small>-</small> |
-| [포스코엠텍](/009520/) | <small>Q:금속</small> | <small>203.0</small> | <small>8.6</small> | <small>0.2<small>%</small></small> |
+| [포스코엠텍](/009520/) | <small>Q:금속</small> | <small>203.0</small> | <small>8.6</small> | <small>0.2%</small> |
 | [제이오](/418550/) | <small>Q:기타서비스</small> | <small>-</small> | <small>8.4</small> | <small>-</small> |
-| [JYP Ent.](/035900/) | <small>Q:오락문화</small> | <small>37.3</small> | <small>8.4</small> | <small>0.5<small>%</small></small> |
-| [클래시스](/214150/) | <small>Q:의료정밀기기</small> | <small>25.2</small> | <small>8.2</small> | <small>0.4<small>%</small></small> |
+| [JYP Ent.](/035900/) | <small>Q:오락문화</small> | <small>37.3</small> | <small>8.4</small> | <small>0.5%</small> |
+| [클래시스](/214150/) | <small>Q:의료정밀기기</small> | <small>25.2</small> | <small>8.2</small> | <small>0.4%</small> |
 | [삼천당제약](/000250/) | <small>Q:제약</small> | <small>242.3</small> | <small>8.2</small> | <small>-</small> |
-| [포스코퓨처엠](/003670/) | <small>P:전기전자</small> | <small>170.3</small> | <small>8.1</small> | <small>0.1<small>%</small></small> |
+| [포스코퓨처엠](/003670/) | <small>P:전기전자</small> | <small>170.3</small> | <small>8.1</small> | <small>0.1%</small> |
 | [하나투어](/039130/) | <small>P:서비스업</small> | <small>-</small> | <small>7.9</small> | <small>-</small> |
 | [제이시스메디칼](/287410/) | <small>Q:의료정밀기기</small> | <small>22.0</small> | <small>7.5</small> | <small>-</small> |
 | [셀바스AI](/108860/) | <small>Q:소프트웨어</small> | <small>60.9</small> | <small>7.5</small> | <small>-</small> |
