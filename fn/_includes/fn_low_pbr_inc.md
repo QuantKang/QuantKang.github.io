@@ -15,7 +15,7 @@
 | [롯데지주](/004990/) | <small>P:기타금융</small> | <small>13.1</small> | <small>**0.3**</small> | <small><span style="color:tomato">4.8<small>%</small></span></small> |
 | [DGB금융지주](/139130/) | <small>P:기타금융</small> | <small><span style="color:tomato">4.3</span></small> | <small>**0.3**</small> | <small><span style="color:tomato">6.6<small>%</small></span></small> |
 | [한국전력](/015760/) | <small>P:전기가스업</small> | <small>-</small> | <small>**0.3**</small> | <small>-</small> |
-| [롯데케미칼](/011170/) | <small>P:화학</small> | <small><span style="color:tomato">81.6</span></small> | <small>**0.3**</small> | <small>2.5<small>%</small></small> |
+| [롯데케미칼](/011170/) | <small>P:화학</small> | <small><span style="color:cornflowerblue">81.6</span></small> | <small>**0.3**</small> | <small>2.5<small>%</small></small> |
 | [우리금융지주](/316140/) | <small>P:기타금융</small> | <small><span style="color:tomato">3.4</span></small> | <small>**0.4**</small> | <small><span style="color:tomato">7.8<small>%</small></span></small> |
 | [기업은행](/024110/) | <small>P:은행</small> | <small><span style="color:tomato">4.0</span></small> | <small>**0.4**</small> | <small><span style="color:tomato">7.3<small>%</small></span></small> |
 | [GS](/078930/) | <small>P:기타금융</small> | <small><span style="color:tomato">2.2</span></small> | <small>**0.4**</small> | <small><span style="color:tomato">5.0<small>%</small></span></small> |

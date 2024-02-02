@@ -11,7 +11,7 @@
 | [기업은행](/024110/) | <small>P:은행</small> | <small><span style="color:tomato">4.0</span></small> | <small><span style="color:tomato">0.4</span></small> | <small>**7.3**<small>%</small></small> |
 | [삼성카드](/029780/) | <small>P:기타금융</small> | <small>6.0</small> | <small>0.5</small> | <small>**7.2**<small>%</small></small> |
 | [쌍용C&E](/003410/) | <small>P:비금속광물</small> | <small>24.9</small> | <small>2.0</small> | <small>**7.0**<small>%</small></small> |
-| [효성](/004800/) | <small>P:기타금융</small> | <small><span style="color:tomato">82.8</span></small> | <small>0.5</small> | <small>**6.9**<small>%</small></small> |
+| [효성](/004800/) | <small>P:기타금융</small> | <small><span style="color:cornflowerblue">82.8</span></small> | <small>0.5</small> | <small>**6.9**<small>%</small></small> |
 | [롯데정밀화학](/004000/) | <small>P:화학</small> | <small>8.9</small> | <small>0.6</small> | <small>**6.9**<small>%</small></small> |
 | [JB금융지주](/175330/) | <small>P:기타금융</small> | <small><span style="color:tomato">4.2</span></small> | <small>0.5</small> | <small>**6.6**<small>%</small></small> |
 | [DGB금융지주](/139130/) | <small>P:기타금융</small> | <small><span style="color:tomato">4.3</span></small> | <small><span style="color:tomato">0.3</span></small> | <small>**6.6**<small>%</small></small> |
@@ -22,7 +22,7 @@
 | [NH투자증권](/005940/) | <small>P:증권</small> | <small>12.6</small> | <small>0.5</small> | <small>**6.3**<small>%</small></small> |
 | [제일기획](/030000/) | <small>P:서비스업</small> | <small>9.6</small> | <small>1.5</small> | <small>**6.2**<small>%</small></small> |
 | [LG유플러스](/032640/) | <small>P:통신업</small> | <small>6.8</small> | <small>0.6</small> | <small>**6.2**<small>%</small></small> |
-| [한온시스템](/018880/) | <small>P:기계</small> | <small><span style="color:tomato">167.4</span></small> | <small>1.5</small> | <small>**5.7**<small>%</small></small> |
+| [한온시스템](/018880/) | <small>P:기계</small> | <small><span style="color:cornflowerblue">167.4</span></small> | <small>1.5</small> | <small>**5.7**<small>%</small></small> |
 | [골프존](/215000/) | <small>Q:소프트웨어</small> | <small>4.4</small> | <small>1.4</small> | <small>**5.6**<small>%</small></small> |
 | [현대해상](/001450/) | <small>P:보험</small> | <small>5.0</small> | <small>0.7</small> | <small>**5.5**<small>%</small></small> |
 | [KT&G](/033780/) | <small>P:기타제조업</small> | <small>10.9</small> | <small>1.2</small> | <small>**5.4**<small>%</small></small> |
