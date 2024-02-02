@@ -13,7 +13,7 @@
 | [삼천당제약](/000250/) | <small>Q:제약</small> | <small>242.3</small> | <small>8.2</small> | <small>-</small> |
 | [포스코엠텍](/009520/) | <small>Q:금속</small> | <small>203.0</small> | <small>8.6</small> | <small>0.2<small>%</small></small> |
 | [포스코퓨처엠](/003670/) | <small>P:전기전자</small> | <small>170.3</small> | <small>8.1</small> | <small>0.1<small>%</small></small> |
-| [한온시스템](/018880/) | <small>P:기계</small> | <small>167.4</small> | <small>1.5</small> | <sup>*</sup><small>5.7<small>%</small></small> |
+| [한온시스템](/018880/) | <small>P:기계</small> | <small>167.4</small> | <small>1.5</small> | <small><sup>*</sup>5.7<small>%</small></small> |
 | [RFHIC](/218410/) | <small>Q:일반전기전자</small> | <small>165.8</small> | <small>1.7</small> | <small>0.6<small>%</small></small> |
 | [셀트리온제약](/068760/) | <small>Q:제약</small> | <small>160.7</small> | <small>11.7</small> | <small>-</small> |
 | [하이브](/352820/) | <small>P:서비스업</small> | <small>157.3</small> | <small>3.0</small> | <small>-</small> |
@@ -28,8 +28,8 @@
 | [엠로](/058970/) | <small>Q:소프트웨어</small> | <small>103.5</small> | <small>13.2</small> | <small>-</small> |
 | [강원에너지](/114190/) | <small>Q:금속</small> | <small>99.5</small> | <small>10.6</small> | <small>-</small> |
 | [코스모화학](/005420/) | <small>P:화학</small> | <small>88.3</small> | <small>4.8</small> | <small>-</small> |
-| [효성](/004800/) | <small>P:기타금융</small> | <small>82.8</small> | <small>0.5</small> | <sup>*</sup><small>6.9<small>%</small></small> |
-| [롯데케미칼](/011170/) | <small>P:화학</small> | <small>81.6</small> | <sup>*</sup><small>0.3</small> | <small>2.5<small>%</small></small> |
+| [효성](/004800/) | <small>P:기타금융</small> | <small>82.8</small> | <small>0.5</small> | <small><sup>*</sup>6.9<small>%</small></small> |
+| [롯데케미칼](/011170/) | <small>P:화학</small> | <small>81.6</small> | <small><sup>*</sup>0.3</small> | <small>2.5<small>%</small></small> |
 | [에코프로비엠](/247540/) | <small>Q:일반전기전자</small> | <small>79.1</small> | <small>16.3</small> | <small>0.2<small>%</small></small> |
 | [삼성바이오로직스](/207940/) | <small>P:의약품</small> | <small>72.5</small> | <small>6.6</small> | <small>-</small> |
 | [에스티팜](/237690/) | <small>Q:제약</small> | <small>66.2</small> | <small>3.5</small> | <small>0.8<small>%</small></small> |
