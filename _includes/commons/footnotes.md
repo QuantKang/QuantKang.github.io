@@ -21,4 +21,4 @@
 [^fn_lev_ideal_daily]: <small>비연속적인 기초 상품의 일단위 수익률을 레버리지 배율만큼 추종하면서, 금융 비용이 없다고 가정한 경우입니다. 비연속성을 가정했기에 변동성 비용은 발생합니다.</small>
 [^fn_lev_warning]: <small>레버리지 상품은 변동성과 비용이 높은 고위험 상품입니다. 본 사이트는 레버리지 상품을 분석하여 위험도와 비용을 추정합니다. 하지만 위험도와 비용이 상대적으로 낮게 추정되었다고 해서 해당 상품을 추천하는 것은 아닙니다.</small>
 [^fn_lev_stock]: <small>동일한 레버리지 배율의 상품이 여럿 있는 경우, 설정액이 높은 상품을 해당 레버리지 배율의 대표 상품으로 표시합니다.</small>
-[^fn_lev_stock_abbr]: <small>KODEX 2x(KODEX 레버리지), KODEX -1x(KODEX 인버스), KODEX -2x(KODEX 200선물인버스2X), KODEX 150(KODEX 코스닥 150), KODEX 150 2x(KODEX 코스닥150레버리지), KODEX 150 -1x(KODEX 코스닥150선물인버스), 삼성 150 -2x(삼성 인버스 2X 코스닥150 선물 ETN), 미래 150 -2x(미래에셋 인버스 2X 코스닥150 선물 ETN)</small>
+[^fn_lev_stock_abbr]: <small>KODEX 2x(KODEX 레버리지), KODEX -1x(KODEX 인버스), KODEX -2x(KODEX 200선물인버스2X), KODEX 150(KODEX 코스닥 150), KODEX 150 2x(KODEX 코스닥150레버리지), KODEX 150 -1x(KODEX 코스닥150선물인버스), 삼성 150 -2x(삼성 인버스 2X 코스닥150 선물 ETN), 미래 150 -2x(미래에셋 인버스 2X 코스닥150 선물 ETN), KODEX USD(KODEX 미국달러선물), KODEX USD 2x(KODEX 미국달러선물레버리지), KODEX USD -1x(KODEX 미국달러선물인버스), KODEX USD -2x(KODEX 미국달러선물인버스2X)</small>

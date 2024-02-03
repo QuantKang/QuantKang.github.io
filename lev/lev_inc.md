@@ -12,6 +12,12 @@
 
 <br>
 
+> **달러 환율**<a id="261240"></a>
+
+{% include lev/261240_inc.md %}
+
+<br>
+
 > **다우 존스 산업평균 지수**<a id="DIA"></a>
 
 {% include lev/dia_inc.md %}
