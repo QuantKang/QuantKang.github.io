@@ -58,6 +58,22 @@
 
     {% include site-before-end.html %}
 
+    <!--
+      Google 검색에 사이트 이름 제공
+      https://developers.google.com/search/docs/appearance/site-names?hl=ko
+    -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "퀀트강의 슬기로운 주식 정보",
+      "url": "https://quantkang.github.io/",
+      "description": "퀀트강의 슬기로운 주식 정보는 주식 시세와 재무 데이터를 통계적으로 분석하여 투자에 되는 정보를 제공합니다.",
+      "author": {"@type": "Person", "name": "QuantKang"},
+      "creator": {"@type": "Person", "name": "QuantKang"}
+    }
+    </script>
+
     <!-- 네이버 애널리틱스 -->
     <script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
     <script type="text/javascript">
