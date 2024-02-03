@@ -145,7 +145,7 @@
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | TSLA | 기초 | <span style="color: cornflowerblue">-0.2<small>%</small></span> | - | - | - |
 | [TSLL](/tsll/) | 1.5<small>배</small> | <span style="color: cornflowerblue">-18.8<small>%</small></span> | 8.8<small>%</small> | 10.7<small>%</small> | 18.6<small>%</small> |
-| [TSLT](/tslt/) | 2<small>배</small> | - | 5.8<small>%</small> | 3.8<small>%</small> | 9.4<small>%</small> |
+| [TSLT](/tslt/) | 2<small>배</small> | <span style="color: cornflowerblue">-69.3<small>%</small></span> | 5.8<small>%</small> | 3.8<small>%</small> | 9.4<small>%</small> |
 | [TSL3.L](/tsl3/) | 3<small>배</small> | <span style="color: cornflowerblue">-63.4<small>%</small></span> | 53.1<small>%</small> | 21.3<small>%</small> | 63.1<small>%</small> |
 
 <br>
@@ -156,6 +156,6 @@
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | NVDA | 기초 | <span style="color: tomato">205.0<small>%</small></span> | - | - | - |
 | [NVDL](/nvdl/) | 2<small>배</small> | <span style="color: tomato">330.2<small>%</small></span> | 17.4<small>%</small> | 44.0<small>%</small> | 53.7<small>%</small> |
-| [NVDD](/nvdd/) | -1<small>배</small> | - | 4.5<small>%</small> | -2.1<small>%</small> | 2.5<small>%</small> |
+| [NVDD](/nvdd/) | -1<small>배</small> | <span style="color: cornflowerblue">-64.3<small>%</small></span> | 4.5<small>%</small> | -2.1<small>%</small> | 2.5<small>%</small> |
 | [NVDS](/nvds/) | -1.25<small>배</small> | <span style="color: cornflowerblue">-96.5<small>%</small></span> | 27.2<small>%</small> | 80.8<small>%</small> | 86.0<small>%</small> |
-| [NVD](/nvd/) | -2<small>배</small> | - | 14.3<small>%</small> | -4.9<small>%</small> | 10.1<small>%</small> |
+| [NVD](/nvd/) | -2<small>배</small> | <span style="color: cornflowerblue">-82.8<small>%</small></span> | 14.3<small>%</small> | -4.9<small>%</small> | 10.1<small>%</small> |
