@@ -60,6 +60,12 @@
 
 <br>
 
+> **MSCI Japan 지수**<a id="EWJ"></a>
+
+{% include lev/ewj_inc.md %}
+
+<br>
+
 > **FTSE China A50 지수**<a id="FXI"></a>
 
 {% include lev/fxi_inc.md %}
