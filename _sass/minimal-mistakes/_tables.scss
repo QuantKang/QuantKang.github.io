@@ -38,3 +38,8 @@ td,
 th {
   vertical-align: middle;
 }
+
+// Custom setting (even row color)
+tr:nth-child(even) {
+  background-color: #f6f6f6;
+}
