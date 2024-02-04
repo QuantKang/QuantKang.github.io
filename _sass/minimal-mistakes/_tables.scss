@@ -37,7 +37,9 @@ tr,
 td,
 th {
   vertical-align: middle;
-  text-decoration: none;
+  a {
+    text-decoration: none;
+  }
 }
 
 // Custom setting (even row color)
