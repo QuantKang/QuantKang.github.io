@@ -15,25 +15,18 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-##locale                   : "en-US"
-locale                   : "ko-KR"
-##title                    : "Site Title"
-title                    : "퀀트강의 슬기로운 주식 정보"
-##title_separator          : "-"
-title_separator          : "|"
+locale                   : "en-US"
+title                    : "Site Title"
+title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-##name                     : "Your Name"
-name                     : "퀀트강"
-##description              : "An amazing website."
-description              : "성공적인 주식 투자를 위하여 데이터 기반의 분석 결과와 유익한 정보를 제공합니다."
+name                     : "Your Name"
+description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-##logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-logo                     : "/assets/logos/logo@96px.png"
-#masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-masthead_title           : "퀀트강"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -66,8 +59,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-##search                   : # true, false (default)
-search                   : true
+search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 lunr:
@@ -81,11 +73,9 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-##google_site_verification :
-google_site_verification : "k5mkZeDDBIUuDBqclO_yspplzMXx7ul-MHagG5-ZzeA"
+google_site_verification :
 bing_site_verification   :
-##naver_site_verification  :
-naver_site_verification  : "e837bd5194d537ffcb674f5c3deacd4edd1dede6"
+naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
@@ -102,76 +92,64 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links                  : # An array of links to social media profiles
+  links: # An array of links to social media profiles
 
 # Analytics
 analytics:
   provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    ##tracking_id          :
-    tracking_id          : "G-WXLKNYCMNQ"
+    tracking_id          :
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
-  ##name             : "Your Name"
-  name             : "퀀트강"
+  name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  ##bio              : "I am an **amazing** person."
-  ##location         : "Somewhere"
-  location         : "대한민국"
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
   email            :
   links:
-    ##- label: "Email"
-    ##  icon: "fas fa-fw fa-envelope-square"
-    ##  # url: "mailto:your.name@email.com"
-    ##- label: "Website"
-    ##  icon: "fas fa-fw fa-link"
-    ##  # url: "https://your-website.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://quantkang.githug.io"
-    ##- label: "Twitter"
-    ##  icon: "fab fa-fw fa-twitter-square"
-    ##  # url: "https://twitter.com/"
-    ##- label: "Facebook"
-    ##  icon: "fab fa-fw fa-facebook-square"
-    ##  # url: "https://facebook.com/"
-    ##- label: "GitHub"
-    ##  icon: "fab fa-fw fa-github"
-    ##  # url: "https://github.com/"
+      # url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/QuantKang"
-    ##- label: "Instagram"
-    ##  icon: "fab fa-fw fa-instagram"
-    ##  # url: "https://instagram.com/"
+      # url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
-    ##- label: "Twitter"
-    ##  icon: "fab fa-fw fa-twitter-square"
-    ##  # url:
-    ##- label: "Facebook"
-    ##  icon: "fab fa-fw fa-facebook-square"
-    ##  # url:
-    ##- label: "GitHub"
-    ##  icon: "fab fa-fw fa-github"
-    ##  # url:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/QuantKang"
-    ##- label: "GitLab"
-    ##  icon: "fab fa-fw fa-gitlab"
-    ##  # url:
-    ##- label: "Bitbucket"
-    ##  icon: "fab fa-fw fa-bitbucket"
-    ##  # url:
-    ##- label: "Instagram"
-    ##  icon: "fab fa-fw fa-instagram"
-    ##  # url:
+      # url:
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
 
 
 # Reading Files
@@ -239,12 +217,10 @@ sass:
 
 
 # Outputting
-##permalink: /:categories/:title/
-permalink: /:title/
+permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-##timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -308,14 +284,9 @@ defaults:
       path: ""
       type: posts
     values:
-      ##layout: single
-      layout: splash
-      ##author_profile: true
-      author_profile: false
-      ##read_time: true
-      read_time: false
+      layout: single
+      author_profile: true
+      read_time: true
       comments: # true
-      ##share: true
-      share: false
-      ##related: true
-      related: false
+      share: true
+      related: true
