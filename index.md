@@ -1,6 +1,6 @@
 ---
-layout: single
-title: 퀀트강의 슬기로운 주식 정보
+layout: splash
+title: 슬기로운 주식 정보
 excerpt: "주식 시세와 재무 데이터를 분석하여 투자에 되는 정보를 제공합니다."
 header:
   overlay_image: "https://picsum.photos/1300/400?image=989"
