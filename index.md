@@ -1,9 +1,13 @@
 ---
-title: 메인
-feature_text: |
-  주식 시세와 재무 데이터를 분석하여 투자에 도움이 되는 정보를 제공합니다.
-feature_image: "https://picsum.photos/1300/400?image=989"
+title: 퀀트강의 슬기로운 주식 정보
 excerpt: "퀀트강의 슬기로운 주식 정보는 주식 시세와 재무 데이터를 통계적으로 분석하여 투자에 되는 정보를 제공합니다."
+header:
+  overlay_image: "https://picsum.photos/1300/400?image=989"
+  image_description: "주식 시세와 재무 데이터를 분석하여 투자에 도움이 되는 정보를 제공합니다."
+##feature_image: "https://picsum.photos/1300/400?image=989"
+##feature_text: |
+##  주식 시세와 재무 데이터를 분석하여 투자에 도움이 되는 정보를 제공합니다.
+##feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
 <br>
