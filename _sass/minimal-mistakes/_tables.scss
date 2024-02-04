@@ -37,9 +37,10 @@ tr,
 td,
 th {
   vertical-align: middle;
+  text-decoration: none;
 }
 
 // Custom setting (even row color)
 tr:nth-child(even) {
-  background-color: #f6f6f6;
+  background-color: #fafafa;
 }
