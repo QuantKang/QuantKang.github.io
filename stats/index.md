@@ -3,7 +3,7 @@ layout: splash
 title: 주식 투자 관련 통계
 excerpt: "흥미로운 주식 투자 관련 통계를 제공합니다."
 header:
-  overlay_color: 'a786e8'
+  overlay_color: '#a786e8'
   show_overlay_excerpt: false
 ---
 
