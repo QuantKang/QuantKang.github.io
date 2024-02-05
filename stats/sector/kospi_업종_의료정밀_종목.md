@@ -13,14 +13,14 @@ header:
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [에스디바이오센서](/137310/) | 1.2 | 0.4 | 8.9<small>%</small> | 34.0<small>%</small> |
-| [덴티움](/145720/) | 11.3 | 2.6 | 0.3<small>%</small> | 30.7<small>%</small> |
-| 케이씨텍 | 10.4 | 1.3 | 0.9<small>%</small> | 14.3<small>%</small> |
-| 케이씨 | 2.8 | 0.4 | 1.6<small>%</small> | 7.4<small>%</small> |
-| 우진 | 18.2 | 1.1 | 1.7<small>%</small> | 4.3<small>%</small> |
-| 디아이 | 10.7 | 1.0 | 1.6<small>%</small> | 4.2<small>%</small> |
-| 한컴라이프케어 | 14.7 | 1.1 | - | 3.3<small>%</small> |
-| 미래산업 | 7.7 | 0.7 | - | 1.7<small>%</small> |
+| [에스디바이오센서](/137310/) | 1.2 | 0.4 | 8.8<small>%</small> | 34.4<small>%</small> |
+| [덴티움](/145720/) | 11.1 | 2.6 | 0.3<small>%</small> | 30.1<small>%</small> |
+| 케이씨텍 | 10.4 | 1.3 | 0.9<small>%</small> | 14.4<small>%</small> |
+| 케이씨 | 2.9 | 0.4 | 1.5<small>%</small> | 7.7<small>%</small> |
+| 우진 | 18.0 | 1.1 | 1.7<small>%</small> | 4.3<small>%</small> |
+| 디아이 | 10.6 | 1.0 | 1.7<small>%</small> | 4.2<small>%</small> |
+| 한컴라이프케어 | 14.6 | 1.1 | - | 3.3<small>%</small> |
+| 미래산업 | 7.6 | 0.7 | - | 1.7<small>%</small> |
 
 ---
 {% include commons/footnotes.md %}

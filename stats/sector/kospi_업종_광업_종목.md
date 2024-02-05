@@ -13,7 +13,7 @@ header:
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| HLB글로벌 | - | 3.9 | - | 100.0<small>%</small> |
+| HLB글로벌 | - | 4.1 | - | 100.0<small>%</small> |
 
 ---
 {% include commons/footnotes.md %}

@@ -13,8 +13,8 @@ header:
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| 지에스이 | 17.5 | 1.2 | 1.2<small>%</small> | 74.4<small>%</small> |
-| DGP | - | 0.8 | - | 25.6<small>%</small> |
+| 지에스이 | 17.6 | 1.2 | 1.1<small>%</small> | 74.9<small>%</small> |
+| DGP | - | 0.8 | - | 25.1<small>%</small> |
 
 ---
 {% include commons/footnotes.md %}
