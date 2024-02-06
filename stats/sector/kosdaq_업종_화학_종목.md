@@ -1,6 +1,10 @@
 ---
+layout: splash
 title: KOSDAQ 화학 업종 종목별 시가총액 비중
 excerpt: KOSDAQ 화학 업종 종목별 시가총액 비중입니다. 종목별로 주요 재무 지표를 함께 표시합니다.
+header:
+  overlay_color: "#800000"
+  show_overlay_excerpt: false
 ---
 <br>
 ![KOSDAQ 화학 업종 종목별 시가총액 비중](images/kosdaq_업종_화학_종목.png)

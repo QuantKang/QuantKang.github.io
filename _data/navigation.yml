@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "재무 기반 선별"
+    url: "/fn/"
+  - title: "레버리지/인버스"
+    url: "/lev/"
+  - title: "각종 통계"
+    url: "/stats/"

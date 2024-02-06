@@ -1,6 +1,10 @@
 ---
+layout: splash
 title: KOSDAQ 운송장비부품 업종 종목별 시가총액 비중
 excerpt: KOSDAQ 운송장비부품 업종 종목별 시가총액 비중입니다. 종목별로 주요 재무 지표를 함께 표시합니다.
+header:
+  overlay_color: "#800000"
+  show_overlay_excerpt: false
 ---
 <br>
 ![KOSDAQ 운송장비부품 업종 종목별 시가총액 비중](images/kosdaq_업종_운송장비부품_종목.png)

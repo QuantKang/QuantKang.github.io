@@ -1,10 +1,10 @@
 ---
-title: 기초 통계
-feature_text: |
-  흥미로운 주식 관련 통계를 제공합니다.
-feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "흥미로운 주식 관련 기초 통계 정보"
-aside: false
+layout: splash
+title: 주식 투자 관련 통계
+excerpt: "흥미로운 주식 투자 관련 통계를 제공합니다."
+header:
+  overlay_color: '#a786e8'
+  show_overlay_excerpt: false
 ---
 
 > **재무 데이터 기반 지표**<small>[^fn_finance_metric]</small>
