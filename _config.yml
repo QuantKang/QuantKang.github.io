@@ -27,7 +27,7 @@ title                    : "퀀트강의 슬기로운 주식 정보"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 ##name                     : "Your Name"
-name                     : "퀀트강"
+name                     : "퀀트강의 슬기로운 주식 정보"
 ##description              : "An amazing website."
 description              : "성공적인 주식 투자를 위하여 데이터 기반의 분석 결과와 유익한 정보를 제공합니다."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
