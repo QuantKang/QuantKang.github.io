@@ -1,17 +1,3 @@
-<<<<<<< HEAD
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
-alembic-jekyll-theme-*.gem
-Gemfile.lock
-**/Gemfile.lock
-
-# Ignore vim files:
-*~
-*.swp
-*.swo
-=======
 # Vim
 *~
 *.sw[p_]
@@ -41,4 +27,3 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
->>>>>>> QuantKangAlpha.github.io/master
