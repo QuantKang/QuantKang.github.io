@@ -20,12 +20,10 @@ test_site_url__          : "https://quantkangalpha.github.io"
 
 is_prod__                : false
 is_test__                : false
-{% if site.github.url == prod_site_url %}
+${{% if site.github.url == prod_site_url %}}:
   is_prod__                : true
-{% endif %}
-{% if site.github.url == test_site_url %}
+${{% if site.github.url == test_site_url %}}:
   is_test__                : true
-{% endif %}
 
 # Site Settings
 ##locale                   : "en-US"
