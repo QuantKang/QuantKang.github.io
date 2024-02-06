@@ -12,7 +12,11 @@ feature_text: |
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
-**.Env.SITE_TYPE__: {{ .Env.SITE_TYPE__ }}**
+**site.github.url: {{ site.github.url }}**
+
+**site.is_prod__: {{ site.is_prod__ }}**
+
+**site.is_test__: {{ site.is_test__ }}**
 
 <br>
 > **다양한 종목과 데이터를 주기적으로 분석**<small>[^fn_update]</small>
