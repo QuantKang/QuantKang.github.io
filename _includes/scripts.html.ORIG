@@ -18,10 +18,7 @@
   {%- endcase -%}
 {% endif %}
 
-{% if site.github.url == site.prod_url__ %}
-  {% include analytics.html %}
-{% endif %}
-
+{% include analytics.html %}
 {% include /comments-providers/scripts.html %}
 
 {% if site.after_footer_scripts %}
