@@ -1,7 +1,9 @@
 <!-- start custom head snippets -->
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8120389152057270"
-     crossorigin="anonymous"></script>
+{% if site.github.url == site.prod_url__ %}
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8120389152057270"
+       crossorigin="anonymous"></script>
+{% endif %}
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
