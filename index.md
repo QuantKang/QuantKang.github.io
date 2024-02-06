@@ -12,14 +12,6 @@ feature_text: |
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
-{% if site.github.url == site.prod_url__ %}
-**This is production site.**
-{% endif %}
-
-{% if site.github.url == site.test_url__ %}
-**This is test site.**
-{% endif %}
-
 <br>
 > **다양한 종목과 데이터를 주기적으로 분석**<small>[^fn_update]</small>
 
