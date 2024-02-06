@@ -1,6 +1,5 @@
-{% if site.github.url == site.prod_url__ %}
-Sitemap: {% site.url %}/sitemap.xml
-{% else %}
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
 User-agent: *
-Disallow: /
-{% endif %}
+Sitemap: {{ site.url }}/sitemap.xml
