@@ -14,6 +14,12 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 **jekyll.environment: {{ ENV_SITE_TYPE__ }}**
 
+**site.github.hostname: {{ site.github.hostname }}**
+
+**site.github.pages_hostname: {{ site.github.pages_hostname }}**
+
+
+
 <br>
 > **다양한 종목과 데이터를 주기적으로 분석**<small>[^fn_update]</small>
 
