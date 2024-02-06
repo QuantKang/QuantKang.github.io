@@ -1,39 +1,39 @@
-주어진 정렬 조건을 제외한 다른 재무 지표도 함께 표기합니다. <span style="color:tomato">붉은색</span>으로 표시된 수치는 저PER, 저PBR, 고배당에도 해당되는 경우입니다. <span style="color:cornflowerblue">푸른색</span>으로 표시된 수치는 고PER, 고PBR에도 해당되는 경우입니다.
+주어진 정렬 조건을 제외한 다른 재무 지표[^fn_finance_metric]도 함께 표기합니다. <span style="color:tomato">붉은색</span>으로 표시된 수치는 저PER, 저PBR, 고배당에도 해당되는 경우입니다. <span style="color:cornflowerblue">푸른색</span>으로 표시된 수치는 고PER, 고PBR에도 해당되는 경우입니다.
 
 | **종목** | **업종**<small>[^fn_sector_abbr]</small> | **PER** | **PBR** | **DIV** |
 | :--- | :--- | --: | --: | --: |
-| [이마트](/139480/) | <small>P:유통업</small> | <small><span style="color:tomato">2.3</span></small> | <small>**0.2**</small> | <small>2.3<small>%</small></small> |
+| [이마트](/139480/) | <small>P:유통업</small> | <small><span style="color:tomato">2.2</span></small> | <small>**0.2**</small> | <small>2.4<small>%</small></small> |
+| [영풍](/000670/) | <small>P:철강금속</small> | <small><span style="color:tomato">2.4</span></small> | <small>**0.2**</small> | <small>1.9<small>%</small></small> |
 | [한국가스공사](/036460/) | <small>P:전기가스업</small> | <small><span style="color:tomato">1.6</span></small> | <small>**0.2**</small> | <small>-</small> |
-| [영풍](/000670/) | <small>P:철강금속</small> | <small><span style="color:tomato">2.5</span></small> | <small>**0.2**</small> | <small>1.8<small>%</small></small> |
-| [현대제철](/004020/) | <small>P:철강금속</small> | <small>4.6</small> | <small>**0.2**</small> | <small>2.8<small>%</small></small> |
-| [BNK금융지주](/138930/) | <small>P:기타금융</small> | <small><span style="color:tomato">3.2</span></small> | <small>**0.2**</small> | <small><span style="color:tomato">8.1<small>%</small></span></small> |
+| [현대제철](/004020/) | <small>P:철강금속</small> | <small>4.5</small> | <small>**0.2**</small> | <small>2.9<small>%</small></small> |
+| [BNK금융지주](/138930/) | <small>P:기타금융</small> | <small><span style="color:tomato">3.1</span></small> | <small>**0.2**</small> | <small><span style="color:tomato">8.3<small>%</small></span></small> |
 | [롯데쇼핑](/023530/) | <small>P:유통업</small> | <small>-</small> | <small>**0.3**</small> | <small>3.8<small>%</small></small> |
+| [하림지주](/003380/) | <small>Q:금융</small> | <small><span style="color:tomato">2.9</span></small> | <small>**0.3**</small> | <small>1.5<small>%</small></small> |
 | [GS건설](/006360/) | <small>P:건설업</small> | <small><span style="color:tomato">3.8</span></small> | <small>**0.3**</small> | <small><span style="color:tomato">8.5<small>%</small></span></small> |
-| [하림지주](/003380/) | <small>Q:금융</small> | <small><span style="color:tomato">3.0</span></small> | <small>**0.3**</small> | <small>1.5<small>%</small></small> |
-| [현대백화점](/069960/) | <small>P:유통업</small> | <small>9.1</small> | <small>**0.3**</small> | <small>2.2<small>%</small></small> |
-| [DL](/000210/) | <small>P:화학</small> | <small>21.6</small> | <small>**0.3**</small> | <small>1.7<small>%</small></small> |
-| [DGB금융지주](/139130/) | <small>P:기타금융</small> | <small><span style="color:tomato">4.2</span></small> | <small>**0.3**</small> | <small><span style="color:tomato">6.9<small>%</small></span></small> |
-| [롯데지주](/004990/) | <small>P:기타금융</small> | <small>13.3</small> | <small>**0.3**</small> | <small><span style="color:tomato">4.7<small>%</small></span></small> |
+| [현대백화점](/069960/) | <small>P:유통업</small> | <small>8.9</small> | <small>**0.3**</small> | <small>2.2<small>%</small></small> |
+| [DGB금융지주](/139130/) | <small>P:기타금융</small> | <small><span style="color:tomato">4.1</span></small> | <small>**0.3**</small> | <small><span style="color:tomato">7.0<small>%</small></span></small> |
+| [DL](/000210/) | <small>P:화학</small> | <small>21.7</small> | <small>**0.3**</small> | <small>1.7<small>%</small></small> |
+| [롯데지주](/004990/) | <small>P:기타금융</small> | <small>13.2</small> | <small>**0.3**</small> | <small><span style="color:tomato">4.8<small>%</small></span></small> |
 | [한국전력](/015760/) | <small>P:전기가스업</small> | <small>-</small> | <small>**0.3**</small> | <small>-</small> |
-| [롯데케미칼](/011170/) | <small>P:화학</small> | <small><span style="color:cornflowerblue">76.9</span></small> | <small>**0.3**</small> | <small>2.6<small>%</small></small> |
-| [DL이앤씨](/375500/) | <small>P:건설업</small> | <small><span style="color:tomato">3.9</span></small> | <small>**0.3**</small> | <small>2.6<small>%</small></small> |
-| [우리금융지주](/316140/) | <small>P:기타금융</small> | <small><span style="color:tomato">3.5</span></small> | <small>**0.4**</small> | <small><span style="color:tomato">7.7<small>%</small></span></small> |
-| [GS](/078930/) | <small>P:기타금융</small> | <small><span style="color:tomato">2.2</span></small> | <small>**0.4**</small> | <small><span style="color:tomato">5.0<small>%</small></span></small> |
-| [기업은행](/024110/) | <small>P:은행</small> | <small><span style="color:tomato">4.1</span></small> | <small>**0.4**</small> | <small><span style="color:tomato">7.0<small>%</small></span></small> |
-| [KCC](/002380/) | <small>P:화학</small> | <small>59.5</small> | <small>**0.4**</small> | <small>3.0<small>%</small></small> |
-| [미래에셋증권](/006800/) | <small>P:증권</small> | <small>8.3</small> | <small>**0.4**</small> | <small>2.3<small>%</small></small> |
-| [에스디바이오센서](/137310/) | <small>P:의료정밀</small> | <small><span style="color:tomato">1.2</span></small> | <small>**0.4**</small> | <small><span style="color:tomato">8.8<small>%</small></span></small> |
-| [오리온홀딩스](/001800/) | <small>P:기타금융</small> | <small>8.7</small> | <small>**0.4**</small> | <small><span style="color:tomato">4.7<small>%</small></span></small> |
-| [한화생명](/088350/) | <small>P:보험</small> | <small><span style="color:tomato">4.3</span></small> | <small>**0.4**</small> | <small>-</small> |
+| [롯데케미칼](/011170/) | <small>P:화학</small> | <small><span style="color:cornflowerblue">77.2</span></small> | <small>**0.3**</small> | <small>2.6<small>%</small></small> |
+| [DL이앤씨](/375500/) | <small>P:건설업</small> | <small><span style="color:tomato">3.8</span></small> | <small>**0.3**</small> | <small>2.6<small>%</small></small> |
+| [GS](/078930/) | <small>P:기타금융</small> | <small><span style="color:tomato">2.2</span></small> | <small>**0.4**</small> | <small><span style="color:tomato">5.1<small>%</small></span></small> |
+| [우리금융지주](/316140/) | <small>P:기타금융</small> | <small><span style="color:tomato">3.5</span></small> | <small>**0.4**</small> | <small><span style="color:tomato">7.8<small>%</small></span></small> |
+| [기업은행](/024110/) | <small>P:은행</small> | <small><span style="color:tomato">4.0</span></small> | <small>**0.4**</small> | <small><span style="color:tomato">7.2<small>%</small></span></small> |
+| [KCC](/002380/) | <small>P:화학</small> | <small>58.5</small> | <small>**0.4**</small> | <small>3.0<small>%</small></small> |
+| [한화생명](/088350/) | <small>P:보험</small> | <small><span style="color:tomato">4.2</span></small> | <small>**0.4**</small> | <small>-</small> |
+| [미래에셋증권](/006800/) | <small>P:증권</small> | <small>8.2</small> | <small>**0.4**</small> | <small>2.4<small>%</small></small> |
+| [에스디바이오센서](/137310/) | <small>P:의료정밀</small> | <small><span style="color:tomato">1.3</span></small> | <small>**0.4**</small> | <small><span style="color:tomato">8.5<small>%</small></span></small> |
+| [한화](/000880/) | <small>P:화학</small> | <small><span style="color:tomato">2.0</span></small> | <small>**0.4**</small> | <small>2.6<small>%</small></small> |
+| [오리온홀딩스](/001800/) | <small>P:기타금융</small> | <small>8.8</small> | <small>**0.4**</small> | <small>4.6<small>%</small></small> |
+| [하나금융지주](/086790/) | <small>P:기타금융</small> | <small>4.6</small> | <small>**0.4**</small> | <small><span style="color:tomato">6.2<small>%</small></span></small> |
 | [CJ ENM](/035760/) | <small>Q:방송서비스</small> | <small>-</small> | <small>**0.4**</small> | <small>-</small> |
-| [한화](/000880/) | <small>P:화학</small> | <small><span style="color:tomato">2.1</span></small> | <small>**0.4**</small> | <small>2.5<small>%</small></small> |
 | [팬오션](/028670/) | <small>P:운수창고업</small> | <small><span style="color:tomato">2.8</span></small> | <small>**0.4**</small> | <small>4.2<small>%</small></small> |
-| [한국금융지주](/071050/) | <small>P:기타금융</small> | <small>5.9</small> | <small>**0.4**</small> | <small>3.6<small>%</small></small> |
-| [세아베스틸지주](/001430/) | <small>P:철강금속</small> | <small>8.9</small> | <small>**0.4**</small> | <small><span style="color:tomato">5.2<small>%</small></span></small> |
 | [대우건설](/047040/) | <small>P:건설업</small> | <small><span style="color:tomato">3.2</span></small> | <small>**0.4**</small> | <small>-</small> |
-| [코오롱인더](/120110/) | <small>P:화학</small> | <small>7.1</small> | <small>**0.4**</small> | <small>3.1<small>%</small></small> |
-| [신세계](/004170/) | <small>P:유통업</small> | <small><span style="color:tomato">4.4</span></small> | <small>**0.4**</small> | <small>2.1<small>%</small></small> |
-| [하나금융지주](/086790/) | <small>P:기타금융</small> | <small>4.7</small> | <small>**0.4**</small> | <small><span style="color:tomato">6.1<small>%</small></span></small> |
-| [LX인터내셔널](/001120/) | <small>P:유통업</small> | <small><span style="color:tomato">2.0</span></small> | <small>**0.5**</small> | <small><span style="color:tomato">10.6<small>%</small></span></small> |
-| [신한지주](/055550/) | <small>P:기타금융</small> | <small>5.0</small> | <small>**0.5**</small> | <small><span style="color:tomato">4.8<small>%</small></span></small> |
+| [신세계](/004170/) | <small>P:유통업</small> | <small><span style="color:tomato">4.3</span></small> | <small>**0.4**</small> | <small>2.1<small>%</small></small> |
+| [LX인터내셔널](/001120/) | <small>P:유통업</small> | <small><span style="color:tomato">1.9</span></small> | <small>**0.4**</small> | <small><span style="color:tomato">10.9<small>%</small></span></small> |
+| [한국금융지주](/071050/) | <small>P:기타금융</small> | <small>5.8</small> | <small>**0.4**</small> | <small>3.6<small>%</small></small> |
+| [세아베스틸지주](/001430/) | <small>P:철강금속</small> | <small>8.9</small> | <small>**0.4**</small> | <small><span style="color:tomato">5.2<small>%</small></span></small> |
+| [코오롱인더](/120110/) | <small>P:화학</small> | <small>7.0</small> | <small>**0.4**</small> | <small>3.1<small>%</small></small> |
+| [신한지주](/055550/) | <small>P:기타금융</small> | <small>5.0</small> | <small>**0.4**</small> | <small><span style="color:tomato">4.9<small>%</small></span></small> |
 | [HMM](/011200/) | <small>P:운수창고업</small> | <small><span style="color:tomato">0.9</span></small> | <small>**0.5**</small> | <small><span style="color:tomato">6.3<small>%</small></span></small> |

@@ -1,4 +1,4 @@
 | **종목** | **배율** | **1년** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| KWEB | 기초 | <span style="color: cornflowerblue">-32.9<small>%</small></span> | - | - | - |
-| [CWEB](/cweb/) | 2<small>배</small> | <span style="color: cornflowerblue">-63.0<small>%</small></span> | 12.4<small>%</small> | 6.3<small>%</small> | 17.9<small>%</small> |
+| KWEB | 기초 | <span style="color: cornflowerblue">-28.4<small>%</small></span> | - | - | - |
+| [CWEB](/cweb/) | 2<small>배</small> | <span style="color: cornflowerblue">-57.6<small>%</small></span> | 12.2<small>%</small> | 5.9<small>%</small> | 17.4<small>%</small> |
