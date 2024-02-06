@@ -15,8 +15,8 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Production/Test site configurations.
-prod_site_url__          : "https://quantkang.github.io"
-test_site_url__          : "https://quantkangalpha.github.io"
+prod_url__          : "https://quantkang.github.io"
+test_url__          : "https://quantkangalpha.github.io"
 
 # Site Settings
 ##locale                   : "en-US"
