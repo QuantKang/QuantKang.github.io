@@ -11,6 +11,4 @@
   {% include /analytics-providers/custom.html %}
 {% endcase %}
 
-{% include /analytics-providers/naver.html %}
-
 {% endif %}
