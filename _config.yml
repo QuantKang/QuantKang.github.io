@@ -69,6 +69,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
+feed:
   posts_limit            : 1000
 ##search                   : # true, false (default)
 search                   : true
