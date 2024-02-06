@@ -13,8 +13,8 @@ header:
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| 농우바이오 | 13.3 | 0.5 | 2.5<small>%</small> | 80.5<small>%</small> |
-| 아시아종묘 | - | 1.3 | - | 19.5<small>%</small> |
+| 농우바이오 | 13.3 | 0.5 | 2.4<small>%</small> | 80.6<small>%</small> |
+| 아시아종묘 | - | 1.3 | - | 19.4<small>%</small> |
 
 ---
 {% include commons/footnotes.md %}

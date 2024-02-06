@@ -1,6 +1,0 @@
-{% if site.github.url == site.prod_url__ %}
-Sitemap: {% site.url %}/sitemap.xml
-{% else %}
-User-agent: *
-Disallow: /
-{% endif %}

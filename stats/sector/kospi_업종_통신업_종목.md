@@ -13,11 +13,11 @@ header:
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [SK텔레콤](/017670/) | 12.2 | 1.0 | 6.6<small>%</small> | 42.6<small>%</small> |
+| [SK텔레콤](/017670/) | 12.3 | 1.0 | 6.6<small>%</small> | 42.8<small>%</small> |
 | [KT](/030200/) | 7.3 | 0.6 | 5.2<small>%</small> | 37.8<small>%</small> |
-| [LG유플러스](/032640/) | 6.8 | 0.6 | 6.2<small>%</small> | 17.5<small>%</small> |
+| [LG유플러스](/032640/) | 6.7 | 0.5 | 6.3<small>%</small> | 17.4<small>%</small> |
 | 현대퓨처넷 | - | 0.5 | 2.7<small>%</small> | 1.4<small>%</small> |
-| 인스코비 | - | 2.5 | - | 0.6<small>%</small> |
+| 인스코비 | - | 2.4 | - | 0.6<small>%</small> |
 
 ---
 {% include commons/footnotes.md %}
