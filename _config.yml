@@ -15,8 +15,8 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-site_type_              : "TEST SERVER"
-site_url_               : {{ site.url }}
+prod_site_url__          : "https://quantkang.github.io"
+site_url__               : {{ url }}
 ##locale                   : "en-US"
 locale                   : "ko-KR"
 ##title                    : "Site Title"
