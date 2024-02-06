@@ -18,13 +18,6 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 prod_site_url__          : "https://quantkang.github.io"
 test_site_url__          : "https://quantkangalpha.github.io"
 
-is_prod__                : false
-is_test__                : false
-${{% if site.github.url == prod_site_url %}}:
-  is_prod__                : true
-${{% if site.github.url == test_site_url %}}:
-  is_test__                : true
-
 # Site Settings
 ##locale                   : "en-US"
 locale                   : "ko-KR"
