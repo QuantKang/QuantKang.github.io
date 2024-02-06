@@ -16,6 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 site_type_              : "TEST SERVER"
+site_url_               : {{ site.url }}
 ##locale                   : "en-US"
 locale                   : "ko-KR"
 ##title                    : "Site Title"
