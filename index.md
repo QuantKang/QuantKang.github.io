@@ -12,20 +12,7 @@ feature_text: |
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
-**jekyll.environment: {{ ENV_SITE_TYPE__ }}**
-
-**site.github.hostname: {{ site.github.hostname }}**
-
-**site.github.pages_hostname: {{ site.github.pages_hostname }}**
-
 **site.github.url: {{ site.github.url }}**
-
-**site.github.repository_name: {{ site.github.repository_name }}**
-
-**site.github.repository_url: {{ site.github.repository_url }}**
-
-**site.github.owner_name: {{ site.github.owner_name }}**
-
 
 
 <br>
