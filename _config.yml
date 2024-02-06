@@ -17,6 +17,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 prod_site_url__          : "https://quantkang.github.io"
 site_url__               : {{ url }}
+host__                   : {{ host }}
+source__                 : {{ source }}
+destination__            : {{ destination }}
 ##locale                   : "en-US"
 locale                   : "ko-KR"
 ##title                    : "Site Title"

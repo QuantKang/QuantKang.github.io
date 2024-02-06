@@ -18,6 +18,12 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 **site.site_url__: {{ site.site_url__ }}**
 
+**site.host__: {{ site.host__ }}**
+
+**site.source__: {{ site.source__ }}**
+
+**site.destination__: {{ site.destination }}**
+
 <br>
 > **다양한 종목과 데이터를 주기적으로 분석**<small>[^fn_update]</small>
 
