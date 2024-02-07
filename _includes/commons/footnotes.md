@@ -16,15 +16,15 @@
 </script>
 
 <script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":755374,"template":"carousel","trackingCode":"AF3144276","width":"680","height":"140","tsource":""});
-</script>
 
 {% else %}
 
 ```plaintext
 ** Place for AdSense **
 ```
+<script>
+	new PartnersCoupang.G({"id":755374,"template":"carousel","trackingCode":"AF3144276","width":"680","height":"140","tsource":""});
+</script>
 
 {% endif %}
 
