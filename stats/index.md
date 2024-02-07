@@ -7,7 +7,7 @@ header:
   show_overlay_excerpt: false
 ---
 
-> **재무 데이터 기반 지표**<small>[^fn_finance_metric]</small>
+> **재무 데이터 기반 지표**[^fn_finance_metric]
 
 |    | **지표** | **조건** | **조건** |
 | :- | :------- | :------- | :------- |
