@@ -1,3 +1,24 @@
+{% if site.github.url == site.prod_url__ %}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8120389152057270"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-8120389152057270"
+     data-ad-slot="3188337285"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+{% else %}
+
+```plaintext
+** Place for AdSense **
+```
+
+{% endif %}
+
 ---
 
 [^fn_update]: 장 마감 후 두어시간 이내 업데이트를 목표로 하지만, 상황에 따라서는 지연될 수 있습니다.
