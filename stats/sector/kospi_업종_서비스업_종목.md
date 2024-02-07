@@ -115,5 +115,4 @@ header:
 | 비케이탑스 | - | 3.3 | - | 0.0<small>%</small> |
 | 에이리츠 | - | - | - | 0.0<small>%</small> |
 
----
 {% include commons/footnotes.md %}

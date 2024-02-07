@@ -17,5 +17,4 @@ header:
 | 신라교역 | 10.1 | 0.3 | 5.5<small>%</small> | 36.5<small>%</small> |
 | 동원수산 | 5.2 | 0.5 | 3.6<small>%</small> | 8.1<small>%</small> |
 
----
 {% include commons/footnotes.md %}

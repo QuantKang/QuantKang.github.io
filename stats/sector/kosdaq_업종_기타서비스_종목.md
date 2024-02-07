@@ -130,5 +130,4 @@ header:
 | 에스엘에스바이오 | 12.0 | 5.0 | - | 0.1<small>%</small> |
 | 우정바이오 | - | 0.9 | - | 0.1<small>%</small> |
 
----
 {% include commons/footnotes.md %}

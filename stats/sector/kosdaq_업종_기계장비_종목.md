@@ -135,5 +135,4 @@ header:
 | 에스앤더블류 | 10.7 | 0.6 | - | 0.1<small>%</small> |
 | 한국정밀기계 | 47.9 | 0.5 | - | 0.1<small>%</small> |
 
----
 {% include commons/footnotes.md %}

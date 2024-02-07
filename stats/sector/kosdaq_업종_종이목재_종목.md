@@ -24,5 +24,4 @@ header:
 | 삼륭물산 | - | 1.0 | 1.9<small>%</small> | 2.4<small>%</small> |
 | 무림SP | - | 0.2 | 0.8<small>%</small> | 1.7<small>%</small> |
 
----
 {% include commons/footnotes.md %}

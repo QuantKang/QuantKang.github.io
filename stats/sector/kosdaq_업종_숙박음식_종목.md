@@ -17,5 +17,4 @@ header:
 | [서부T&D](/006730/) | 30.2 | 0.8 | 0.6<small>%</small> | 45.0<small>%</small> |
 | 디딤이앤에프 | - | 1.6 | - | 1.9<small>%</small> |
 
----
 {% include commons/footnotes.md %}

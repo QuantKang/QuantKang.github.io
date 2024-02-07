@@ -16,5 +16,4 @@ header:
 | 지에스이 | 17.2 | 1.1 | 1.2<small>%</small> | 75.1<small>%</small> |
 | DGP | - | 0.8 | - | 24.9<small>%</small> |
 
----
 {% include commons/footnotes.md %}

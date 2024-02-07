@@ -27,5 +27,4 @@ header:
 | 흥국화재 | 1.9 | 0.4 | - | 0.6<small>%</small> |
 | 흥국화재우 | - | - | - | 0.0<small>%</small> |
 
----
 {% include commons/footnotes.md %}

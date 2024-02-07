@@ -114,5 +114,4 @@ header:
 | 스타플렉스 | 3.5 | 0.3 | - | 0.1<small>%</small> |
 | 에스아이리소스 | - | 1.1 | - | 0.1<small>%</small> |
 
----
 {% include commons/footnotes.md %}

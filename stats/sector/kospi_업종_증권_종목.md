@@ -44,5 +44,4 @@ header:
 | SK증권우 | - | - | 0.4<small>%</small> | 0.0<small>%</small> |
 | 한양증권우 | - | - | 6.4<small>%</small> | 0.0<small>%</small> |
 
----
 {% include commons/footnotes.md %}

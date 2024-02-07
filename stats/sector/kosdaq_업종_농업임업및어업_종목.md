@@ -16,5 +16,4 @@ header:
 | 농우바이오 | 13.3 | 0.5 | 2.4<small>%</small> | 80.6<small>%</small> |
 | 아시아종묘 | - | 1.3 | - | 19.4<small>%</small> |
 
----
 {% include commons/footnotes.md %}

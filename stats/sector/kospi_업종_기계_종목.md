@@ -57,5 +57,4 @@ header:
 | 참엔지니어링 | - | 0.3 | - | 0.1<small>%</small> |
 | 계양전기우 | - | - | 0.8<small>%</small> | 0.0<small>%</small> |
 
----
 {% include commons/footnotes.md %}

@@ -52,5 +52,4 @@ header:
 | 진흥기업2우B | - | - | - | 0.0<small>%</small> |
 | 진흥기업우B | - | - | - | 0.0<small>%</small> |
 
----
 {% include commons/footnotes.md %}

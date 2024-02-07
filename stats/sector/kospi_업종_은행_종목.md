@@ -17,5 +17,4 @@ header:
 | [기업은행](/024110/) | 4.0 | 0.4 | 7.2<small>%</small> | 44.0<small>%</small> |
 | 제주은행 | 21.2 | 0.8 | 0.7<small>%</small> | 1.8<small>%</small> |
 
----
 {% include commons/footnotes.md %}

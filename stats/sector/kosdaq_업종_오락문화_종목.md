@@ -43,5 +43,4 @@ header:
 | 판타지오 | - | 0.6 | - | 0.2<small>%</small> |
 | 아이오케이 | - | 0.2 | - | 0.1<small>%</small> |
 
----
 {% include commons/footnotes.md %}

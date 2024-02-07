@@ -28,5 +28,4 @@ header:
 | 모헨즈 | 22.2 | 1.6 | - | 1.9<small>%</small> |
 | 서산 | 26.1 | 0.5 | - | 1.4<small>%</small> |
 
----
 {% include commons/footnotes.md %}

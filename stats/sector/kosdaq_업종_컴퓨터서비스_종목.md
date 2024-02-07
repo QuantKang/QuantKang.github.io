@@ -40,5 +40,4 @@ header:
 | 한솔인티큐브 | - | 1.1 | - | 1.3<small>%</small> |
 | 소프트센우 | - | - | - | 0.2<small>%</small> |
 
----
 {% include commons/footnotes.md %}

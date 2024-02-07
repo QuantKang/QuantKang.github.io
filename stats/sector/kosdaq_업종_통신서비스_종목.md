@@ -24,5 +24,4 @@ header:
 | 케이엘넷 | 9.0 | 1.2 | 2.9<small>%</small> | 4.8<small>%</small> |
 | 한네트 | 26.5 | 1.5 | 3.3<small>%</small> | 3.7<small>%</small> |
 
----
 {% include commons/footnotes.md %}

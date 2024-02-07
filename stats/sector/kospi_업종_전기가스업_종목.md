@@ -24,5 +24,4 @@ header:
 | 인천도시가스 | 8.6 | 0.5 | 4.9<small>%</small> | 0.6<small>%</small> |
 | 한진중공업홀딩스 | 5.7 | 0.2 | 3.1<small>%</small> | 0.5<small>%</small> |
 
----
 {% include commons/footnotes.md %}

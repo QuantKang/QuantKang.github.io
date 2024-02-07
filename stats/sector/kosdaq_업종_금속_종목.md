@@ -85,5 +85,4 @@ header:
 | 누리플랜 | - | 0.5 | - | 0.3<small>%</small> |
 | 대호특수강우 | - | - | - | 0.0<small>%</small> |
 
----
 {% include commons/footnotes.md %}

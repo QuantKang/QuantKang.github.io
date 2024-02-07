@@ -77,5 +77,4 @@ header:
 | KR모터스 | - | 1.0 | - | 0.0<small>%</small> |
 | 태양금속우 | - | - | 0.2<small>%</small> | 0.0<small>%</small> |
 
----
 {% include commons/footnotes.md %}

@@ -40,5 +40,4 @@ header:
 | 이퓨쳐 | 7.8 | 1.0 | - | 1.0<small>%</small> |
 | 골드앤에스 | - | 1.7 | - | 1.0<small>%</small> |
 
----
 {% include commons/footnotes.md %}

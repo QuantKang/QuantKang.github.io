@@ -84,5 +84,4 @@ header:
 | 코오롱모빌리티그룹우 | - | - | - | 0.0<small>%</small> |
 | 한화갤러리아우 | - | - | - | 0.0<small>%</small> |
 
----
 {% include commons/footnotes.md %}

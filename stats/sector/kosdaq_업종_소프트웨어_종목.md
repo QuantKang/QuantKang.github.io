@@ -134,5 +134,4 @@ header:
 | 엔지스테크널러지 | - | 3.8 | - | 0.1<small>%</small> |
 | 엑스큐어 | 24.1 | 0.9 | - | 0.1<small>%</small> |
 
----
 {% include commons/footnotes.md %}

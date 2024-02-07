@@ -82,5 +82,4 @@ header:
 | 동방선기 | 22.6 | 1.0 | - | 0.4<small>%</small> |
 | 코다코 | - | 1.1 | - | 0.2<small>%</small> |
 
----
 {% include commons/footnotes.md %}

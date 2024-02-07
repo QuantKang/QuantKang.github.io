@@ -67,5 +67,4 @@ header:
 | 장원테크 | - | 0.2 | - | 0.2<small>%</small> |
 | 아리온 | - | - | - | 0.2<small>%</small> |
 
----
 {% include commons/footnotes.md %}

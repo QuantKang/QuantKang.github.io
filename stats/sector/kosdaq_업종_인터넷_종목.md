@@ -24,5 +24,4 @@ header:
 | 이상네트웍스 | 5.4 | 0.5 | 1.9<small>%</small> | 2.1<small>%</small> |
 | THE E&M | - | 0.6 | - | 1.6<small>%</small> |
 
----
 {% include commons/footnotes.md %}

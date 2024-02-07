@@ -42,5 +42,4 @@ header:
 | 엑사이엔씨 | 3.7 | 0.5 | - | 0.9<small>%</small> |
 | KD | - | 0.5 | - | 0.6<small>%</small> |
 
----
 {% include commons/footnotes.md %}

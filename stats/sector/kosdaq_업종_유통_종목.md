@@ -108,5 +108,4 @@ header:
 | 커머스마이너 | - | 1.0 | - | 0.2<small>%</small> |
 | 윙스풋 | - | 0.9 | - | 0.2<small>%</small> |
 
----
 {% include commons/footnotes.md %}
