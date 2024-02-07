@@ -13,8 +13,7 @@ feature_text: |
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
-<br>
-> **다양한 종목과 데이터를 주기적으로 분석**<small>[^fn_update]</small>
+> **다양한 종목과 데이터를 주기적으로 분석**[^fn_update]
 
 - 코스피 200: [삼성전자](/005930/), [SK하이닉스](/000660/), ...
 - 코스닥 150: [에코프로비엠](/247540/), [앨앤에프](/066970/), ...
@@ -36,7 +35,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 | [![KOSPI 업종 비중](/stats/sector/images/kospi_all_all_업종.png)](/stats/sector/kospi_all_all_업종/) | [![KOSDAQ 반도체 업종](/stats/sector/images/kosdaq_업종_반도체_종목.png)](/stats/sector/kosdaq_업종_디지털컨텐츠_종목/) |
 
 <br>
-> **[재무<small>[^fn_finance_metric]</small> 지표 기반 종목](/fn) 선별**
+> **[재무 지표 기반 종목](/fn)[^fn_finance_metric] 선별**
 
 | **저PBR** | **고배당** |
 | :---: | :---: |
@@ -61,7 +60,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 | [![KODEX 레버리지](/lev/images/122630.png)](/122630/) | [![TQQQ](/lev/images/qqq_ideal.png)](/tqqq/) |
 
 <br>
-> **유사 주가 흐름을 보인 타 종목 제시**<small>[^fn_corr]</small>
+> **유사 주가 흐름을 보인 타 종목 제시**[^fn_corr]
 
 지난 1년간 유사한 주가 흐름을 보인 종목을 보여줍니다. 동일한 투자 아이디어를 적용할 수 있는 후보 종목 발굴에 도움이 됩니다.
 
