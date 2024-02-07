@@ -86,5 +86,4 @@ header:
 | 지티지웰니스 | - | 6.0 | - | 0.2<small>%</small> |
 | 노블엠앤비 | - | 0.3 | - | 0.1<small>%</small> |
 
----
 {% include commons/footnotes.md %}

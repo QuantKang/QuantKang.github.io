@@ -36,5 +36,4 @@ header:
 | 에스티오 | 15.8 | 0.8 | 5.3<small>%</small> | 1.3<small>%</small> |
 | 형지I&C | - | 0.8 | - | 1.1<small>%</small> |
 
----
 {% include commons/footnotes.md %}

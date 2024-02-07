@@ -68,5 +68,4 @@ header:
 | 일양약품우 | - | - | 1.1<small>%</small> | 0.0<small>%</small> |
 | 유유제약2우B | - | - | 0.9<small>%</small> | 0.0<small>%</small> |
 
----
 {% include commons/footnotes.md %}

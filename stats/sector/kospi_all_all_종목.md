@@ -967,5 +967,4 @@ header:
 | 진흥기업우B | - | - | - | 0.0<small>%</small> |
 | 동양우 | - | - | 1.6<small>%</small> | 0.0<small>%</small> |
 
----
 {% include commons/footnotes.md %}

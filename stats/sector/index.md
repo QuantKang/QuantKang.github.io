@@ -11,5 +11,5 @@ KOSPI와 KOSDAQ 시장의 업종 비중과 업종별 상장사 목록입니다. 
 
 {% include_relative sector_inc.md %}
 
----
+
 {% include commons/footnotes.md %}

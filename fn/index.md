@@ -24,5 +24,5 @@ PER, PBR, 배당수익률은 투자 대상 기업을 선별하는데 활용하�
 | [![고배당 상위 10%](/fn/images/fn_high_div_table10.png)](/fn/fn_high_div/) |   |
 
 
----
+
 {% include commons/footnotes.md %}

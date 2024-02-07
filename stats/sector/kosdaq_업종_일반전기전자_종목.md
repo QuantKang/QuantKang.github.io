@@ -87,5 +87,4 @@ header:
 | 위니아 | - | 0.8 | - | 0.1<small>%</small> |
 | 피피아이 | 41.2 | 4.3 | - | 0.1<small>%</small> |
 
----
 {% include commons/footnotes.md %}

@@ -24,5 +24,4 @@ header:
 | 티비씨 | 17.8 | 0.7 | 1.6<small>%</small> | 3.1<small>%</small> |
 | 티엔엔터테인먼트 | - | 0.7 | - | 1.9<small>%</small> |
 
----
 {% include commons/footnotes.md %}

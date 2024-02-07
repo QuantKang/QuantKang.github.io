@@ -19,5 +19,4 @@ header:
 | SG&G | 1.4 | 0.2 | - | 13.4<small>%</small> |
 | 삼일 | 24.4 | 0.5 | - | 7.1<small>%</small> |
 
----
 {% include commons/footnotes.md %}

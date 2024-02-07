@@ -38,5 +38,4 @@ header:
 | 에스디시스템 | - | 2.6 | - | 1.2<small>%</small> |
 | THE MIDONG | - | 0.4 | - | 0.4<small>%</small> |
 
----
 {% include commons/footnotes.md %}

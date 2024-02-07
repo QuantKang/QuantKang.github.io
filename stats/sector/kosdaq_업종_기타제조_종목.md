@@ -31,5 +31,4 @@ header:
 | 세니젠 | - | - | - | 1.6<small>%</small> |
 | 에이디칩스 | - | 0.8 | - | 1.4<small>%</small> |
 
----
 {% include commons/footnotes.md %}

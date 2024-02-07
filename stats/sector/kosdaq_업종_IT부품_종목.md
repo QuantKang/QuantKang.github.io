@@ -119,5 +119,4 @@ header:
 | 파커스 | - | 0.3 | - | 0.1<small>%</small> |
 | 크루셜텍 | - | 0.5 | - | 0.0<small>%</small> |
 
----
 {% include commons/footnotes.md %}

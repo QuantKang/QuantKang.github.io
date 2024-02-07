@@ -56,5 +56,4 @@ header:
 | 케이씨피드 | 9.2 | 0.6 | 2.0<small>%</small> | 0.9<small>%</small> |
 | 한탑 | - | 0.7 | - | 0.8<small>%</small> |
 
----
 {% include commons/footnotes.md %}

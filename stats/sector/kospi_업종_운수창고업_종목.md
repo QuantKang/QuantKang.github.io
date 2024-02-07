@@ -43,5 +43,4 @@ header:
 | 세방우 | - | - | 4.3<small>%</small> | 0.1<small>%</small> |
 | 한진칼우 | - | - | 0.7<small>%</small> | 0.0<small>%</small> |
 
----
 {% include commons/footnotes.md %}

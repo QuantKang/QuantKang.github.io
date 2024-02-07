@@ -60,5 +60,4 @@ header:
 | 서울식품우 | - | - | - | 0.0<small>%</small> |
 | CJ씨푸드1우 | - | - | - | 0.0<small>%</small> |
 
----
 {% include commons/footnotes.md %}

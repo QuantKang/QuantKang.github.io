@@ -1724,5 +1724,4 @@ header:
 | 대호특수강우 | - | - | - | 0.0<small>%</small> |
 | 크루셜텍 | - | 0.5 | - | 0.0<small>%</small> |
 
----
 {% include commons/footnotes.md %}

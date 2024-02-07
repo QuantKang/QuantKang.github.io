@@ -61,5 +61,4 @@ header:
 | 베스파 | - | - | - | 0.2<small>%</small> |
 | 스카이문스테크놀로지 | 12.6 | 0.9 | - | 0.2<small>%</small> |
 
----
 {% include commons/footnotes.md %}

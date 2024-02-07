@@ -34,5 +34,4 @@ header:
 | SUN&L | - | 0.2 | - | 1.3<small>%</small> |
 | 깨끗한나라우 | - | - | - | 0.2<small>%</small> |
 
----
 {% include commons/footnotes.md %}

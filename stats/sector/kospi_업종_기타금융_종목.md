@@ -104,5 +104,4 @@ header:
 | 크라운해태홀딩스우 | - | - | 1.0<small>%</small> | 0.0<small>%</small> |
 | 하이트진로홀딩스우 | - | - | 4.3<small>%</small> | 0.0<small>%</small> |
 
----
 {% include commons/footnotes.md %}

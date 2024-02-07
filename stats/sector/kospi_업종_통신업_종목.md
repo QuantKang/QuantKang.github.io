@@ -19,5 +19,4 @@ header:
 | 현대퓨처넷 | - | 0.5 | 2.7<small>%</small> | 1.4<small>%</small> |
 | 인스코비 | - | 2.4 | - | 0.6<small>%</small> |
 
----
 {% include commons/footnotes.md %}

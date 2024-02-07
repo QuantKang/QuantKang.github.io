@@ -93,5 +93,4 @@ header:
 | 코리아써키트2우B | - | - | - | 0.0<small>%</small> |
 | 성문전자우 | - | - | 0.2<small>%</small> | 0.0<small>%</small> |
 
----
 {% include commons/footnotes.md %}

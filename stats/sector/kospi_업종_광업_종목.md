@@ -15,5 +15,4 @@ header:
 | :------- | ------: | ------: | ------: | -------: |
 | HLB글로벌 | - | 4.2 | - | 100.0<small>%</small> |
 
----
 {% include commons/footnotes.md %}

@@ -133,5 +133,4 @@ header:
 | 애드바이오텍 | 10.6 | 1.8 | - | 0.1<small>%</small> |
 | 올리패스 | - | 1.6 | - | 0.0<small>%</small> |
 
----
 {% include commons/footnotes.md %}

@@ -39,5 +39,4 @@ header:
 | BYC우 | - | - | 2.1<small>%</small> | 0.5<small>%</small> |
 | 일정실업 | - | 3.5 | - | 0.2<small>%</small> |
 
----
 {% include commons/footnotes.md %}

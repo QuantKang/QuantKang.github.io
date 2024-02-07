@@ -156,5 +156,4 @@ header:
 | 에스엘에너지 | - | 0.3 | - | 0.0<small>%</small> |
 | 엘디티 | 9.9 | 1.2 | - | 0.0<small>%</small> |
 
----
 {% include commons/footnotes.md %}

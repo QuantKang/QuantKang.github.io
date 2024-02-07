@@ -77,5 +77,5 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 | :-------------------------------: | :-------------------------: |
 | [![LG에너지솔루션](/stock/images/373220_2x.png)](/373220/#2x) | [![알테오젠](/stock/images/196170_2x.png)](/196170/#2x) |
 
----
+
 {% include commons/footnotes.md %}

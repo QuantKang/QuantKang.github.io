@@ -69,5 +69,4 @@ header:
 | 남선알미우 | - | - | - | 0.0<small>%</small> |
 | 금강공업우 | - | - | 1.4<small>%</small> | 0.0<small>%</small> |
 
----
 {% include commons/footnotes.md %}

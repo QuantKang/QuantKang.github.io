@@ -22,5 +22,4 @@ header:
 | 한컴라이프케어 | 14.5 | 1.1 | - | 3.2<small>%</small> |
 | 미래산업 | 7.4 | 0.6 | - | 1.6<small>%</small> |
 
----
 {% include commons/footnotes.md %}

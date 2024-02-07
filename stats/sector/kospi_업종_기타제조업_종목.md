@@ -30,5 +30,4 @@ header:
 | 에넥스 | - | 0.7 | - | 0.2<small>%</small> |
 | 코아스 | - | 1.0 | - | 0.1<small>%</small> |
 
----
 {% include commons/footnotes.md %}

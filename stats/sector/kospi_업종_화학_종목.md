@@ -139,5 +139,4 @@ header:
 | 노루페인트우 | - | - | 1.8<small>%</small> | 0.0<small>%</small> |
 | 동원시스템즈우 | - | - | 2.8<small>%</small> | 0.0<small>%</small> |
 
----
 {% include commons/footnotes.md %}
