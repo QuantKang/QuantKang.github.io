@@ -26,6 +26,10 @@
 <script src="https://ads-partners.coupang.com/g.js"></script>
 <script>
   // let div = document.querySelector('.footnotes')
+  var win_width = window.innerWidth      // width
+  console.log("win_width = ")
+  console.log(win_width)
+  console.log("win_width = ", win_width)
   let ol_width = document.querySelector("ol").clientWidth
   console.log("ol_width = ")
   console.log(ol_width)
