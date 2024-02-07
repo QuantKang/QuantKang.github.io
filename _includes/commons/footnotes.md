@@ -26,8 +26,8 @@
 <script src="https://ads-partners.coupang.com/g.js"></script>
 <script>
   // let div = document.querySelector('.footnotes')
-  let div = document.querySelector("blockquote")
-  console.log("width = ")
+  let width = document.querySelector(".footnotes").clientWidth
+  console.log("width = ", width)
   console.log(div.clientWidth)
   //var width = window.innerWidth      // width
   //var height = window.innerHeight    // height
