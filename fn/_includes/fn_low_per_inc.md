@@ -1,4 +1,4 @@
-주어진 정렬 조건을 제외한 다른 재무 지표[^fn_finance_metric]도 함께 표기합니다. <span style="color:tomato">붉은색</span>으로 표시된 수치는 저PER, 저PBR, 고배당에도 해당되는 경우입니다. <span style="color:cornflowerblue">푸른색</span>으로 표시된 수치는 고PER, 고PBR에도 해당되는 경우입니다.
+<span style="color:tomato">붉은색</span>으로 표시된 수치는 저PER, 저PBR, 고배당에도 해당[^fn_finance_metric]되는 경우입니다. <span style="color:cornflowerblue">푸른색</span>으로 표시된 수치는 고PER, 고PBR에도 해당되는 경우입니다.
 
 | **종목** | **업종**[^fn_sector_abbr] | **PER** | **PBR** | **DIV** |
 | :--- | :--- | --: | --: | --: |
