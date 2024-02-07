@@ -17,7 +17,7 @@ header:
 
 <br>
 
-> **[업종별 비중](sector/)**<a id="sector_weights"></a>
+> **업종별 비중**<a id="sector_weights"></a>
 
 | **KOSPI** | **KOSDAQ** |
 | :-------: | :--------: |
@@ -52,9 +52,9 @@ header:
 | KOSDAQ ||
 | ![KOSDAQ 지역별 상장사 비율](/assets/images/stats/kosdaq_region_count.png) | ![KOSDAQ 지역별 상장사 비중](/assets/images/stats/kosdaq_region_marcap.png) |
 
+<!---
 <br>
 
-<!---
 > **업종**<a id="sector"></a>
 
 | **갯수 기준** | **시가총액 기준** |
