@@ -7,7 +7,7 @@ header:
   show_overlay_excerpt: false
 ---
 
-주요[^fn_lev_warning] 레버리지/인버스 종목[^fn_lev_stock]에 대하여 최근 1년 수익률, 위험도, 변동성 비용[^fn_lev_vd_expense], 금융 비용[^fn_lev_fn_expense]을 추정하여 비교합니다.
+주요 레버리지/인버스 종목[^fn_lev_stock]에 대하여 최근 1년 수익률, 위험도, 변동성 비용[^fn_lev_vd_expense], 금융 비용[^fn_lev_fn_expense]을 추정하여 비교[^fn_lev_warning]합니다.
 
 개별 종목 링크를 클릭하면 세부 사항과 함께 주가 흐름 차트를 볼 수 있습니다.
 
