@@ -7,7 +7,7 @@
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-8120389152057270"
      data-ad-slot="3188337285"
-     data-matched-content-rows-num="4,1"
+     data-matched-content-rows-num="2,1"
      data-matched-content-columns-num="1,4"
      data-matched-content-ui-type="image_stacked,image_stacked">
 </ins>
