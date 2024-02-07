@@ -15,11 +15,22 @@
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":755374,"template":"carousel","trackingCode":"AF3144276","width":"680","height":"140","tsource":""});
+</script>
+
 {% else %}
 
 ```plaintext
 ** Place for AdSense **
 ```
+
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":755374,"template":"carousel","trackingCode":"AF3144276","width":"680","height":"140","tsource":""});
+</script>
+<small>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</small>
 
 {% endif %}
 
