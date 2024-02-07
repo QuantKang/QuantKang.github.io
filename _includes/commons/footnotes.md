@@ -28,6 +28,8 @@
   // let div = document.querySelector('.footnotes')
   var cp_width = window.innerWidth - 36
   console.log("cp_width = ", cp_width)
+  var pc_width = document.querySelector(".page__content").clientWidth
+  console.log("pc_width = ", pc_width)
   /*
   console.log("win_width = ")
   console.log(win_width)
