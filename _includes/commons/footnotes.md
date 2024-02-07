@@ -26,25 +26,27 @@
 <script src="https://ads-partners.coupang.com/g.js"></script>
 <script>
   // let div = document.querySelector('.footnotes')
-  var cp_width = window.innerWidth - 36
-  console.log("cp_width = ", cp_width)
-  var pc_width = document.querySelector(".page__content").clientWidth
-  console.log("pc_width = ", pc_width)
+  var cp_width = window.innerWidth - 36;
+  console.log("cp_width = ", cp_width);
   /*
-  console.log("win_width = ")
-  console.log(win_width)
-  console.log("win_width = ", win_width)
-  let ol_width = document.querySelector("ol").clientWidth
-  console.log("ol_width = ")
-  console.log(ol_width)
-  console.log("ol_width = ", ol_width)
+  var pc_width = document.querySelector(".page__content").clientWidth;
+  console.log("pc_width = ", pc_width);
   */
-  // console.log(div.clientWidth)
-  //var width = window.innerWidth      // width
-  //var height = window.innerHeight    // height
+  /*
+  console.log("win_width = ");
+  console.log(win_width);
+  console.log("win_width = ", win_width);
+  let ol_width = document.querySelector("ol").clientWidth;
+  console.log("ol_width = ");
+  console.log(ol_width);
+  console.log("ol_width = ", ol_width);
+  */
+  // console.log(div.clientWidth);
+  //var width = window.innerWidth;      // width
+  //var height = window.innerHeight;    // height
 	new PartnersCoupang.G({"id":755374,"template":"carousel","trackingCode":"AF3144276","width":pc_width,"height":"140","tsource":""});
+  document.write("<small><small>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</small></small>");
 </script>
-<small><small>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</small></small>
 
 ---
 
