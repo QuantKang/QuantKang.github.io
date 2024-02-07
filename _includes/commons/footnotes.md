@@ -26,7 +26,7 @@
 <script src="https://ads-partners.coupang.com/g.js"></script>
 <script>
   // let div = document.querySelector('.footnotes')
-  let width = document.querySelector(".footnotes").clientWidth
+  let width = document.querySelector("ol").clientWidth
   console.log("width = ", width)
   console.log(div.clientWidth)
   //var width = window.innerWidth      // width
