@@ -17,5 +17,5 @@ header:
 
 {% include_relative lev_inc.md %}
 
----
+
 {% include commons/footnotes.md %}
