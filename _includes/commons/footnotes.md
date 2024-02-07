@@ -28,7 +28,7 @@
   // let div = document.querySelector('.footnotes')
   let width = document.querySelector("ol").clientWidth
   console.log("width = ", width)
-  console.log(div.clientWidth)
+  // console.log(div.clientWidth)
   //var width = window.innerWidth      // width
   //var height = window.innerHeight    // height
 	new PartnersCoupang.G({"id":755374,"template":"carousel","trackingCode":"AF3144276","width":div.clientWidth,"height":"140","tsource":""});
