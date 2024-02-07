@@ -14,7 +14,7 @@
 {% else %}
 
 ```plaintext
-**Place for AdSense**
+** Place for AdSense **
 ```
 
 {% endif %}
