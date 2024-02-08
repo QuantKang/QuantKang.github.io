@@ -326,14 +326,6 @@ defaults:
       ##related: true
       related: false
   - scope:
-      path: "lev/lev_inc.md"
-    values:
-      sitemap: false
-  - scope:
-      path: "stats/sector/sector_inc.md"
-    values:
-      sitemap: false
-  - scope:
       path: "google*.html"
     values:
       sitemap: false
