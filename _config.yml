@@ -326,10 +326,6 @@ defaults:
       ##related: true
       related: false
   - scope:
-      path: 
-        - "lev/lev_inc/"
-        - "stats/sector/sector_inc/"
-        - "assets/blogger/template.html"
-        - "google04611fcb9c0dc83c.html"
+      path: "lev/lev_inc/"
     values:
       sitemap: false
