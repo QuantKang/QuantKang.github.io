@@ -13,19 +13,19 @@ header:
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [원익QnC](/074600/) | 13.5 | 1.9 | 0.5<small>%</small> | 34.2<small>%</small> |
-| 삼표시멘트 | 10.9 | 0.5 | 2.9<small>%</small> | 15.6<small>%</small> |
-| 유진기업 | 9.0 | 0.3 | 4.7<small>%</small> | 13.3<small>%</small> |
+| [원익QnC](/074600/) | 13.6 | 1.9 | 0.5<small>%</small> | 34.3<small>%</small> |
+| 삼표시멘트 | 11.1 | 0.5 | 2.9<small>%</small> | 15.7<small>%</small> |
+| 유진기업 | 8.9 | 0.3 | 4.7<small>%</small> | 13.1<small>%</small> |
 | 보광산업 | 15.5 | 2.1 | 2.9<small>%</small> | 8.8<small>%</small> |
-| 자연과환경 | 211.8 | 1.3 | - | 4.1<small>%</small> |
-| 앤디포스 | - | 0.6 | - | 4.0<small>%</small> |
-| SG | 17.2 | 0.7 | - | 3.3<small>%</small> |
-| 동국알앤에스 | 16.9 | 0.8 | 2.2<small>%</small> | 3.1<small>%</small> |
-| 쎄노텍 | - | 1.6 | - | 3.1<small>%</small> |
+| 앤디포스 | - | 0.6 | - | 4.1<small>%</small> |
+| 자연과환경 | 211.0 | 1.3 | - | 4.0<small>%</small> |
+| SG | 17.9 | 0.7 | - | 3.4<small>%</small> |
+| 동국알앤에스 | 16.8 | 0.8 | 2.2<small>%</small> | 3.1<small>%</small> |
+| 쎄노텍 | - | 1.6 | - | 3.0<small>%</small> |
 | 고려시멘트 | - | 0.5 | - | 2.7<small>%</small> |
-| 동양파일 | 9.5 | 0.4 | - | 2.2<small>%</small> |
-| 국영지앤엠 | 23.4 | 0.9 | - | 2.1<small>%</small> |
+| 동양파일 | 9.6 | 0.4 | - | 2.2<small>%</small> |
+| 국영지앤엠 | 23.6 | 0.9 | - | 2.1<small>%</small> |
 | 모헨즈 | 22.1 | 1.6 | - | 1.9<small>%</small> |
-| 서산 | 26.4 | 0.5 | - | 1.5<small>%</small> |
+| 서산 | 26.3 | 0.5 | - | 1.5<small>%</small> |
 
 {% include commons/footnotes.md %}

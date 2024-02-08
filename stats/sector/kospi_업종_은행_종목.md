@@ -13,8 +13,8 @@ header:
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [카카오뱅크](/323410/) | 51.4 | 2.4 | 0.3<small>%</small> | 55.1<small>%</small> |
-| [기업은행](/024110/) | 4.0 | 0.4 | 7.2<small>%</small> | 43.2<small>%</small> |
-| 제주은행 | 20.0 | 0.8 | 0.8<small>%</small> | 1.7<small>%</small> |
+| [카카오뱅크](/323410/) | 52.6 | 2.4 | 0.3<small>%</small> | 55.6<small>%</small> |
+| [기업은행](/024110/) | 4.0 | 0.4 | 7.2<small>%</small> | 42.8<small>%</small> |
+| 제주은행 | 19.9 | 0.8 | 0.8<small>%</small> | 1.6<small>%</small> |
 
 {% include commons/footnotes.md %}
