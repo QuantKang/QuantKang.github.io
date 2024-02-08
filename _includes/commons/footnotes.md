@@ -44,7 +44,11 @@
   // console.log(div.clientWidth);
   //var width = window.innerWidth;      // width
   //var height = window.innerHeight;    // height
-	new PartnersCoupang.G({"id":755374,"template":"carousel","trackingCode":"AF3144276","width":pc_width,"height":"140","tsource":""});
+{% if site.github.url == site.prod_url__ %}
+	new PartnersCoupang.G({"id":755374,"template":"carousel","trackingCode":"AF3144276","subId":"quantkang","width":pc_width,"height":"140","tsource":""});
+{% else %}
+	new PartnersCoupang.G({"id":755374,"template":"carousel","trackingCode":"AF3144276","subId":"quantkangalpha","width":pc_width,"height":"140","tsource":""});
+{% endif %}
   document.write("<small><small>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</small></small>");
 </script>
 
