@@ -2,7 +2,7 @@
 layout: splash
 ##title: 퀀트강의 슬기로운 주식 정보
 title: 성공적인 투자를 위해
-excerpt: "주식 시세와 재무 데이터를 분석하여 투자에 되는 정보를 제공합니다."
+excerpt: "주식 시세와 재무 데이터를 분석하여 투자에 도움이 되는 정보를 제공합니다."
 header:
   ##overlay_image: "https://picsum.photos/1300/400?image=989"
   overlay_image: "/assets/images/main.png"
@@ -45,7 +45,7 @@ PER/PBR/배당률 상하위 10% 종목을 살펴 볼 수 있습니다.
 | :---: | :---: |
 | [![저PBR 상위 10%](/fn/images/fn_low_pbr_table5.png)](/fn/fn_low_pbr/) | [![고배당 PBR 상위 10%](/fn/images/fn_high_div_table5.png)](/fn/fn_high_div/) |
 
-{% incldue /commons/ads/adsense_inarticle.html %}
+{% include /commons/ads/adsense_inarticle.html %}
 
 <br>
 > **기술적 지표가 포함된 주가 그래프 제공**
