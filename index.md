@@ -45,9 +45,7 @@ PER/PBR/배당률 상하위 10% 종목을 살펴 볼 수 있습니다.
 | :---: | :---: |
 | [![저PBR 상위 10%](/fn/images/fn_low_pbr_table5.png)](/fn/fn_low_pbr/) | [![고배당 PBR 상위 10%](/fn/images/fn_high_div_table5.png)](/fn/fn_high_div/) |
 
-
-<br>
-{% include /commons/ads/adsense_inarticle.html %}
+{% include /commons/ads/adsense.html %}
 
 <br>
 > **기술적 지표가 포함된 주가 그래프 제공**
@@ -66,9 +64,6 @@ PER/PBR/배당률 상하위 10% 종목을 살펴 볼 수 있습니다.
 | **[KODEX 레버리지](/122630/)** | **[TQQQ](/tqqq/)** |
 | :----------------------------: | :--------------------------------: |
 | [![KODEX 레버리지](/lev/images/122630.png)](/122630/) | [![TQQQ](/lev/images/qqq_ideal.png)](/tqqq/) |
-
-<br>
-{% include /commons/ads/adsense.html %}
 
 <br>
 > **유사 주가 흐름을 보인 타 종목 제시**[^fn_corr]

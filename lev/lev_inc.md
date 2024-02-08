@@ -22,6 +22,8 @@
 
 {% include lev/dia_inc.md %}
 
+{% include /commons/ads/adsense.html %}
+
 <br>
 
 > **S&P 500 지수**<a id="SPY"></a>
@@ -52,6 +54,8 @@
 
 {% include lev/xlk_inc.md %}
 
+{% include /commons/ads/adsense.html %}
+
 <br>
 
 > **S&P 바이오기술 지수**<a id="XBI"></a>
@@ -81,6 +85,8 @@
 > **CSI 중국 인터넷 지수**<a id="KWEB"></a>
 
 {% include lev/kweb_inc.md %}
+
+{% include /commons/ads/adsense.html %}
 
 <br>
 
