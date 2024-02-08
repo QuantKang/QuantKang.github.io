@@ -54,6 +54,23 @@
   document.write("<small><small>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</small></small>");
 </script>
 
+<div>
+var pc_width = document.querySelector(".page__content").clientWidth;
+{% if site.github.url == site.prod_url__ %}
+	new PartnersCoupang.G({"id":755374,"template":"carousel","trackingCode":"AF3144276","subId":"quantkang","width":pc_width,"height":"140","tsource":""});
+{% else %}
+	new PartnersCoupang.G({"id":755374,"template":"carousel","trackingCode":"AF3144276","subId":"quantkangalpha","width":pc_width,"height":"140","tsource":""});
+{% endif %}
+</div>
+
+<div>
+{% if site.github.url == site.prod_url__ %}
+	new PartnersCoupang.G({"id":755374,"template":"carousel","trackingCode":"AF3144276","subId":"quantkang","height":"140","tsource":""});
+{% else %}
+	new PartnersCoupang.G({"id":755374,"template":"carousel","trackingCode":"AF3144276","subId":"quantkangalpha","height":"140","tsource":""});
+{% endif %}
+</div>
+
 ---
 
 [^fn_update]: 장 마감 후 두어시간 이내 업데이트를 목표로 하지만, 상황에 따라서는 지연될 수 있습니다.
