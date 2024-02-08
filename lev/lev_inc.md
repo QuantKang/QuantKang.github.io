@@ -72,6 +72,12 @@
 
 <br>
 
+> **MSCI India 지수**<a id="INDA"></a>
+
+{% include lev/inda_inc.md %}
+
+<br>
+
 > **CSI 중국 인터넷 지수**<a id="KWEB"></a>
 
 {% include lev/kweb_inc.md %}
