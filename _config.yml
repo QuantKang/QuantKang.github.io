@@ -327,9 +327,9 @@ defaults:
       related: false
   - scope:
       path: 
-        - lev/lev_inc/
-        - stats/sector/sector_inc/
-        - assets/blogger/template.html
-        - google04611fcb9c0dc83c.html
+        - "lev/lev_inc/"
+        - "stats/sector/sector_inc/"
+        - "assets/blogger/template.html"
+        - "google04611fcb9c0dc83c.html"
     values:
       sitemap: false
