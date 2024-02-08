@@ -329,3 +329,7 @@ defaults:
       path: "lev/lev_inc.md"
     values:
       sitemap: false
+  - scope:
+      path: "stats/sector/sector_inc.md"
+    values:
+      sitemap: false
