@@ -15,7 +15,7 @@ header:
 
 일부 상품의 명칭은 길이를 줄이기 위해서 약어[^fn_lev_stock_abbr]로 표시합니다.
 
-{% include_relative lev_inc.md %}
+{% include_relative lev_md.inc %}
 
 
 {% include commons/footnotes.md %}
