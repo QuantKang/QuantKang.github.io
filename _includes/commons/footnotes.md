@@ -55,20 +55,24 @@
 </script>
 
 <div>
+<script>
 var pc_width = document.querySelector(".page__content").clientWidth;
 {% if site.github.url == site.prod_url__ %}
 	new PartnersCoupang.G({"id":755374,"template":"carousel","trackingCode":"AF3144276","subId":"quantkang","width":pc_width,"height":"140","tsource":""});
 {% else %}
 	new PartnersCoupang.G({"id":755374,"template":"carousel","trackingCode":"AF3144276","subId":"quantkangalpha","width":pc_width,"height":"140","tsource":""});
 {% endif %}
+</script>
 </div>
 
 <div>
+<script>
 {% if site.github.url == site.prod_url__ %}
 	new PartnersCoupang.G({"id":755374,"template":"carousel","trackingCode":"AF3144276","subId":"quantkang","height":"140","tsource":""});
 {% else %}
 	new PartnersCoupang.G({"id":755374,"template":"carousel","trackingCode":"AF3144276","subId":"quantkangalpha","height":"140","tsource":""});
 {% endif %}
+</script>
 </div>
 
 ---
