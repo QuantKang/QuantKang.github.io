@@ -5,6 +5,7 @@ excerpt: KOSPI 종이목재 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
+last_modified_at: 2024-02-08
 ---
 <br>
 ![KOSPI 종이목재 업종 종목별 시가총액 비중](images/kospi_업종_종이목재_종목.png)

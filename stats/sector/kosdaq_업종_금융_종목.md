@@ -5,6 +5,7 @@ excerpt: KOSDAQ 금융 업종 종목별 시가총액 비중입니다. 종목별�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
+last_modified_at: 2024-02-08
 ---
 <br>
 ![KOSDAQ 금융 업종 종목별 시가총액 비중](images/kosdaq_업종_금융_종목.png)

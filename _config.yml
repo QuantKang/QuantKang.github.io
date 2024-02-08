@@ -325,3 +325,7 @@ defaults:
       share: false
       ##related: true
       related: false
+  - scope:
+      path: "google*.html"
+    values:
+      sitemap: false
