@@ -31,7 +31,10 @@ header:
 | :-------: | :--------: |
 | [![KOSPI 종목별 비중](sector/images/kospi_all_all_종목.png)](sector/kospi_all_all_종목/) | [![KOSDAQ 종목별 비중](sector/images/kosdaq_all_all_종목.png)](sector/kosdaq_all_all_종목/) |
 
+<!--
 {% include /commons/ads/adsense.html %}
+-->
+<br>
 
 > **시장**<a id="market"></a>
 
