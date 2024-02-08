@@ -13,15 +13,15 @@ header:
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [커넥트웨이브](/119860/) | 61.1 | 0.9 | - | 25.6<small>%</small> |
-| 카페24 | - | 3.1 | - | 19.7<small>%</small> |
-| 케이아이엔엑스 | 19.4 | 3.4 | 0.6<small>%</small> | 19.4<small>%</small> |
-| 가비아 | 10.1 | 1.8 | 0.4<small>%</small> | 9.0<small>%</small> |
-| 사람인 | 6.6 | 1.1 | 4.0<small>%</small> | 8.0<small>%</small> |
-| 브랜드엑스코퍼레이션 | 16.4 | 2.1 | 2.1<small>%</small> | 6.5<small>%</small> |
-| 예스24 | 88.6 | 0.7 | 4.0<small>%</small> | 4.9<small>%</small> |
-| 줌인터넷 | - | 2.6 | - | 3.2<small>%</small> |
-| 이상네트웍스 | 5.3 | 0.5 | 1.9<small>%</small> | 2.1<small>%</small> |
-| THE E&M | - | 0.6 | - | 1.6<small>%</small> |
+| [커넥트웨이브](/119860/) | 64.2 | 1.0 | - | 26.3<small>%</small> |
+| 카페24 | - | 3.2 | - | 19.9<small>%</small> |
+| 케이아이엔엑스 | 19.7 | 3.4 | 0.6<small>%</small> | 19.3<small>%</small> |
+| 가비아 | 10.1 | 1.8 | 0.4<small>%</small> | 8.7<small>%</small> |
+| 사람인 | 6.6 | 1.1 | 4.0<small>%</small> | 7.8<small>%</small> |
+| 브랜드엑스코퍼레이션 | 16.5 | 2.1 | 2.1<small>%</small> | 6.4<small>%</small> |
+| 예스24 | 88.1 | 0.7 | 4.0<small>%</small> | 4.8<small>%</small> |
+| 줌인터넷 | - | 2.7 | - | 3.2<small>%</small> |
+| 이상네트웍스 | 5.4 | 0.5 | 1.9<small>%</small> | 2.1<small>%</small> |
+| THE E&M | - | 0.6 | - | 1.5<small>%</small> |
 
 {% include commons/footnotes.md %}
