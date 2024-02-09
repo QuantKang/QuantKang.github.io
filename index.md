@@ -7,7 +7,7 @@ header:
 last_modified_at: 2024-02-28
 ---
 
-> **[코스피 200](/stats/sector/kospi_all_all_종목/) / [코스닥 150](/stats/sector/kosdaq_all_all_종목/) 편입 종목**[^fn_update]
+> **[KOSPI](/stats/sector/kospi_all_all_종목/) 200 / [KOSDAQ](/stats/sector/kosdaq_all_all_종목/) 150 편입 종목**[^fn_update]
 
 | [삼성전자](/005930/) | [SK하이닉스](/000660/) | [에코프로비엠](/247540/) | [에코프로](/086520/) |
 | :-: | :-: | :-: | :-: |
@@ -15,7 +15,7 @@ last_modified_at: 2024-02-28
 
 
 <br>
-> **[국내외 주요 레버리지/인버스 ETF/ETN](/lev/)**
+> **[국내외 주요 레버리지/인버스 ETF<small>&ETN</small>](/lev/)**
 
 | [KODEX <small>레버리지</small>](/122630/) | [TQQQ](/tqqq/) | [SOXL](/soxl/) | [TMV](/tmv/) |
 | :-: | :-: | :-: | :-: |

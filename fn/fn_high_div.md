@@ -14,6 +14,6 @@ header:
 <br>
 > **관련 정보**
 
-{% include fn_list_md.inc %}
+{% include fn/fn_list_md.inc %}
 
 {% include commons/footnotes.md %}
