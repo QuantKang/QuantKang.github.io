@@ -11,5 +11,6 @@ header:
 
 {% include_relative _includes/fn_high_pbr_md.inc %}
 
+{% inclucde_relative fn_list_md.inc %}
 
 {% include commons/footnotes.md %}
