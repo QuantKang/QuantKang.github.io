@@ -15,11 +15,12 @@ last_modified_at: 2024-02-28
 
 
 <br>
-> **[국내외 주요 레버리지/인버스 ETF<small>&ETN</small>](/lev/)**
+> **[국내외 주요 레버리지/인버스 ETF<small>&ETN</small>] 수익률과 비용(/lev/)**
 
 | [KODEX <small>레버리지</small>](/122630/) | [TQQQ](/tqqq/) | [SOXL](/soxl/) | [TMV](/tmv/) |
 | :-: | :-: | :-: | :-: |
 | [![KODEX 레버리지](/lev/images/122630.png)](/122630/) | [![TQLL](/lev/images/tqqq.png)](/tqqq/) | [![SOXL](/lev/images/soxl.png)](/soxl/) | [![TMV](/lev/images/tmv.png)](/tmv/) |
+| [![KODEX 레버리지](/lev/images/069500_ideal.png)](/122630/) | [![TQLL](/lev/images/qqq_ideal.png)](/tqqq/) | [![SOXL](/lev/images/soxq_ideal.png)](/soxl/) | [![TMV](/lev/images/tlt_ideal.png)](/tmv/) |
 
 
 <br>
