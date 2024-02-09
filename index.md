@@ -15,17 +15,12 @@ last_modified_at: 2024-02-28
 | :-: | :-: | :-: | :-: |
 | [![삼성전자](/stock/images/005930.png)](/005930/) | [![SK하이닉스](/stock/images/000660.png)](/000660/) | [![에코프로비엠](/stock/images/247540.png)](/247540/) | [![에코프로](/stock/images/086520.png)](/086520/) |
 
-| 삼성전자 | SK하이닉스 | LG에너지솔루션 | 삼성바이오로직스 |
-| :-: | :-: | :-: | :-: |
-| [![삼성전자](/stock/images/005930.png)](/005930/) | [![SK하이닉스](/stock/images/000660.png)](/000660/) | [![LG에너지솔루션](/stock/images/373220.png)](/373220/) | [![삼성바이오로직스](/stock/images/207940.png)](/207940/) |
-| 에코프로비엠 | 에코프로 | HLB | 알테오젠 |
-| [![에코프로비엠](/stock/images/247540.png)](/247540/) | [![에코프로](/stock/images/086520.png)](/086520/) | [![HLB](/stock/images/028300.png)](/028300/) | [![알테오젠](/stock/images/196170.png)](/196170/) |
 
 - **[주요 레버리지/인버스](/lev/)**
 
 | KODEX 레버리지 | TQQQ | SOXL | TMV |
 | :-: | :-: | :-: | :-: |
-| [![KODEX 레버리지](/lev/images/122630.png)](/122630/) | [![TQLL](/lev/images/tqqq.png)](/tqqq/) | [![SOXL](/lev/images/soxl.png)](/soxl/) | [![TMV](levstock/images/tmv.png)](/tmv/) |
+| [![KODEX 레버리지](/lev/images/122630.png)](/122630/) | [![TQLL](/lev/images/tqqq.png)](/tqqq/) | [![SOXL](/lev/images/soxl.png)](/soxl/) | [![TMV](/lev/images/tmv.png)](/tmv/) |
 
 
 <br>
