@@ -16,7 +16,7 @@ last_modified_at: 2024-02-28
 
 > **[국내외 주요 레버리지/인버스](/lev/)**
 
-| [KODEX <small>레버리지<small>](/122630/) | [TQQQ](/tqqq/) | [SOXL](/soxl/) | [TMV](/tmv/) |
+| [KODEX <small>레버리지</small>](/122630/) | [TQQQ](/tqqq/) | [SOXL](/soxl/) | [TMV](/tmv/) |
 | :-: | :-: | :-: | :-: |
 | [![KODEX 레버리지](/lev/images/122630.png)](/122630/) | [![TQLL](/lev/images/tqqq.png)](/tqqq/) | [![SOXL](/lev/images/soxl.png)](/soxl/) | [![TMV](/lev/images/tmv.png)](/tmv/) |
 
