@@ -19,7 +19,8 @@ last_modified_at: 2024-02-28
 
 <br>
 > **[국내외 주요 레버리지/인버스 ETF<small>&ETN</small>](/lev/)**
-주가 흐름, 변동성 지표, 변동성/금융 비용 추정, 관련 상품간의 수익률 비교 정보를 제공합니다.
+
+주가 흐름, 변동성 지표, 추정 변동성/금융 비용, 관련 상품간의 수익률 비교 정보를 제공합니다.
 {: .notice}
 
 | [KODEX <small>레버리지</small>](/122630/) | [TQQQ](/tqqq/) | [SOXL](/soxl/) | [TMV](/tmv/) |
@@ -30,11 +31,17 @@ last_modified_at: 2024-02-28
 <br>
 > **PER/PBR/배당률 상하위 10% 종목**[^fn_finance_metric]
 
+PER/PBR/배당률 재무 지표를 기준으로 하는 상하위 10% 종목 목록을 제공합니다.
+{: .notice}
+
 {% include fn/fn_list_md.inc %}
 
 
 <br>
 > **[다양한 통계](/stats/)**
+
+PER/PBR/배당률 재무 지표를 기준으로 하는 상하위 10% 종목 목록을 제공합니다.
+{: .notice}
 
 | [KOSPI 업종](/stats/sector/kospi_all_all_업종/) | [KOSPI 종목](/stats/sector/kospi_all_all_종목/) | [KOSDAQ 업종](/stats/sector/kosdaq_all_all_업종/) | [KOSDAQ 종목](/stats/sector/kosdaq_all_all_종목/) |
 | :---: | :---: | :---: | :---: |
