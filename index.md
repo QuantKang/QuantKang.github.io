@@ -14,22 +14,20 @@ last_modified_at: 2024-02-28
 | [![삼성전자](/stock/images/005930.png)](/005930/) | [![SK하이닉스](/stock/images/000660.png)](/000660/) | [![에코프로비엠](/stock/images/247540.png)](/247540/) | [![에코프로](/stock/images/086520.png)](/086520/) |
 
 
-> **[국내외 주요 레버리지/인버스 종목](/lev/)**
+> **[국내외 주요 레버리지/인버스](/lev/)**
 
-| [KODEX 레버리지](/122630/) | [TQQQ](/tqqq/) | [SOXL](/soxl/) | [TMV](/tmv/) |
+| [KODEX <small>레버리지<small>](/122630/) | [TQQQ](/tqqq/) | [SOXL](/soxl/) | [TMV](/tmv/) |
 | :-: | :-: | :-: | :-: |
 | [![KODEX 레버리지](/lev/images/122630.png)](/122630/) | [![TQLL](/lev/images/tqqq.png)](/tqqq/) | [![SOXL](/lev/images/soxl.png)](/soxl/) | [![TMV](/lev/images/tmv.png)](/tmv/) |
 
 
 <br>
-> **[재무 지표 기반 종목](/fn)[^fn_finance_metric] 선별**
-
-PER/PBR/배당률 상하위 10% 종목
+> **PER/PBR/배당률 상하위 10% 종목**[^fn_finance_metric]
 
 {% include_relative fn/fn_list_md.inc %}
 
 <br>
-> **[다양한 통계](/stats/) 제공**
+> **[다양한 통계](/stats/)**
 
 | **KOSPI 업종** | **KOSPI 종목** | **KOSDAQ 업종** | **KOSDAQ종목** |
 | :---: | :---: | :---: | :---: |
