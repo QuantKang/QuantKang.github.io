@@ -8,7 +8,7 @@ header:
 last_modified_at: 2024-02-08
 ---
 <br>
-![KOSDAQ 운송장비부품 업종 종목별 시가총액 비중](images/kosdaq_업종_운송장비부품_종목.png)
+![KOSDAQ 운송장비부품 업종 종목별 시가총액 비중](images/kosdaq_업종_운송장비부품_종목.png){: .align-center}
 <br>
 > **종목 목록 (68)**<a id="list"></a>
 

@@ -8,7 +8,7 @@ header:
 last_modified_at: 2024-02-08
 ---
 <br>
-![KOSDAQ 금속 업종 종목별 시가총액 비중](images/kosdaq_업종_금속_종목.png)
+![KOSDAQ 금속 업종 종목별 시가총액 비중](images/kosdaq_업종_금속_종목.png){: .align-center}
 <br>
 > **종목 목록 (71)**<a id="list"></a>
 
