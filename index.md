@@ -31,7 +31,7 @@ last_modified_at: 2024-02-28
 
 | [KOSPI 업종](/stats/sector/kospi_all_all_업종/) | [KOSPI 종목](/stats/sector/images/kospi_all_all/) | [KOSDAQ 업종](/stats/sector/kosdaq_all_all_업종/) | [KOSDAQ 종목](/stats/sector/images/kosdaq_all_all) |
 | :---: | :---: | :---: | :---: |
-| [![KOSPI 업종별](/stats/sector/images/kospi_all_all_업종.png)](/stats/sector/kospi_all_all_업종/) | [![KOSPI 종목별](/stats/sector/images/kospi_all_all_종목.png)](/stats/sector/images/kospi_all_all/) | [![KOSDAQ 업종별](/stats/sector/images/kosdaq_all_all_업종.png)](/stats/sector/kosdaq_all_all_업종/) | [![KOSDAQ 종목별 ](/stats/sector/images/kosdaq_all_all_종목.png)](/stats/sector/images/kosdaq_all_all/) |
+| [![KOSPI 업종별](/stats/sector/images/kospi_all_all_업종.png)](/stats/sector/kospi_all_all_업종/) | [![KOSPI 종목별](/stats/sector/images/kospi_all_all_종목.png)](/stats/sector/kospi_all_all/) | [![KOSDAQ 업종별](/stats/sector/images/kosdaq_all_all_업종.png)](/stats/sector/kosdaq_all_all_업종/) | [![KOSDAQ 종목별 ](/stats/sector/images/kosdaq_all_all_종목.png)](/stats/sector/kosdaq_all_all/) |
 
 
 {% include commons/footnotes.md %}
