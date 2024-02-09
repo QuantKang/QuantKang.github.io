@@ -25,7 +25,7 @@ last_modified_at: 2024-02-28
 <br>
 > **PER/PBR/배당률 상하위 10% 종목**[^fn_finance_metric]
 
-{% include_relative fn/fn_list_md.inc %}
+{% include fn/fn_list_md.inc %}
 
 
 <br>

@@ -9,14 +9,9 @@ header:
 
 > **재무 데이터 기반 지표**[^fn_finance_metric]
 
-|    | **지표** | **조건** | **조건** |
-| :- | :------- | :------- | :------- |
-|    | PER | [저PER 10%](/fn/fn_low_per/) | [고PER 10%](/fn/fn_high_per/) |
-|    | PBR | [저PBR 10%](/fn/fn_low_pbr/) | [고PBR 10%](/fn/fn_high_pbr/) |
-|    | 배당 | - | [고배당 10%](/fn/fn_high_div/) |
+{% include fn/fn_list_md.inc %}
 
 <br>
-
 > **업종별 비중**<a id="sector_weights"></a>
 
 | **KOSPI** | **KOSDAQ** |
@@ -24,18 +19,13 @@ header:
 | [![KOSPI 업종별 비중](sector/images/kospi_all_all_업종.png)](sector/kospi_all_all_업종/) | [![KOSDAQ 업종별 비중](sector/images/kosdaq_all_all_업종.png)](sector/kosdaq_all_all_업종/) |
 
 <br>
-
 > **[종목별 비중](sector/)**<a id="stock_weights"></a>
 
 | **KOSPI** | **KOSDAQ** |
 | :-------: | :--------: |
 | [![KOSPI 종목별 비중](sector/images/kospi_all_all_종목.png)](sector/kospi_all_all_종목/) | [![KOSDAQ 종목별 비중](sector/images/kosdaq_all_all_종목.png)](sector/kosdaq_all_all_종목/) |
 
-{% comment %}
-{% include /commons/ads/adsense.html %}
-{% endcomment %}
 <br>
-
 > **시장**<a id="market"></a>
 
 | **종목수 기준** | **시가총액 기준** |
@@ -43,7 +33,6 @@ header:
 | ![시장별 상장사 비율](/assets/images/stats/krx_market_count.png) | ![시장별 상장사 비중](/assets/images/stats/krx_market_marcap.png) |
 
 <br>
-
 > **지역**<a id="region"></a>
 
 | **종목수 기준** | **시가총액 기준** |
@@ -71,7 +60,6 @@ header:
 --->
 
 <br>
-
 > **결산 월**<a id="settlemonth"></a>
 
 | **종목수 기준** | **시가총액 기준** |
