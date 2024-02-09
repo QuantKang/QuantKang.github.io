@@ -16,7 +16,7 @@ last_modified_at: 2024-02-28
 
 > **[국내외 주요 레버리지/인버스 종목](/lev/)**
 
-| KODEX 레버리지 | TQQQ | SOXL | TMV |
+| <span style="overflow: hidden; text-overflow: ellipsis;">KODEX 레버리지</span> | TQQQ | SOXL | TMV |
 | :-: | :-: | :-: | :-: |
 | [![KODEX 레버리지](/lev/images/122630.png)](/122630/) | [![TQLL](/lev/images/tqqq.png)](/tqqq/) | [![SOXL](/lev/images/soxl.png)](/soxl/) | [![TMV](/lev/images/tmv.png)](/tmv/) |
 
