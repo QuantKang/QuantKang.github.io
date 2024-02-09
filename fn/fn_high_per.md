@@ -11,6 +11,9 @@ header:
 
 {% include_relative _includes/fn_high_per_md.inc %}
 
+<br>
+> **관련 정보**
+
 {% include_relative fn_list_md.inc %}
 
 {% include commons/footnotes.md %}
