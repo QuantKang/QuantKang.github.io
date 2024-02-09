@@ -8,7 +8,7 @@ header:
 last_modified_at: 2024-02-08
 ---
 <br>
-![KOSDAQ 농업임업및어업 업종 종목별 시가총액 비중](images/kosdaq_업종_농업임업및어업_종목.png)
+![KOSDAQ 농업임업및어업 업종 종목별 시가총액 비중](images/kosdaq_업종_농업임업및어업_종목.png){: .align-center}
 <br>
 > **종목 목록 (2)**<a id="list"></a>
 

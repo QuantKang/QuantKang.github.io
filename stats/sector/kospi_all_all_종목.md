@@ -8,7 +8,7 @@ header:
 last_modified_at: 2024-02-08
 ---
 <br>
-![KOSPI 전체 종목별 시가총액 비중](images/kospi_all_all_종목.png)
+![KOSPI 전체 종목별 시가총액 비중](images/kospi_all_all_종목.png){: .align-center}
 <br>
 > **종목 목록 (953)**<a id="list"></a>
 
