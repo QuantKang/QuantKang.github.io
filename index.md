@@ -9,7 +9,7 @@ last_modified_at: 2024-02-28
 
 > **[코스피 200](/stats/sector/kospi_all_all_종목/)** 및 **[코스닥 150](/stats/sector/kosdaq_all_all_종목/)** 편입 종목[^fn_update]
 
-| 삼성전자 | SK하이닉스 | 에코프로비엠 | 에코프로 |
+| 삼성전자 | SK하이닉스 | <span style="overflow: hidden; text-overflow: ellipsis;">에코프로비엠</span> | 에코프로 |
 | :-: | :-: | :-: | :-: |
 | [![삼성전자](/stock/images/005930.png)](/005930/) | [![SK하이닉스](/stock/images/000660.png)](/000660/) | [![에코프로비엠](/stock/images/247540.png)](/247540/) | [![에코프로](/stock/images/086520.png)](/086520/) |
 
