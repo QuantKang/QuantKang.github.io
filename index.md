@@ -9,7 +9,7 @@ last_modified_at: 2024-02-28
 
 > **[KOSPI](/stats/sector/kospi_all_all_종목/) 200 / [KOSDAQ](/stats/sector/kosdaq_all_all_종목/) 150 편입 종목**[^fn_update]
 
-주가 흐름, 최근 공시, 재무적 지표, 기술적 지표 투자 과거 성과, 유사 주가 흐름 종목 등의 정보를 제공합니다.
+주가 흐름, 최근 공시, 재무적 지표, 기술적 지표로 투자 시 과거 성과, 유사 주가 흐름 종목 등의 정보를 제공합니다.
 {: .notice}
 
 | [삼성전자](/005930/) | [SK하이닉스](/000660/) | [에코프로비엠](/247540/) | [에코프로](/086520/) |
@@ -19,13 +19,12 @@ last_modified_at: 2024-02-28
 
 <br>
 > **[국내외 주요 레버리지/인버스 ETF<small>&ETN</small>](/lev/)**
+주가 흐름, 변동성 지표, 변동성/금융 비용 추정, 관련 상품간의 수익률 비교 정보를 제공합니다.
+{: .notice}
 
 | [KODEX <small>레버리지</small>](/122630/) | [TQQQ](/tqqq/) | [SOXL](/soxl/) | [TMV](/tmv/) |
 | :-: | :-: | :-: | :-: |
 | [![KODEX 레버리지](/lev/images/122630.png)](/122630/) | [![TQLL](/lev/images/tqqq.png)](/tqqq/) | [![SOXL](/lev/images/soxl.png)](/soxl/) | [![TMV](/lev/images/tmv.png)](/tmv/) |
-
-주가 흐름, 변동성 지표, 변동성/금융 비용 추정, 관련 상품간의 수익률 비교 정보를 제공합니다.
-{: .notice}
 
 
 <br>
