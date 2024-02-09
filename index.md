@@ -14,7 +14,7 @@ last_modified_at: 2024-02-28
 | [![삼성전자](/stock/images/005930.png)](/005930/) | [![SK하이닉스](/stock/images/000660.png)](/000660/) | [![에코프로비엠](/stock/images/247540.png)](/247540/) | [![에코프로](/stock/images/086520.png)](/086520/) |
 
 
-> **[국내외 주요 레버리지/인버스](/lev/) ETF/ETN**
+> **[국내외 주요 레버리지/인버스 ETF/ETN](/lev/)**
 
 | [KODEX <small>레버리지</small>](/122630/) | [TQQQ](/tqqq/) | [SOXL](/soxl/) | [TMV](/tmv/) |
 | :-: | :-: | :-: | :-: |
@@ -29,7 +29,7 @@ last_modified_at: 2024-02-28
 <br>
 > **[다양한 통계](/stats/)**
 
-| [KOSPI 업종](/stats/sector/kospi_all_all_업종/) | [KOSPI 종목] | KOSDAQ 업종 | KOSDAQ 종목 |
+| [KOSPI 업종](/stats/sector/kospi_all_all_업종/) | [KOSPI 종목](/stats/sector/images/kospi_all_all/) | [KOSDAQ 업종](/stats/sector/kosdaq_all_all_업종/) | [KOSDAQ 종목](/stats/sector/images/kosdaq_all_all) |
 | :---: | :---: | :---: | :---: |
 | [![KOSPI 업종별](/stats/sector/images/kospi_all_all_업종.png)](/stats/sector/kospi_all_all_업종/) | [![KOSPI 종목별](/stats/sector/images/kospi_all_all_종목.png)](/stats/sector/images/kospi_all_all/) | [![KOSDAQ 업종별](/stats/sector/images/kosdaq_all_all_업종.png)](/stats/sector/kosdaq_all_all_업종/) | [![KOSDAQ 종목별 ](/stats/sector/images/kosdaq_all_all_종목.png)](/stats/sector/images/kosdaq_all_all/) |
 
