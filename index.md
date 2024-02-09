@@ -9,18 +9,13 @@ last_modified_at: 2024-02-28
 
 > **다양한 종목과 데이터를 주기적으로 분석**[^fn_update]
 
-- **[코스피 200](/stats/sector/kospi_all_all_종목/)** [삼성전자](/005930/), [SK하이닉스](/000660/), ...
+- **[코스피 200](/stats/sector/kospi_all_all_종목/)** 및 **[코스닥 150](/stats/sector/kosdaq_all_all_종목/)** 편입 종목
 
-| [![저PER 상위 10%](/fn/images/fn_low_per_table5.png)](/fn/fn_low_per/) | [![고PER 상위 10%](/fn/images/fn_high_per_table5.png)](/fn/fn_high_per/) | [![저PBR 상위 10%](/fn/images/fn_low_pbr_table5.png)](/fn/fn_low_pbr/) | [![고PBR 상위 10%](/fn/images/fn_high_pbr_table5.png)](/fn/fn_high_pbr/) | [![고배당 상위 10%](/fn/images/fn_high_div_table5.png)](/fn/fn_high_div/) |
-| :-: | :-: | :-: | :-: | :-: |
-|     |     |     |     |     |
-
-
-- **[코스닥 150](/stats/sector/kosdaq_all_all_종목/)** [에코프로비엠](/247540/), [앨앤에프](/066970/), ...
-
-| 삼성전자 | SK하이닉스 | 에코프로비엠 | 엘앤에프 |
+| 삼성전자 | SK하이닉스 | LG에너지솔루션 | 삼성바이오로직스 |
 | :-: | :-: | :-: | :-: |
-| [![삼성전자](/stock/images/005930.png)](/005930/) | [![SK하이닉스](/stock/images/000660.png)](/000660/) | [![에코프로비엠](/stock/images/247540.png)](/247540/) | [![엘앤에프](/stock/images/066970.png)](/066970/) |
+| [![삼성전자](/stock/images/005930.png)](/005930/) | [![SK하이닉스](/stock/images/000660.png)](/000660/) | [![LG에너지솔루션](/stock/images/373220.png)](/373220/) | [![삼성바이오로직스](/stock/images/207940.png)](/207940/) |
+| 에코프로비엠 | 에코프로 | HLB | 알테오젠 |
+| [![에코프로비엠](/stock/images/247540.png)](/247540/) | [![에코프로](/stock/images/086520.png)](/086520/) | [![HLB](/stock/images/028300.png)](/028300/) | [![알테오젠](/stock/images/196170.png)](/196170/) |
 
 - **[국내 레버리지/인버스](/lev/)** [KODEX 레버리지](/122630/), [KODEX 인버스](/114800/), ...
 - **[해외 레버리지/인버스](/dev/)**  [TQQQ](/tqqq/), [SOXL](/soxl/), [TMV](/tmv/), ...
