@@ -31,7 +31,7 @@ last_modified_at: 2024-02-28
 <br>
 > **PER/PBR/배당률 상하위 10% 종목**[^fn_finance_metric]
 
-PER/PBR/배당률 재무 지표를 기준으로 하는 상하위 10% 종목 목록을 제공합니다.
+PER/PBR/배당률 재무 지표를 기준으로 상하위 10% 종목 목록을 제공합니다.
 {: .notice}
 
 {% include fn/fn_list_md.inc %}
@@ -40,7 +40,7 @@ PER/PBR/배당률 재무 지표를 기준으로 하는 상하위 10% 종목 목�
 <br>
 > **[다양한 통계](/stats/)**
 
-</small>
+<small>
 PER/PBR/배당률 재무 지표를 기준으로 하는 상하위 10% 종목 목록을 제공합니다.
 </small>
 
