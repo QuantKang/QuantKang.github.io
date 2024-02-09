@@ -40,8 +40,9 @@ PER/PBR/배당률 재무 지표를 기준으로 하는 상하위 10% 종목 목�
 <br>
 > **[다양한 통계](/stats/)**
 
+</small>
 PER/PBR/배당률 재무 지표를 기준으로 하는 상하위 10% 종목 목록을 제공합니다.
-{: .notice}
+</small>
 
 | [KOSPI 업종](/stats/sector/kospi_all_all_업종/) | [KOSPI 종목](/stats/sector/kospi_all_all_종목/) | [KOSDAQ 업종](/stats/sector/kosdaq_all_all_업종/) | [KOSDAQ 종목](/stats/sector/kosdaq_all_all_종목/) |
 | :---: | :---: | :---: | :---: |
