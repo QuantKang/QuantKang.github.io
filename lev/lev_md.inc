@@ -1,5 +1,3 @@
-<br>
-
 > **KOSPI 200 지수**<a id="069500"></a>
 
 {% include lev/069500_md.inc %}
@@ -99,3 +97,5 @@
 > **엔비디아**<a id="NVDA"></a>
 
 {% include lev/nvda_md.inc %}
+
+<br>
