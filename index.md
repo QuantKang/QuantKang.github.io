@@ -44,9 +44,7 @@ last_modified_at: 2024-02-28
 
 PER/PBR/배당률 상하위 10% 종목을 살펴 볼 수 있습니다.
 
-| **저PBR** | **고배당** |
-| :---: | :---: |
-| [![저PBR 상위 10%](/fn/images/fn_low_pbr_table5.png)](/fn/fn_low_pbr/) | [![고배당 PBR 상위 10%](/fn/images/fn_high_div_table5.png)](/fn/fn_high_div/) |
+{% include_relative fn/fn_list_md.inc %}
 
 {% comment %}
 {% include /commons/ads/adsense.html %}
