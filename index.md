@@ -44,14 +44,5 @@ PER/PBR/배당률 상하위 10% 종목을 살펴 볼 수 있습니다.
 | :---: | :---: |
 | [![KOSPI 업종 비중](/stats/sector/images/kospi_all_all_업종.png)](/stats/sector/kospi_all_all_업종/) | [![KOSDAQ 반도체 업종](/stats/sector/images/kosdaq_업종_반도체_종목.png)](/stats/sector/kosdaq_업종_디지털컨텐츠_종목/) |
 
-<br>
-> **기술적 지표가 포함된 주가 그래프 제공**
-
-주가 흐름을 기술적 지표와 함께 제공합니다.
-
-| **[삼성전자](/005930/)** | **[에코프로비엠](/247540/)** |
-| :----------------------------: | :--------------------------------: |
-| [![삼성전자](/stock/images/005930.png)](/005930/#price) | [![에코프로비엠](/stock/images/247540.png)](/247540/#price) |
-
 
 {% include commons/footnotes.md %}
