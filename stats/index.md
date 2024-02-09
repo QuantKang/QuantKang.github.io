@@ -9,6 +9,9 @@ header:
 
 > **재무 데이터 기반 지표**[^fn_finance_metric]
 
+재무 지표 중 하나를 기준으로 다른 재무 지표를 살펴 볼 수 있습니다.
+{: .notice}
+
 {% include fn/fn_list_md.inc %}
 
 <br>

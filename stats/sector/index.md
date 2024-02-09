@@ -8,6 +8,7 @@ header:
 ---
 
 KOSPI와 KOSDAQ 시장의 업종 비중과 업종별 상장사 목록입니다. 그래프를 클릭하면 해당 조건의 종목과 기본 재무 데이터를 볼 수 있습니다.
+{: .notice}
 
 {% include_relative sector_md.inc %}
 
