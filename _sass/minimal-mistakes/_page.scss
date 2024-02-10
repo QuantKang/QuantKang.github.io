@@ -195,7 +195,10 @@ body {
 
   &--overlay {
     position: relative;
+    /* 커스텀 
     margin-bottom: 2em;
+    */
+    margin-bottom: 1em;
     padding: 3em 0;
     @include clearfix;
     background-size: cover;
