@@ -43,7 +43,10 @@ body {
   }
 
   @include breakpoint($x-large) {
+  /* 커스텀
     width: calc(100% - #{$right-sidebar-width});
+  */
+    width: 100%;
     padding-right: $right-sidebar-width;
   }
 
