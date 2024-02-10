@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: REPORT TITLE
-excerpt: REPROT EXCERPT
+excerpt: "REPROT EXCERPT"
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
