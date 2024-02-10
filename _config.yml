@@ -330,6 +330,15 @@ defaults:
       ##related: true
       related: false
   - scope:
+      path: ""
+      type: "reports"
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
+  - scope:
       path: "google*.html"
     values:
       sitemap: false
