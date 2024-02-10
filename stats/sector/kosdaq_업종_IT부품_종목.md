@@ -8,7 +8,7 @@ header:
 last_modified_at: 2024-02-08
 ---
 <br>
-![KOSDAQ IT부품 업종 종목별 시가총액 비중](images/kosdaq_업종_IT부품_종목.png){: .align-center}
+![KOSDAQ IT부품 업종 종목별 시가총액 비중](/stats/sector/images/kosdaq_업종_IT부품_종목.png){: .align-center}
 <br>
 > **종목 목록 (105)**<a id="list"></a>
 

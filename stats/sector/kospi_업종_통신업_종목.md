@@ -8,7 +8,7 @@ header:
 last_modified_at: 2024-02-08
 ---
 <br>
-![KOSPI 통신업 업종 종목별 시가총액 비중](images/kospi_업종_통신업_종목.png){: .align-center}
+![KOSPI 통신업 업종 종목별 시가총액 비중](/stats/sector/images/kospi_업종_통신업_종목.png){: .align-center}
 <br>
 > **종목 목록 (5)**<a id="list"></a>
 
