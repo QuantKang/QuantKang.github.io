@@ -8,7 +8,7 @@ header:
 last_modified_at: 2024-02-08
 ---
 <br>
-![KOSDAQ 방송서비스 업종 종목별 시가총액 비중](images/kosdaq_업종_방송서비스_종목.png){: .align-center}
+![KOSDAQ 방송서비스 업종 종목별 시가총액 비중](/stats/sector/images/kosdaq_업종_방송서비스_종목.png){: .align-center}
 <br>
 > **종목 목록 (10)**<a id="list"></a>
 

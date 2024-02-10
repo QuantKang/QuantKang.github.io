@@ -8,7 +8,7 @@ header:
 last_modified_at: 2024-02-08
 ---
 <br>
-![KOSDAQ 금융 업종 종목별 시가총액 비중](images/kosdaq_업종_금융_종목.png){: .align-center}
+![KOSDAQ 금융 업종 종목별 시가총액 비중](/stats/sector/images/kosdaq_업종_금융_종목.png){: .align-center}
 <br>
 > **종목 목록 (129)**<a id="list"></a>
 

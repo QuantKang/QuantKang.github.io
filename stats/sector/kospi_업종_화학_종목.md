@@ -8,7 +8,7 @@ header:
 last_modified_at: 2024-02-08
 ---
 <br>
-![KOSPI 화학 업종 종목별 시가총액 비중](images/kospi_업종_화학_종목.png){: .align-center}
+![KOSPI 화학 업종 종목별 시가총액 비중](/stats/sector/images/kospi_업종_화학_종목.png){: .align-center}
 <br>
 > **종목 목록 (125)**<a id="list"></a>
 

@@ -8,7 +8,7 @@ header:
 last_modified_at: 2024-02-08
 ---
 <br>
-![KOSDAQ 숙박음식 업종 종목별 시가총액 비중](images/kosdaq_업종_숙박음식_종목.png){: .align-center}
+![KOSDAQ 숙박음식 업종 종목별 시가총액 비중](/stats/sector/images/kosdaq_업종_숙박음식_종목.png){: .align-center}
 <br>
 > **종목 목록 (3)**<a id="list"></a>
 
