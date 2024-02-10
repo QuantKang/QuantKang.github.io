@@ -4,7 +4,7 @@ title: 성공적인 투자를 위해
 excerpt: "주식 시세와 재무 데이터를 분석하여 투자에 도움이 되는 정보를 제공합니다."
 header:
   overlay_image: "/assets/images/main.png"
-last_modified_at: 2024-02-28
+last_modified_at: 2024-02-08
 ---
 
 > **[KOSPI](/stats/sector/kospi_all_all_종목/) 200 / [KOSDAQ](/stats/sector/kosdaq_all_all_종목/) 150 편입 종목**[^fn_update]
