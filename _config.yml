@@ -309,7 +309,7 @@ compress_html:
 collections:
   reports:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:title/
 
 # Defaults
 defaults:
