@@ -18,6 +18,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 prod_url__          : "https://quantkang.github.io"
 test_url__          : "https://quantkangalpha.github.io"
 
+service_type_alpha__ : 'ALPHA'
+service_type_prod__  : 'PROD'
+service_type__       : 'ALPHA'
+
 # Site Settings
 ##locale                   : "en-US"
 locale                   : "ko-KR"
