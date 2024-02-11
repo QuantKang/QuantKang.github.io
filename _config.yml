@@ -69,8 +69,8 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-feed:
-  posts_limit            : 1000
+##feed:
+##  posts_limit            : 1000
 ##search                   : # true, false (default)
 search                   : true
 search_full_content      : # true, false (default)
@@ -306,6 +306,10 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  reports:
+    output: true
+    permalink: /:collection/:title/
 
 # Defaults
 defaults:
@@ -325,6 +329,15 @@ defaults:
       share: false
       ##related: true
       related: false
+  - scope:
+      path: ""
+      type: "reports"
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      share: false
+      related: true
   - scope:
       path: "google*.html"
     values:
