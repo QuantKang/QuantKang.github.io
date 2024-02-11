@@ -1,5 +1,5 @@
 <!-- 구글 애드센스 -->
-{% if site.service_type__ == site.service_type_prod__ %}
+{% if site.github.url == site.prod_url__ %}
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8120389152057270"
      crossorigin="anonymous"></script>
@@ -26,6 +26,7 @@
 
 ```plaintext
 ** Place for AdSense (Display): service_type__ {{ site.service_type__ }} **
+** Place for AdSense (Display): site.github.url {{ site.github.url }} **
 ```
 
 {% endif %}
