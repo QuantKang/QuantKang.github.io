@@ -1,6 +1,5 @@
 source "https://rubygems.org"
 gemspec
-gem "jekyll-github-metadata"
 gem "kramdown-parser-gfm"
 gem "jekyll", "=3.9.3"
 
