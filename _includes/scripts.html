@@ -18,7 +18,8 @@
   {%- endcase -%}
 {% endif %}
 
-{% if site.github.url == site.prod_url__ %}
+<!-- {% if site.github.url == site.prod_url__ %} -->
+{% if site.service_type__ == site.service_type_prod__ %}
   {% include analytics.html %}
 {% endif %}
 
