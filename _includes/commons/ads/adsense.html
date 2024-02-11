@@ -18,6 +18,17 @@
 {% else %}
 
 ```plaintext
+{% for item in jekyll %}
+  {{ item }}
+  {{ item[0] }}
+  {{ item[1] }}
+{% endfor %}
+----
+{% for item in site %}
+  {{ item }}
+  {{ item[0] }}
+  {{ item[1] }}
+{% endfor %}
 ** Place for AdSense (Display): jekyll = {{ jekyll }} **
 ** Place for AdSense (Display): site = {{ site }} **
 ** Place for AdSense (Display): site.env = {{ site.env }} **
