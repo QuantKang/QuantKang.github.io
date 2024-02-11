@@ -40,8 +40,14 @@ h3,
 h4,
 h5,
 h6 {
+  /* 커스텀
   margin: 2em 0 0.5em;
+  */
+  margin: 0.5em 0 0.5em;
+  /* 커스텀
   line-height: 1.2;
+  */
+  line-height: 1.5;
   font-family: $header-font-family;
   font-weight: bold;
 }
