@@ -1,6 +1,3 @@
-> **JEPQ**<a id="QQQ"></a>
-
-{% include vs/qqq_md.inc %}
 > **KOSPI 200 지수**<a id="069500"></a>
 
 {% include lev/069500_md.inc %}
