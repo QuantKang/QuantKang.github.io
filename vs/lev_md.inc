@@ -100,3 +100,6 @@
 > **엔비디아**<a id="NVDA"></a>
 
 {% include lev/nvda_md.inc %}
+> **JEPQ**<a id="QQQ"></a>
+
+{% include vs/qqq_md.inc %}
