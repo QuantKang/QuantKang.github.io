@@ -1,4 +1,3 @@
-| **종목** | **배율** | **1년** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
-| :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| QQQ | 기초 | <span style="color: tomato">21.3<small>%</small></span> | - | - | - |
-| [JEPQ](/jepq-vs-qqq/) | 1<small>배</small> | <span style="color: tomato">14.7<small>%</small></span> | 0.0<small>%</small> | 9.5<small>%</small> | 9.5<small>%</small> |
+| **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
+| [JEPQ](/jepq-vs-qqq/) | <span style="color: tomato">14.7<small>%</small></span> | 17.2<small>%</small> | 0.85 | -16.8<small>%</small> | -4.4<small>%</small> |
+| QQQ | <span style="color: tomato">21.3<small>%</small></span> | 23.8<small>%</small> | 0.90 | -21.6<small>%</small> | -6.7<small>%</small> |

@@ -1,4 +1,3 @@
-| **종목** | **배율** | **1년** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
-| :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| TIGER 미국배당다우존스 | 기초 | <span style="color: tomato">20.8<small>%</small></span> | - | - | - |
-| [TIGER 미국배당+7%프리미엄다우존스](/458760-vs-458730/) | 1<small>배</small> | <span style="color: tomato">13.0<small>%</small></span> | -0.0<small>%</small> | 4.2<small>%</small> | 4.2<small>%</small> |
+| **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
+| [TIGER 미국배당+7%프리미엄다우존스](/458760-vs-458730/) | <span style="color: tomato">13.0<small>%</small></span> | 10.3<small>%</small> | 1.26 | -8.1<small>%</small> | -2.4<small>%</small> |
+| TIGER 미국배당다우존스 | <span style="color: tomato">20.8<small>%</small></span> | 11.1<small>%</small> | 1.87 | -7.7<small>%</small> | -1.9<small>%</small> |

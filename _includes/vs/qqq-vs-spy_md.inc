@@ -1,4 +1,3 @@
-| **종목** | **배율** | **1년** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
-| :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| SPY | 기초 | <span style="color: tomato">7.5<small>%</small></span> | - | - | - |
-| [QQQ](/qqq-vs-spy/) | 1<small>배</small> | <span style="color: tomato">9.6<small>%</small></span> | 0.0<small>%</small> | -65.4<small>%</small> | -65.4<small>%</small> |
+| **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
+| [QQQ](/qqq-vs-spy/) | <span style="color: tomato">9.6<small>%</small></span> | 27.3<small>%</small> | 0.35 | -83.0<small>%</small> | -35.5<small>%</small> |
+| SPY | <span style="color: tomato">7.5<small>%</small></span> | 19.4<small>%</small> | 0.38 | -55.2<small>%</small> | -11.4<small>%</small> |

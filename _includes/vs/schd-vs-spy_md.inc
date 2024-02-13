@@ -1,4 +1,3 @@
-| **종목** | **배율** | **1년** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
-| :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| SPY | 기초 | <span style="color: tomato">14.1<small>%</small></span> | - | - | - |
-| [SCHD](/schd-vs-spy/) | 1<small>배</small> | <span style="color: tomato">12.8<small>%</small></span> | -0.0<small>%</small> | 13.1<small>%</small> | 13.1<small>%</small> |
+| **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
+| [SCHD](/schd-vs-spy/) | <span style="color: tomato">12.8<small>%</small></span> | 15.7<small>%</small> | 0.82 | -33.4<small>%</small> | -3.3<small>%</small> |
+| SPY | <span style="color: tomato">14.1<small>%</small></span> | 16.8<small>%</small> | 0.84 | -33.7<small>%</small> | -3.9<small>%</small> |
