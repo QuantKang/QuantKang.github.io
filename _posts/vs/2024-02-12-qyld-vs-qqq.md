@@ -9,9 +9,12 @@ categories:
 - vs
 ---
 
-두 상품의 최근 10년 2개월 성과는 아래와 같습니다.
+> **최근 성과**
+
+두 상품의 최근 10년 2개월 성과를 그래프와 표로 나타내면 같습니다.
 
 ![QYLD](/vs/images/qyld-vs-qqq_dual.png){: .align-center}
+
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | QYLD | <span style="color: tomato">7.1<small>%</small></span> | 14.9<small>%</small> | 0.48 | -24.8<small>%</small> | -4.3<small>%</small> |
