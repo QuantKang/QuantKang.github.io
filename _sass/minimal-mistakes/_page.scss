@@ -38,16 +38,18 @@ body {
 .page {
   @include breakpoint($large) {
     float: right;
+  /* 커스텀
     width: calc(100% - #{$right-sidebar-width-narrow});
-  /* 커스텀 복원
+    ## ORIG
     width: 100%;
   */
     padding-right: $right-sidebar-width-narrow;
   }
 
   @include breakpoint($x-large) {
+  /* 커스텀
     width: calc(100% - #{$right-sidebar-width});
-  /* 커스텀 복원
+    ## ORIG
     width: 100%;
   */
     padding-right: $right-sidebar-width;
