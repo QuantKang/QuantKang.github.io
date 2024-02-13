@@ -40,7 +40,7 @@ categories:
 ![JEPQ](/vs/images/jepq-vs-qqq.png){: .align-center}
 
 <br>
-> **JEPQ vs. QQQ**
+## **JEPQ vs. QQQ
 
 
 
@@ -54,7 +54,7 @@ categories:
 <br>
 
 <br>
-> **관련 정보**
+## 관련 정보
 
 - [종목 비교 목록](/vs/){: .btn .btn--info}
 

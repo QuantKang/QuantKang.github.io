@@ -40,7 +40,7 @@ categories:
 ![XYLD](/vs/images/xyld-vs-spy.png){: .align-center}
 
 <br>
-> **XYLD vs. SPY**
+## **XYLD vs. SPY
 
 
 
@@ -54,7 +54,7 @@ categories:
 <br>
 
 <br>
-> **관련 정보**
+## 관련 정보
 
 - [종목 비교 목록](/vs/){: .btn .btn--info}
 
