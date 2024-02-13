@@ -20,7 +20,7 @@ categories:
 ![XYLD](/vs/images/xyld-vs-spy.png){: .align-center}
 
 <br>
-> **XYLD vs. SPY**<small>[^fn_price_metric]</small>
+> **XYLD vs. SPY**</small>
 
 
 

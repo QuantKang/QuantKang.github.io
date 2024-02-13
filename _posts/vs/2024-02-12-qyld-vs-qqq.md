@@ -20,7 +20,7 @@ categories:
 ![QYLD](/vs/images/qyld-vs-qqq.png){: .align-center}
 
 <br>
-> **QYLD vs. QQQ**<small>[^fn_price_metric]</small>
+> **QYLD vs. QQQ**</small>
 
 
 

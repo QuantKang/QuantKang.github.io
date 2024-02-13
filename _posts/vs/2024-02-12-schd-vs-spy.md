@@ -20,7 +20,7 @@ categories:
 ![SCHD](/vs/images/schd-vs-spy.png){: .align-center}
 
 <br>
-> **SCHD vs. SPY**<small>[^fn_price_metric]</small>
+> **SCHD vs. SPY**</small>
 
 
 
