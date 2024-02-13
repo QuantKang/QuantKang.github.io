@@ -1,4 +1,5 @@
-| **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
+| **종목** | **배율** | **1년** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
+| :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | QQQ | 기초 | <span style="color: tomato">44.1<small>%</small></span> | - | - | - |
 | [QLD](/qld/) | 2<small>배</small> | <span style="color: tomato">89.4<small>%</small></span> | 2.7<small>%</small> | 6.3<small>%</small> | 8.8<small>%</small> |
 | [TQQQ](/tqqq/) | 3<small>배</small> | <span style="color: tomato">143.5<small>%</small></span> | 7.9<small>%</small> | 11.6<small>%</small> | 18.6<small>%</small> |

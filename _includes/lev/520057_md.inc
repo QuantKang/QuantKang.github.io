@@ -1,4 +1,5 @@
-| **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
+| **종목** | **배율** | **1년** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
+| :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | KODEX 150 | 기초 | <span style="color: tomato">19.1<small>%</small></span> | - | - | - |
 | [KODEX 150 2x](/233740/) | 2<small>배</small> | <span style="color: tomato">25.3<small>%</small></span> | 9.2<small>%</small> | 2.6<small>%</small> | 11.6<small>%</small> |
 | [KBSTAR 150 2xF](/278240/) | 2<small>배</small> | <span style="color: tomato">27.2<small>%</small></span> | 9.2<small>%</small> | 1.1<small>%</small> | 10.3<small>%</small> |

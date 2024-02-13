@@ -1,4 +1,5 @@
-| **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
+| **종목** | **배율** | **1년** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
+| :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | SPY | 기초 | <span style="color: tomato">23.3<small>%</small></span> | - | - | - |
 | [SSO](/sso/) | 2<small>배</small> | <span style="color: tomato">39.9<small>%</small></span> | 1.5<small>%</small> | 6.5<small>%</small> | 7.9<small>%</small> |
 | [SPXL](/spxl/) | 3<small>배</small> | <span style="color: tomato">58.4<small>%</small></span> | 4.5<small>%</small> | 11.5<small>%</small> | 15.4<small>%</small> |

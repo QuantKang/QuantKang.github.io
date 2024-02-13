@@ -1,4 +1,5 @@
-| **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
+| **종목** | **배율** | **1년** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
+| :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | XLK | 기초 | <span style="color: tomato">45.9<small>%</small></span> | - | - | - |
 | [ROM](/rom/) | 2<small>배</small> | <span style="color: tomato">97.8<small>%</small></span> | 3.1<small>%</small> | 4.0<small>%</small> | 7.0<small>%</small> |
 | [TECL](/tecl/) | 3<small>배</small> | <span style="color: tomato">148.8<small>%</small></span> | 9.1<small>%</small> | 11.8<small>%</small> | 19.8<small>%</small> |

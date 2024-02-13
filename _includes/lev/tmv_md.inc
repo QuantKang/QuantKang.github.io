@@ -1,4 +1,5 @@
-| **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
+| **종목** | **배율** | **1년** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
+| :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | TLT | 기초 | <span style="color: cornflowerblue">-6.7<small>%</small></span> | - | - | - |
 | [TMF](/tmf/) | 3<small>배</small> | <span style="color: cornflowerblue">-35.6<small>%</small></span> | 9.3<small>%</small> | 12.5<small>%</small> | 20.6<small>%</small> |
 | [TBF](/tbf/) | -1<small>배</small> | <span style="color: tomato">13.0<small>%</small></span> | 3.2<small>%</small> | -8.8<small>%</small> | -5.4<small>%</small> |
