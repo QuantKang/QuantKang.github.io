@@ -5,7 +5,6 @@ excerpt: JEPI의 최근 3년 8개월 CAGR은 12.0%로 SPY의 17.0%보다 -5.0% �
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
-toc: true:
 categories:
 - vs
 ---
