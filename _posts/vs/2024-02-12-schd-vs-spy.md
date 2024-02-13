@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: SCHD vs SPY
 excerpt: SCHD의 최근 12년 3개월 CAGR은 12.8%로 SPY의 14.1%보다 -1.3% 낮았습니다.
 header:

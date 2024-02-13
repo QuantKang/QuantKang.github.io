@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: QYLD vs QQQ
 excerpt: QYLD의 최근 10년 2개월 CAGR은 7.1%로 QQQ의 18.5%보다 -11.3% 낮았습니다.
 header:
