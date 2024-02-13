@@ -9,6 +9,9 @@ categories:
 - vs
 ---
 
+두 상품의 최근 1년 9개월 성과는 아래와 같습니다.
+
+![JEPQ](/vs/images/jepq-vs-qqq_dual.png){: .align-center}
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | JEPQ | <span style="color: tomato">14.7<small>%</small></span> | 17.2<small>%</small> | 0.85 | -16.8<small>%</small> | -4.4<small>%</small> |

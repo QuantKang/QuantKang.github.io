@@ -9,6 +9,9 @@ categories:
 - vs
 ---
 
+두 상품의 최근 3년 8개월 성과는 아래와 같습니다.
+
+![JEPI](/vs/images/jepi-vs-spy_dual.png){: .align-center}
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | JEPI | <span style="color: tomato">12.0<small>%</small></span> | 10.8<small>%</small> | 1.10 | -13.7<small>%</small> | -2.4<small>%</small> |

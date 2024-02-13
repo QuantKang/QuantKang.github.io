@@ -9,6 +9,9 @@ categories:
 - vs
 ---
 
+두 상품의 최근 12년 3개월 성과는 아래와 같습니다.
+
+![SCHD](/vs/images/schd-vs-spy_dual.png){: .align-center}
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SCHD | <span style="color: tomato">12.8<small>%</small></span> | 15.7<small>%</small> | 0.82 | -33.4<small>%</small> | -3.3<small>%</small> |
