@@ -15,10 +15,6 @@ SCHD의 CAGR은 12.8%로 SPY의 14.1%두 상품의 최근 12년 3개월 성과�
 
 ![SCHD](/vs/images/schd-vs-spy_dual.png){: .align-center}
 
-수익률 지표를 살펴보면, SCHD의 CAGR은 12.8%로 SPY의 14.1%보다 -1.3% 낮았습니다.
-
-위험도 지표의 하나인 표준편차를 비교하면, SCHD의 15.7%는  SPY의 16.8%보다 -1.1% 낮았습니다.
-
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SCHD | <span style="color: tomato">12.8<small>%</small></span> | 15.7<small>%</small> | 0.82 | -33.4<small>%</small> | -3.3<small>%</small> |
@@ -42,6 +38,10 @@ SCHD의 CAGR은 12.8%로 SPY의 14.1%두 상품의 최근 12년 3개월 성과�
 | SPY<sub>mdd</sub> <small>(99%)</small> | <span style="color: tomato">14.0<small>%</small></span> | 16.6<small>%</small> | 0.84 | -33.4<small>%</small> | -3.8<small>%</small> |
 
 <br>
+수익률 지표를 살펴보면, SCHD의 CAGR은 12.8%로 SPY의 14.1%보다 -1.3% 낮았습니다.
+
+위험도 지표의 하나인 표준편차를 비교하면, SCHD의 15.7%는  SPY의 16.8%보다 -1.1% 낮았습니다.
+
 
 <br>
 > **관련 정보**
