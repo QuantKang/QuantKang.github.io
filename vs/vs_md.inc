@@ -52,6 +52,18 @@
 
 <br>
 
+> **VT vs VTI**<a id="VTI"></a>
+
+{% include vs/vt-vs-vti_md.inc %}
+
+<br>
+
+> **VTI vs SPY**<a id="SPY"></a>
+
+{% include vs/vti-vs-spy_md.inc %}
+
+<br>
+
 > **QQQ vs SPY**<a id="SPY"></a>
 
 {% include vs/qqq-vs-spy_md.inc %}
