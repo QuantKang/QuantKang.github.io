@@ -36,6 +36,6 @@ categories:
 <br>
 > **관련 정보**
 
-- [VS 목록](/vs/){: .btn .btn--info}
+- [종목 비교 목록](/vs/){: .btn .btn--info}
 
 {% include commons/footnotes.md %}
