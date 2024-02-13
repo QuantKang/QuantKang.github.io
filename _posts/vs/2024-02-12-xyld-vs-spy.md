@@ -11,7 +11,7 @@ categories:
 
 > **최근 성과**
 
-XYLD의 CAGR은 5.3%로 SPY의 13.4%두 상품의 최근 10년 7개월 성과를 그래프와 표로 나타내면 같습니다.
+두 상품을 비교할 수 있는 가장 긴 기간으로, 최근 10년 7개월 성과를 그래프와 표로 나타내면 같습니다.
 
 ![XYLD](/vs/images/xyld-vs-spy_dual.png){: .align-center}
 
@@ -21,6 +21,12 @@ XYLD의 CAGR은 5.3%로 SPY의 13.4%두 상품의 최근 10년 7개월 성과를
 | SPY | <span style="color: tomato">13.4<small>%</small></span> | 17.1<small>%</small> | 0.79 | -33.7<small>%</small> | -4.2<small>%</small> |
 
 <!-- more -->
+수익률 지표를 살펴보면, XYLD의 CAGR은 5.3%로 SPY의 13.4%보다 -8.1% 낮았습니다.
+
+전형적인 위험도 지표의 하나인 표준편차를 비교하면, XYLD의 14.1%는  SPY의 17.1%보다 -3.0% 낮았습니다.
+
+또다른 위험도 지표로 MDD를 비교하면, XYLD의 -34.7%는  SPY의 -33.7%보다 -3.0% 낮았습니다.
+
 
 <br>
 ![XYLD](/vs/images/xyld-vs-spy.png){: .align-center}
@@ -38,12 +44,6 @@ XYLD의 CAGR은 5.3%로 SPY의 13.4%두 상품의 최근 10년 7개월 성과를
 | SPY<sub>mdd</sub> <small>(103%)</small> | <span style="color: tomato">13.8<small>%</small></span> | 17.6<small>%</small> | 0.78 | -34.6<small>%</small> | -4.3<small>%</small> |
 
 <br>
-수익률 지표를 살펴보면, XYLD의 CAGR은 5.3%로 SPY의 13.4%보다 -8.1% 낮았습니다.
-
-위험도 지표의 하나인 표준편차를 비교하면, XYLD의 14.1%는  SPY의 17.1%보다 -3.0% 낮았습니다.
-
-또다른 위험도 지표로 MDD를 비교하면, XYLD의 -34.7%는  SPY의 -33.7%보다 -3.0% 낮았습니다.
-
 
 <br>
 > **관련 정보**

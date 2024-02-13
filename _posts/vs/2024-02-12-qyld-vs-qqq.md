@@ -11,7 +11,7 @@ categories:
 
 > **최근 성과**
 
-QYLD의 CAGR은 7.1%로 QQQ의 18.5%두 상품의 최근 10년 2개월 성과를 그래프와 표로 나타내면 같습니다.
+두 상품을 비교할 수 있는 가장 긴 기간으로, 최근 10년 2개월 성과를 그래프와 표로 나타내면 같습니다.
 
 ![QYLD](/vs/images/qyld-vs-qqq_dual.png){: .align-center}
 
@@ -21,6 +21,12 @@ QYLD의 CAGR은 7.1%로 QQQ의 18.5%두 상품의 최근 10년 2개월 성과를
 | QQQ | <span style="color: tomato">18.5<small>%</small></span> | 21.3<small>%</small> | 0.87 | -35.1<small>%</small> | -6.1<small>%</small> |
 
 <!-- more -->
+수익률 지표를 살펴보면, QYLD의 CAGR은 7.1%로 QQQ의 18.5%보다 -11.3% 낮았습니다.
+
+전형적인 위험도 지표의 하나인 표준편차를 비교하면, QYLD의 14.9%는  QQQ의 21.3%보다 -6.5% 낮았습니다.
+
+또다른 위험도 지표로 MDD를 비교하면, QYLD의 -24.8%는  QQQ의 -35.1%보다 -6.5% 낮았습니다.
+
 
 <br>
 ![QYLD](/vs/images/qyld-vs-qqq.png){: .align-center}
@@ -38,12 +44,6 @@ QYLD의 CAGR은 7.1%로 QQQ의 18.5%두 상품의 최근 10년 2개월 성과를
 | QQQ<sub>mdd</sub> <small>(70%)</small> | <span style="color: tomato">13.2<small>%</small></span> | 15.0<small>%</small> | 0.88 | -25.6<small>%</small> | -4.2<small>%</small> |
 
 <br>
-수익률 지표를 살펴보면, QYLD의 CAGR은 7.1%로 QQQ의 18.5%보다 -11.3% 낮았습니다.
-
-위험도 지표의 하나인 표준편차를 비교하면, QYLD의 14.9%는  QQQ의 21.3%보다 -6.5% 낮았습니다.
-
-또다른 위험도 지표로 MDD를 비교하면, QYLD의 -24.8%는  QQQ의 -35.1%보다 -6.5% 낮았습니다.
-
 
 <br>
 > **관련 정보**
