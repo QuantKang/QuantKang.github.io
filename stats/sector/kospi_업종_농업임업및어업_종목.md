@@ -5,7 +5,7 @@ excerpt: KOSPI 농업임업및어업 업종 종목별 시가총액 비중입니�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-02-08
+last_modified_at: 2024-02-13
 ---
 <br>
 ![KOSPI 농업임업및어업 업종 종목별 시가총액 비중](/stats/sector/images/kospi_업종_농업임업및어업_종목.png){: .align-center}
