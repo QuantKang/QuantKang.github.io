@@ -1,141 +1,126 @@
-> **JEPQ vs QQQ**<a id="QQQ"></a>
+> **[TIGER 미국배당+7%프리미엄다우존스 vs TIGER 미국배당다우존스](/458760-vs-458730/)**<a id="458760-vs-458730"></a>
 
-{% include vs/qqq_md.inc %}
+TIGER 미국배당다우존스는 Dow Jones U.S. Dividend 100 지수(원화환산)(Price Return) 지수를 추종하는 배당성장주 ETF입니다. TIGER 미국배당+7%프리미엄다우존스는 여기에 최대 40%까지 커버드콜 비중을 두어 단기 배당금을 높인 Dow Jones U.S. Dividend 100 7% Premium Covered Call 지수(Total Return)(원화환산) 지수를 추종하는 ETF입니다.
+{: .notice}
 
-<br>
-
-> **JEPI vs SPY**<a id="SPY"></a>
-
-{% include vs/spy_md.inc %}
+{% include vs/458760-vs-458730_md.inc %}
 
 <br>
 
-> **SCHD vs SPY**<a id="SPY"></a>
+> **[TIGER 미국배당+3%프리미엄다우존스 vs TIGER 미국배당다우존스](/458750-vs-458730/)**<a id="458750-vs-458730"></a>
 
-{% include vs/spy_md.inc %}
+TIGER 미국배당다우존스는 Dow Jones U.S. Dividend 100 지수(원화환산)(Price Return) 지수를 추종하는 배당성장주 ETF입니다. TIGER 미국배당+3%프리미엄다우존스는 여기에 최대 15%까지 커버드콜 비중을 두어 단기 배당금을 높인 Dow Jones U.S. Dividend 100 3% Premium Covered Call 지수(Total Return)(원화환산) 지수를 추종하는 ETF입니다.
+{: .notice}
 
-<br>
-
-> **QQQ vs SPY**<a id="SPY"></a>
-
-{% include vs/spy_md.inc %}
-> **KOSPI 200 지수**<a id="069500"></a>
-
-{% include lev/069500_md.inc %}
+{% include vs/458750-vs-458730_md.inc %}
 
 <br>
 
-> **KOSDAQ 150 지수**<a id="229200"></a>
+> **[KBSTAR 코스닥150선물레버리지 vs KODEX 코스닥150레버리지](/278240-vs-233740/)**<a id="278240-vs-233740"></a>
 
-{% include lev/229200_md.inc %}
+KODEX 코스닥150레버리지는 현물 100%와 선물 100%로 2배 레버리지를 구성한 상품입니다. KBSTAR 코스닥150선물레버리지는 선물 200%로만 2배 레버리지를 구성한 상품입니다. 이로 인해 현물 지수가 아닌 선물 지수의 일일등락을 2배로 추종합니다.
+{: .notice}
 
-<br>
-
-> **달러 환율**<a id="261240"></a>
-
-{% include lev/261240_md.inc %}
+{% include vs/278240-vs-233740_md.inc %}
 
 <br>
 
-> **다우 존스 산업평균 지수**<a id="DIA"></a>
+> **[TIGER 미국나스닥100커버드콜(합성) vs TIGER 미국나스닥100](/441680-vs-133690/)**<a id="441680-vs-133690"></a>
 
-{% include lev/dia_md.inc %}
+TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 커버드콜 전략을 사용하는 ETF입니다.
+{: .notice}
 
-<br>
-
-> **S&P 500 지수**<a id="SPY"></a>
-
-{% include lev/spy_md.inc %}
+{% include vs/441680-vs-133690_md.inc %}
 
 <br>
 
-> **나스닥 100 지수**<a id="QQQ"></a>
+> **[TIGER 미국S&P500선물(H) vs TIGER 미국S&P500](/143850-vs-360750/)**<a id="143850-vs-360750"></a>
 
-{% include lev/qqq_md.inc %}
+TIGER 미국S&P500선물(H)는 S&P 500 선물지수를 추종하며 환헤지가 적용된 ETF입니다.
+{: .notice}
 
-<br>
-
-> **러셀 2000 지수**<a id="IWM"></a>
-
-{% include lev/iwm_md.inc %}
+{% include vs/143850-vs-360750_md.inc %}
 
 <br>
 
-> **필라델피아 반도체 지수**<a id="SOXQ"></a>
+> **[SOL 미국배당다우존스(H) vs SOL 미국배당다우존스](/452360-vs-446720/)**<a id="452360-vs-446720"></a>
 
-{% include lev/soxq_md.inc %}
+SOL 미국배당다우존스(H)와 SOL 미국배당다우존스는 모두 Dow Jones U.S. Dividend 100 지수를 추종하지만, SOL 미국배당다우존스(H)는 환헤지가 적용된 ETF입니다.
+{: .notice}
 
-<br>
-
-> **기술 섹터 지수**<a id="XLK"></a>
-
-{% include lev/xlk_md.inc %}
+{% include vs/452360-vs-446720_md.inc %}
 
 <br>
 
-> **S&P 바이오기술 지수**<a id="XBI"></a>
+> **[KODEX 코스피 vs KODEX 200](/226490-vs-069500/)**<a id="226490-vs-069500"></a>
 
-{% include lev/xbi_md.inc %}
+KODEX 코스피는 코스피 지수를 추종합니다.  KODEX 200은 코스피에서 선별된 200개 주요 종목으로 구성된 코스피 200 지수를 추종하는 상품입니다.
+{: .notice}
 
-<br>
-
-> **MSCI Japan 지수**<a id="EWJ"></a>
-
-{% include lev/ewj_md.inc %}
+{% include vs/226490-vs-069500_md.inc %}
 
 <br>
 
-> **FTSE China A50 지수**<a id="FXI"></a>
+> **[KODEX FnTop10동일가중 vs TIGER Top10](/395170-vs-292150/)**<a id="395170-vs-292150"></a>
 
-{% include lev/fxi_md.inc %}
-
-<br>
-
-> **MSCI India 지수**<a id="INDA"></a>
-
-{% include lev/inda_md.inc %}
+{% include vs/395170-vs-292150_md.inc %}
 
 <br>
 
-> **CSI 중국 인터넷 지수**<a id="KWEB"></a>
+> **[ARIRANG 고배당주 vs KODEX 200](/161510-vs-069500/)**<a id="161510-vs-069500"></a>
 
-{% include lev/kweb_md.inc %}
-
-<br>
-
-> **미국 20+년 장기채**<a id="TLT"></a>
-
-{% include lev/tlt_md.inc %}
+{% include vs/161510-vs-069500_md.inc %}
 
 <br>
 
-> **테슬라**<a id="TSLA"></a>
+> **[삼성전자 우선주 vs 삼성전자 일반주](/005935-vs-005930/)**<a id="005935-vs-005930"></a>
 
-{% include lev/tsla_md.inc %}
-
-<br>
-
-> **엔비디아**<a id="NVDA"></a>
-
-{% include lev/nvda_md.inc %}
-> **JEPQ vs QQQ**<a id="QQQ"></a>
-
-{% include vs/qqq_md.inc %}
+{% include vs/005935-vs-005930_md.inc %}
 
 <br>
 
-> **JEPI vs SPY**<a id="SPY"></a>
+> **[VT vs VTI](/vt-vs-vti/)**<a id="vt-vs-vti"></a>
 
-{% include vs/spy_md.inc %}
-
-<br>
-
-> **SCHD vs SPY**<a id="SPY"></a>
-
-{% include vs/spy_md.inc %}
+{% include vs/vt-vs-vti_md.inc %}
 
 <br>
 
-> **QQQ vs SPY**<a id="SPY"></a>
+> **[VTI vs SPY](/vti-vs-spy/)**<a id="vti-vs-spy"></a>
 
-{% include vs/spy_md.inc %}
+{% include vs/vti-vs-spy_md.inc %}
+
+<br>
+
+> **[QQQ vs SPY](/qqq-vs-spy/)**<a id="qqq-vs-spy"></a>
+
+{% include vs/qqq-vs-spy_md.inc %}
+
+<br>
+
+> **[SCHD vs SPY](/schd-vs-spy/)**<a id="schd-vs-spy"></a>
+
+{% include vs/schd-vs-spy_md.inc %}
+
+<br>
+
+> **[JEPI vs SPY](/jepi-vs-spy/)**<a id="jepi-vs-spy"></a>
+
+{% include vs/jepi-vs-spy_md.inc %}
+
+<br>
+
+> **[JEPQ vs QQQ](/jepq-vs-qqq/)**<a id="jepq-vs-qqq"></a>
+
+{% include vs/jepq-vs-qqq_md.inc %}
+
+<br>
+
+> **[XYLD vs SPY](/xyld-vs-spy/)**<a id="xyld-vs-spy"></a>
+
+{% include vs/xyld-vs-spy_md.inc %}
+
+<br>
+
+> **[QYLD vs QQQ](/qyld-vs-qqq/)**<a id="qyld-vs-qqq"></a>
+
+{% include vs/qyld-vs-qqq_md.inc %}

@@ -1,0 +1,4 @@
+| **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
+| :------- | -------: | ------: | --------------: | ------------: | ------------: |
+| [KBSTAR 코스닥150선물인버스](/275750-vs-233740/) | <span style="color: cornflowerblue">-13.6<small>%</small></span> | 29.6<small>%</small> | -0.46 | -68.4<small>%</small> | -43.6<small>%</small> |
+| KODEX 코스닥150레버리지 | <span style="color: cornflowerblue">-0.1<small>%</small></span> | 57.5<small>%</small> | -0.00 | -86.0<small>%</small> | -53.6<small>%</small> |

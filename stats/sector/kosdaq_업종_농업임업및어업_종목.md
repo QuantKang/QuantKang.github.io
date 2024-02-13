@@ -5,7 +5,7 @@ excerpt: KOSDAQ 농업임업및어업 업종 종목별 시가총액 비중입니
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-02-08
+last_modified_at: 2024-02-13
 ---
 <br>
 ![KOSDAQ 농업임업및어업 업종 종목별 시가총액 비중](/stats/sector/images/kosdaq_업종_농업임업및어업_종목.png){: .align-center}
@@ -14,7 +14,7 @@ last_modified_at: 2024-02-08
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| 농우바이오 | 13.4 | 0.5 | 2.4<small>%</small> | 80.7<small>%</small> |
-| 아시아종묘 | - | 1.3 | - | 19.3<small>%</small> |
+| 농우바이오 | 13.4 | 0.5 | 2.4<small>%</small> | 80.6<small>%</small> |
+| 아시아종묘 | - | 1.3 | - | 19.4<small>%</small> |
 
 {% include commons/footnotes.md %}
