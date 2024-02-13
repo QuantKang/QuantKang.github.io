@@ -20,7 +20,7 @@ categories:
 ![JEPQ](/vs/images/jepq-vs-qqq.png){: .align-center}
 
 <br>
-> **JEPQ vs. QQQ**</small>
+> **JEPQ vs. QQQ**
 
 
 

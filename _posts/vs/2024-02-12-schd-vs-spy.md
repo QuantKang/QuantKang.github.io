@@ -20,7 +20,7 @@ categories:
 ![SCHD](/vs/images/schd-vs-spy.png){: .align-center}
 
 <br>
-> **SCHD vs. SPY**</small>
+> **SCHD vs. SPY**
 
 
 

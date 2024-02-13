@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KODEX Fn Top10동일가중](/395170-vs-292150/) | <span style="color: cornflowerblue">-7.3<small>%</small></span> | 21.5<small>%</small> | -0.34 | -33.7<small>%</small> | -21.1<small>%</small> |
-| TIGER TOP10 | <span style="color: cornflowerblue">-7.2<small>%</small></span> | 20.2<small>%</small> | -0.35 | -37.9<small>%</small> | -22.9<small>%</small> |
+| [KODEX Fn Top10동일가중](/395170-vs-292150/) | <span style="color: cornflowerblue">-7.6<small>%</small></span> | 21.5<small>%</small> | -0.35 | -33.7<small>%</small> | -21.1<small>%</small> |
+| TIGER TOP10 | <span style="color: cornflowerblue">-7.4<small>%</small></span> | 20.2<small>%</small> | -0.37 | -37.9<small>%</small> | -22.9<small>%</small> |

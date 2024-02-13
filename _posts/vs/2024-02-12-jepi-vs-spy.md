@@ -20,7 +20,7 @@ categories:
 ![JEPI](/vs/images/jepi-vs-spy.png){: .align-center}
 
 <br>
-> **JEPI vs. SPY**</small>
+> **JEPI vs. SPY**
 
 
 
