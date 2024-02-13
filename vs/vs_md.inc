@@ -10,9 +10,9 @@
 
 <br>
 
-> **KODEX 코스닥150레버리지 vs KBSTAR 코스닥150선물레버리지**<a id="233740"></a>
+> **KBSTAR 코스닥150선물레버리지 vs KODEX 코스닥150레버리지**<a id="233740"></a>
 
-{% include vs/275750-vs-233740_md.inc %}
+{% include vs/278240-vs-233740_md.inc %}
 
 <br>
 
@@ -43,6 +43,12 @@
 > **KODEX FnTop10동일가중 vs TIGER Top10**<a id="292150"></a>
 
 {% include vs/395170-vs-292150_md.inc %}
+
+<br>
+
+> **ARIRANG 고배당주 vs KODEX 200**<a id="069500"></a>
+
+{% include vs/161510-vs-069500_md.inc %}
 
 <br>
 
