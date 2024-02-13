@@ -12,13 +12,13 @@
 
 > **KODEX 코스닥150레버리지 vs KBSTAR 코스닥150선물레버리지**<a id="233740"></a>
 
-{% include vs/458750-vs-233740_md.inc %}
+{% include vs/275750-vs-233740_md.inc %}
 
 <br>
 
 > **TIGER 미국나스닥100커버드콜(합성) vs TIGER 미국나스닥100TR채권혼합Fn**<a id="435420"></a>
 
-{% include vs/458750-vs-435420_md.inc %}
+{% include vs/441680-vs-435420_md.inc %}
 
 <br>
 
