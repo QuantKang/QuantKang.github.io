@@ -15,10 +15,6 @@ JEPI의 CAGR은 12.0%로 SPY의 17.0%두 상품의 최근 3년 8개월 성과를
 
 ![JEPI](/vs/images/jepi-vs-spy_dual.png){: .align-center}
 
-수익률 지표를 살펴보면, JEPI의 CAGR은 12.0%로 SPY의 17.0%보다 -5.0% 낮았습니다.
-
-위험도 지표의 하나인 표준편차를 비교하면, JEPI의 10.8%는  SPY의 17.5%보다 -6.7% 낮았습니다.
-
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | JEPI | <span style="color: tomato">12.0<small>%</small></span> | 10.8<small>%</small> | 1.10 | -13.7<small>%</small> | -2.4<small>%</small> |
@@ -42,6 +38,10 @@ JEPI의 CAGR은 12.0%로 SPY의 17.0%두 상품의 최근 3년 8개월 성과를
 | SPY<sub>mdd</sub> <small>(56%)</small> | <span style="color: tomato">9.6<small>%</small></span> | 9.8<small>%</small> | 0.98 | -14.1<small>%</small> | -3.5<small>%</small> |
 
 <br>
+수익률 지표를 살펴보면, JEPI의 CAGR은 12.0%로 SPY의 17.0%보다 -5.0% 낮았습니다.
+
+위험도 지표의 하나인 표준편차를 비교하면, JEPI의 10.8%는  SPY의 17.5%보다 -6.7% 낮았습니다.
+
 
 <br>
 > **관련 정보**
