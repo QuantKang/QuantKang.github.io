@@ -32,7 +32,7 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 
 {% include vs/441680-vs-133690_md.inc %}
 
-{% include /commons/ads/adsense.html %}
+<br>{% include /commons/ads/adsense.html %}
 
 > **[TIGER 미국S&P500선물(H) vs TIGER 미국S&P500](/143850-vs-360750/)**<a id="143850-vs-360750"></a>
 
@@ -71,7 +71,7 @@ KODEX 코스피는 코스피 지수를 추종합니다.  KODEX 200은 코스피�
 
 {% include vs/161510-vs-069500_md.inc %}
 
-{% include /commons/ads/adsense.html %}
+<br>{% include /commons/ads/adsense.html %}
 
 > **[삼성전자 우선주 vs 삼성전자 일반주](/005935-vs-005930/)**<a id="005935-vs-005930"></a>
 
@@ -101,7 +101,7 @@ KODEX 코스피는 코스피 지수를 추종합니다.  KODEX 200은 코스피�
 
 {% include vs/schd-vs-spy_md.inc %}
 
-{% include /commons/ads/adsense.html %}
+<br>{% include /commons/ads/adsense.html %}
 
 > **[JEPI vs SPY](/jepi-vs-spy/)**<a id="jepi-vs-spy"></a>
 
