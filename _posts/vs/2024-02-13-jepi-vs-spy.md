@@ -12,7 +12,7 @@ categories:
 
 ## 최근 성과
 
-두 상품을 비교할 수 있는 가장 긴 기간으로, 최근 3년 8개월 성과를 그래프와 표로 나타내면 같습니다.
+두 상품을 비교할 수 있는 가장 긴 기간은 최근 3년 8개월입니다. 아래는 이 기간의 성과를 그래프와 표로 나타낸 것입니다 .
 
 ![JEPI](/vs/images/jepi-vs-spy_dual.png){: .align-center}
 
@@ -24,17 +24,21 @@ categories:
 <!-- more -->
 
 <br>
-크게 수익률과 위험도를 나누어서 비교해 보겠습니다.
+수익률과 위험도로 나누어서 살펴보겠습니다.
 
 - **수익률 지표:** JEPI의 CAGR은 11.8%로 SPY의 16.6%보다 -4.8% 낮았습니다.
 
-- **위험도 지표 1:** 표준편차로 비교하면, JEPI의 10.8%는  SPY의 17.5%보다 -6.7% 낮았습니다.
+- **위험도 지표 1:** 표준편차로 비교하면, JEPI의 10.8%는 SPY의 17.5%보다 -6.7% 낮았습니다.
 
-- **위험도 지표 2:** MDD로 비교하면, JEPI의 13.7%는  SPY의 24.5%보다 -10.8% 낮았습니다.
+- **위험도 지표 2:** MDD로 비교하면, JEPI의 13.7%는 SPY의 24.5%보다 -10.8% 낮았습니다.
 
-## 위험 보정 성과
+## 위험 고려 성과 비교
 
-수익률과 위험도가 다른 상품을 비교할 경우에는, 어느 한쪽을 동일하게 맞추어야 합니다. 이를 위해 사용하는 방법의 하나는 $\frac{수익률 / 위험도}$입니다.
+수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 수익률 또는 위험도 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
+여기서는 동일한 위험도로 맞추기 위하여 SPY의 투자 비중을 조절하여 수익률를 비교하는 방식을 사용합니다.
+
+- **위험도 지표 1:** 표준편차를 동일한 값으로 맞추기 위해서는 17.5% / 10.8% = 0.6185448119275728% 비중으로 투자하면 됩니다.
+- **위험도 지표 2:** MDD를 동일한 값으로 맞추기 위해서는 24.5% / 13.7% = 0.5597536970418431% 비중으로 투자하면 됩니다 
 
 <br>
 ![JEPI](/vs/images/jepi-vs-spy.png){: .align-center}
@@ -48,8 +52,8 @@ categories:
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | JEPI | <span style="color: tomato">11.8<small>%</small></span> | 10.8<small>%</small> | 1.09 | -13.7<small>%</small> | -2.4<small>%</small> |
 | SPY | <span style="color: tomato">16.6<small>%</small></span> | 17.5<small>%</small> | 0.94 | -24.5<small>%</small> | -6.6<small>%</small> |
-| SPY<sub>std</sub> <small>(62%)</small> | <span style="color: tomato">10.3<small>%</small></span> | 10.8<small>%</small> | 0.95 | -15.5<small>%</small> | -3.9<small>%</small> |
-| SPY<sub>mdd</sub> <small>(56%)</small> | <span style="color: tomato">9.4<small>%</small></span> | 9.8<small>%</small> | 0.96 | -14.1<small>%</small> | -3.5<small>%</small> |
+| SPY<sub>STD</sub> <small>(62%)</small> | <span style="color: tomato">10.3<small>%</small></span> | 10.8<small>%</small> | 0.95 | -15.5<small>%</small> | -3.9<small>%</small> |
+| SPY<sub>MDD</sub> <small>(56%)</small> | <span style="color: tomato">9.4<small>%</small></span> | 9.8<small>%</small> | 0.96 | -14.1<small>%</small> | -3.5<small>%</small> |
 
 <br>
 
