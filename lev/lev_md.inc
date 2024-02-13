@@ -20,7 +20,7 @@
 
 {% include lev/dia_md.inc %}
 
-<br>{% include /commons/ads/adsense.html %}
+{% include /commons/ads/adsense.html %}
 
 > **S&P 500 지수**<a id="SPY"></a>
 
@@ -50,7 +50,7 @@
 
 {% include lev/xlk_md.inc %}
 
-<br>{% include /commons/ads/adsense.html %}
+{% include /commons/ads/adsense.html %}
 
 > **S&P 바이오기술 지수**<a id="XBI"></a>
 
@@ -80,7 +80,7 @@
 
 {% include lev/kweb_md.inc %}
 
-<br>{% include /commons/ads/adsense.html %}
+{% include /commons/ads/adsense.html %}
 
 > **미국 20+년 장기채**<a id="TLT"></a>
 
