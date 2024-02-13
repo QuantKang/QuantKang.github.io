@@ -40,7 +40,7 @@ categories:
 ![XYLD](/vs/images/xyld-vs-spy.png){: .align-center}
 
 <br>
-## **XYLD vs. SPY
+## XYLD vs. SPY
 
 
 

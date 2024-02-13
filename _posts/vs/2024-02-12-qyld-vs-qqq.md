@@ -40,7 +40,7 @@ categories:
 ![QYLD](/vs/images/qyld-vs-qqq.png){: .align-center}
 
 <br>
-## **QYLD vs. QQQ
+## QYLD vs. QQQ
 
 
 
