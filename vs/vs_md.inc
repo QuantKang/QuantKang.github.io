@@ -1,10 +1,16 @@
 > **[TIGER 미국배당+7%프리미엄다우존스 vs TIGER 미국배당다우존스](/458760-vs-458730/)**<a id="458760-vs-458730"></a>
 
+TIGER 미국배당다우존스는 Dow Jones U.S. Dividend 100 지수(원화환산)(Price Return) 지수를 추종하는 배당성장주 ETF입니다. TIGER 미국배당+7%프리미엄다우존스는 여기에 최대 40%까지 커버드콜 비중을 두어 단기 배당금을 높인 Dow Jones U.S. Dividend 100 7% Premium Covered Call 지수(Total Return)(원화환산) 지수를 추종합니다.
+{: .notice}
+
 {% include vs/458760-vs-458730_md.inc %}
 
 <br>
 
 > **[TIGER 미국배당+3%프리미엄다우존스 vs TIGER 미국배당다우존스](/458750-vs-458730/)**<a id="458750-vs-458730"></a>
+
+TIGER 미국배당다우존스는 Dow Jones U.S. Dividend 100 지수(원화환산)(Price Return) 지수를 추종하는 배당성장주 ETF입니다. TIGER 미국배당+3%프리미엄다우존스는 여기에 최대 15%까지 커버드콜 비중을 두어 단기 배당금을 높인 Dow Jones U.S. Dividend 100 3% Premium Covered Call 지수(Total Return)(원화환산) 지수를 추종합니다.
+{: .notice}
 
 {% include vs/458750-vs-458730_md.inc %}
 
