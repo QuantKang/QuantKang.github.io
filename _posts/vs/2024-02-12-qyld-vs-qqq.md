@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: QYLD vs QQQ
-excerpt: QYLD의 최근 10.0년 CAGR은 7.1%로 QQQ의 18.5%보다 -11.3% 낮았습니다.
+excerpt: QYLD의 최근 10년 2개월 CAGR은 7.1%로 QQQ의 18.5%보다 -11.3% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -32,10 +32,6 @@ categories:
 | QQQ<sub>mdd</sub> <small>(70%)</small> | <span style="color: tomato">13.2<small>%</small></span> | 15.0<small>%</small> | 0.88 | -25.6<small>%</small> | -4.2<small>%</small> |
 
 <br>
-수익률 지표를 살펴보면, QYLD의 지난 10.2년간 CAGR은 7.1%로 QQQ의 18.5%보다 -11.3% 낮았습니다.
-
-위험도 지표의 하나인 표준편차를 비교하면, QYLD의 14.9%는  QQQ의 21.3%보다 -6.5% 낮았습니다.
-
 
 <br>
 > **관련 정보**
