@@ -1,18 +1,36 @@
-> **JEPQ vs QQQ**<a id="QQQ"></a>
+> **TIGER 미국배당+7%프리미엄다우존스 vs TIGER 미국배당다우존스**<a id="458730"></a>
 
-{% include vs/jepq-vs-qqq_md.inc %}
-
-<br>
-
-> **JEPI vs SPY**<a id="SPY"></a>
-
-{% include vs/jepi-vs-spy_md.inc %}
+{% include vs/458760-vs-458730_md.inc %}
 
 <br>
 
-> **SCHD vs SPY**<a id="SPY"></a>
+> **TIGER 미국배당+3%프리미엄다우존스 vs TIGER 미국배당다우존스**<a id="458730"></a>
 
-{% include vs/schd-vs-spy_md.inc %}
+{% include vs/458750-vs-458730_md.inc %}
+
+<br>
+
+> **KODEX 코스닥150레버리지 vs KBSTAR 코스닥150선물레버리지**<a id="233740"></a>
+
+{% include vs/275750-vs-233740_md.inc %}
+
+<br>
+
+> **TIGER 미국나스닥100커버드콜(합성) vs TIGER 미국나스닥100TR채권혼합Fn**<a id="435420"></a>
+
+{% include vs/441680-vs-435420_md.inc %}
+
+<br>
+
+> **KODEX 코스피 vs KODEX 200**<a id="069500"></a>
+
+{% include vs/226490-vs-069500_md.inc %}
+
+<br>
+
+> **KODEX FnTop10동일가중 vs TIGER Top10**<a id="292150"></a>
+
+{% include vs/395170-vs-292150_md.inc %}
 
 <br>
 
@@ -22,15 +40,33 @@
 
 <br>
 
-> **TIGER 미국배당+7%프리미엄다우존스 vs TIGER 미국배당다우존스**<a id="458730"></a>
+> **SCHD vs SPY**<a id="SPY"></a>
 
-{% include vs/458760-vs-458730_md.inc %}
+{% include vs/schd-vs-spy_md.inc %}
 
 <br>
 
-> **ACE 미국배당다우존스 vs TIGER 미국배당다우존스**<a id="458730"></a>
+> **JEPI vs SPY**<a id="SPY"></a>
 
-{% include vs/402970-vs-458730_md.inc %}
+{% include vs/jepi-vs-spy_md.inc %}
+
+<br>
+
+> **JEPQ vs QQQ**<a id="QQQ"></a>
+
+{% include vs/jepq-vs-qqq_md.inc %}
+
+<br>
+
+> **XYLD vs SPY**<a id="SPY"></a>
+
+{% include vs/xyld-vs-spy_md.inc %}
+
+<br>
+
+> **QYLD vs QQQ**<a id="QQQ"></a>
+
+{% include vs/qyld-vs-qqq_md.inc %}
 > **KOSPI 200 지수**<a id="069500"></a>
 
 {% include lev/069500_md.inc %}
