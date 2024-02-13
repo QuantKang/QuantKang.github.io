@@ -9,6 +9,8 @@ categories:
 - vs
 ---
 
+<br>
+
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | XYLD | <span style="color: tomato">5.3<small>%</small></span> | 14.1<small>%</small> | 0.38 | -34.7<small>%</small> | -4.8<small>%</small> |
