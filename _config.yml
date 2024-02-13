@@ -98,6 +98,9 @@ naver_site_verification  : "e837bd5194d537ffcb674f5c3deacd4edd1dede6"
 yandex_site_verification :
 baidu_site_verification  :
 
+## 커스텀: 추가 설정
+date_format              : "%Y-%m-%d"
+
 # Social Sharing
 twitter:
   username               :
