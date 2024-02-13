@@ -1,15 +1,13 @@
 ---
 layout: splash
 title: JEPQ vs QQQ
-excerpt: JEPQ의 최근 1.8년 CAGR은 14.7%로 QQQ의 21.3%보다 -6.7% 낮았습니다.
+excerpt: JEPQ의 최근 1.0년 CAGR은 14.7%로 QQQ의 21.3%보다 -6.7% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
 categories:
 - vs
 ---
-
-<br>
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |

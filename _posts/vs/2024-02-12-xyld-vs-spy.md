@@ -1,15 +1,13 @@
 ---
 layout: splash
 title: XYLD vs SPY
-excerpt: XYLD의 최근 10.6년 CAGR은 5.3%로 SPY의 13.4%보다 -8.1% 낮았습니다.
+excerpt: XYLD의 최근 10.0년 CAGR은 5.3%로 SPY의 13.4%보다 -8.1% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
 categories:
 - vs
 ---
-
-<br>
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |

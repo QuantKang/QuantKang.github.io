@@ -1,15 +1,13 @@
 ---
 layout: splash
 title: JEPI vs SPY
-excerpt: JEPI의 최근 3.7년 CAGR은 12.0%로 SPY의 17.0%보다 -5.0% 낮았습니다.
+excerpt: JEPI의 최근 3.0년 CAGR은 12.0%로 SPY의 17.0%보다 -5.0% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
 categories:
 - vs
 ---
-
-<br>
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
