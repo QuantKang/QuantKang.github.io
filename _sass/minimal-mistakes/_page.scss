@@ -40,16 +40,18 @@ body {
     float: right;
   /* 커스텀
     width: calc(100% - #{$right-sidebar-width-narrow});
-  */
+    ## ORIG
     width: 100%;
+  */
     padding-right: $right-sidebar-width-narrow;
   }
 
   @include breakpoint($x-large) {
   /* 커스텀
     width: calc(100% - #{$right-sidebar-width});
-  */
+    ## ORIG
     width: 100%;
+  */
     padding-right: $right-sidebar-width;
   }
 

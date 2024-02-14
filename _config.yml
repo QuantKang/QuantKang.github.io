@@ -98,6 +98,9 @@ naver_site_verification  : "e837bd5194d537ffcb674f5c3deacd4edd1dede6"
 yandex_site_verification :
 baidu_site_verification  :
 
+## 커스텀: 추가 설정
+date_format              : "%Y-%m-%d"
+
 # Social Sharing
 twitter:
   username               :
@@ -284,12 +287,13 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+## 커스텀: 카테고리와 태그 사용 안함
+##category_archive:
+##  type: liquid
+##  path: /categories/
+##tag_archive:
+##  type: liquid
+##  path: /tags/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
