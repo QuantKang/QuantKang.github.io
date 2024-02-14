@@ -117,3 +117,11 @@ KODEX 코스피는 코스피 지수를 추종합니다.  KODEX 200은 코스피�
 > **[QYLD vs QQQ](/qyld-vs-qqq/)**<a id="qyld-vs-qqq"></a>
 
 {% include vs/qyld-vs-qqq_md.inc %}
+
+<br>
+
+> **[VIG vs SCHD](/vig-vs-schd/)**<a id="vig-vs-schd"></a>
+
+VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당성장주 ETF입니다. 국내에 널리 알려진 SCHD는 Dow Jones U.S. Dividend 100 지수를 추종하는 대표적인 배당성장주 ETF입니다. 두 상품 모두 비슷한 관점에서 설계했기에, 장기직인 성과는 비슷하리라 예상할 수 있습니다.
+
+{% include vs/vig-vs-schd_md.inc %}
