@@ -84,6 +84,7 @@ SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추�
 이 포트폴리오는 XYLD의 5.3%보다 7.0% 높았습니다.
 
 [XYLD	&lt; SPY](){: .btn .btn--success}
+<span class="btn btn--primary">Link Text</span>
 
 <br>
 ## 관련 정보

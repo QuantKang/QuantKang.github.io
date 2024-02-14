@@ -84,6 +84,7 @@ SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추�
 이 포트폴리오는 JEPI의 11.8%보다 -1.9% 낮았습니다.
 
 [JEPI &gt; SPY](){: .btn .btn--success}
+<span class="btn btn--primary">Link Text</span>
 
 <br>
 ## 관련 정보

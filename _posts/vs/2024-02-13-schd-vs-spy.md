@@ -84,6 +84,7 @@ SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추�
 이 포트폴리오는 SCHD의 12.7%와 비슷했습니다.
 
 [SCHD≒SPY](){: .btn .btn--success}
+<span class="btn btn--primary">Link Text</span>
 
 <br>
 ## 관련 정보
