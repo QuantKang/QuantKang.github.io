@@ -2,7 +2,7 @@
 main:
   - title: "레버리지/인버스"
     url: "/lev/"
-  - title: "종목 비교"
+  - title: "유사 종목 비교"
     url: "/vs/"
   - title: "재무 기반 선별"
     url: "/fn/"
