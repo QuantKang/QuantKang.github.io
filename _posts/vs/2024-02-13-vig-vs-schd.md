@@ -55,7 +55,6 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 
 <br>
 </div>
-<div>
 
 ## 동일 수준 위험하에서의 추정 성과
 

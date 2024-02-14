@@ -50,7 +50,6 @@ categories:
 
 <br>
 </div>
-<div>
 
 ## 동일 수준 위험하에서의 추정 성과
 
