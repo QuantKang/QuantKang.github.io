@@ -15,6 +15,7 @@ categories:
 
 두 상품의 성과를 비교할 수 있는 가장 긴 기간은 최근 12년 3개월입니다. 아래는 이 기간의 성과를 그래프와 표로 나타낸 것입니다.
 그래프 범례에서 괄호안의 퍼센트 수치는 CAGR입니다.
+
 ![SCHD](/vs/images/schd-vs-spy_dual.png){: .align-center}
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
