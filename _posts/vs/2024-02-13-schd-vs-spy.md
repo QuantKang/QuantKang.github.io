@@ -39,9 +39,6 @@ categories:
 
 - **위험도 지표 (MDD):** SCHD의 33.4%의 MDD는 SPY의 33.7%와 비슷했습니다. (비슷한 위험도)
 
-
-{% include /commons/ads/adsense.html %}
-
 <br>
 ## 동일 수준 위험 노출을 위한 비중 조절
 
@@ -50,6 +47,9 @@ categories:
 
 - **위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 16.8% / 15.7% = 93% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 - **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 33.7% / 33.4% = 99% 비중으로 투자하면 됩니다.
+
+
+{% include /commons/ads/adsense.html %}
 
 <br>
 ## 동일 수준 위험하에서의 추정 성과
