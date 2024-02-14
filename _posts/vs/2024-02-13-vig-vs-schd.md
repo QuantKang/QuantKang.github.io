@@ -39,9 +39,6 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 
 - **위험도 지표 (MDD):** VIG의 31.7%의 MDD는 SCHD의 33.4%보다 -1.7% 낮았습니다. (낮은 위험도)
 
-
-{% include /commons/ads/adsense.html %}
-
 <br>
 ## 동일 수준 위험 노출을 위한 비중 조절
 
@@ -50,6 +47,9 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 
 - **위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 15.7% / 15.4% = 98% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 - **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 33.4% / 31.7% = 95% 비중으로 투자하면 됩니다.
+
+
+{% include /commons/ads/adsense.html %}
 
 <br>
 ## 동일 수준 위험하에서의 추정 성과
