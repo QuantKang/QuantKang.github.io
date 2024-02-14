@@ -1,3 +1,0 @@
-| **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
-| [TIGER 미국배당+3%프리미엄다우존스](/458750-vs-233740/) | <span style="color: tomato">16.3<small>%</small></span> | 10.3<small>%</small> | 1.58 | -7.9<small>%</small> | -2.1<small>%</small> |
-| KODEX 코스닥150레버리지 | <span style="color: cornflowerblue">-10.6<small>%</small></span> | 67.4<small>%</small> | -0.16 | -47.8<small>%</small> | -24.6<small>%</small> |
