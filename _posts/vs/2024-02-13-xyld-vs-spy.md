@@ -16,7 +16,7 @@ categories:
 S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수를 추종하는 SPY의 성과를 비교해 봅니다.
 
 <br>
-<div>
+<div markdown="1">
 
 ## 지난 성과
 
@@ -43,7 +43,7 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수�
 
 <br>
 </div>
-<div>
+<div markdown="1">
 
 ## 동일 수준 위험 노출을 위한 비중 조절
 

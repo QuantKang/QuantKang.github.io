@@ -16,7 +16,7 @@ categories:
 배당성장주로 유명한 SCHD를 배당은 고려하지 않고 S&P 500 지수를 추종하는 SPY와 비교해 봅니다.
 
 <br>
-<div>
+<div markdown="1">
 
 ## 지난 성과
 
@@ -43,7 +43,7 @@ categories:
 
 <br>
 </div>
-<div>
+<div markdown="1">
 
 ## 동일 수준 위험 노출을 위한 비중 조절
 
