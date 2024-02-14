@@ -5,7 +5,7 @@ excerpt: KOSPI 섬유의복 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-02-13
+last_modified_at: 2024-02-14
 ---
 <br>
 ![KOSPI 섬유의복 업종 종목별 시가총액 비중](/stats/sector/images/kospi_업종_섬유의복_종목.png){: .align-center}
@@ -14,11 +14,11 @@ last_modified_at: 2024-02-13
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [F&F](/383220/) | 6.1 | 2.9 | 2.3<small>%</small> | 43.0<small>%</small> |
-| [한세실업](/105630/) | 9.4 | 1.5 | 2.4<small>%</small> | 13.0<small>%</small> |
-| 한섬 | 3.8 | 0.3 | 3.5<small>%</small> | 8.4<small>%</small> |
-| LF | 2.6 | 0.3 | 5.1<small>%</small> | 6.4<small>%</small> |
-| BYC | 9.9 | 0.5 | 0.7<small>%</small> | 4.2<small>%</small> |
+| [F&F](/383220/) | 6.0 | 2.9 | 2.3<small>%</small> | 42.2<small>%</small> |
+| [한세실업](/105630/) | 9.8 | 1.6 | 2.3<small>%</small> | 13.7<small>%</small> |
+| 한섬 | 3.8 | 0.3 | 3.6<small>%</small> | 8.3<small>%</small> |
+| LF | 2.6 | 0.3 | 5.1<small>%</small> | 6.5<small>%</small> |
+| BYC | 10.1 | 0.5 | 0.7<small>%</small> | 4.2<small>%</small> |
 | 일신방직 | 1.9 | 0.2 | 5.3<small>%</small> | 3.5<small>%</small> |
 | 한세예스24홀딩스 | 9.0 | 0.5 | 5.1<small>%</small> | 3.1<small>%</small> |
 | 신원 | 6.0 | 0.5 | 7.5<small>%</small> | 2.2<small>%</small> |
@@ -33,10 +33,10 @@ last_modified_at: 2024-02-13
 | 메타랩스 | - | 0.7 | - | 0.9<small>%</small> |
 | 원림 | 5.3 | 0.3 | 1.9<small>%</small> | 0.7<small>%</small> |
 | 전방 | 0.4 | 0.1 | 4.0<small>%</small> | 0.7<small>%</small> |
-| 형지엘리트 | 20.3 | 0.6 | - | 0.7<small>%</small> |
+| 형지엘리트 | 20.5 | 0.6 | - | 0.7<small>%</small> |
 | 대한방직 | - | 0.2 | - | 0.6<small>%</small> |
+| TBH글로벌 | 6.9 | 0.6 | - | 0.5<small>%</small> |
 | 비비안 | - | 0.3 | - | 0.5<small>%</small> |
-| TBH글로벌 | 6.8 | 0.6 | - | 0.5<small>%</small> |
 | BYC우 | - | - | 2.1<small>%</small> | 0.5<small>%</small> |
 | 일정실업 | - | 3.5 | - | 0.2<small>%</small> |
 
