@@ -3,9 +3,6 @@
 ### KOSPI 200 지수<a id="069500"></a>
 
 {% include lev/069500_md.inc %}
-
-<br>
-
 ### KOSDAQ 150 지수<a id="229200"></a>
 
 {% include lev/229200_md.inc %}
@@ -16,22 +13,23 @@
 
 {% include lev/261240_md.inc %}
 
-## 미국 지수
-
+<br>
 
 <br>
+
+## 미국 지수
 
 ### 다우 존스 산업평균 지수<a id="DIA"></a>
 
 {% include lev/dia_md.inc %}
 
-{% include /commons/ads/adsense.html %}
+<br>
 
 ### S&P 500 지수<a id="SPY"></a>
 
 {% include lev/spy_md.inc %}
 
-<br>
+{% include /commons/ads/adsense.html %}
 
 ### 나스닥 100 지수<a id="QQQ"></a>
 
@@ -49,31 +47,33 @@
 
 {% include lev/tlt_md.inc %}
 
-## 미국 섹터 지수
-
+<br>
 
 <br>
+
+## 미국 섹터 지수
 
 ### 필라델피아 반도체 지수<a id="SOXQ"></a>
 
 {% include lev/soxq_md.inc %}
 
-{% include /commons/ads/adsense.html %}
+<br>
 
 ### 기술 섹터 지수<a id="XLK"></a>
 
 {% include lev/xlk_md.inc %}
 
-<br>
+{% include /commons/ads/adsense.html %}
 
 ### S&P 바이오기술 지수<a id="XBI"></a>
 
 {% include lev/xbi_md.inc %}
 
-## 해외 지수
-
+<br>
 
 <br>
+
+## 해외 지수
 
 ### MSCI Japan 지수<a id="EWJ"></a>
 
@@ -91,16 +91,17 @@
 
 {% include lev/inda_md.inc %}
 
-{% include /commons/ads/adsense.html %}
+<br>
 
 ### CSI 중국 인터넷 지수<a id="KWEB"></a>
 
 {% include lev/kweb_md.inc %}
 
-## 해외 개별 종목
-
+{% include /commons/ads/adsense.html %}
 
 <br>
+
+## 해외 개별 종목
 
 ### 테슬라<a id="TSLA"></a>
 
@@ -111,3 +112,5 @@
 ### 엔비디아<a id="NVDA"></a>
 
 {% include lev/nvda_md.inc %}
+
+<br>
