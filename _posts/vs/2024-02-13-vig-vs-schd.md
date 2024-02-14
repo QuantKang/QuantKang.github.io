@@ -16,8 +16,7 @@ categories:
 VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당성장주 ETF입니다. 국내에 널리 알려진 SCHD는 Dow Jones U.S. Dividend 100 지수를 추종하는 대표적인 배당성장주 ETF입니다. 두 상품 모두 비슷한 관점에서 설계했기에, 장기직인 성과는 비슷하리라 예상할 수 있습니다.
 
 <br>
-<div>
-</div>
+<div markdown="1">
 
 ## 지난 성과
 
@@ -43,8 +42,8 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 - **위험도 지표 (MDD):** VIG의 31.7%의 MDD는 SCHD의 33.4%보다 -1.7% 낮았습니다. (낮은 위험도)
 
 <br>
-<div>
 </div>
+<div markdown="1">
 
 ## 동일 수준 위험 노출을 위한 비중 조절
 
@@ -55,7 +54,6 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 - **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 33.4% / 31.7% = 95% 비중으로 투자하면 됩니다.
 
 <br>
-<div>
 </div>
 
 ## 동일 수준 위험하에서의 추정 성과
