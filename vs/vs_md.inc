@@ -126,6 +126,16 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 {% include vs/jepi-vs-spy_md.inc %}
 
 <br>
+### [JEPI vs JEPIX](/jepi-vs-jepix/)<a id="jepi-vs-jepix"></a>
+
+{% include vs/jepi-vs-jepix_md.inc %}
+
+<br>
+### [JEPIX vs SPY](/jepix-vs-spy/)<a id="jepix-vs-spy"></a>
+
+{% include vs/jepix-vs-spy_md.inc %}
+
+<br>
 ### [JEPQ vs QQQ](/jepq-vs-qqq/)<a id="jepq-vs-qqq"></a>
 
 {% include vs/jepq-vs-qqq_md.inc %}
