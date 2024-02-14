@@ -16,6 +16,11 @@
   //   transform: translate3d(0, 0, 0);
   // }
 
+  /* 커스텀 */
+  @include breakpoint($small) {
+    display: none;
+  }
+
   @include breakpoint($large) {
     float: left;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
