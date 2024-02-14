@@ -37,9 +37,6 @@ categories:
 
 - **위험도 지표 (MDD):** JEPQ의 16.8%의 MDD는 QQQ의 21.6%보다 -4.8% 낮았습니다. (낮은 위험도)
 
-
-{% include /commons/ads/adsense.html %}
-
 <br>
 <div>
 </div>

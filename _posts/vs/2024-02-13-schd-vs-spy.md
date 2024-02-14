@@ -42,9 +42,6 @@ categories:
 
 - **위험도 지표 (MDD):** SCHD의 33.4%의 MDD는 SPY의 33.7%와 비슷했습니다. (비슷한 위험도)
 
-
-{% include /commons/ads/adsense.html %}
-
 <br>
 <div>
 </div>

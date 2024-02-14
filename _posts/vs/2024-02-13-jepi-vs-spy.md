@@ -37,9 +37,6 @@ categories:
 
 - **위험도 지표 (MDD):** JEPI의 13.7%의 MDD는 SPY의 24.5%보다 -10.8% 낮았습니다. (낮은 위험도)
 
-
-{% include /commons/ads/adsense.html %}
-
 <br>
 <div>
 </div>

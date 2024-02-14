@@ -42,9 +42,6 @@ categories:
 
 - **위험도 지표 (MDD):** QYLD의 24.8%의 MDD는 QQQ의 35.1%보다 -10.4% 낮았습니다. (낮은 위험도)
 
-
-{% include /commons/ads/adsense.html %}
-
 <br>
 <div>
 </div>

@@ -42,9 +42,6 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수�
 
 - **위험도 지표 (MDD):** XYLD의 34.7%의 MDD는 SPY의 33.7%와 비슷했습니다. (비슷한 위험도)
 
-
-{% include /commons/ads/adsense.html %}
-
 <br>
 <div>
 </div>
