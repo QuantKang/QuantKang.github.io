@@ -16,11 +16,6 @@
   //   transform: translate3d(0, 0, 0);
   // }
 
-  /* 커스텀 */
-  @include breakpoint($small) {
-    display: none;
-  }
-
   @include breakpoint($large) {
     float: left;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
@@ -81,6 +76,11 @@
   margin-bottom: 1em;
   */
   margin-bottom: 2em;
+
+  /* 커스텀: hide on mobile */
+  @include breakpoint($small) {
+    display: none;
+  }
 
   @include breakpoint($large) {
     position: absolute;
