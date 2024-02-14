@@ -1,10 +1,11 @@
 ---
-layout: splash
+layout: single
 title: 레버리지/인버스 수익률과 비용
 excerpt: 레버리지/인버스 종목의 최근 1년 수익률, 위험도, 비용을 추정하여 제공합니다.
 header:
   overlay_color: "#F39C12"
   show_overlay_excerpt: false
+toc: true
 ---
 
 레버리지/인버스 종목[^fn_lev_stock]의 최근 1년 수익률, 위험도, 변동성 비용[^fn_lev_vd_expense], 금융 비용[^fn_lev_fn_expense]을 추정하여 비교[^fn_lev_warning]합니다.

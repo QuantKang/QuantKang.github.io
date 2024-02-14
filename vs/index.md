@@ -1,10 +1,11 @@
 ---
-layout: splash
+layout: single
 title: 유사 종목 비교
 excerpt: 유사하지만 조금 다른 종목을 위험 대비 수익률에 기반하여 비교 분석합니다.
 header:
   overlay_color: "#F39C12"
   show_overlay_excerpt: false
+toc: true
 ---
 
 <br>
