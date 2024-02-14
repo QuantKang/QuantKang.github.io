@@ -1,14 +1,14 @@
 ---
 layout: splash
-title: 종목 비교
-excerpt: 유사하지만 조금 다른 종목을 비교 분석합니다.
+title: 유사 종목 비교
+excerpt: 유사하지만 조금 다른 종목을 위험 대비 수익률에 기반하여 비교 분석합니다.
 header:
   overlay_color: "#F39C12"
   show_overlay_excerpt: false
 ---
 
 <br>
-유사하지만 세세하게는 조금 다른 종목을 위험 고려 수익률을 분석하여 비교합니다.
+유사하지만 세세하게는 조금 다른 종목을 위험 고려 수익률로 분석하여 비교합니다.
 
 - [QQQ와 SPY](/qqq-vs-spy/)처럼 동일한 국가의 다른 주요 지수.
 - [VTI와 SPY](/vti-vs-spy/)처럼 선별 없이 모든 종목에 투자하는 경우.
