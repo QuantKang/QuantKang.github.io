@@ -77,16 +77,15 @@
   */
   margin-bottom: 2em;
 
+  display: none;
   /* 커스텀: hide on mobile */
-  /*
   @include breakpoint($small) {
     display: none;
   }
-  */
 
   @include breakpoint($large) {
   /* 커스텀: unhide */
-  /*  display: block; */
+  display: block;
   /* 커스텀: unhide */
 
     position: absolute;
