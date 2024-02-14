@@ -18,8 +18,6 @@ toc: true
 - [ARIRANG 고배당주 vs KODEX 200](/161510-vs-069500/)처럼 특화된 요소를 반영하여 선별하는 경우.
 {: .notice}
 
-<br>
-
 {% include_relative vs_md.inc %}
 
 {% include commons/footnotes.md %}
