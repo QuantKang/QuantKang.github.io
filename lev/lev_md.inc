@@ -1,5 +1,7 @@
+<br>
 ## 국내 지수
 
+<br>
 ### KOSPI 200 지수<a id="069500"></a>
 
 {% include lev/069500_md.inc %}
@@ -16,9 +18,9 @@
 <br>
 
 <br>
-
 ## 미국 지수
 
+<br>
 ### 다우 존스 산업평균 지수<a id="DIA"></a>
 
 {% include lev/dia_md.inc %}
@@ -50,9 +52,9 @@
 <br>
 
 <br>
-
 ## 미국 섹터 지수
 
+<br>
 ### 필라델피아 반도체 지수<a id="SOXQ"></a>
 
 {% include lev/soxq_md.inc %}
@@ -72,9 +74,9 @@
 <br>
 
 <br>
-
 ## 해외 지수
 
+<br>
 ### MSCI Japan 지수<a id="EWJ"></a>
 
 {% include lev/ewj_md.inc %}
@@ -100,9 +102,9 @@
 {% include /commons/ads/adsense.html %}
 
 <br>
-
 ## 해외 개별 종목
 
+<br>
 ### 테슬라<a id="TSLA"></a>
 
 {% include lev/tsla_md.inc %}
