@@ -83,7 +83,8 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 QQQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 13.0%인 포트폴리오를 만들 수 있습니다.
 이 포트폴리오는 QYLD의 7.1%보다 5.9% 높았습니다.
 
-#### QYLD	&lt; QQQ{: .text-center}
+#### QYLD	&lt; QQQ
+{: .text-center}
 
 <br>
 ## 관련 정보
