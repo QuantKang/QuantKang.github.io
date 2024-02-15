@@ -128,10 +128,14 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 <br>
 ### [JEPI vs JEPIX](/jepi-vs-jepix/)<a id="jepi-vs-jepix"></a>
 
+JEPIX는 JEPI와 동일한 전략을 사용한다고 알려진 JP모건사의 뮤추얼 펀드입니다. JEPIX는 JEPI보다 먼저 설정되었습니다. 두 상품이 동일한지 확인해 봅니다.
+
 {% include vs/jepi-vs-jepix_md.inc %}
 
 <br>
 ### [JEPIX vs SPY](/jepix-vs-spy/)<a id="jepix-vs-spy"></a>
+
+JEPIX는 JEPII와 동일한 전략을 사용한다고 알려진 JP모건사 뮤추얼 펀드입니다. JEPIX는 JEPI보다 먼저 설정되었습니다. JEPI/JEPIX의 전략이 유용한 지 좀 더 긴 기간을 대상으로 비교해 봅니다.
 
 {% include vs/jepix-vs-spy_md.inc %}
 
