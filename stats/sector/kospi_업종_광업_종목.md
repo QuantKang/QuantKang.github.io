@@ -7,9 +7,11 @@ header:
   show_overlay_excerpt: false
 last_modified_at: 2024-02-15
 ---
-<br>
+
+
 ![KOSPI 광업 업종 종목별 시가총액 비중](/stats/sector/images/kospi_업종_광업_종목.png){: .align-center}
-<br>
+
+
 > **종목 목록 (1)**<a id="list"></a>
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |

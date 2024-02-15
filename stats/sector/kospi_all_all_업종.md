@@ -7,7 +7,8 @@ header:
   show_overlay_excerpt: false
 last_modified_at: 2024-02-15
 ---
-<br>
+
+
 ![KOSPI 전체 업종별 시가총액 비중](/stats/sector/images/kospi_all_all_업종.png){: .align-center}
 
 {% include commons/footnotes.md %}
