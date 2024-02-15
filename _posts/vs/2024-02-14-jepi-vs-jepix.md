@@ -15,7 +15,8 @@ categories:
 
 JEPIX는 JEPI와 동일한 전략을 사용한다고 알려진 JP모건사의 뮤추얼 펀드입니다. JEPIX는 JEPI보다 먼저 설정되었습니다. 두 상품이 동일한지 확인해 봅니다. 참고로 JEPIX의 시세 데이터에 오류가 있는 듯 합니다. JEPIX는 매달 배당금을 지급하는 방식에서 2023년 상반기에 대부분을 펀드에 재투자하는 방식으로 바뀌었습니다. 이로 인한 자산 증가분이 고려되지 않아 JEPI보다 낮은 성과를 보이는 착시가 발생할 수 있습니다.
 
-<br>
+
+
 ## 지난 성과
 
 두 상품의 성과를 비교할 수 있는 가장 긴 기간은 최근 3년 8개월입니다. 아래는 이 기간의 성과[^fn_vs_perf]를 그래프와 표로 나타낸 것입니다.
@@ -30,7 +31,7 @@ JEPIX는 JEPI와 동일한 전략을 사용한다고 알려진 JP모건사의 �
 
 <!-- more -->
 
-<br>
+
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
 - **수익률 지표 (CAGR):** JEPI의 CAGR은 12.0%로 JEPIX의 11.0%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
@@ -39,7 +40,8 @@ JEPIX는 JEPI와 동일한 전략을 사용한다고 알려진 JP모건사의 �
 
 - **위험도 지표 (MDD):** JEPI의 13.7%의 MDD는 JEPIX의 13.7%와 비슷했습니다. (비슷한 위험도)
 
-<br>
+
+
 ## 동일 수준 위험 노출을 위한 비중 조절
 
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
@@ -51,14 +53,15 @@ JEPIX는 JEPI와 동일한 전략을 사용한다고 알려진 JP모건사의 �
 
 {% include /commons/ads/adsense.html %}
 
-<br>
+
+
 ## 동일 수준 위험하에서의 추정 성과
 
 아래는 비중을 조절한 경우를 추가하여, 그래프와 표에 성과를 기록한 것입니다.
 JEPIX<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEPIX<sub>MDD</sub>는 MDD를 맞춘 경우입니다.
 앞에서와 같이 그래프 범례에서 괄호안의 퍼센트 수치는 CAGR입니다.
 
-<br>
+
 ![JEPI](/vs/images/jepi-vs-jepix.png){: .align-center}
 
 
@@ -70,7 +73,7 @@ JEPIX<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JE
 | JEPIX<sub>STD</sub> <small>(97%)</small> | <span style="color: tomato">10.6<small>%</small></span> | 10.8<small>%</small> | 0.98 | -13.2<small>%</small> | -2.6<small>%</small> |
 | JEPIX<sub>MDD</sub> <small>(100%)</small> | <span style="color: tomato">11.0<small>%</small></span> | 11.2<small>%</small> | 0.98 | -13.7<small>%</small> | -2.7<small>%</small> |
 
-<br>
+
 
 각각의 경우를 JEPI의 성과와 비교해 봅니다.
 - **위험도 지표 (표준편차):** 97% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 10.6%로 JEPI의 12.0%보다 -1.3% 낮았습니다. (낮은 수익률)
@@ -79,7 +82,6 @@ JEPIX<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JE
 
 
 
-<br>
 
 ## 최종 비교
 
@@ -94,7 +96,7 @@ JEPIX의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞�
 ### JEPI &gt; JEPIX
 {: .text-center}
 
-<br>
+
 ## 관련 정보
 
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}

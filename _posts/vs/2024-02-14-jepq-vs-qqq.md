@@ -17,7 +17,8 @@ QQQ 상품과 JEPQ 상품의 성과를 수익률과 위험도로 비교합니다
 
 
 
-<br>
+
+
 ## 지난 성과
 
 두 상품의 성과를 비교할 수 있는 가장 긴 기간은 최근 1년 9개월입니다. 아래는 이 기간의 성과[^fn_vs_perf]를 그래프와 표로 나타낸 것입니다.
@@ -32,7 +33,7 @@ QQQ 상품과 JEPQ 상품의 성과를 수익률과 위험도로 비교합니다
 
 <!-- more -->
 
-<br>
+
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
 - **수익률 지표 (CAGR):** JEPQ의 CAGR은 14.7%로 QQQ의 20.9%보다 -6.2% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
@@ -41,7 +42,8 @@ QQQ 상품과 JEPQ 상품의 성과를 수익률과 위험도로 비교합니다
 
 - **위험도 지표 (MDD):** JEPQ의 16.8%의 MDD는 QQQ의 21.6%보다 -4.8% 낮았습니다. (낮은 위험도)
 
-<br>
+
+
 ## 동일 수준 위험 노출을 위한 비중 조절
 
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
@@ -53,14 +55,15 @@ QQQ 상품과 JEPQ 상품의 성과를 수익률과 위험도로 비교합니다
 
 {% include /commons/ads/adsense.html %}
 
-<br>
+
+
 ## 동일 수준 위험하에서의 추정 성과
 
 아래는 비중을 조절한 경우를 추가하여, 그래프와 표에 성과를 기록한 것입니다.
 QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<sub>MDD</sub>는 MDD를 맞춘 경우입니다.
 앞에서와 같이 그래프 범례에서 괄호안의 퍼센트 수치는 CAGR입니다.
 
-<br>
+
 ![JEPQ](/vs/images/jepq-vs-qqq.png){: .align-center}
 
 
@@ -72,7 +75,7 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 | QQQ<sub>STD</sub> <small>(72%)</small> | <span style="color: tomato">15.4<small>%</small></span> | 17.2<small>%</small> | 0.89 | -16.0<small>%</small> | -4.8<small>%</small> |
 | QQQ<sub>MDD</sub> <small>(78%)</small> | <span style="color: tomato">16.5<small>%</small></span> | 18.5<small>%</small> | 0.89 | -17.1<small>%</small> | -5.2<small>%</small> |
 
-<br>
+
 
 각각의 경우를 JEPQ의 성과와 비교해 봅니다.
 - **위험도 지표 (표준편차):** 72% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 15.4%로 JEPQ의 14.7%와 비슷했습니다. (비슷한 수익률)
@@ -81,7 +84,6 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 
 
 
-<br>
 
 ## 최종 비교
 
@@ -96,7 +98,7 @@ QQQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추�
 ### JEPQ	&lt; QQQ
 {: .text-center}
 
-<br>
+
 ## 관련 정보
 
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}

@@ -15,7 +15,8 @@ categories:
 
 S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수를 추종하는 SPY의 성과를 비교해 봅니다.
 
-<br>
+
+
 ## 지난 성과
 
 두 상품의 성과를 비교할 수 있는 가장 긴 기간은 최근 10년 7개월입니다. 아래는 이 기간의 성과[^fn_vs_perf]를 그래프와 표로 나타낸 것입니다.
@@ -30,7 +31,7 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수�
 
 <!-- more -->
 
-<br>
+
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
 - **수익률 지표 (CAGR):** XYLD의 CAGR은 5.4%로 SPY의 13.4%보다 -8.0% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
@@ -39,7 +40,8 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수�
 
 - **위험도 지표 (MDD):** XYLD의 34.7%의 MDD는 SPY의 33.7%와 비슷했습니다. (비슷한 위험도)
 
-<br>
+
+
 ## 동일 수준 위험 노출을 위한 비중 조절
 
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
@@ -51,14 +53,15 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수�
 
 {% include /commons/ads/adsense.html %}
 
-<br>
+
+
 ## 동일 수준 위험하에서의 추정 성과
 
 아래는 비중을 조절한 경우를 추가하여, 그래프와 표에 성과를 기록한 것입니다.
 SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<sub>MDD</sub>는 MDD를 맞춘 경우입니다.
 앞에서와 같이 그래프 범례에서 괄호안의 퍼센트 수치는 CAGR입니다.
 
-<br>
+
 ![XYLD](/vs/images/xyld-vs-spy.png){: .align-center}
 
 
@@ -70,7 +73,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | SPY<sub>STD</sub> <small>(83%)</small> | <span style="color: tomato">11.2<small>%</small></span> | 14.1<small>%</small> | 0.79 | -28.5<small>%</small> | -3.4<small>%</small> |
 | SPY<sub>MDD</sub> <small>(103%)</small> | <span style="color: tomato">13.7<small>%</small></span> | 17.6<small>%</small> | 0.78 | -34.6<small>%</small> | -4.3<small>%</small> |
 
-<br>
+
 
 각각의 경우를 XYLD의 성과와 비교해 봅니다.
 - **위험도 지표 (표준편차):** 83% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 11.2%로 XYLD의 5.4%보다 5.8% 높았습니다. (높은 수익률)
@@ -79,7 +82,6 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 
 
-<br>
 
 ## 최종 비교
 
@@ -94,7 +96,7 @@ SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추�
 ### XYLD	&lt; SPY
 {: .text-center}
 
-<br>
+
 ## 관련 정보
 
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
