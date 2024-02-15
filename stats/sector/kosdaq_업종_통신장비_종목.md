@@ -5,7 +5,7 @@ excerpt: KOSDAQ 통신장비 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-02-14
+last_modified_at: 2024-02-15
 ---
 <br>
 ![KOSDAQ 통신장비 업종 종목별 시가총액 비중](/stats/sector/images/kosdaq_업종_통신장비_종목.png){: .align-center}
@@ -14,55 +14,55 @@ last_modified_at: 2024-02-14
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [서진시스템](/178320/) | 523.3 | 1.6 | - | 11.7<small>%</small> |
-| [케이엠더블유](/032500/) | - | 2.5 | - | 8.4<small>%</small> |
-| 쏠리드 | 13.1 | 1.7 | 0.8<small>%</small> | 5.4<small>%</small> |
+| [서진시스템](/178320/) | 520.9 | 1.6 | - | 11.8<small>%</small> |
+| [케이엠더블유](/032500/) | - | 2.4 | - | 8.0<small>%</small> |
+| 쏠리드 | 12.9 | 1.7 | 0.8<small>%</small> | 5.4<small>%</small> |
 | 쎄트렉아이 | - | 2.5 | 0.2<small>%</small> | 5.1<small>%</small> |
-| 자람테크놀로지 | 350.9 | 11.5 | - | 3.6<small>%</small> |
+| 자람테크놀로지 | 364.4 | 12.0 | - | 3.7<small>%</small> |
 | 비덴트 | - | 0.3 | - | 3.6<small>%</small> |
-| AP위성 | 55.9 | 2.7 | 0.4<small>%</small> | 3.4<small>%</small> |
+| AP위성 | 55.4 | 2.6 | 0.4<small>%</small> | 3.4<small>%</small> |
 | [에치에프알](/230240/) | 3.4 | 1.3 | - | 3.3<small>%</small> |
 | 아이디스 | 18.2 | 1.1 | 1.6<small>%</small> | 3.2<small>%</small> |
-| 이노와이어리스 | 14.1 | 1.4 | 1.2<small>%</small> | 3.0<small>%</small> |
+| 이노와이어리스 | 13.9 | 1.4 | 1.3<small>%</small> | 3.0<small>%</small> |
+| 광무 | - | 1.9 | - | 2.7<small>%</small> |
 | 다산네트웍스 | 0.8 | 0.4 | - | 2.5<small>%</small> |
-| 팅크웨어 | 44.8 | 0.9 | - | 2.4<small>%</small> |
-| 에이스테크 | - | 1.9 | - | 2.4<small>%</small> |
-| 텔레필드 | - | 7.0 | - | 2.4<small>%</small> |
-| 광무 | - | 1.7 | - | 2.4<small>%</small> |
-| 유비쿼스 | 7.8 | 1.2 | 2.6<small>%</small> | 2.3<small>%</small> |
+| 팅크웨어 | 44.3 | 0.9 | - | 2.4<small>%</small> |
+| 에이스테크 | - | 1.8 | - | 2.4<small>%</small> |
+| 텔레필드 | - | 6.8 | - | 2.4<small>%</small> |
+| 유비쿼스 | 7.6 | 1.1 | 2.6<small>%</small> | 2.3<small>%</small> |
 | 오이솔루션 | - | 1.0 | 1.4<small>%</small> | 2.1<small>%</small> |
-| 삼지전자 | 2.7 | 0.4 | 5.2<small>%</small> | 1.9<small>%</small> |
+| 삼지전자 | 2.7 | 0.4 | 5.2<small>%</small> | 2.0<small>%</small> |
 | 휴맥스 | - | 0.5 | - | 1.9<small>%</small> |
-| 알에프텍 | 10.7 | 0.6 | - | 1.8<small>%</small> |
-| 제노코 | 47.5 | 3.8 | 0.3<small>%</small> | 1.8<small>%</small> |
-| 가온그룹 | 10.4 | 0.6 | 1.4<small>%</small> | 1.7<small>%</small> |
+| 알에프텍 | 10.6 | 0.5 | - | 1.8<small>%</small> |
+| 제노코 | 46.9 | 3.8 | 0.3<small>%</small> | 1.8<small>%</small> |
+| 가온그룹 | 10.5 | 0.6 | 1.4<small>%</small> | 1.7<small>%</small> |
 | 홈캐스트 | - | 1.0 | - | 1.3<small>%</small> |
-| 텔콘RF제약 | - | 1.0 | - | 1.2<small>%</small> |
-| 다보링크 | - | 4.4 | - | 1.2<small>%</small> |
+| 텔콘RF제약 | - | 1.0 | - | 1.3<small>%</small> |
 | 파이오링크 | 7.1 | 1.2 | 2.3<small>%</small> | 1.2<small>%</small> |
+| 다보링크 | - | 4.3 | - | 1.2<small>%</small> |
 | 코콤 | - | 0.7 | - | 1.2<small>%</small> |
-| 인포마크 | - | 1.7 | - | 1.2<small>%</small> |
 | 우리넷 | - | 1.2 | - | 1.1<small>%</small> |
-| 아이즈비전 | - | 0.4 | - | 1.0<small>%</small> |
-| 탑코미디어 | - | 1.4 | - | 1.0<small>%</small> |
+| 아이즈비전 | - | 0.4 | - | 1.1<small>%</small> |
+| 탑코미디어 | - | 1.5 | - | 1.0<small>%</small> |
 | 라이콤 | - | 1.2 | - | 0.9<small>%</small> |
-| 에스에이티 | 7.1 | 0.7 | 2.0<small>%</small> | 0.9<small>%</small> |
-| 코위버 | 13.3 | 0.5 | 0.8<small>%</small> | 0.9<small>%</small> |
-| 현대에이치티 | 27.8 | 0.6 | 1.9<small>%</small> | 0.8<small>%</small> |
+| 에스에이티 | 7.2 | 0.7 | 2.0<small>%</small> | 0.9<small>%</small> |
+| 코위버 | 13.1 | 0.5 | 0.8<small>%</small> | 0.9<small>%</small> |
+| 옵티시스 | 7.0 | 1.0 | 1.9<small>%</small> | 0.8<small>%</small> |
+| 현대에이치티 | 27.2 | 0.6 | 1.9<small>%</small> | 0.8<small>%</small> |
+| 인포마크 | - | 1.2 | - | 0.8<small>%</small> |
 | ITX-AI | 27.9 | 3.1 | - | 0.8<small>%</small> |
-| 옵티시스 | 6.7 | 1.0 | 2.0<small>%</small> | 0.8<small>%</small> |
 | 라이트론 | - | 0.8 | - | 0.7<small>%</small> |
 | 알로이스 | 8.4 | 1.6 | - | 0.7<small>%</small> |
 | 코맥스 | - | 1.0 | 1.6<small>%</small> | 0.7<small>%</small> |
 | 백금T&A | 10.3 | 1.0 | - | 0.7<small>%</small> |
 | 파인디지털 | - | 0.4 | 1.1<small>%</small> | 0.7<small>%</small> |
 | 옵티코어 | - | 1.8 | - | 0.6<small>%</small> |
-| 이노인스트루먼트 | 7.3 | 0.4 | - | 0.6<small>%</small> |
-| 인콘 | 7.3 | 0.3 | - | 0.6<small>%</small> |
+| 이노인스트루먼트 | 7.5 | 0.4 | - | 0.6<small>%</small> |
+| 인콘 | 7.4 | 0.3 | - | 0.6<small>%</small> |
 | 휴림네트웍스 | - | 0.7 | - | 0.6<small>%</small> |
 | 삼영이엔씨 | - | 0.9 | - | 0.5<small>%</small> |
-| 기산텔레콤 | 12.0 | 1.0 | - | 0.5<small>%</small> |
-| 케스피온 | - | 1.8 | - | 0.4<small>%</small> |
+| 기산텔레콤 | 12.1 | 1.0 | - | 0.5<small>%</small> |
+| 케스피온 | - | 1.9 | - | 0.5<small>%</small> |
 | 에프알텍 | 3.4 | 0.5 | - | 0.4<small>%</small> |
 | CS | - | 1.3 | - | 0.3<small>%</small> |
 | 장원테크 | - | 0.2 | - | 0.2<small>%</small> |
