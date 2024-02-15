@@ -137,14 +137,14 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 <br>
 ### [JEPI vs JEPIX](/jepi-vs-jepix/)<a id="jepi-vs-jepix"></a>
 
-JEPIX는 JEPI와 동일한 전략을 사용한다고 알려진 JP모건사의 뮤추얼 펀드입니다. JEPIX는 JEPI보다 먼저 설정되었습니다. 두 상품이 동일한지 확인해 봅니다.
+JEPIX는 JEPI와 동일한 전략을 사용한다고 알려진 JP모건사의 뮤추얼 펀드입니다. JEPIX는 JEPI보다 먼저 설정되었습니다. 두 상품이 동일한지 확인해 봅니다. 참고로 JEPIX의 시세 데이터에 오류가 있는 듯 합니다. JEPIX는 매달 배당금을 지급하는 방식에서 2023년 상반기에 대부분을 펀드에 재투자하는 방식으로 바뀌었습니다. 이로 인한 자산 증가분이 고려되지 않아 JEPI보다 낮은 성과를 보이는 착시가 발생할 수 있습니다.
 
 {% include vs/jepi-vs-jepix_md.inc %}
 
 <br>
 ### [JEPIX vs SPY](/jepix-vs-spy/)<a id="jepix-vs-spy"></a>
 
-JEPIX는 JEPII와 동일한 전략을 사용한다고 알려진 JP모건사 뮤추얼 펀드입니다. JEPIX는 JEPI보다 먼저 설정되었습니다. JEPI/JEPIX의 전략이 유용한 지 좀 더 긴 기간을 대상으로 비교해 봅니다.
+JEPIX는 JEPII와 동일한 전략을 사용한다고 알려진 JP모건사 뮤추얼 펀드입니다. JEPIX는 JEPI보다 먼저 설정되었습니다. JEPI/JEPIX의 전략이 유용한 지 좀 더 긴 기간을 대상으로 비교해 봅니다. 참고로 JEPIX의 시세 데이터에 오류가 있는 듯 합니다. JEPIX는 매달 배당금을 지급하는 방식에서 2023년 상반기에 대부분을 펀드에 재투자하는 방식으로 바뀌었습니다. 이로 인한 자산 증가분이 고려되지 않아 JEPI보다 낮은 성과를 보이는 착시가 발생할 수 있습니다. JEPIX 대신 JEPI로 비교하는 것이 현재로는 보다 정확합니다.
 
 {% include vs/jepix-vs-spy_md.inc %}
 
