@@ -34,6 +34,9 @@ KBSTAR 200고배당커버드콜ATM은 코스피 고배당 50 지수 편입 50종
 
 {% include vs/290080-vs-210780_md.inc %}
 
+
+{% include /commons/ads/adsense.html %}
+
 <br>
 ### [KBSTAR 코스닥150선물레버리지 vs KODEX 코스닥150레버리지](/278240-vs-233740/)<a id="278240-vs-233740"></a>
 
@@ -71,6 +74,9 @@ SOL 미국배당다우존스(H)와 SOL 미국배당다우존스는 모두 Dow Jo
 TIGER 미국S&P500선물(H)는 S&P 500 선물지수를 추종하며 환헤지가 적용된 ETF입니다. 이 두 가지가 장기 성과에 어떤 영향을 미쳤는지 살펴봅니다.
 
 {% include vs/143850-vs-360750_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 <br>
 ### [TIGER 미국나스닥100커버드콜(합성) vs TIGER 미국나스닥100](/441680-vs-133690/)<a id="441680-vs-133690"></a>
@@ -113,6 +119,9 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 
 {% include vs/qqq-vs-spy_md.inc %}
 
+
+{% include /commons/ads/adsense.html %}
+
 <br>
 ### [SCHD vs SPY](/schd-vs-spy/)<a id="schd-vs-spy"></a>
 
@@ -143,6 +152,9 @@ JEPIX는 JEPII와 동일한 전략을 사용한다고 알려진 JP모건사 뮤�
 ### [JEPQ vs QQQ](/jepq-vs-qqq/)<a id="jepq-vs-qqq"></a>
 
 {% include vs/jepq-vs-qqq_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 <br>
 ### [XYLD vs SPY](/xyld-vs-spy/)<a id="xyld-vs-spy"></a>
