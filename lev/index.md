@@ -6,6 +6,7 @@ header:
   overlay_color: "#F39C12"
   show_overlay_excerpt: false
 toc: true
+toc_sticky: true
 ---
 
 ## 레버리지/인버스 수익률과 비용 분석은
