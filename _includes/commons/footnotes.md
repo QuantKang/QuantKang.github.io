@@ -1,5 +1,5 @@
-{% comment %}
 {% include /commons/ads/adsense.html %}
+{% comment %}
 {% include /commons/ads/coupang.html %}
 {% endcomment %}
 
