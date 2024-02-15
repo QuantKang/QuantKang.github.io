@@ -100,6 +100,16 @@ FnGuide 고배당알파 지수 vs FnGuide 고배당주지수
 {% include vs/322410-vs-161510_md.inc %}
 
 <br>
+## 동일 가중 ETF
+
+<br>
+### [KODEX 200 동일가중 vs KODEX 2000](/252650-vs-069500/)<a id="252650-vs-069500"></a>
+
+코스피200동일가중지수 vs KOSPI 200 지수
+
+{% include vs/252650-vs-069500_md.inc %}
+
+<br>
 ## 소수 종목 선별 ETF
 
 <br>
@@ -109,15 +119,15 @@ FnGuide TOP10 지수 vs KOSPI 200 지수
 
 {% include vs/292150-vs-069500_md.inc %}
 
+
+{% include /commons/ads/adsense.html %}
+
 <br>
 ### [Kodex FnTop10동일가중 vs TIGER Top10](/395170-vs-292150/)<a id="395170-vs-292150"></a>
 
 FnGuide TOP 10 동일가중 지수 vs FnGuide TOP10 지수
 
 {% include vs/395170-vs-292150_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 <br>
 ### [SOL 200Top10 vs TIGER Top10](/411540-vs-292150/)<a id="411540-vs-292150"></a>
@@ -150,6 +160,9 @@ KBSTAR 200고배당커버드콜ATM은 코스피 고배당 50 지수 편입 50종
 
 {% include vs/290080-vs-210780_md.inc %}
 
+
+{% include /commons/ads/adsense.html %}
+
 <br>
 ## 국내 상장 레버리지 ETF
 
@@ -159,9 +172,6 @@ KBSTAR 200고배당커버드콜ATM은 코스피 고배당 50 지수 편입 50종
 KODEX 코스닥150레버리지는 현물 100%와 선물 100%로 2배 레버리지를 구성한 상품입니다. KBSTAR 코스닥150선물레버리지는 선물 200%로만 2배 레버리지를 구성한 상품입니다. 이로 인해 현물 지수가 아닌 선물 지수의 일일등락을 2배로 추종합니다. 선물 비중이 높은 레버리지는 상대적으로 어떤 성과를 거두었는지 살펴봅니다.
 
 {% include vs/278240-vs-233740_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 <br>
 ## 국내 상장 해외 ETF
@@ -194,15 +204,15 @@ TIGER 미국S&P500선물(H)는 S&P 500 선물지수를 추종하며 환헤지가
 
 {% include vs/143850-vs-360750_md.inc %}
 
+
+{% include /commons/ads/adsense.html %}
+
 <br>
 ### [TIGER 미국나스닥100커버드콜(합성) vs TIGER 미국나스닥100](/441680-vs-133690/)<a id="441680-vs-133690"></a>
 
 TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 커버드콜 전략을 사용하는 ETF입니다. 커버드 콜 전략이 나스닥 100 지수에 비해 어떤 성과를 거두었는지 살펴봅니다.
 
 {% include vs/441680-vs-133690_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 <br>
 ## 국내 일반 종목
@@ -238,15 +248,15 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 
 {% include vs/qqq-vs-spy_md.inc %}
 
+
+{% include /commons/ads/adsense.html %}
+
 <br>
 ### [SCHD vs SPY](/schd-vs-spy/)<a id="schd-vs-spy"></a>
 
 배당성장주로 유명한 SCHD를 배당은 고려하지 않고 S&P 500 지수를 추종하는 SPY와 비교해 봅니다.
 
 {% include vs/schd-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 <br>
 ### [JEPI vs SPY](/jepi-vs-spy/)<a id="jepi-vs-spy"></a>
@@ -272,15 +282,15 @@ JEPIX는 JEPII와 동일한 전략을 사용한다고 알려진 JP모건사 뮤�
 
 {% include vs/jepq-vs-qqq_md.inc %}
 
+
+{% include /commons/ads/adsense.html %}
+
 <br>
 ### [XYLD vs SPY](/xyld-vs-spy/)<a id="xyld-vs-spy"></a>
 
 S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수를 추종하는 SPY의 성과를 비교해 봅니다.
 
 {% include vs/xyld-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 <br>
 ### [QYLD vs QQQ](/qyld-vs-qqq/)<a id="qyld-vs-qqq"></a>
@@ -302,3 +312,20 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수�
 VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당성장주 ETF입니다. 국내에 널리 알려진 SCHD는 Dow Jones U.S. Dividend 100 지수를 추종하는 대표적인 배당성장주 ETF입니다. 두 상품 모두 비슷한 관점에서 설계했기에, 장기직인 성과는 비슷하리라 예상할 수 있습니다.
 
 {% include vs/vig-vs-schd_md.inc %}
+
+<br>
+### [RSP vs SPY](/rsp-vs-spy/)<a id="rsp-vs-spy"></a>
+
+S&P 500 Equal Weight Index vs. S&P 500
+
+{% include vs/rsp-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+<br>
+### [QQEW  vs QQQ](/qqew-vs-qqq/)<a id="qqew-vs-qqq"></a>
+
+Nasdaq 100 Equal Weight Index vs. Nasdaq 100
+
+{% include vs/qqew-vs-qqq_md.inc %}
