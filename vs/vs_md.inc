@@ -21,6 +21,82 @@ ARIRANG 고배당주는 고배당 종목으로 구성한 ETF입니다. 배당 �
 {% include vs/161510-vs-069500_md.inc %}
 
 <br>
+### [KBSTAR 대형고배당10TR vs ARIRANG 고배당주](/315960-vs-161510/)<a id="315960-vs-161510"></a>
+
+WISE 대형고배당10TR지수 vs FnGuide 고배당주지수
+
+{% include vs/315960-vs-161510_md.inc %}
+
+<br>
+### [KBSTAR 고배당 vs ARIRANG 고배당주](/266160-vs-161510/)<a id="266160-vs-161510"></a>
+
+FnGuide 고배당포커스 지수 vs FnGuide 고배당주지수
+
+{% include vs/266160-vs-161510_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+<br>
+### [KODEX 고배당 vs ARIRANG 고배당주](/279530-vs-161510/)<a id="279530-vs-161510"></a>
+
+FnGuide 고배당 Plus 지수 vs FnGuide 고배당주지수
+
+{% include vs/279530-vs-161510_md.inc %}
+
+<br>
+### [TIGER 코스피고배당 vs ARIRANG 고배당주](/210780-vs-161510/)<a id="210780-vs-161510"></a>
+
+코스피 고배당 50 지수 vs FnGuide 고배당주지수
+
+{% include vs/210780-vs-161510_md.inc %}
+
+<br>
+### [KOSEF 고배당 vs ARIRANG 고배당주](/104530-vs-161510/)<a id="104530-vs-161510"></a>
+
+MKF 웰스 고배당 20 지수 vs FnGuide 고배당주지수
+
+{% include vs/104530-vs-161510_md.inc %}
+
+<br>
+### [KBSTAR KQ고배당 vs ARIRANG 고배당주](/270800-vs-161510/)<a id="270800-vs-161510"></a>
+
+FnGuide KQ고배당포커스 지수 vs FnGuide 고배당주지수
+
+{% include vs/270800-vs-161510_md.inc %}
+
+<br>
+### [파워 고배당저변동성 vs ARIRANG 고배당주](/192720-vs-161510/)<a id="192720-vs-161510"></a>
+
+코스피 200 고배당지수 vs FnGuide 고배당주지수
+
+{% include vs/192720-vs-161510_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+<br>
+### [ARIRANG 고배당저변동50 vs ARIRANG 고배당주](/251590-vs-161510/)<a id="251590-vs-161510"></a>
+
+FnGuide 고배당저변동50 지수 vs FnGuide 고배당주지수
+
+{% include vs/251590-vs-161510_md.inc %}
+
+<br>
+### [KBSTAR 중소형고배당 vs ARIRANG 고배당주](/281990-vs-161510/)<a id="281990-vs-161510"></a>
+
+FnGuide 중소형 고배당포커스 지수 vs FnGuide 고배당주지수
+
+{% include vs/281990-vs-161510_md.inc %}
+
+<br>
+### [HANARO 고배당 vs ARIRANG 고배당주](/322410-vs-161510/)<a id="322410-vs-161510"></a>
+
+FnGuide 고배당알파 지수 vs FnGuide 고배당주지수
+
+{% include vs/322410-vs-161510_md.inc %}
+
+<br>
 ### [TIGER 200 커버드콜5%OTM vs KODEX 200](/166400-vs-069500/)<a id="166400-vs-069500"></a>
 
 TIGER 200 커버드콜5%OTM은 KOSPI 200 현물 주식을 보유하면서, KOSPI 200 콜옵션을 매도하는 전형적인 커버드 콜 전략을 쓰는 ETF입니다. KODEX 200은 기초 지수인 KOSPI 200을 추종하는 ETF입니다. 커버드 콜 전략이 KOSPI 200 지수에 얼마나 효과적인지 살펴볼 수 있습니다.
