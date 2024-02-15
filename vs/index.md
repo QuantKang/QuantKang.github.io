@@ -17,7 +17,6 @@ toc_sticky: true
 - [TIGER 미국배당+7%프리미엄다우존스 vs TIGER 미국배당다우존스](/458760-vs-458730/)처럼 커버드콜 전략을 가미한 경우.
 - [KBSTAR 코스닥150선물레버리지 vs KODEX 코스닥150레버리지](/278240-vs-233740/)처럼 높은 선물 비중으로 레버리지를 설계하는 경우.
 - [ARIRANG 고배당주 vs KODEX 200](/161510-vs-069500/)처럼 특화된 요소를 반영하여 선별하는 경우.
-{: .notice}
 
 {% include_relative vs_md.inc %}
 

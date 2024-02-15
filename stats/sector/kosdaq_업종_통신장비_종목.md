@@ -7,9 +7,11 @@ header:
   show_overlay_excerpt: false
 last_modified_at: 2024-02-15
 ---
-<br>
+
+
 ![KOSDAQ 통신장비 업종 종목별 시가총액 비중](/stats/sector/images/kosdaq_업종_통신장비_종목.png){: .align-center}
-<br>
+
+
 > **종목 목록 (53)**<a id="list"></a>
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |

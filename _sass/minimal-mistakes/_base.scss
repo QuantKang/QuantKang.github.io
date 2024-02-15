@@ -43,7 +43,7 @@ h6 {
   /* 커스텀
   margin: 2em 0 0.5em;
   */
-  margin: 0.5em 0 0.5em;
+  margin: 1.5em 0 1.0em;
   /* 커스텀
   line-height: 1.2;
   */
@@ -88,7 +88,11 @@ small,
 }
 
 p {
+  /* 커스텁
+  ORIG: margin-bottom: 1.5em;
+  */
   margin-bottom: 1.3em;
+  margin-bottom: 1.5em;
 }
 
 u,

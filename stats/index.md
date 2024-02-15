@@ -10,32 +10,27 @@ header:
 > **재무 데이터 기반 지표**[^fn_finance_metric]
 
 재무 지표 중 하나를 기준으로 다른 재무 지표를 살펴 볼 수 있습니다.
-{: .notice}
 
 {% include fn/fn_list_md.inc %}
 
-<br>
 > **업종별 비중**<a id="sector_weights"></a>
 
 | **KOSPI** | **KOSDAQ** |
 | :-------: | :--------: |
 | [![KOSPI 업종별 비중](sector/images/kospi_all_all_업종.png)](sector/kospi_all_all_업종/) | [![KOSDAQ 업종별 비중](sector/images/kosdaq_all_all_업종.png)](sector/kosdaq_all_all_업종/) |
 
-<br>
 > **[종목별 비중](sector/)**<a id="stock_weights"></a>
 
 | **KOSPI** | **KOSDAQ** |
 | :-------: | :--------: |
 | [![KOSPI 종목별 비중](sector/images/kospi_all_all_종목.png)](sector/kospi_all_all_종목/) | [![KOSDAQ 종목별 비중](sector/images/kosdaq_all_all_종목.png)](sector/kosdaq_all_all_종목/) |
 
-<br>
 > **시장**<a id="market"></a>
 
 | **종목수 기준** | **시가총액 기준** |
 | :-------------: | :---------------: |
 | ![시장별 상장사 비율](/assets/images/stats/krx_market_count.png) | ![시장별 상장사 비중](/assets/images/stats/krx_market_marcap.png) |
 
-<br>
 > **지역**<a id="region"></a>
 
 | **종목수 기준** | **시가총액 기준** |
@@ -48,7 +43,6 @@ header:
 | ![KOSDAQ 지역별 상장사 비율](/assets/images/stats/kosdaq_region_count.png) | ![KOSDAQ 지역별 상장사 비중](/assets/images/stats/kosdaq_region_marcap.png) |
 
 <!---
-<br>
 
 > **업종**<a id="sector"></a>
 
@@ -62,7 +56,6 @@ header:
 | ![KOSDAQ 업종별 상장사 비율](/assets/images/stats/kosdaq_sector_count.png) | ![KOSDAQ 업종별 상장사 비중](/assets/images/stats/kosdaq_sector_marcap.png) |
 --->
 
-<br>
 > **결산 월**<a id="settlemonth"></a>
 
 | **종목수 기준** | **시가총액 기준** |

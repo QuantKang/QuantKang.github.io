@@ -13,7 +13,6 @@ toc_sticky: true
 
 레버리지/인버스 종목[^fn_lev_stock]의 최근 1년 수익률, 위험도, 변동성 비용[^fn_lev_vd_expense], 금융 비용[^fn_lev_fn_expense]을 추정하여 비교[^fn_lev_warning]합니다.
 해당 지수를 추종하는 ETF를 기초 상품으로 가정하였으며, 일부 상품의 명칭은 약어[^fn_lev_stock_abbr]로 표시합니다.
-{: .notice}
 
 {% include_relative lev_md.inc %}
 

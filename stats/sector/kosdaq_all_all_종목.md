@@ -7,9 +7,11 @@ header:
   show_overlay_excerpt: false
 last_modified_at: 2024-02-15
 ---
-<br>
+
+
 ![KOSDAQ 전체 종목별 시가총액 비중](/stats/sector/images/kosdaq_all_all_종목.png){: .align-center}
-<br>
+
+
 > **종목 목록 (1709)**<a id="list"></a>
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |

@@ -1,5 +1,3 @@
-<br>
-
 > **KOSPI**<a id="KOSPI"></a>
 
 | 전체 업종 | 전체 종목 |
@@ -30,8 +28,6 @@
 | 농업임업및어업 <small>(0.0%)</small> | 광업 <small>(0.0%)</small> |
 | [![KOSPI 농업임업및어업 업종 종목별 시가총액 비중](images/kospi_업종_농업임업및어업_종목.png)](kospi_업종_농업임업및어업_종목/) | [![KOSPI 광업 업종 종목별 시가총액 비중](images/kospi_업종_광업_종목.png)](kospi_업종_광업_종목/) |
 
-
-<br>
 
 > **KOSDAQ**<a id="KOSDAQ"></a>
 
