@@ -1,5 +1,5 @@
 <br>
-## 국내 상장 국내 ETF
+## 국내 상장 일반 ETF
 
 <br>
 ### [KODEX 코스피 vs KODEX 200](/226490-vs-069500/)<a id="226490-vs-069500"></a>
@@ -12,6 +12,9 @@ KODEX 코스피는 코스피 지수를 추종합니다.  KODEX 200은 코스피�
 ### [KODEX FnTop10동일가중 vs TIGER Top10](/395170-vs-292150/)<a id="395170-vs-292150"></a>
 
 {% include vs/395170-vs-292150_md.inc %}
+
+<br>
+## 국내 상장 고배당 ETF
 
 <br>
 ### [ARIRANG 고배당주 vs KODEX 200](/161510-vs-069500/)<a id="161510-vs-069500"></a>
@@ -97,6 +100,9 @@ FnGuide 고배당알파 지수 vs FnGuide 고배당주지수
 {% include vs/322410-vs-161510_md.inc %}
 
 <br>
+## 국내 상장 커버드콜 ETF
+
+<br>
 ### [TIGER 200 커버드콜5%OTM vs KODEX 200](/166400-vs-069500/)<a id="166400-vs-069500"></a>
 
 TIGER 200 커버드콜5%OTM은 KOSPI 200 현물 주식을 보유하면서, KOSPI 200 콜옵션을 매도하는 전형적인 커버드 콜 전략을 쓰는 ETF입니다. KODEX 200은 기초 지수인 KOSPI 200을 추종하는 ETF입니다. 커버드 콜 전략이 KOSPI 200 지수에 얼마나 효과적인지 살펴볼 수 있습니다.
@@ -112,6 +118,9 @@ KBSTAR 200고배당커버드콜ATM은 코스피 고배당 50 지수 편입 50종
 
 
 {% include /commons/ads/adsense.html %}
+
+<br>
+## 국내 상장 레버리지 ETF
 
 <br>
 ### [KBSTAR 코스닥150선물레버리지 vs KODEX 코스닥150레버리지](/278240-vs-233740/)<a id="278240-vs-233740"></a>
