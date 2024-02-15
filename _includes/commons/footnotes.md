@@ -1,4 +1,4 @@
-{% include /commons/ads/adsense.html %}
+{% include /commons/ads/adsense_footer.html %}
 {% comment %}
 {% include /commons/ads/coupang.html %}
 {% endcomment %}
