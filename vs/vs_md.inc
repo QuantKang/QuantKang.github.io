@@ -100,6 +100,50 @@ FnGuide 고배당알파 지수 vs FnGuide 고배당주지수
 {% include vs/322410-vs-161510_md.inc %}
 
 <br>
+## 동일 가중 ETF
+
+<br>
+### [KODEX 200 동일가중 vs KODEX 200](/252650-vs-069500/)<a id="252650-vs-069500"></a>
+
+코스피200동일가중지수 vs KOSPI 200 지수
+
+{% include vs/252650-vs-069500_md.inc %}
+
+<br>
+## 소수 종목 선별 ETF
+
+<br>
+### [TIGER Top10 vs KODEX 2000](/292150-vs-069500/)<a id="292150-vs-069500"></a>
+
+FnGuide TOP10 지수 vs KOSPI 200 지수
+
+{% include vs/292150-vs-069500_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+<br>
+### [Kodex FnTop10동일가중 vs TIGER Top10](/395170-vs-292150/)<a id="395170-vs-292150"></a>
+
+FnGuide TOP 10 동일가중 지수 vs FnGuide TOP10 지수
+
+{% include vs/395170-vs-292150_md.inc %}
+
+<br>
+### [SOL 200Top10 vs TIGER Top10](/411540-vs-292150/)<a id="411540-vs-292150"></a>
+
+KOSPI 200Top10 (동일가중) vs FnGuide TOP10 지수
+
+{% include vs/411540-vs-292150_md.inc %}
+
+<br>
+### [SOL 200Top10 vs Kodex FnTop10동일가중](/411540-vs-395170/)<a id="411540-vs-395170"></a>
+
+KOSPI 200Top10 (동일가중) vs FnGuide TOP 10 동일가중 지수
+
+{% include vs/411540-vs-395170_md.inc %}
+
+<br>
 ## 국내 상장 커버드콜 ETF
 
 <br>
@@ -181,7 +225,7 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 {% include vs/005935-vs-005930_md.inc %}
 
 <br>
-## 해외 상장 해외 ETF
+## 해외 상장 해외 ETF (일반)
 
 <br>
 ### [VT vs VTI](/vt-vs-vti/)<a id="vt-vs-vti"></a>
@@ -208,11 +252,24 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 {% include /commons/ads/adsense.html %}
 
 <br>
+## 해외 상장 해외 ETF (배당)
+
+<br>
 ### [SCHD vs SPY](/schd-vs-spy/)<a id="schd-vs-spy"></a>
 
 배당성장주로 유명한 SCHD를 배당은 고려하지 않고 S&P 500 지수를 추종하는 SPY와 비교해 봅니다.
 
 {% include vs/schd-vs-spy_md.inc %}
+
+<br>
+### [VIG vs SCHD](/vig-vs-schd/)<a id="vig-vs-schd"></a>
+
+VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당성장주 ETF입니다. 국내에 널리 알려진 SCHD는 Dow Jones U.S. Dividend 100 지수를 추종하는 대표적인 배당성장주 ETF입니다. 두 상품 모두 비슷한 관점에서 설계했기에, 장기직인 성과는 비슷하리라 예상할 수 있습니다.
+
+{% include vs/vig-vs-schd_md.inc %}
+
+<br>
+## 해외 상장 해외 ETF (커버드 콜)
 
 <br>
 ### [JEPI vs SPY](/jepi-vs-spy/)<a id="jepi-vs-spy"></a>
@@ -233,13 +290,13 @@ JEPIX는 JEPII와 동일한 전략을 사용한다고 알려진 JP모건사 뮤�
 
 {% include vs/jepix-vs-spy_md.inc %}
 
+
+{% include /commons/ads/adsense.html %}
+
 <br>
 ### [JEPQ vs QQQ](/jepq-vs-qqq/)<a id="jepq-vs-qqq"></a>
 
 {% include vs/jepq-vs-qqq_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 <br>
 ### [XYLD vs SPY](/xyld-vs-spy/)<a id="xyld-vs-spy"></a>
@@ -263,8 +320,28 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수�
 {% include vs/djia-vs-dia_md.inc %}
 
 <br>
-### [VIG vs SCHD](/vig-vs-schd/)<a id="vig-vs-schd"></a>
+## 해외 상장 해외 ETF (동일 비중)
 
-VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당성장주 ETF입니다. 국내에 널리 알려진 SCHD는 Dow Jones U.S. Dividend 100 지수를 추종하는 대표적인 배당성장주 ETF입니다. 두 상품 모두 비슷한 관점에서 설계했기에, 장기직인 성과는 비슷하리라 예상할 수 있습니다.
+<br>
+### [EDOW vs DIA](/edow-vs-dia/)<a id="edow-vs-dia"></a>
 
-{% include vs/vig-vs-schd_md.inc %}
+다우지수 동일 비중 vs 다우지수
+
+{% include vs/edow-vs-dia_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+<br>
+### [RSP vs SPY](/rsp-vs-spy/)<a id="rsp-vs-spy"></a>
+
+S&P 500 Equal Weight Index vs. S&P 500
+
+{% include vs/rsp-vs-spy_md.inc %}
+
+<br>
+### [QQEW  vs QQQ](/qqew-vs-qqq/)<a id="qqew-vs-qqq"></a>
+
+Nasdaq 100 Equal Weight Index vs. Nasdaq 100
+
+{% include vs/qqew-vs-qqq_md.inc %}
