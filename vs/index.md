@@ -6,6 +6,7 @@ header:
   overlay_color: "#F39C12"
   show_overlay_excerpt: false
 toc: true
+toc_sticky: true
 ---
 
 ## 유사 종목 위험 대비 수익률 비교 분석은

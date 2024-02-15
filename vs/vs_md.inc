@@ -159,6 +159,13 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수�
 {% include vs/qyld-vs-qqq_md.inc %}
 
 <br>
+### [DJIA vs DIA](/djia-vs-dia/)<a id="djia-vs-dia"></a>
+
+전통이 깊은 다우 존스 산업평균지수에 대해 커버드 콜 전략을 쓰는 DIJA를 해당 지수를 추종하는 DIA와 비교해 봅니다.
+
+{% include vs/djia-vs-dia_md.inc %}
+
+<br>
 ### [VIG vs SCHD](/vig-vs-schd/)<a id="vig-vs-schd"></a>
 
 VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당성장주 ETF입니다. 국내에 널리 알려진 SCHD는 Dow Jones U.S. Dividend 100 지수를 추종하는 대표적인 배당성장주 ETF입니다. 두 상품 모두 비슷한 관점에서 설계했기에, 장기직인 성과는 비슷하리라 예상할 수 있습니다.
