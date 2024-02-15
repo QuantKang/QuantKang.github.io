@@ -11,7 +11,6 @@ header:
 
 {% include_relative _includes/fn_low_pbr_md.inc %}
 
-<br>
 > **관련 정보**
 
 {% include fn/fn_list_md.inc %}

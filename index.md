@@ -17,7 +17,6 @@ header:
 | [![삼성전자](/stock/images/005930.png)](/005930/) | [![SK하이닉스](/stock/images/000660.png)](/000660/) | [![에코프로비엠](/stock/images/247540.png)](/247540/) | [![에코프로](/stock/images/086520.png)](/086520/) |
 
 
-<br>
 > **[국내외 주요 레버리지/인버스 ETF<small>&ETN</small>](/lev/)**
 
 주가 흐름, 변동성 지표, 추정 변동성/금융 비용, 관련 상품과 수익률 비교 정보를 제공합니다.
@@ -28,7 +27,6 @@ header:
 | [![KODEX 레버리지](/lev/images/122630.png)](/122630/) | [![TQLL](/lev/images/tqqq.png)](/tqqq/) | [![SOXL](/lev/images/soxl.png)](/soxl/) | [![TMV](/lev/images/tmv.png)](/tmv/) |
 
 
-<br>
 > **[유사 종목 성과 비교](/vs/)**
 
 유사하지만 세세하게는 조금 다른 종목을 위험 고려 수익률로 분석하여 비교합니다.
@@ -39,7 +37,6 @@ header:
 - [ARIRANG 고배당주 vs KODEX 200](/161510-vs-069500/)처럼 특화된 요소를 반영하여 선별하는 경우.
 
 
-<br>
 > **PER/PBR/배당률 상하위 10% 종목**[^fn_finance_metric]
 
 재무 지표 중 하나를 기준으로 다른 재무 지표를 살펴 볼 수 있습니다.
@@ -48,7 +45,6 @@ header:
 {% include fn/fn_list_md.inc %}
 
 
-<br>
 > **[다양한 통계](/stats/)**
 
 KOSPI/KOSDAQ 시장의 업종 분포와 업종별 종목 목록을 제공합니다.
