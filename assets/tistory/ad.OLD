@@ -1,0 +1,1548 @@
+
+<!DOCTYPE html>
+<html lang="ko">
+                                                                                <head>
+                <script type="text/javascript">if (!window.T) { window.T = {} }
+window.T.config = {"TOP_SSL_URL":"https://www.tistory.com","PREVIEW":false,"ROLE":"owner","PREV_PAGE":"","NEXT_PAGE":"","BLOG":{"id":178947,"name":"kongdori","title":"오렌지사과의 사진과 투자","isDormancy":false,"nickName":"오렌지사과키위","status":"open","profileStatus":"normal"},"NEED_COMMENT_LOGIN":false,"COMMENT_LOGIN_CONFIRM_MESSAGE":"","LOGIN_URL":"https://www.tistory.com/auth/login/?redirectUrl=https://kongdori.tistory.com/123","DEFAULT_URL":"https://kongdori.tistory.com","USER":{"name":"오렌지사과키위","homepage":"https://kongdori.tistory.com","id":183107,"profileImage":"https://tistory1.daumcdn.net/tistory/178947/attach/a7b5d8136d5143fd8a12038ae39a7d85"},"SUBSCRIPTION":{"status":"none","isConnected":false,"isPending":false,"isWait":false,"isProcessing":false,"isNone":true},"IS_LOGIN":true,"HAS_BLOG":true,"IS_SUPPORT":false,"TOP_URL":"http://www.tistory.com","JOIN_URL":"https://www.tistory.com/member/join","ROLE_GROUP":"member"};
+window.T.entryInfo = {"entryId":123,"isAuthor":true};
+window.appInfo = {"domain":"tistory.com","topUrl":"https://www.tistory.com","loginUrl":"https://www.tistory.com/auth/login","logoutUrl":"https://www.tistory.com/auth/logout"};
+window.initData = {"user":{"id":183107,"loginId":"jaeho.kang@gmail.com","name":"오렌지사과키위"}};
+
+window.TistoryBlog = {
+    basePath: "",
+    url: "https://kongdori.tistory.com",
+    tistoryUrl: "https://kongdori.tistory.com",
+    manageUrl: "https://kongdori.tistory.com/manage",
+    token: "qSEHy9LCIB9m6qS7fEvaSqlXjcy6dpNgAPZKo0DDqNfkkwKdADrqShd7bJh0F5s/"
+};
+var servicePath = "";
+var blogURL = "";</script>
+
+                
+                
+                
+                        <!-- BusinessLicenseInfo - START -->
+        
+            <link href="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/plugin/BusinessLicenseInfo/style.css" rel="stylesheet" type="text/css"/>
+
+            <script>function switchFold(entryId) {
+    var businessLayer = document.getElementById("businessInfoLayer_" + entryId);
+
+    if (businessLayer) {
+        if (businessLayer.className.indexOf("unfold_license") > 0) {
+            businessLayer.className = "business_license_layer";
+        } else {
+            businessLayer.className = "business_license_layer unfold_license";
+        }
+    }
+}
+</script>
+
+        
+        <!-- BusinessLicenseInfo - END -->
+<!-- MetaTag - START -->
+
+<!-- MetaTag - END -->
+
+<!-- System - START -->
+
+<!-- System - END -->
+
+        <!-- GoogleSearchConsole - START -->
+        
+<!-- BEGIN GOOGLE_SITE_VERIFICATION -->
+<meta name="google-site-verification" content="4QF10voQuwIsG8Y8HKNywjMMzqO59HoviQKV0BPqmfc"/>
+<!-- END GOOGLE_SITE_VERIFICATION -->
+
+        <!-- GoogleSearchConsole - END -->
+
+        <!-- TistoryProfileLayer - START -->
+        <link href="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/plugin/TistoryProfileLayer/style.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/plugin/TistoryProfileLayer/script.js"></script>
+
+        <!-- TistoryProfileLayer - END -->
+
+                
+                <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="format-detection" content="telephone=no">
+<script src="//t1.daumcdn.net/tistory_admin/lib/jquery/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+<script src="//t1.daumcdn.net/tistory_admin/lib/lightbox/js/lightbox-v2.10.0.min.js" defer></script>
+<script type="text/javascript" src="//t1.daumcdn.net/tiara/js/v1/tiara.min.js"></script><meta name="referrer" content="always"/>
+<meta name="google-adsense-platform-account" content="ca-host-pub-9691043933427338"/>
+<meta name="google-adsense-platform-domain" content="tistory.com"/>
+<meta name="google-adsense-account" content="ca-pub-8120389152057270"/>
+<meta name="description" content="문제 국내 주요 지수인 KOSPI 200과 KOSDAQ 150을 추종하는 ETF로 KODEX 200과 KODEX 코스닥 150이 있다. 이 두 ETF에 대해 시가에 매수해서 종가에 매도하는 전략을 (이하 주간 매매 전략) 사용하면 수익을 얻을 수 있는가? 반대로 종가에 매수해서 다음날 시가에 매도하는 전략은 (이하 야간 매매 전략) 어떠한가? 요일별로 특이점이 있는가? 주의 Yahoo Finance 또는 Google Finance의 (Google Sheet에서 불러온 경우도 포함) 국내 시세 데이터는 완벽하지 않습니다. 결측값이 있거나 잘못된 값이 있는 경우가 꽤 있습니다. 실사용 목적으로는 보다 완전한 데이터를 이용하는 것이 바람직합니다. 여기에서 제시하는 결과는 통계적 유의성을 전혀 고려하지 않았습니.."/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="https://kongdori.tistory.com/123"/>
+<meta property="og.article.author" content="오렌지사과키위"/>
+<meta property="og:site_name" content="오렌지사과의 사진과 투자"/>
+<meta property="og:title" content="[R 연습] 국내 주요 지수를 추종하는 ETF의 요일별 밤낮 평균 수익률은?"/>
+<meta name="by" content="오렌지사과키위"/>
+<meta property="og:description" content="문제 국내 주요 지수인 KOSPI 200과 KOSDAQ 150을 추종하는 ETF로 KODEX 200과 KODEX 코스닥 150이 있다. 이 두 ETF에 대해 시가에 매수해서 종가에 매도하는 전략을 (이하 주간 매매 전략) 사용하면 수익을 얻을 수 있는가? 반대로 종가에 매수해서 다음날 시가에 매도하는 전략은 (이하 야간 매매 전략) 어떠한가? 요일별로 특이점이 있는가? 주의 Yahoo Finance 또는 Google Finance의 (Google Sheet에서 불러온 경우도 포함) 국내 시세 데이터는 완벽하지 않습니다. 결측값이 있거나 잘못된 값이 있는 경우가 꽤 있습니다. 실사용 목적으로는 보다 완전한 데이터를 이용하는 것이 바람직합니다. 여기에서 제시하는 결과는 통계적 유의성을 전혀 고려하지 않았습니.."/>
+<meta property="og:image" content="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbKR3LR%2FbtsA27qppBJ%2FYQikXLYQJlkrwTkKS9IhKK%2Fimg.png"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@TISTORY"/>
+<meta name="twitter:title" content="[R 연습] 국내 주요 지수를 추종하는 ETF의 요일별 밤낮 평균 수익률은?"/>
+<meta name="twitter:description" content="문제 국내 주요 지수인 KOSPI 200과 KOSDAQ 150을 추종하는 ETF로 KODEX 200과 KODEX 코스닥 150이 있다. 이 두 ETF에 대해 시가에 매수해서 종가에 매도하는 전략을 (이하 주간 매매 전략) 사용하면 수익을 얻을 수 있는가? 반대로 종가에 매수해서 다음날 시가에 매도하는 전략은 (이하 야간 매매 전략) 어떠한가? 요일별로 특이점이 있는가? 주의 Yahoo Finance 또는 Google Finance의 (Google Sheet에서 불러온 경우도 포함) 국내 시세 데이터는 완벽하지 않습니다. 결측값이 있거나 잘못된 값이 있는 경우가 꽤 있습니다. 실사용 목적으로는 보다 완전한 데이터를 이용하는 것이 바람직합니다. 여기에서 제시하는 결과는 통계적 유의성을 전혀 고려하지 않았습니.."/>
+<meta property="twitter:image" content="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbKR3LR%2FbtsA27qppBJ%2FYQikXLYQJlkrwTkKS9IhKK%2Fimg.png"/>
+<meta content="https://kongdori.tistory.com/123" property="dg:plink" content="https://kongdori.tistory.com/123"/>
+<meta name="plink"/>
+<meta name="title" content="[R 연습] 국내 주요 지수를 추종하는 ETF의 요일별 밤낮 평균 수익률은?"/>
+<meta name="article:media_name" content="오렌지사과의 사진과 투자"/>
+<meta property="article:mobile_url" content="https://kongdori.tistory.com/m/123"/>
+<meta property="article:pc_url" content="https://kongdori.tistory.com/123"/>
+<meta property="article:mobile_view_url" content="https://kongdori.tistory.com/m/123"/>
+<meta property="article:pc_view_url" content="https://kongdori.tistory.com/123"/>
+<meta property="article:talk_channel_view_url" content="https://kongdori.tistory.com/m/123"/>
+<meta property="article:pc_service_home" content="https://www.tistory.com"/>
+<meta property="article:mobile_service_home" content="https://www.tistory.com/m"/>
+<meta property="article:txid" content="178947_123"/>
+<meta property="article:published_time" content="2023-11-29T15:33:48+09:00"/>
+<meta property="og:regDate" content="20231129033348"/>
+<meta property="article:modified_time" content="2024-01-04T18:18:22+09:00"/>
+<link rel="icon" sizes="any" href="https://t1.daumcdn.net/tistory_admin/favicon/tistory_favicon_32x32.ico"/>
+<link rel="icon" type="image/svg+xml" href="https://t1.daumcdn.net/tistory_admin/top_v2/bi-tistory-favicon.svg"/>
+<link rel="apple-touch-icon" href="https://t1.daumcdn.net/tistory_admin/top_v2/tistory-apple-touch-favicon.png"/>
+<link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/lib/lightbox/css/lightbox.min.css"/>
+<link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/style/font.css"/>
+<link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/style/content.css"/>
+<link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/style/uselessPMargin.css"/>
+<script type="text/javascript">(function() {
+    var tjQuery = jQuery.noConflict(true);
+    window.tjQuery = tjQuery;
+    window.orgjQuery = window.jQuery; window.jQuery = tjQuery;
+    window.jQuery = window.orgjQuery; delete window.orgjQuery;
+})()</script>
+<script type="text/javascript" src="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/script/base.js"></script>
+<script type="text/javascript" src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
+
+                
+    <title>[R 연습] 국내 주요 지수를 추종하는 ETF의 요일별 밤낮 평균 수익률은?</title>
+    <meta name="title" content="[R 연습] 국내 주요 지수를 추종하는 ETF의 요일별 밤낮 평균 수익률은?" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
+    <meta name="naver-site-verification" content="208331b24e0fdefda56ecf90729ce33d306b3085" />
+    <meta name="msvalidate.01" content="BFA59A4949DAAE327E3B7BC1B1C669E6" />
+
+    <link rel="alternate" type="application/rss+xml" title="오렌지사과의 사진과 투자" href="https://kongdori.tistory.com/rss" />
+    <link rel="shortcut icon" href="https://kongdori.tistory.com/favicon.ico" />
+
+    <link rel="stylesheet" href="https://tistory1.daumcdn.net/tistory/178947/skin/images/webfonticon.css?_version_=1708062396" />
+    <link rel="stylesheet" href="https://tistory1.daumcdn.net/tistory/178947/skin/images/slick.css?_version_=1708062396" />
+    <link rel="stylesheet" href="https://tistory1.daumcdn.net/tistory/178947/skin/style.css?_version_=1708062396" />
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.js"></script>
+    <script src="https://tistory1.daumcdn.net/tistory/178947/skin/images/slick.js?_version_=1708062396"></script>
+    <script src="https://tistory1.daumcdn.net/tistory/178947/skin/images/iscroll.js?_version_=1708062396"></script>
+    <script src="https://tistory1.daumcdn.net/tistory/178947/skin/images/front.js?_version_=1708062396"></script>
+    <script src="https://tistory1.daumcdn.net/tistory/178947/skin/images/common.js?_version_=1708062396"></script>
+
+    <!-- 커스텀: 구글 애드센스 -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8120389152057270"
+     crossorigin="anonymous"></script>
+
+    <!-- 커스텀: 구글 애널리틱스 -->
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FGH74JWMHV"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-FGH74JWMHV');
+    </script>
+
+    <!-- markdown-css 적용 -->
+    <!-- github-markdown-light -->
+    <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown-light.min.css"
+        integrity="sha512-zb2pp+R+czM7GAemdSUQt6jFmr3qCo6ikvBgVU6F5GvwEDR0C2sefFiPEJ9QUpmAKdD5EqDUdNRtbOYnbF/eyQ=="
+        crossorigin="anonymous"
+        referrerpolicy="no-referrer"
+    />
+    <!-- markdown-css 적용 완료 -->
+
+                
+                
+                <style type="text/css">.another_category {
+    border: 1px solid #E5E5E5;
+    padding: 10px 10px 5px;
+    margin: 10px 0;
+    clear: both;
+}
+
+.another_category h4 {
+    font-size: 12px !important;
+    margin: 0 !important;
+    border-bottom: 1px solid #E5E5E5 !important;
+    padding: 2px 0 6px !important;
+}
+
+.another_category h4 a {
+    font-weight: bold !important;
+}
+
+.another_category table {
+    table-layout: fixed;
+    border-collapse: collapse;
+    width: 100% !important;
+    margin-top: 10px !important;
+}
+
+* html .another_category table {
+    width: auto !important;
+}
+
+*:first-child + html .another_category table {
+    width: auto !important;
+}
+
+.another_category th, .another_category td {
+    padding: 0 0 4px !important;
+}
+
+.another_category th {
+    text-align: left;
+    font-size: 12px !important;
+    font-weight: normal;
+    word-break: break-all;
+    overflow: hidden;
+    line-height: 1.5;
+}
+
+.another_category td {
+    text-align: right;
+    width: 80px;
+    font-size: 11px;
+}
+
+.another_category th a {
+    font-weight: normal;
+    text-decoration: none;
+    border: none !important;
+}
+
+.another_category th a.current {
+    font-weight: bold;
+    text-decoration: none !important;
+    border-bottom: 1px solid !important;
+}
+
+.another_category th span {
+    font-weight: normal;
+    text-decoration: none;
+    font: 10px Tahoma, Sans-serif;
+    border: none !important;
+}
+
+.another_category_color_gray, .another_category_color_gray h4 {
+    border-color: #E5E5E5 !important;
+}
+
+.another_category_color_gray * {
+    color: #909090 !important;
+}
+
+.another_category_color_gray th a.current {
+    border-color: #909090 !important;
+}
+
+.another_category_color_gray h4, .another_category_color_gray h4 a {
+    color: #737373 !important;
+}
+
+.another_category_color_red, .another_category_color_red h4 {
+    border-color: #F6D4D3 !important;
+}
+
+.another_category_color_red * {
+    color: #E86869 !important;
+}
+
+.another_category_color_red th a.current {
+    border-color: #E86869 !important;
+}
+
+.another_category_color_red h4, .another_category_color_red h4 a {
+    color: #ED0908 !important;
+}
+
+.another_category_color_green, .another_category_color_green h4 {
+    border-color: #CCE7C8 !important;
+}
+
+.another_category_color_green * {
+    color: #64C05B !important;
+}
+
+.another_category_color_green th a.current {
+    border-color: #64C05B !important;
+}
+
+.another_category_color_green h4, .another_category_color_green h4 a {
+    color: #3EA731 !important;
+}
+
+.another_category_color_blue, .another_category_color_blue h4 {
+    border-color: #C8DAF2 !important;
+}
+
+.another_category_color_blue * {
+    color: #477FD6 !important;
+}
+
+.another_category_color_blue th a.current {
+    border-color: #477FD6 !important;
+}
+
+.another_category_color_blue h4, .another_category_color_blue h4 a {
+    color: #1960CA !important;
+}
+
+.another_category_color_violet, .another_category_color_violet h4 {
+    border-color: #E1CEEC !important;
+}
+
+.another_category_color_violet * {
+    color: #9D64C5 !important;
+}
+
+.another_category_color_violet th a.current {
+    border-color: #9D64C5 !important;
+}
+
+.another_category_color_violet h4, .another_category_color_violet h4 a {
+    color: #7E2CB5 !important;
+}
+</style>
+
+                
+                <link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/style/revenue.css"/>
+
+<!-- BEGIN STRUCTURED_DATA -->
+<script type="application/ld+json">
+    {"@context":"http://schema.org","@type":"BlogPosting","mainEntityOfPage":{"@id":"https://kongdori.tistory.com/123","name":null},"url":"https://kongdori.tistory.com/123","headline":"[R 연습] 국내 주요 지수를 추종하는 ETF의 요일별 밤낮 평균 수익률은?","description":"문제 국내 주요 지수인 KOSPI 200과 KOSDAQ 150을 추종하는 ETF로 KODEX 200과 KODEX 코스닥 150이 있다. 이 두 ETF에 대해 시가에 매수해서 종가에 매도하는 전략을 (이하 주간 매매 전략) 사용하면 수익을 얻을 수 있는가? 반대로 종가에 매수해서 다음날 시가에 매도하는 전략은 (이하 야간 매매 전략) 어떠한가? 요일별로 특이점이 있는가? 주의 Yahoo Finance 또는 Google Finance의 (Google Sheet에서 불러온 경우도 포함) 국내 시세 데이터는 완벽하지 않습니다. 결측값이 있거나 잘못된 값이 있는 경우가 꽤 있습니다. 실사용 목적으로는 보다 완전한 데이터를 이용하는 것이 바람직합니다. 여기에서 제시하는 결과는 통계적 유의성을 전혀 고려하지 않았습니..","author":{"@type":"Person","name":"오렌지사과키위","logo":null},"image":{"@type":"ImageObject","url":"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbKR3LR%2FbtsA27qppBJ%2FYQikXLYQJlkrwTkKS9IhKK%2Fimg.png","width":"800px","height":"800px"},"datePublished":"20231129T15:33:48","dateModified":"20240104T18:18:22","publisher":{"@type":"Organization","name":"TISTORY","logo":{"@type":"ImageObject","url":"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png","width":"800px","height":"800px"}}}
+</script>
+<!-- END STRUCTURED_DATA -->
+<link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/style/dialog.css"/>
+<link rel="stylesheet" type="text/css" href="//t1.daumcdn.net/tistory_admin/www/style/top/font.css"/>
+<link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/style/postBtn.css"/>
+<link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/style/comment.css"/>
+<link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/style/tistory.css"/>
+<link rel="canonical" href="https://kongdori.tistory.com/123"/>
+<script type="text/javascript" src="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/script/common.js"></script>
+<script type="text/javascript" src="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/script/comment.js" defer=""></script>
+
+                
+                </head>
+
+                                                <body id="tt-body-page" class="theme_red">
+                
+                
+                
+    <!-- theme -->
+    
+        <div id="container">
+            <div id="header" class="header">
+                <div class="inner_header">
+                    <div class="box_header">
+                        <h1 class="logo">
+                            <a href="https://kongdori.tistory.com/" title="오렌지사과의 사진과 투자" class="link_logo">
+                                
+                                
+                                    오렌지사과의 사진과 투자
+                                
+                            </a>
+                        </h1>
+                        <div class="btn_box">
+                            <!-- GNB -->
+                            <button type="button" class="btn_util btn_search" title="검색"><span class="blind">검색</span></button>
+                            <button type="button" class="btn_util btn_menu" title="메뉴"><span class="blind">메뉴</span></button>
+                        </div>
+                    </div>
+                    <!-- fixed menu only detail -->
+                    <div class="box_header box_fix_header">
+                        <h2 class="blind">고정 헤더 영역</h2>
+                        <div class="area_menu">
+                            <a href="#" title="페이지 뒤로가기" class="btn_util link_back">
+                                <span class="box_svg">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="15" height="26" viewBox="0 0 15 26"
+                                        class="img_svg">
+                                        <defs>
+                                            <path id="mainSlideArrowLeft" d="M12 20L25 7l1.4 1.4L14.8 20l11.6 11.6L25 33z"></path>
+                                        </defs>
+                                        <g fill="none" fill-rule="evenodd" transform="translate(-13 -5)">
+                                            <path d="M0 0h40v40H0z"></path>
+                                            <mask id="mainSlideArrowLeftMask" fill="#fff">
+                                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#mainSlideArrowLeft"></use>
+                                            </mask>
+                                            <g fill="#fff" fill-opacity="1" mask="url(#mainSlideArrowLeftMask)" class="svg_bg">
+                                                <path d="M0 0h40v40H0z"></path>
+                                            </g>
+                                        </g>
+                                    </svg>
+                                </span>
+                            </a>
+                            <div class="box_fix_tit">
+                                <span class="blind">글 제목</span>
+                                <p class="txt_fix_tit"></p>
+                            </div>
+                            <button type="button" class="btn_util btn_menu" title="메뉴"><span class="blind">메뉴</span></button>
+                        </div>
+                        <div class="area_util">
+                            <div class="inner_area_util">
+                                <button type="button" class="util_like">
+                                    <span class="blind">좋아요</span>
+                                    <i class="icon_font icon-favorite-o"></i>
+                                    <span class="txt_count">-</span>
+                                </button>
+                                <div class="box_util">
+                                    <button type="button" class="util_comment">
+                                        <span class="blind">댓글달기</span>
+                                        <i class="icon_font icon-chat-o"></i>
+                                        <span class="txt_count">-</span>
+                                    </button>
+                         <button type="button" class="util_share">
+                                        <span class="blind">공유하기</span>
+                                        <i class="icon_font icon-share-alt-o"></i>
+                           </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> <!-- header close -->
+
+            
+
+            <div class="ly_area nav" style="display:none">
+                <div class="inner_ly_area">
+                    <div class="ly_header">
+                        <h2 class="blind">메뉴 레이어</h2>
+                        <div class="ly_logo">
+                            <a href="https://kongdori.tistory.com/" title="오렌지사과의 사진과 투자" class="link_logo">
+                                
+                                
+                                    오렌지사과의 사진과 투자
+                                
+                            </a>
+                        </div>
+                        <button type="button" title="레이어 닫기" class="btn_menu_close btn_ly_close">
+
+                        </button>
+                    </div> <!-- ly_header -->
+                    <h3 class="blind">메뉴 리스트</h3>
+
+                    <div class="tistory_support_menus">
+                        <ul></ul>
+                        <ul class="tt_category"><li class=""><a href="/category" class="link_tit"> 분류 전체보기 <span class="c_cnt">(151)</span> </a>
+  <ul class="category_list"><li class=""><a href="/category/%EC%A3%BC%EC%8B%9D%ED%88%AC%EC%9E%90" class="link_item"> 주식투자 <span class="c_cnt">(54)</span> </a></li>
+<li class=""><a href="/category/%ED%88%AC%EC%9E%90%20%EC%84%B1%EA%B3%BC" class="link_item"> 투자 성과 <span class="c_cnt">(7)</span> </a></li>
+<li class=""><a href="/category/%EC%B1%85" class="link_item"> 책 <span class="c_cnt">(27)</span> </a></li>
+<li class=""><a href="/category/%ED%8C%8C%EC%9D%B4%EC%8D%AC" class="link_item"> 파이썬 <span class="c_cnt">(2)</span> </a></li>
+<li class=""><a href="/category/R" class="link_item"> R <span class="c_cnt">(6)</span> </a></li>
+<li class=""><a href="/category/IT" class="link_item"> IT <span class="c_cnt">(1)</span> </a></li>
+<li class=""><a href="/category/%EC%82%AC%EC%9A%A9%EA%B8%B0" class="link_item"> 사용기 <span class="c_cnt">(19)</span> </a></li>
+<li class=""><a href="/category/%EB%B8%94%EB%A1%9C%EA%B9%85" class="link_item"> 블로깅 <span class="c_cnt">(9)</span> </a></li>
+<li class=""><a href="/category/%EC%9D%B4%EB%9F%B0%EC%A0%80%EB%9F%B0%20%EC%83%9D%EA%B0%81" class="link_item"> 이런저런 생각 <span class="c_cnt">(9)</span> </a></li>
+<li class=""><a href="/category/Korean%20Culture" class="link_item"> Korean Culture <span class="c_cnt">(4)</span> </a></li>
+<li class=""><a href="/category/%E9%9F%93%E5%9B%BD%E6%96%87%E5%8C%96" class="link_item"> 韓国文化 <span class="c_cnt">(1)</span> </a></li>
+<li class=""><a href="/category/%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8" class="link_item"> 사이트 업데이트 <span class="c_cnt">(7)</span> </a></li>
+</ul>
+</li>
+</ul>
+
+                    </div>
+
+                    <div class="box_home">
+                    </div>
+                    <ul class="list_category">
+                    </ul>
+                </div>
+            </div> <!-- nav -->
+            <div class="ly_area search_area" style="display:none">
+                <div class="inner_ly_area">
+                    <div class="ly_header">
+                        <h2 class="blind">검색 레이어</h2>
+                        <div class="ly_logo">
+                            <a href="https://kongdori.tistory.com/" title="오렌지사과의 사진과 투자" class="link_logo">
+                                
+                                
+                                    오렌지사과의 사진과 투자
+                                
+                            </a>
+                        </div>
+                        <button type="button" title="레이어 닫기" class="btn_menu_close btn_ly_close">
+                            <span class="box_svg">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28"
+                                    class="img_svg">
+                                    <defs>
+                                        <path id="searchCloseSvg" d="M33.4 8L32 6.6l-12 12-12-12L6.6 8l12 12-12 12L8 33.4l12-12 12 12 1.4-1.4-12-12z" />
+                                    </defs>
+                                </svg>
+                            </span>
+                        </button>
+                    </div> <!-- ly_header -->
+                    <h3 class="blind">검색 영역</h3>
+                    <form action="" method="get">
+                        <legend><span class="blind">컨텐츠 검색</span></legend>
+                        <div class="box_form">
+                            
+                                <label for="search" class="screen_out">블로그 내 검색</label>
+                                <input id="search" type="text" name="search" title="검색어 입력" placeholder="검색어 입력.."
+                                    value="" class="inp_search" onkeypress="if (event.keyCode == 13) { try {
+    window.location.href = '/search' + '/' + looseURIEncode(document.getElementsByName('search')[0].value);
+    document.getElementsByName('search')[0].value = '';
+    return false;
+} catch (e) {} }">
+                            
+                            <button type="button" title="검색어 삭제" class="btn_search_del">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36"
+                                    class="img_svg">
+                                    <defs>
+                                        <path id="textDelBtnSvg" d="M20 2C10.059 2 2 10.059 2 20s8.059 18 18 18 18-8.059 18-18S29.941 2 20 2zm8 24.6L26.6 28 20 21.4 13.4 28 12 26.6l6.6-6.6-6.6-6.6 1.4-1.4 6.6 6.6 6.6-6.6 1.4 1.4-6.6 6.6 6.6 6.6z" />
+                                    </defs>
+                                    <g fill="none" fill-rule="evenodd" transform="translate(-2 -2)">
+                                        <path d="M0 0h40v40H0z" />
+                                        <mask id="textDelBtnSvgMask" fill="#fff">
+                                            <use xlink:href="#textDelBtnSvg" />
+                                        </mask>
+                                        <g fill="#000" fill-opacity="1" mask="url(#textDelBtnSvgMask)" class="svg_bg">
+                                            <path d="M0 0h40v40H0z" />
+                                        </g>
+                                    </g>
+                                </svg>
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div> <!-- search_area -->
+
+
+
+            <div class="wrap_content">
+                
+            </div>
+
+            
+
+            <!-- sub page -->
+            <div class="wrap_content wrap_detail_content">
+                
+    
+    <!-- 메인 페이지에서 목록 표현 -->
+    
+    <!-- // 메인 페이지에서 목록 표현 -->
+
+    <!-- 치환자 <s_article_normal> 적용 -->
+    
+        <div id="content_permallink_article" class="content sub_content sub_detail">
+            <div class="inner_content">
+                <div class="section_area detail_area">
+
+                    <h2 class="blind">상세 컨텐츠</h2>
+                    <!-- 글제목 -->
+                    <div class="box_article_tit">
+                        <h3 class="blind">본문 제목</h3>
+                        <p class="txt_sub_tit">[R 연습] 국내 주요 지수를 추종하는 ETF의 요일별 밤낮 평균 수익률은?</p>
+                        <div class="sub_tit_info">
+                            <span class="category"> <span class="txt_style"><a href="/category/R">R</a></span></span>
+
+                            <p class="info_meta">
+                                <span class="name">by <span class="txt_style">오렌지사과키위</span></span>
+                                <span class="date">2023. 11. 29. 15:33</span>
+                            </p>
+                            
+                                <div class="admin">
+                                    <a href="https://kongdori.tistory.com/manage/post/123?returnURL=https://kongdori.tistory.com/123" class="admin_slash">수정</a>
+                                    <a href="#" onclick="changeVisibility(123, 0); return false;" class="admin_slash">비공개로 변경</a>
+                                    <a href="#" onclick="deleteEntry(123); return false;">삭제</a>
+                                </div>
+                            
+                        </div>
+                    </div>
+                    <!-- //글제목 -->
+                    <!-- 본문 -->
+                    <div class="box_article">
+                        <h3 class="blind">본문</h3>
+                        <div class="article_cont">
+                            <!-- 본문 내용 (치환자 적용 영역) -->
+                            <!-- 쿠팡 파트너스 -->
+
+                            <div class="article_util">
+                                <button type="button" class="util_like">
+                                    <span class="blind">좋아요</span>
+                                    <i class="icon_font icon-favorite-o"></i>
+                                    <!-- 좋아요 클릭 시 쿨래스 변경 빈하트 class="icon-favorite-o", 채움 하트 class="icon-favorite" -->
+                                    <span class="txt_count">-</span>
+                                </button>
+                                <div class="box_util">
+                                    <!-- 댓글 달기 버튼 링크 이슈 있음 by osh -->
+                                    <button type="button" class="util_comment" href="">
+                                        <span class="blind">댓글달기</span>
+                                        <i class="icon_font icon-chat-o"></i>
+                                        <span class="txt_count">0</span>
+                                    </button>
+
+                                </div>
+                            </div>
+
+                            <script onerror="changeAdsenseToAdfit()" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9527582522912841" crossorigin="anonymous"></script>
+<!-- inventory -->
+<ins class="adsbygoogle" style="margin:50px 0; display:block" data-ad-client="ca-pub-9527582522912841" data-ad-slot="3825649038" data-ad-format="auto" data-full-width-responsive="true" data-ad-type="inventory" data-ad-adfit-unit="DAN-nRFiQiN4avFYIKbk"></ins>
+
+<script id="adsense_script">
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script>
+    if(window.ObserveAdsenseUnfilledState !== undefined){ ObserveAdsenseUnfilledState(); }
+</script>
+            <!-- System - START -->
+
+<!-- System - END -->
+
+            <div class="tt_article_useless_p_margin contents_style"><h3 data-ke-size="size23"><b><span style="color: #8a3db6;">문제</span></b></h3>
+<blockquote data-ke-style="style3">국내 주요 지수인 KOSPI 200과 KOSDAQ 150을 추종하는 ETF로 KODEX 200과 KODEX 코스닥 150이 있다. 이 두 ETF에 대해 시가에 매수해서 종가에 매도하는 전략을 (이하 주간 매매 전략) 사용하면 수익을 얻을 수 있는가? 반대로 종가에 매수해서 다음날 시가에 매도하는 전략은 (이하 야간 매매 전략) 어떠한가? 요일별로 특이점이 있는가?</blockquote>
+<p data-ke-size="size16">&nbsp;</p>
+<h4 data-ke-size="size20"><span style="color: #009a87;"><b>주의</b></span></h4>
+<blockquote data-ke-style="style3">Yahoo Finance 또는 Google Finance의 (Google Sheet에서 불러온 경우도 포함) 국내 시세 데이터는 완벽하지 않습니다. 결측값이 있거나 잘못된 값이 있는 경우가 꽤 있습니다. 실사용 목적으로는 보다 완전한 데이터를 이용하는 것이 바람직합니다.<br />여기에서 제시하는 결과는 통계적 유의성을 전혀 고려하지 않았습니다. 또한 데이터 적용 기간에 따라 결과에 상당한 차이가 있을 수 있습니다.</blockquote>
+<p data-ke-size="size16">&nbsp;</p>
+<h3 style="color: #000000; text-align: start;" data-ke-size="size23"><b><span style="color: #8a3db6;">코드</span></b></h3>
+<pre id="code_1701235706237" class="r" data-ke-language="r" data-ke-type="codeblock"><code>library(dplyr)  ## for summarize()
+library(ggplot2)  ## got ggplot()
+library(lubridate)  ## for wday()
+library(quantmod)  ## for getSymbols()
+library(tidyr) ## for tribble()
+
+# Map Yahoo Finance ticker names and legends.
+ticker_map &lt;- tribble(
+  ~ticker, ~name,
+  "069500.KS", "Kodex.Kospi200",
+  "229200.KS", "Kodex.Kosdaq150",
+)
+
+# Get daily stock prices from Yahoo Finance.
+getSymbols(ticker_map$ticker, src = "yahoo")
+
+# Calculate day gains.
+gains_day &lt;- do.call(
+  cbind,
+  lapply(ticker_map$ticker,
+         function(x) (Cl(get(x)) / Op(get(x))) - 1)) %&gt;%
+  setNames(paste(ticker_map$name, "Day", sep = "."))
+
+# Calculate night gains.
+gains_night &lt;- do.call(
+  cbind,
+  lapply(ticker_map$ticker,
+         function(x) (
+           timeSeries::lag(Op(get(x)), k = -1) / Cl(get(x))) - 1)) %&gt;%
+  setNames(paste(ticker_map$name, "Night", sep = "."))
+
+# Merge them and convert to dataframe.
+gains &lt;- cbind(gains_day, gains_night) %&gt;%
+  na.omit() %&gt;%
+  fortify.zoo()
+
+# Calculate means.
+gain_means &lt;- summarize(gains, across(everything(), mean)) %&gt;%
+  subset(select = -c(Index))
+
+# Transpose and convert to dataframe.
+gain_means.df &lt;- pivot_longer(gain_means, c(everything()),
+                              names_to = "type", values_to = "mean_gain")
+
+# Draw a bar chart.
+ggplot(data = gain_means.df) +
+  geom_bar(mapping = aes(x = type, y = mean_gain * 100.0, fill = type),
+           stat = "identity") +
+  geom_hline(yintercept = 0, color = "red") +
+  xlab(NULL) +
+  theme(legend.position = "top")
+
+# Calculate means by wday.
+gain_wday_means &lt;- mutate(gains, wday = wday(Index, label = TRUE)) %&gt;%
+  group_by(wday) %&gt;%
+  summarize(across(everything(), mean)) %&gt;%
+  subset(select = -c(Index))
+
+# Transpose and convert to dataframe.
+gain_wday_means.df &lt;- pivot_longer(gain_wday_means, -c(wday),
+                              names_to = "type", values_to = "mean_gain")
+
+# Draw a bar chart.
+ggplot(data = gain_wday_means.df) +
+  geom_bar(mapping = aes(x = wday, y = mean_gain * 100.0, fill = type),
+           stat = "identity", position = "dodge") +
+  xlab(NULL) +
+  theme(legend.position = "top")</code></pre>
+
+<p data-ke-size="size16">&nbsp;</p>
+<h3 style="color: #000000; text-align: start;" data-ke-size="size23"><b><span style="color: #8a3db6;">결과 및 해석</span></b></h3>
+<p style="color: #333333; text-align: start;" data-ke-size="size16">아래 표와 그래프는 KODEX 코스닥 150과 KODEX 200 ETF의 주간 또는 야간 매매 전략의 평균 수익률입니다. 주간 매매 전략은 평균적으로 손실이 발생합니다. 야간 매매 전략은 평균적으로 대략 0.055% 가량 (두 ETF를 반반씩 매매했을 때) 수익이 납니다. 이는 수수료를 고려하지 않은 것입니다. 매수 매도 합산 수수료를 0.01%로 가정하면 기대 수익은 일 0.045% 정도가 됩니다. 1년 거래일이 250일이라면 산술평균으로 11.25% 정도가 됩니다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size18">&nbsp;</p>
+<pre id="code_1701236347224" class="r" data-ke-language="r" data-ke-type="codeblock"><code>gain_means.df %&gt;%
+  mutate(gain_means.df, mean_gain = mean_gain * 100) %&gt;%
+  arrange(type)
+  
+----------
+# A tibble: 4 &times; 2
+  type                  mean_gain
+  &lt;chr&gt;                     &lt;dbl&gt;
+1 Kodex.Kosdaq150.Day     -0.0454
+2 Kodex.Kosdaq150.Night    0.0673
+3 Kodex.Kospi200.Day      -0.0174
+4 Kodex.Kospi200.Night     0.0421</code></pre>
+<p style="color: #333333; text-align: start;" data-ke-size="size18">&nbsp;</p>
+<p><figure class="imageblock alignCenter" data-ke-mobileStyle="widthOrigin" data-filename="f87cddca-edc4-45ea-adb7-d0668490dfd7.png" data-origin-width="863" data-origin-height="546"><span data-url="https://blog.kakaocdn.net/dn/SB5Lc/btsA4eoX4mH/icSBpgSrWkod520LEWOkV1/img.png" data-lightbox="lightbox"><img src="https://blog.kakaocdn.net/dn/SB5Lc/btsA4eoX4mH/icSBpgSrWkod520LEWOkV1/img.png" srcset="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FSB5Lc%2FbtsA4eoX4mH%2FicSBpgSrWkod520LEWOkV1%2Fimg.png" onerror="this.onerror=null; this.src='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png'; this.srcset='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png';" data-filename="f87cddca-edc4-45ea-adb7-d0668490dfd7.png" data-origin-width="863" data-origin-height="546"/></span></figure>
+</p>
+
+<p data-ke-size="size18">&nbsp;</p>
+<p data-ke-size="size16">아래 표와 그래프는 요일별로 본 평균 수익률입니다. 월요일, 화요일, 그리고 수요일에 야간 매매 전략의 평균 수익률이 상대적으로 높음을 알 수 있습니다.</p>
+<p data-ke-size="size18">&nbsp;</p>
+<pre id="code_1701237840054" class="r" data-ke-language="r" data-ke-type="codeblock"><code>gain_wday_means[, c(1, order(colnames(gain_means)) + 1)] %&gt;%
+  mutate(across(!wday) * 100)
+
+----------
+# A tibble: 5 &times; 5
+  wday  Kodex.Kosdaq150.Day Kodex.Kosdaq150.Night Kodex.Kospi200.Day Kodex.Kospi200.Night
+  &lt;ord&gt;               &lt;dbl&gt;                 &lt;dbl&gt;              &lt;dbl&gt;                &lt;dbl&gt;
+1 Mon             -0.0643                  0.0915            -0.0262             0.103   
+2 Tue              0.0525                  0.100              0.0600             0.0363  
+3 Wed             -0.112                   0.114             -0.0588             0.0505  
+4 Thu             -0.102                   0.0104            -0.0858             0.000497
+5 Fri             -0.000944                0.0220             0.0248             0.0239</code></pre>
+<p data-ke-size="size16">&nbsp;</p>
+<p><figure class="imageblock alignCenter" data-ke-mobileStyle="widthOrigin" data-filename="f6aa33d9-da5e-4536-b8a4-d77063c9a3fd.png" data-origin-width="863" data-origin-height="546"><span data-url="https://blog.kakaocdn.net/dn/bKR3LR/btsA27qppBJ/YQikXLYQJlkrwTkKS9IhKK/img.png" data-lightbox="lightbox"><img src="https://blog.kakaocdn.net/dn/bKR3LR/btsA27qppBJ/YQikXLYQJlkrwTkKS9IhKK/img.png" srcset="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbKR3LR%2FbtsA27qppBJ%2FYQikXLYQJlkrwTkKS9IhKK%2Fimg.png" onerror="this.onerror=null; this.src='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png'; this.srcset='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png';" data-filename="f6aa33d9-da5e-4536-b8a4-d77063c9a3fd.png" data-origin-width="863" data-origin-height="546"/></span></figure>
+</p></div>
+            <!-- System - START -->
+
+<!-- System - END -->
+
+
+                    <div class="container_postbtn #post_button_group">
+  <div class="postbtn_like"><script>window.ReactionButtonType = 'reaction';
+window.ReactionApiUrl = '//kongdori.tistory.com/reaction';
+window.ReactionReqBody = {
+    entryId: 123
+}</script>
+<div class="wrap_btn" id="reaction-123"></div>
+<script src="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/script/reaction-button-container.min.js"></script><div class="wrap_btn wrap_btn_share"><button type="button" class="btn_post sns_btn btn_share" aria-expanded="false" data-thumbnail-url="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbKR3LR%2FbtsA27qppBJ%2FYQikXLYQJlkrwTkKS9IhKK%2Fimg.png" data-title="[R 연습] 국내 주요 지수를 추종하는 ETF의 요일별 밤낮 평균 수익률은?" data-description="문제 국내 주요 지수인 KOSPI 200과 KOSDAQ 150을 추종하는 ETF로 KODEX 200과 KODEX 코스닥 150이 있다. 이 두 ETF에 대해 시가에 매수해서 종가에 매도하는 전략을 (이하 주간 매매 전략) 사용하면 수익을 얻을 수 있는가? 반대로 종가에 매수해서 다음날 시가에 매도하는 전략은 (이하 야간 매매 전략) 어떠한가? 요일별로 특이점이 있는가? 주의 Yahoo Finance 또는 Google Finance의 (Google Sheet에서 불러온 경우도 포함) 국내 시세 데이터는 완벽하지 않습니다. 결측값이 있거나 잘못된 값이 있는 경우가 꽤 있습니다. 실사용 목적으로는 보다 완전한 데이터를 이용하는 것이 바람직합니다. 여기에서 제시하는 결과는 통계적 유의성을 전혀 고려하지 않았습니.." data-profile-image="https://tistory1.daumcdn.net/tistory/178947/attach/a7b5d8136d5143fd8a12038ae39a7d85" data-profile-name="오렌지사과키위" data-pc-url="https://kongdori.tistory.com/123" data-relative-pc-url="/123" data-blog-title="오렌지사과의 사진과 투자"><span class="ico_postbtn ico_share">공유하기</span></button>
+  <div class="layer_post" id="tistorySnsLayer"></div>
+</div><div class="wrap_btn"><button type="button" class="btn_post" data-entry-id="123"><span class="ico_postbtn ico_statistics">통계</span></button></div><div class="wrap_btn wrap_btn_etc" data-entry-id="123" data-entry-visibility="public" data-category-visibility="public"><button type="button" class="btn_post btn_etc1" aria-expanded="false"><span class="ico_postbtn ico_etc">게시글 관리</span></button>
+  <div class="layer_post" id="tistoryEtcLayer"></div>
+</div></div>
+<div class="postbtn_ccl" data-ccl-type="1" data-ccl-derive="2">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ko" target="_blank" class="link_ccl" rel="license">
+        <span class="bundle_ccl">
+            <span class="ico_postbtn ico_ccl1">저작자표시</span> <span class="ico_postbtn ico_ccl2">비영리</span> <span class="ico_postbtn ico_ccl3">변경금지</span> 
+        </span>
+    </a>
+</div>
+<!--
+<rdf:RDF xmlns="https://web.resource.org/cc/" xmlns:dc="https://purl.org/dc/elements/1.1/" xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <Work rdf:about="">
+        <license rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ko" />
+    </Work>
+    <License rdf:about="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ko">
+        <permits rdf:resource="https://web.resource.org/cc/Reproduction"/>
+        <permits rdf:resource="https://web.resource.org/cc/Distribution"/>
+        <requires rdf:resource="https://web.resource.org/cc/Notice"/>
+        <requires rdf:resource="https://web.resource.org/cc/Attribution"/>
+        <prohibits rdf:resource="https://web.resource.org/cc/CommercialUse"/>
+
+    </License>
+</rdf:RDF>
+-->  <div data-tistory-react-app="SupportButton"></div>
+</div>
+
+                    <!-- PostListinCategory - START -->
+<div class="another_category another_category_color_gray">
+  <h4>'<a href="/category/R">R</a>' 카테고리의 다른 글</h4>
+  <table>
+    <tr>
+      <th><a href="/127">[R + Python 연습] 증권사 Open API를 이용하여 종목의 일일 시세를 다운로드하라.</a>&nbsp;&nbsp;<span>(2)</span></th>
+      <td>2023.12.05</td>
+    </tr>
+    <tr>
+      <th><a href="/126">[R 연습] 증권사에서 다운받은 일일주가 데이터를 구글 시트에 올려 공유하고, 이를 가져오는 코드를 작성하라.</a>&nbsp;&nbsp;<span>(2)</span></th>
+      <td>2023.12.04</td>
+    </tr>
+    <tr>
+      <th><a href="/125">[R 연습] KOPSI 200을 추종하는 KODEX 200 ETF를 매매하는 전략을 선형 회귀 분석으로 도출하라.</a>&nbsp;&nbsp;<span>(1)</span></th>
+      <td>2023.11.30</td>
+    </tr>
+    <tr>
+      <th><a href="/124">[R 연습] 기대 수익률이 더 높지만 기대 변동성도 더 높은 투자 상품은 장기적으로 얼마나 더 유리한가?</a>&nbsp;&nbsp;<span>(1)</span></th>
+      <td>2023.11.29</td>
+    </tr>
+    <tr>
+      <th><a href="/122">[R 연습] 한국과 미국의 주요 주가지수를 추종하는 ETF들의 누적 수익률 그래프 그리기</a>&nbsp;&nbsp;<span>(0)</span></th>
+      <td>2023.11.28</td>
+    </tr>
+  </table>
+</div>
+
+<!-- PostListinCategory - END -->
+
+
+                        </div>
+                    </div>
+                    <!-- //본문 -->
+
+                    <!-- 애드센스 -->
+                    <!-- 티스아래D -->
+                    <!-- 애드센스: 티스아래D
+                    <div>
+                    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8120389152057270"
+                        crossorigin="anonymous"></script>
+                    <ins class="adsbygoogle"
+                        style="display:block"
+                        data-ad-client="ca-pub-8120389152057270"
+                        data-ad-slot="8548582978"
+                        data-ad-format="auto"
+                        data-full-width-responsive="true"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>    
+                    </div>     
+                    -->
+                       
+                    <!--
+                    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8120389152057270"
+                    crossorigin="anonymous"></script>
+                    <ins class="adsbygoogle"
+                        style="display:block"
+                        data-ad-format="autorelaxed"
+                        data-ad-client="ca-pub-8120389152057270"
+                        data-ad-slot="3223231962"
+                        data-matched-content-rows-num="1,1"
+                        data-matched-content-columns-num="1,4"
+                        data-matched-content-ui-type="image_stacked,image_stacked">
+                    </ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    -->
+                    
+                    <!-- 쿠팡 -->
+                    <!-- 쿠팡
+                    <div>
+                    <script src="https://ads-partners.coupang.com/g.js"></script>
+                    <script>
+                        //var pc_width = document.querySelector(".page__content").clientWidth;
+                        //console.log("pc_width = ", pc_width);
+                        //new PartnersCoupang.G({"id":755374,"template":"carousel","trackingCode":"AF3144276","width":pc_width,"height":"140","tsource":""});
+                        new PartnersCoupang.G({"id":755374,"template":"carousel","trackingCode":"AF3144276","subId":"tistorykongdori","width":1200,"height":"140","tsource":""});
+                        document.write("<small>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</small>");
+                    </script>
+                    </div>
+                    -->
+
+                    <!-- 태그 -->
+                    
+                    <!-- //태그 -->
+
+                    <!-- 관련 글 -->
+                    
+                        <div class="box_related_article">
+                            <h3 class="tit_box">관련글 <a href="/category/R" class="link_related">더보기</a></h3>
+                            <ul class="list_article list_sub list_related">
+                                
+                                    <li>
+                                        <a href="/126?category=1151852" class="link_thumb thumb_type">
+                                            
+                                                <div class="box_thumb thumb_img" style="background-image:url('https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcLw28W%2FbtsBiUc0DUW%2FYZhD35dskMPYkBAM6kkLXK%2Fimg.png')"></div>
+                                            
+                                            <div class="box_thumb no_img">
+                                                <div class="default_img">
+                                                    <span class="box_svg">
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="40"
+                                                            height="40" viewBox="0 0 40 40" class="img_svg">
+                                                            <defs>
+                                                                <path id="errorIconSvg" d="M18.5 27.5a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0zM21 11h-2v13h2V11zm-1-9C10.059 2 2 10.059 2 20s8.059 18 18 18 18-8.059 18-18S29.941 2 20 2zm0 34c-8.837 0-16-7.163-16-16S11.163 4 20 4s16 7.163 16 16a16 16 0 0 1-16 16z"></path>
+                                                            </defs>
+                                                            <g fill="none" fill-rule="evenodd">
+                                                                <path d="M0 0h40v40H0z"></path>
+                                                                <use fill="#fff" fill-rule="nonzero"
+                                                                    xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                    xlink:href="#errorIconSvg"></use>
+                                                            </g>
+                                                        </svg>
+                                                    </span>
+                                                </div>
+                                            </div>
+                                            <div class="cont_thumb">
+                                                <p class="txt_thumb">[R 연습] 증권사에서 다운받은 일일주가 데이터를 구글 시트에 올려 공유하고, 이를 가져오는 코드를 작성하라.</p>
+                                                <p class="thumb_info">
+                                                    <span class="date">2023.12.04</span>
+                                                </p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/125?category=1151852" class="link_thumb thumb_type">
+                                            
+                                                <div class="box_thumb thumb_img" style="background-image:url('https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbkbcfp%2FbtsA7Sfof23%2FxXCEkpfTZwWKmSoaAY51Jk%2Fimg.png')"></div>
+                                            
+                                            <div class="box_thumb no_img">
+                                                <div class="default_img">
+                                                    <span class="box_svg">
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="40"
+                                                            height="40" viewBox="0 0 40 40" class="img_svg">
+                                                            <defs>
+                                                                <path id="errorIconSvg" d="M18.5 27.5a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0zM21 11h-2v13h2V11zm-1-9C10.059 2 2 10.059 2 20s8.059 18 18 18 18-8.059 18-18S29.941 2 20 2zm0 34c-8.837 0-16-7.163-16-16S11.163 4 20 4s16 7.163 16 16a16 16 0 0 1-16 16z"></path>
+                                                            </defs>
+                                                            <g fill="none" fill-rule="evenodd">
+                                                                <path d="M0 0h40v40H0z"></path>
+                                                                <use fill="#fff" fill-rule="nonzero"
+                                                                    xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                    xlink:href="#errorIconSvg"></use>
+                                                            </g>
+                                                        </svg>
+                                                    </span>
+                                                </div>
+                                            </div>
+                                            <div class="cont_thumb">
+                                                <p class="txt_thumb">[R 연습] KOPSI 200을 추종하는 KODEX 200 ETF를 매매하는 전략을 선형 회귀 분석으로 도출하라.</p>
+                                                <p class="thumb_info">
+                                                    <span class="date">2023.11.30</span>
+                                                </p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/124?category=1151852" class="link_thumb thumb_type">
+                                            
+                                                <div class="box_thumb thumb_img" style="background-image:url('https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F9i9ov%2FbtsBb8OlE3e%2Fcln4H2Ki9uqfmBIODu5MK0%2Fimg.png')"></div>
+                                            
+                                            <div class="box_thumb no_img">
+                                                <div class="default_img">
+                                                    <span class="box_svg">
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="40"
+                                                            height="40" viewBox="0 0 40 40" class="img_svg">
+                                                            <defs>
+                                                                <path id="errorIconSvg" d="M18.5 27.5a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0zM21 11h-2v13h2V11zm-1-9C10.059 2 2 10.059 2 20s8.059 18 18 18 18-8.059 18-18S29.941 2 20 2zm0 34c-8.837 0-16-7.163-16-16S11.163 4 20 4s16 7.163 16 16a16 16 0 0 1-16 16z"></path>
+                                                            </defs>
+                                                            <g fill="none" fill-rule="evenodd">
+                                                                <path d="M0 0h40v40H0z"></path>
+                                                                <use fill="#fff" fill-rule="nonzero"
+                                                                    xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                    xlink:href="#errorIconSvg"></use>
+                                                            </g>
+                                                        </svg>
+                                                    </span>
+                                                </div>
+                                            </div>
+                                            <div class="cont_thumb">
+                                                <p class="txt_thumb">[R 연습] 기대 수익률이 더 높지만 기대 변동성도 더 높은 투자 상품은 장기적으로 얼마나 더 유리한가?</p>
+                                                <p class="thumb_info">
+                                                    <span class="date">2023.11.29</span>
+                                                </p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/122?category=1151852" class="link_thumb thumb_type">
+                                            
+                                                <div class="box_thumb thumb_img" style="background-image:url('https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FoUM0j%2FbtsA2vqEGLV%2FxQkcmN7kFwFP6pdF0mFjv0%2Fimg.png')"></div>
+                                            
+                                            <div class="box_thumb no_img">
+                                                <div class="default_img">
+                                                    <span class="box_svg">
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="40"
+                                                            height="40" viewBox="0 0 40 40" class="img_svg">
+                                                            <defs>
+                                                                <path id="errorIconSvg" d="M18.5 27.5a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0zM21 11h-2v13h2V11zm-1-9C10.059 2 2 10.059 2 20s8.059 18 18 18 18-8.059 18-18S29.941 2 20 2zm0 34c-8.837 0-16-7.163-16-16S11.163 4 20 4s16 7.163 16 16a16 16 0 0 1-16 16z"></path>
+                                                            </defs>
+                                                            <g fill="none" fill-rule="evenodd">
+                                                                <path d="M0 0h40v40H0z"></path>
+                                                                <use fill="#fff" fill-rule="nonzero"
+                                                                    xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                    xlink:href="#errorIconSvg"></use>
+                                                            </g>
+                                                        </svg>
+                                                    </span>
+                                                </div>
+                                            </div>
+                                            <div class="cont_thumb">
+                                                <p class="txt_thumb">[R 연습] 한국과 미국의 주요 주가지수를 추종하는 ETF들의 누적 수익률 그래프 그리기</p>
+                                                <p class="thumb_info">
+                                                    <span class="date">2023.11.28</span>
+                                                </p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                
+                            </ul>
+                        </div>
+                    
+                    <!-- //관련 글 -->
+                    <!-- 댓글 -->
+
+                    <div class="box_comment">
+                        <h3 class="blind">댓글 영역</h3>
+
+                        <div class="comment_info">
+                            <a href="#rp" onclick="" class="reply_events">
+                                <button type="button" class="btn_info_comment">댓글 <em class="txt_style">
+                                        <span id="commentCount123_0">0</span>
+                                    </em>개</button></a>
+                            <button type="button" class="btn_info_write" onclick="$('.box_comment_write textarea').focus();"><span
+                                    class="txt_style">댓글 쓰기</span></button>
+                        </div>
+
+                        <div data-tistory-react-app="Namecard"></div><div id="entry123Comment">
+                            <div class="comment_area">
+                                <button type="button" class="btn_more btn_replymore" style="display:none;">이전
+                                    댓글 더보기</button>
+                                <div class="box_comment_list">
+                                    
+                                        <ul>
+                                                        
+
+            
+                                        </ul>
+                                    
+                                </div> <!-- //box_comment_list -->
+                                <form method="post" action="/comment/add/123" onsubmit="return false" style="margin: 0">
+    
+                        <form method="post">
+                            <div class="box_comment_write">
+                                <!-- register_area -->
+                                <div class="register_area">
+                                    
+                                        <!-- form_guest -->
+                                        
+                                        <!-- //form_guest -->
+
+                                        <!-- secret -->
+                                        <div class="form_secret">
+                                            <input id="commentSecret" type="checkbox" name="secret">
+                                            <label for="commentSecret" class="label_secret">비밀글
+                                                <i class="icon-check"></i></label>
+                                        </div>
+                                    
+                                    <!-- form_cont -->
+                                    <div class="form_cont">
+                                        <label for="comment" class="screen_out">댓글</label>
+                                        <textarea id="comment" name="comment"
+                                            placeholder="댓글을 입력해주세요."></textarea>
+                                    </div>
+                                    <!-- button-form -->
+                                    <button type="button" class="btn_register" onclick="addComment(this, 123); return false;">댓글
+                                        남기기</button>
+                                </div>
+                                <!-- //register_area -->
+                            </div>
+                        </form>
+                    
+</form>
+                            </div>
+                        </div>
+<script type="text/javascript">loadedComments[123]=true;
+findFragmentAndHighlight(123);</script>
+
+                    </div>
+                    <!-- //댓글 -->
+                </div>
+            </div>
+        </div>
+    
+
+    
+
+
+                <!-- page 디자인 -->
+                
+                <!-- // page 디자인 -->
+
+                
+
+                
+
+                <!-- sidebar -->
+                <div id="sidebar" class="sidebar">
+                    <h2 class="blind">추가 정보</h2>
+                                            
+                            <div class="section_area">
+                                <h3 class="tit_section">인기글</h3>
+                                <ol class="list_article list_sub list_sidebar">
+                                    
+                                        <li>
+                                            <a href="/120" class="link_thumb">
+                                                
+                                                    <div class="box_thumb thumb_img" style="background-image:url('https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbeIVrO%2Fbtsk9CyQbxz%2FqSBlnwb1ZfQHHT6j5lQzR0%2Fimg.jpg')">
+                                                        <span class="item_count">-</span>
+                                                    </div>
+                                                
+                                                <div class="box_thumb no_img">
+                                                    <div class="default_img">
+                                                        <span class="box_svg">
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40"
+                                                                viewBox="0 0 40 40" class="img_svg">
+                                                                <defs>
+                                                                    <path id="errorIconSvg" d="M18.5 27.5a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0zM21 11h-2v13h2V11zm-1-9C10.059 2 2 10.059 2 20s8.059 18 18 18 18-8.059 18-18S29.941 2 20 2zm0 34c-8.837 0-16-7.163-16-16S11.163 4 20 4s16 7.163 16 16a16 16 0 0 1-16 16z"></path>
+                                                                </defs>
+                                                                <g fill="none" fill-rule="evenodd">
+                                                                    <path d="M0 0h40v40H0z"></path>
+                                                                    <use fill="#fff" fill-rule="nonzero" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                        xlink:href="#errorIconSvg"></use>
+                                                                </g>
+                                                            </svg>
+                                                        </span>
+                                                    </div>
+                                                    <span class="item_count">-</span>
+                                                </div>
+
+                                                <div class="cont_thumb">
+                                                    <strong class="txt_thumb">TIGER 미국배당+7%프리미엄다우존스 ETF는 정말 고배당을 지속할 수 있는 상품일까?</strong>
+                                                    <p class="txt_date">2023.06.24 10:20</p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                    
+                                        <li>
+                                            <a href="/133" class="link_thumb">
+                                                
+                                                    <div class="box_thumb thumb_img" style="background-image:url('https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcKQGwi%2FbtsDGLSo8Il%2F8veFszLtkrMshFVWO6QPx0%2Fimg.png')">
+                                                        <span class="item_count">-</span>
+                                                    </div>
+                                                
+                                                <div class="box_thumb no_img">
+                                                    <div class="default_img">
+                                                        <span class="box_svg">
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40"
+                                                                viewBox="0 0 40 40" class="img_svg">
+                                                                <defs>
+                                                                    <path id="errorIconSvg" d="M18.5 27.5a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0zM21 11h-2v13h2V11zm-1-9C10.059 2 2 10.059 2 20s8.059 18 18 18 18-8.059 18-18S29.941 2 20 2zm0 34c-8.837 0-16-7.163-16-16S11.163 4 20 4s16 7.163 16 16a16 16 0 0 1-16 16z"></path>
+                                                                </defs>
+                                                                <g fill="none" fill-rule="evenodd">
+                                                                    <path d="M0 0h40v40H0z"></path>
+                                                                    <use fill="#fff" fill-rule="nonzero" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                        xlink:href="#errorIconSvg"></use>
+                                                                </g>
+                                                            </svg>
+                                                        </span>
+                                                    </div>
+                                                    <span class="item_count">-</span>
+                                                </div>
+
+                                                <div class="cont_thumb">
+                                                    <strong class="txt_thumb">[사이트 업데이트] 재무지표 기반 저PER, 저PBR, 고배당 종목 목록</strong>
+                                                    <p class="txt_date">2024.01.20 19:44</p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                    
+                                        <li>
+                                            <a href="/79" class="link_thumb">
+                                                
+                                                    <div class="box_thumb thumb_img" style="background-image:url('https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbIJVw1%2FbtsEiVdUZ1e%2Fox4Guh0khg5K86w4oU3GF0%2Fimg.png')">
+                                                        <span class="item_count">-</span>
+                                                    </div>
+                                                
+                                                <div class="box_thumb no_img">
+                                                    <div class="default_img">
+                                                        <span class="box_svg">
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40"
+                                                                viewBox="0 0 40 40" class="img_svg">
+                                                                <defs>
+                                                                    <path id="errorIconSvg" d="M18.5 27.5a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0zM21 11h-2v13h2V11zm-1-9C10.059 2 2 10.059 2 20s8.059 18 18 18 18-8.059 18-18S29.941 2 20 2zm0 34c-8.837 0-16-7.163-16-16S11.163 4 20 4s16 7.163 16 16a16 16 0 0 1-16 16z"></path>
+                                                                </defs>
+                                                                <g fill="none" fill-rule="evenodd">
+                                                                    <path d="M0 0h40v40H0z"></path>
+                                                                    <use fill="#fff" fill-rule="nonzero" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                        xlink:href="#errorIconSvg"></use>
+                                                                </g>
+                                                            </svg>
+                                                        </span>
+                                                    </div>
+                                                    <span class="item_count">-</span>
+                                                </div>
+
+                                                <div class="cont_thumb">
+                                                    <strong class="txt_thumb">삼슬라(TSL3, 3TSL)는 1년에 얼마나 녹았을까?</strong>
+                                                    <p class="txt_date">2023.04.06 10:27</p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                    
+                                        <li>
+                                            <a href="/145" class="link_thumb">
+                                                
+                                                    <div class="box_thumb thumb_img" style="background-image:url('https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDFq6X%2FbtsEFkljKbJ%2FCI0HnjDx5d0QCtkWSiEU40%2Fimg.png')">
+                                                        <span class="item_count">-</span>
+                                                    </div>
+                                                
+                                                <div class="box_thumb no_img">
+                                                    <div class="default_img">
+                                                        <span class="box_svg">
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40"
+                                                                viewBox="0 0 40 40" class="img_svg">
+                                                                <defs>
+                                                                    <path id="errorIconSvg" d="M18.5 27.5a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0zM21 11h-2v13h2V11zm-1-9C10.059 2 2 10.059 2 20s8.059 18 18 18 18-8.059 18-18S29.941 2 20 2zm0 34c-8.837 0-16-7.163-16-16S11.163 4 20 4s16 7.163 16 16a16 16 0 0 1-16 16z"></path>
+                                                                </defs>
+                                                                <g fill="none" fill-rule="evenodd">
+                                                                    <path d="M0 0h40v40H0z"></path>
+                                                                    <use fill="#fff" fill-rule="nonzero" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                        xlink:href="#errorIconSvg"></use>
+                                                                </g>
+                                                            </svg>
+                                                        </span>
+                                                    </div>
+                                                    <span class="item_count">-</span>
+                                                </div>
+
+                                                <div class="cont_thumb">
+                                                    <strong class="txt_thumb">TIGER 미국배당다우존스 ETF 삼총사는 출시 후 어떤 성과를 거두었을까?</strong>
+                                                    <p class="txt_date">2024.02.10 14:58</p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                    
+                                </ol>
+                            </div> <!-- 인기글 -->
+                        
+                            <div class="section_area">
+                                <h3 class="tit_section">최신글</h3>
+                                <ol class="list_article list_sub list_sidebar list_recent">
+                                    
+                                        <li>
+                                            <a href="/159" class="link_thumb">
+                                                
+                                                    <div class="box_thumb thumb_img" style="background-image:url('https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FtzC8S%2FbtsEVdeZ6R1%2FtbYJvohWbdeUpefFznYTc1%2Fimg.jpg')">
+                                                        <span class="item_count">-</span>
+                                                    </div>
+                                                
+                                                <div class="box_thumb no_img">
+                                                    <div class="default_img">
+                                                        <span class="box_svg">
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40"
+                                                                viewBox="0 0 40 40" class="img_svg">
+                                                                <defs>
+                                                                    <path id="errorIconSvg" d="M18.5 27.5a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0zM21 11h-2v13h2V11zm-1-9C10.059 2 2 10.059 2 20s8.059 18 18 18 18-8.059 18-18S29.941 2 20 2zm0 34c-8.837 0-16-7.163-16-16S11.163 4 20 4s16 7.163 16 16a16 16 0 0 1-16 16z"></path>
+                                                                </defs>
+                                                                <g fill="none" fill-rule="evenodd">
+                                                                    <path d="M0 0h40v40H0z"></path>
+                                                                    <use fill="#fff" fill-rule="nonzero" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                        xlink:href="#errorIconSvg"></use>
+                                                                </g>
+                                                            </svg>
+                                                        </span>
+                                                    </div>
+                                                    <span class="item_count">-</span>
+                                                </div>
+                                                <div class="cont_thumb">
+                                                    <strong class="txt_thumb">OpenDart API 인증서 오류와 임시 해결책 (OpenDartReader 사용 시)</strong>
+                                                    <p class="txt_category">IT</p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                    
+                                        <li>
+                                            <a href="/158" class="link_thumb">
+                                                
+                                                    <div class="box_thumb thumb_img" style="background-image:url('https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FqaLpj%2FbtsERzb52HQ%2Fve4IC51ptG2OooEtnVYC11%2Fimg.jpg')">
+                                                        <span class="item_count">-</span>
+                                                    </div>
+                                                
+                                                <div class="box_thumb no_img">
+                                                    <div class="default_img">
+                                                        <span class="box_svg">
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40"
+                                                                viewBox="0 0 40 40" class="img_svg">
+                                                                <defs>
+                                                                    <path id="errorIconSvg" d="M18.5 27.5a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0zM21 11h-2v13h2V11zm-1-9C10.059 2 2 10.059 2 20s8.059 18 18 18 18-8.059 18-18S29.941 2 20 2zm0 34c-8.837 0-16-7.163-16-16S11.163 4 20 4s16 7.163 16 16a16 16 0 0 1-16 16z"></path>
+                                                                </defs>
+                                                                <g fill="none" fill-rule="evenodd">
+                                                                    <path d="M0 0h40v40H0z"></path>
+                                                                    <use fill="#fff" fill-rule="nonzero" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                        xlink:href="#errorIconSvg"></use>
+                                                                </g>
+                                                            </svg>
+                                                        </span>
+                                                    </div>
+                                                    <span class="item_count">-</span>
+                                                </div>
+                                                <div class="cont_thumb">
+                                                    <strong class="txt_thumb">국내 고배당 ETF의 종류와 성과 비교 및 개인적인 평가</strong>
+                                                    <p class="txt_category">주식투자</p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                    
+                                        <li>
+                                            <a href="/157" class="link_thumb">
+                                                
+                                                    <div class="box_thumb thumb_img" style="background-image:url('https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FzFTBm%2FbtsEQMvxad8%2FX4nTyDr5zMW5hhik0aDiR1%2Fimg.jpg')">
+                                                        <span class="item_count">-</span>
+                                                    </div>
+                                                
+                                                <div class="box_thumb no_img">
+                                                    <div class="default_img">
+                                                        <span class="box_svg">
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40"
+                                                                viewBox="0 0 40 40" class="img_svg">
+                                                                <defs>
+                                                                    <path id="errorIconSvg" d="M18.5 27.5a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0zM21 11h-2v13h2V11zm-1-9C10.059 2 2 10.059 2 20s8.059 18 18 18 18-8.059 18-18S29.941 2 20 2zm0 34c-8.837 0-16-7.163-16-16S11.163 4 20 4s16 7.163 16 16a16 16 0 0 1-16 16z"></path>
+                                                                </defs>
+                                                                <g fill="none" fill-rule="evenodd">
+                                                                    <path d="M0 0h40v40H0z"></path>
+                                                                    <use fill="#fff" fill-rule="nonzero" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                        xlink:href="#errorIconSvg"></use>
+                                                                </g>
+                                                            </svg>
+                                                        </span>
+                                                    </div>
+                                                    <span class="item_count">-</span>
+                                                </div>
+                                                <div class="cont_thumb">
+                                                    <strong class="txt_thumb">[이런저런 생각] 적절하지 않은 데이터로 고객에게 오해를 불러 일으키는 자산운용사의 수익률 표기</strong>
+                                                    <p class="txt_category">이런저런 생각</p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                    
+                                        <li>
+                                            <a href="/156" class="link_thumb">
+                                                
+                                                    <div class="box_thumb thumb_img" style="background-image:url('https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbWpJVI%2FbtsEOU1KUW3%2FmE2CJLuCJK8eWbtHgExt10%2Fimg.jpg')">
+                                                        <span class="item_count">-</span>
+                                                    </div>
+                                                
+                                                <div class="box_thumb no_img">
+                                                    <div class="default_img">
+                                                        <span class="box_svg">
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40"
+                                                                viewBox="0 0 40 40" class="img_svg">
+                                                                <defs>
+                                                                    <path id="errorIconSvg" d="M18.5 27.5a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0zM21 11h-2v13h2V11zm-1-9C10.059 2 2 10.059 2 20s8.059 18 18 18 18-8.059 18-18S29.941 2 20 2zm0 34c-8.837 0-16-7.163-16-16S11.163 4 20 4s16 7.163 16 16a16 16 0 0 1-16 16z"></path>
+                                                                </defs>
+                                                                <g fill="none" fill-rule="evenodd">
+                                                                    <path d="M0 0h40v40H0z"></path>
+                                                                    <use fill="#fff" fill-rule="nonzero" xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                        xlink:href="#errorIconSvg"></use>
+                                                                </g>
+                                                            </svg>
+                                                        </span>
+                                                    </div>
+                                                    <span class="item_count">-</span>
+                                                </div>
+                                                <div class="cont_thumb">
+                                                    <strong class="txt_thumb">[JEPIX 데이터 오류로 밝혀짐] JEPI가 SPY보다 좋은 성과를 거둔 이유는 무엇일까?</strong>
+                                                    <p class="txt_category">주식투자</p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                    
+                                </ol>
+                            </div> <!-- 최신글 -->
+                        
+                </div>
+                <!-- // sidebar -->
+            </div>
+            <!-- // sub page // .wrap_detail_content -->
+
+            <div class="wrap_content">
+                <div class="content">
+                    <div class="section_btm_area">
+
+                        <!-- 태그 magz 디자인 -->
+                        
+                        <!-- //태그 magz 디자인 -->
+
+                        <!-- log magz 디자인 -->
+                        
+                        <!-- // log magz 디자인 -->
+
+                        
+                    </div>
+                </div>
+            </div>
+
+            
+            <!-- sub page -->
+
+            
+
+            <div id="footer" class="footer">
+                <div class="inner_footer">
+                    <div class="area_select">
+                        <div class="box_select">
+                            <div class="inner_box">
+                                <select class="opt_select">
+                                    <option>패밀리사이트</option>
+                                    
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="area_address">
+                        <div class="info_link">
+                          
+                            <a href="https://tistory.com" class="link_info">TISTORY</a>
+                          
+                          
+                          
+                          
+                        </div>
+											  <address class="box_address">
+                            
+                            
+                                <span class="txt_flogo">오렌지사과의 사진과 투자</span>
+                            
+
+                            <span class="txt_address">© Magazine Lab</span>
+                        </address>
+                        <div class="area_sns">
+                            
+                                <a href="#" title="facebook" class="link_sns link_facebook">
+                                    <img src="https://tistory1.daumcdn.net/tistory/178947/skin/images/ico_facebook.svg" alt="페이스북">
+                                </a>
+                            
+                            
+                                <a href="#" title="twitter" class="link_sns link_twitter">
+                                    <img src="https://tistory1.daumcdn.net/tistory/178947/skin/images/ico_twitter.svg" alt="트위터">
+                                </a>
+                            
+                            
+                                <a href="#" title="instagram" class="link_sns link_instagram">
+                                    <img src="https://tistory1.daumcdn.net/tistory/178947/skin/images/ico_instagram.svg" alt="인스타그램">
+                                </a>
+                            
+                            
+                                <a href="#" title="youtube" class="link_sns link_youtube">
+                                    <img src="https://tistory1.daumcdn.net/tistory/178947/skin/images/ico_youtube.svg" alt="유투브">
+                                </a>
+                            
+                            
+                                <a href="mailto:#" title="mail" class="link_sns link_email">
+                                    <img src="https://tistory1.daumcdn.net/tistory/178947/skin/images/ico_mail.svg" alt="메일">
+                                </a>
+                            
+                        </div>
+                    </div>
+                </div> <!-- inner_footer -->
+            </div> <!-- footer close -->
+        </div> <!-- container close -->
+        </div>
+    
+
+<div class="#menubar menu_toolbar ">
+  <h2 class="screen_out">티스토리툴바</h2>
+</div>
+<div class="#menubar menu_toolbar "></div>
+<div class="layer_tooltip">
+  <div class="inner_layer_tooltip">
+    <p class="desc_g"></p>
+  </div>
+</div>
+<iframe id="editEntry" style="position:absolute;width:1px;height:1px;left:-100px;top:-100px" src="//kongdori.tistory.com/api"></iframe>
+
+                        <!-- CallBack - START -->
+        <script>                    (function () { 
+                        var blogTitle = '오렌지사과의 사진과 투자';
+                        
+                        (function () {
+    function isShortContents () {
+        return window.getSelection().toString().length < 30;
+    }
+    function isCommentLink (elementID) {
+        return elementID === 'commentLinkClipboardInput'
+    }
+
+    function copyWithSource (event) {
+        if (isShortContents() || isCommentLink(event.target.id)) {
+            return;
+        }
+        var range = window.getSelection().getRangeAt(0);
+        var contents = range.cloneContents();
+        var temp = document.createElement('div');
+
+        temp.appendChild(contents);
+
+        var url = document.location.href;
+        var decodedUrl = decodeURI(url);
+        var postfix = ' [' + blogTitle + ':티스토리]';
+
+        event.clipboardData.setData('text/plain', temp.innerText + '\n출처: ' + decodedUrl + postfix);
+        event.clipboardData.setData('text/html', '<pre data-ke-type="codeblock">' + temp.innerHTML + '</pre>' + '출처: <a href="' + url + '">' + decodedUrl + '</a>' + postfix);
+        event.preventDefault();
+    }
+
+    document.addEventListener('copy', copyWithSource);
+})()
+
+                    })()</script>
+
+        <!-- CallBack - END -->
+
+        <!-- NaverAnalytics - START -->
+        <script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
+<script type="text/javascript">if(!wcs_add) var wcs_add = {};
+   wcs_add["wa"] = encodeURI("16f8a2053bf9cd0");
+   wcs_do();</script>
+
+        <!-- NaverAnalytics - END -->
+
+        <!-- SyntaxHighlight - START -->
+        <link href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/styles/atom-one-light.min.css" rel="stylesheet"/><script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/highlight.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/delphi.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/php.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/python.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/r.min.js" defer></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/ruby.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/scala.min.js" defer></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/shell.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/sql.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/swift.min.js" defer></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/typescript.min.js" defer></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/vbnet.min.js" defer></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+
+
+        <!-- SyntaxHighlight - END -->
+
+                
+                <script>            (function (win, doc, src) {
+    win.Wpm = win.Wpm || function (name, param) {
+        win.Wpm.queue = win.Wpm.queue || [];
+        const { queue } = win.Wpm;
+        queue.push([name, param]);
+    };
+    const script = doc.createElement('script');
+    script.src = src;
+    script.async = 1;
+    const [elem] = doc.getElementsByTagName('script');
+    elem.parentNode.insertBefore(script, elem);
+})(window, document, 'https://t1.kakaocdn.net/malibu_prod/normal_wpm.js');
+            const APP_KEY = 'fd21bd1c091849f9a2555e49c43a73dd';
+            Wpm('appKey', APP_KEY);</script>
+<script type="text/javascript">(function($) {
+    $(document).ready(function() {
+        lightbox.options.fadeDuration = 200;
+        lightbox.options.resizeDuration = 200;
+        lightbox.options.wrapAround = false;
+        lightbox.options.albumLabel = "%1 / %2";
+    })
+})(tjQuery);</script>
+<div style="margin:0; padding:0; border:none; background:none; float:none; clear:none; z-index:0"></div>
+<script type="text/javascript" src="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/script/owner.js"></script>
+<script type="text/javascript" src="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/script/common.js"></script>
+<script type="text/javascript">window.roosevelt_params_queue = window.roosevelt_params_queue || [{channel_id: 'dk', channel_label: '{tistory}'}]</script>
+<script type="text/javascript" src="//t1.daumcdn.net/midas/rt/dk_bt/roosevelt_dk_bt.js" async="async"></script>
+<script type="text/javascript" src="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/script/menubar.min.js"></script>
+
+                
+                <script>window.tiara = {"svcDomain":"user.tistory.com","section":"글뷰","trackPage":"글뷰_보기","page":"글뷰","key":"178947-123","customProps":{"userId":"183107","blogId":"178947","entryId":"123","role":"owner","trackPage":"글뷰_보기","filterTarget":false},"entry":{"entryId":"123","categoryName":"R","categoryId":"1151852","author":"183107","image":"kage@bKR3LR/btsA27qppBJ/YQikXLYQJlkrwTkKS9IhKK","plink":"/123","tags":[]},"kakaoAppKey":"3e6ddd834b023f24221217e370daed18","appUserId":"1602669910"}</script>
+<script type="text/javascript" src="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/script/tiara.min.js"></script>
+
+                </body>
+
+</html>

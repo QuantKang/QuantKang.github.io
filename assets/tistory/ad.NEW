@@ -1,0 +1,2685 @@
+
+<!doctype html>
+<html lang="ko">
+	                                                                                <head>
+                <script type="text/javascript">if (!window.T) { window.T = {} }
+window.T.config = {"TOP_SSL_URL":"https://www.tistory.com","PREVIEW":false,"ROLE":"owner","PREV_PAGE":"","NEXT_PAGE":"","BLOG":{"id":178947,"name":"kongdori","title":"오렌지사과의 사진과 투자","isDormancy":false,"nickName":"오렌지사과키위","status":"open","profileStatus":"normal"},"NEED_COMMENT_LOGIN":false,"COMMENT_LOGIN_CONFIRM_MESSAGE":"","LOGIN_URL":"https://www.tistory.com/auth/login/?redirectUrl=https://kongdori.tistory.com/123","DEFAULT_URL":"https://kongdori.tistory.com","USER":{"name":"오렌지사과키위","homepage":"https://kongdori.tistory.com","id":183107,"profileImage":"https://tistory1.daumcdn.net/tistory/178947/attach/a7b5d8136d5143fd8a12038ae39a7d85"},"SUBSCRIPTION":{"status":"none","isConnected":false,"isPending":false,"isWait":false,"isProcessing":false,"isNone":true},"IS_LOGIN":true,"HAS_BLOG":true,"IS_SUPPORT":false,"TOP_URL":"http://www.tistory.com","JOIN_URL":"https://www.tistory.com/member/join","ROLE_GROUP":"member"};
+window.T.entryInfo = {"entryId":123,"isAuthor":true};
+window.appInfo = {"domain":"tistory.com","topUrl":"https://www.tistory.com","loginUrl":"https://www.tistory.com/auth/login","logoutUrl":"https://www.tistory.com/auth/logout"};
+window.initData = {"user":{"id":183107,"loginId":"jaeho.kang@gmail.com","name":"오렌지사과키위"}};
+
+window.TistoryBlog = {
+    basePath: "",
+    url: "https://kongdori.tistory.com",
+    tistoryUrl: "https://kongdori.tistory.com",
+    manageUrl: "https://kongdori.tistory.com/manage",
+    token: "JIjV6tSwhRNrfZOTJ9Z/ATvMhTK/6vkg7RFr86+ZIktV3msL8O1g31pQSTnHRIRa"
+};
+var servicePath = "";
+var blogURL = "";</script>
+
+                
+                
+                
+                        <!-- BusinessLicenseInfo - START -->
+        
+            <link href="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/plugin/BusinessLicenseInfo/style.css" rel="stylesheet" type="text/css"/>
+
+            <script>function switchFold(entryId) {
+    var businessLayer = document.getElementById("businessInfoLayer_" + entryId);
+
+    if (businessLayer) {
+        if (businessLayer.className.indexOf("unfold_license") > 0) {
+            businessLayer.className = "business_license_layer";
+        } else {
+            businessLayer.className = "business_license_layer unfold_license";
+        }
+    }
+}
+</script>
+
+        
+        <!-- BusinessLicenseInfo - END -->
+<!-- MetaTag - START -->
+
+<!-- MetaTag - END -->
+
+<!-- System - START -->
+
+<!-- System - END -->
+
+        <!-- GoogleSearchConsole - START -->
+        
+<!-- BEGIN GOOGLE_SITE_VERIFICATION -->
+<meta name="google-site-verification" content="4QF10voQuwIsG8Y8HKNywjMMzqO59HoviQKV0BPqmfc"/>
+<!-- END GOOGLE_SITE_VERIFICATION -->
+
+        <!-- GoogleSearchConsole - END -->
+
+        <!-- TistoryProfileLayer - START -->
+        <link href="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/plugin/TistoryProfileLayer/style.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/plugin/TistoryProfileLayer/script.js"></script>
+
+        <!-- TistoryProfileLayer - END -->
+
+                
+                <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="format-detection" content="telephone=no">
+<script src="//t1.daumcdn.net/tistory_admin/lib/jquery/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+<script src="//t1.daumcdn.net/tistory_admin/lib/lightbox/js/lightbox-v2.10.0.min.js" defer></script>
+<script type="text/javascript" src="//t1.daumcdn.net/tiara/js/v1/tiara.min.js"></script><meta name="referrer" content="always"/>
+<meta name="google-adsense-platform-account" content="ca-host-pub-9691043933427338"/>
+<meta name="google-adsense-platform-domain" content="tistory.com"/>
+<meta name="google-adsense-account" content="ca-pub-8120389152057270"/>
+<meta name="description" content="문제 국내 주요 지수인 KOSPI 200과 KOSDAQ 150을 추종하는 ETF로 KODEX 200과 KODEX 코스닥 150이 있다. 이 두 ETF에 대해 시가에 매수해서 종가에 매도하는 전략을 (이하 주간 매매 전략) 사용하면 수익을 얻을 수 있는가? 반대로 종가에 매수해서 다음날 시가에 매도하는 전략은 (이하 야간 매매 전략) 어떠한가? 요일별로 특이점이 있는가? 주의 Yahoo Finance 또는 Google Finance의 (Google Sheet에서 불러온 경우도 포함) 국내 시세 데이터는 완벽하지 않습니다. 결측값이 있거나 잘못된 값이 있는 경우가 꽤 있습니다. 실사용 목적으로는 보다 완전한 데이터를 이용하는 것이 바람직합니다. 여기에서 제시하는 결과는 통계적 유의성을 전혀 고려하지 않았습니.."/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="https://kongdori.tistory.com/123"/>
+<meta property="og.article.author" content="오렌지사과키위"/>
+<meta property="og:site_name" content="오렌지사과의 사진과 투자"/>
+<meta property="og:title" content="[R 연습] 국내 주요 지수를 추종하는 ETF의 요일별 밤낮 평균 수익률은?"/>
+<meta name="by" content="오렌지사과키위"/>
+<meta property="og:description" content="문제 국내 주요 지수인 KOSPI 200과 KOSDAQ 150을 추종하는 ETF로 KODEX 200과 KODEX 코스닥 150이 있다. 이 두 ETF에 대해 시가에 매수해서 종가에 매도하는 전략을 (이하 주간 매매 전략) 사용하면 수익을 얻을 수 있는가? 반대로 종가에 매수해서 다음날 시가에 매도하는 전략은 (이하 야간 매매 전략) 어떠한가? 요일별로 특이점이 있는가? 주의 Yahoo Finance 또는 Google Finance의 (Google Sheet에서 불러온 경우도 포함) 국내 시세 데이터는 완벽하지 않습니다. 결측값이 있거나 잘못된 값이 있는 경우가 꽤 있습니다. 실사용 목적으로는 보다 완전한 데이터를 이용하는 것이 바람직합니다. 여기에서 제시하는 결과는 통계적 유의성을 전혀 고려하지 않았습니.."/>
+<meta property="og:image" content="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbKR3LR%2FbtsA27qppBJ%2FYQikXLYQJlkrwTkKS9IhKK%2Fimg.png"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@TISTORY"/>
+<meta name="twitter:title" content="[R 연습] 국내 주요 지수를 추종하는 ETF의 요일별 밤낮 평균 수익률은?"/>
+<meta name="twitter:description" content="문제 국내 주요 지수인 KOSPI 200과 KOSDAQ 150을 추종하는 ETF로 KODEX 200과 KODEX 코스닥 150이 있다. 이 두 ETF에 대해 시가에 매수해서 종가에 매도하는 전략을 (이하 주간 매매 전략) 사용하면 수익을 얻을 수 있는가? 반대로 종가에 매수해서 다음날 시가에 매도하는 전략은 (이하 야간 매매 전략) 어떠한가? 요일별로 특이점이 있는가? 주의 Yahoo Finance 또는 Google Finance의 (Google Sheet에서 불러온 경우도 포함) 국내 시세 데이터는 완벽하지 않습니다. 결측값이 있거나 잘못된 값이 있는 경우가 꽤 있습니다. 실사용 목적으로는 보다 완전한 데이터를 이용하는 것이 바람직합니다. 여기에서 제시하는 결과는 통계적 유의성을 전혀 고려하지 않았습니.."/>
+<meta property="twitter:image" content="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbKR3LR%2FbtsA27qppBJ%2FYQikXLYQJlkrwTkKS9IhKK%2Fimg.png"/>
+<meta content="https://kongdori.tistory.com/123" property="dg:plink" content="https://kongdori.tistory.com/123"/>
+<meta name="plink"/>
+<meta name="title" content="[R 연습] 국내 주요 지수를 추종하는 ETF의 요일별 밤낮 평균 수익률은?"/>
+<meta name="article:media_name" content="오렌지사과의 사진과 투자"/>
+<meta property="article:mobile_url" content="https://kongdori.tistory.com/m/123"/>
+<meta property="article:pc_url" content="https://kongdori.tistory.com/123"/>
+<meta property="article:mobile_view_url" content="https://kongdori.tistory.com/m/123"/>
+<meta property="article:pc_view_url" content="https://kongdori.tistory.com/123"/>
+<meta property="article:talk_channel_view_url" content="https://kongdori.tistory.com/m/123"/>
+<meta property="article:pc_service_home" content="https://www.tistory.com"/>
+<meta property="article:mobile_service_home" content="https://www.tistory.com/m"/>
+<meta property="article:txid" content="178947_123"/>
+<meta property="article:published_time" content="2023-11-29T15:33:48+09:00"/>
+<meta property="og:regDate" content="20231129033348"/>
+<meta property="article:modified_time" content="2024-01-04T18:18:22+09:00"/>
+<link rel="icon" sizes="any" href="https://t1.daumcdn.net/tistory_admin/favicon/tistory_favicon_32x32.ico"/>
+<link rel="icon" type="image/svg+xml" href="https://t1.daumcdn.net/tistory_admin/top_v2/bi-tistory-favicon.svg"/>
+<link rel="apple-touch-icon" href="https://t1.daumcdn.net/tistory_admin/top_v2/tistory-apple-touch-favicon.png"/>
+<link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/lib/lightbox/css/lightbox.min.css"/>
+<link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/style/font.css"/>
+<link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/style/content.css"/>
+<link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/style/uselessPMargin.css"/>
+<script type="text/javascript">(function() {
+    var tjQuery = jQuery.noConflict(true);
+    window.tjQuery = tjQuery;
+    window.orgjQuery = window.jQuery; window.jQuery = tjQuery;
+    window.jQuery = window.orgjQuery; delete window.orgjQuery;
+})()</script>
+<script type="text/javascript" src="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/script/base.js"></script>
+<script type="text/javascript" src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
+
+                
+		<meta charset="UTF-8">
+		<meta name="viewport" content="initial-scale=1.0, width=device-width">
+		<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+		<title>[R 연습] 국내 주요 지수를 추종하는 ETF의 요일별 밤낮 평균 수익률은?</title>
+		<!-- <link rel="preconnect" href="https://fonts.googleapis.com"> -->
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&display=auto" as="font" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,400;0,600;1,400;1,600&display=auto" as="font" crossorigin="anonymous">
+		<link rel="preload" href="https://tistory1.daumcdn.net/tistory/178947/skin/style.css?_version_=1708062523" as="style">
+		<link rel="stylesheet" href="https://tistory1.daumcdn.net/tistory/178947/skin/style.css?_version_=1708062523">
+		<link rel="stylesheet" href="https://tistory1.daumcdn.net/tistory/178947/skin/images/custom.css?_version_=1708062523">
+		<style>
+			
+				@font-face {
+					font-family: 'IropkeBatang';
+					src: local(IropkeBatangM),
+						url('https://tistory1.daumcdn.net/tistory/178947/skin/images/iropkebatangm-webfont.woff2') format('woff2'),
+						url('https://tistory1.daumcdn.net/tistory/178947/skin/images/iropkebatangm-webfont.woff') format('woff');
+					font-weight: normal;
+					font-style: normal;
+					font-display: auto;
+				}
+				@font-face {
+					font-family: 'RIDIBatang';
+					src: local(RIDIBatang),
+						url("https://tistory1.daumcdn.net/tistory/178947/skin/images/RIDIBatang.woff2") format("woff2"),
+						url('https://tistory1.daumcdn.net/tistory/178947/skin/images/RIDIBatang.woff') format('woff');
+					font-weight: normal;
+					font-style: normal;
+					font-display: auto;
+				}
+			
+
+			/* font family */
+			html, button, textarea, input,
+			.container_postbtn .postbtn_like .wrap_btn .btn_post .uoc-icon .txt_like,
+			#tistoryEtcLayer .bundle_post .btn_mark, #tt-body-page div[data-ke-type='moreLess'] .btn-toggle-moreless,
+			.container_postbtn button em {
+				font-family: RIDIBatang,"Noto Sans DemiLight",AppleSDGothicNeo,"Malgun Gothic","맑은 고딕","돋움",dotum,sans-serif,'Font_Awesome_5_Free' !important;
+			}
+			figure[data-ke-type='opengraph'] div.og-text p.og-title,
+			#tt-body-page figure[data-ke-type='opengraph'] div.og-text p.og-title {
+				font-family: RIDIBatang,"Noto Sans DemiLight",AppleSDGothicNeo,"Malgun Gothic","맑은 고딕","돋움",dotum,sans-serif,'Font_Awesome_5_Free' !important;
+				font-size: 22px !important;
+				max-width: 100%;
+				margin-bottom: 5px !important
+			}
+			figure[data-ke-type='opengraph'] div.og-text p.og-desc,
+			#tt-body-page figure[data-ke-type='opengraph'] div.og-text p.og-desc {
+				font-family: RIDIBatang,"Noto Sans DemiLight",AppleSDGothicNeo,"Malgun Gothic","맑은 고딕","돋움",dotum,sans-serif,'Font_Awesome_5_Free' !important;
+				font-size: 15px !important;
+				max-height: none;
+			}
+			figure[data-ke-type='opengraph'] div.og-text p.og-host,
+			#tt-body-page figure[data-ke-type='opengraph'] div.og-text p.og-host {
+				font-family: RIDIBatang,"Noto Sans DemiLight",AppleSDGothicNeo,"Malgun Gothic","맑은 고딕","돋움",dotum,sans-serif,'Font_Awesome_5_Free' !important;
+				font-size: 14px !important;
+				bottom: 10px;
+			}
+
+			/* title position */
+			header p a {text-align: center}
+
+			/* round style */
+			
+				.content-wrapper, .content-title, .book-toc, .floating-toc-new {
+					border-radius: 5px;
+				}
+			
+
+			/* text underline style */
+			.content-article u {
+				text-decoration-style: center;
+			}
+			
+			/* font-size, line-height setting */
+			html {
+				font-size: 17px !important;
+			}
+			.content-article p {
+				line-height: 1.7 !important;
+			}
+			article .another_category h4:before,
+			article .tags h2, .related-articles h2, .comments h2,
+			article .another_category.another_category_color_gray a,
+			article .another_category.another_category_color_gray a.current,
+			.comment-list ul li .author-meta .control button:before,
+			.comment-list .tt_more_preview_comments_text, .comment-list ul li .reply,
+			.pagination, #blog-menu, article .another_category th:before,
+			#tt-body-page blockquote, .content-article > div > ol, .content-article > div > ul,
+			#tt-body-page div[data-ke-type='moreLess'] .btn-toggle-moreless,
+			.book-toc > p {
+				font-size: calc(1em * 0.9) !important;
+			}
+			#toc > li > a {
+				font-size: calc(1em * 0.9) !important;
+			}
+			#toc > li > ul > li > a {
+				font-size: calc(0.95em * 0.9) !important;
+			}
+			#toc > li > ul > li > ul > li > a {
+				font-size: calc(0.91em * 0.9) !important;
+			}
+			#toc-body #toc > li > a {
+				font-size: calc(0.91em * 0.9) !important;
+			}
+			#toc-body #toc > li > ul > li > a {
+				font-size: calc(0.87em * 0.9) !important;
+			}
+			#toc-body #toc > li > ul > li > ul > li > a {
+				font-size: calc(0.84em * 0.9) !important;
+			}
+			
+			#tt-body-page blockquote[data-ke-style='style1'] {
+				padding-top: calc(29px * 0.9) !important;
+				background-size: calc(23px * 0.9) !important;
+			}
+			h1, h1[data-ke-size] { font-size:calc(1.4em * 0.9) !important; }
+			h2, h2[data-ke-size] { font-size:calc(1.3em * 0.9) !important; }
+			h3, h3[data-ke-size] { font-size:calc(1.24em * 0.9) !important;}
+			h4, h4[data-ke-size] { font-size:calc(1.17em * 0.9) !important; }
+			#tt-body-page p[data-ke-size='size18'],
+			p[data-ke-size='size18'] { font-size: calc(1.12em * 0.9) !important; }
+			#tt-body-page p[data-ke-size='size16'],
+			p[data-ke-size='size16'] { font-size: calc(1.08em * 0.9) !important; }
+			#tt-body-page p[data-ke-size='size14'],
+			p[data-ke-size='size14'] { font-size: calc(0.9em * 0.9) !important; }
+			figure[data-ke-type='opengraph'] div.og-text p.og-title, #tt-body-page figure[data-ke-type='opengraph'] div.og-text p.og-title {
+				font-size: calc(1.22em * 0.9) !important;
+			}
+			.comment-list ul li p {
+				font-size: calc(0.9em * 0.9) !important;
+			}
+			.content-article pre code {
+				font-size: calc(0.85em * 0.9) !important;
+			}
+			figure[data-ke-type='opengraph'] div.og-text p.og-desc, #tt-body-page figure[data-ke-type='opengraph'] div.og-text p.og-desc {
+				font-size: calc(0.83em * 0.9) !important;
+			}
+			figure[data-ke-type='opengraph'] div.og-text p.og-host, #tt-body-page figure[data-ke-type='opengraph'] div.og-text p.og-host,
+			figure.fileblock .filename, #tt-body-page figure.fileblock .filename {
+				font-size: calc(0.77em * 0.9) !important;
+			}
+			figure.fileblock .size, #tt-body-page figure.fileblock .size {
+				font-size: calc(0.67em * 0.9) !important;
+			}
+			article .tags a, .comment-list ul li .author-meta {
+				font-size: calc(0.8125em * 0.9) !important;
+			}
+			.comment-form textarea, footer p, .content-title .category,
+			.content-title .meta {
+				font-size: calc(0.875em * 0.9) !important;
+			}
+			footer .copyright {
+				font-size: calc(0.8em * 0.9) !important;
+			}
+			.comment-form .submit button, .comment-form .submit .upload-image-label {
+				font-size: calc(0.77em * 0.9) !important;
+				width: calc(100px * 0.9);
+				height: calc(36px * 0.9);
+			}
+			.content-title .title-box {
+				height: calc(66px * 0.9) !important;
+			}
+			#blog-menu {
+				padding-top: calc(30px + 40px / 0.9);
+			}
+			@media (max-width: 767px) {
+				article .another_category h4:before,
+				article .tags h2, .related-articles h2, .comments h2,
+				article .another_category.another_category_color_gray a,
+				article .another_category.another_category_color_gray a.current,
+				.comment-list ul li .author-meta .control button:before,
+				.comment-list .tt_more_preview_comments_text, .comment-list ul li .reply,
+				.pagination, #blog-menu, article .another_category th:before,
+				#tt-body-page blockquote, .content-article > div > ol, .content-article > div > ul,
+				#tt-body-page div[data-ke-type='moreLess'] .btn-toggle-moreless,
+				.book-toc > p {
+					font-size: calc(1em * 0.9 * 0.9) !important;
+				}
+				#toc > li > a {
+					font-size: calc(1em * 0.9 * 0.9) !important;
+				}
+				#toc > li > ul > li > a {
+					font-size: calc(0.95em * 0.9 * 0.9) !important;
+				}
+				#toc > li > ul > li > ul > li > a {
+					font-size: calc(0.91em * 0.9 * 0.9) !important;
+				}
+				#toc-body #toc > li > a {
+					font-size: calc(0.91em * 0.9 * 0.9) !important;
+				}
+				#toc-body #toc > li > ul > li > a {
+					font-size: calc(0.87em * 0.9 * 0.9) !important;
+				}
+				#toc-body #toc > li > ul > li > ul > li > a {
+					font-size: calc(0.84em * 0.9 * 0.9) !important;
+				}
+				#tt-body-page blockquote[data-ke-style='style1'] {
+					padding-top: calc(29px * 0.9 * 0.9) !important;
+					background-size: calc(23px * 0.9 * 0.9) !important;
+				}
+				h1, h1[data-ke-size] { font-size:calc(1.4em * 0.9 * 0.9) !important; }
+				h2, h2[data-ke-size] { font-size:calc(1.3em * 0.9 * 0.9) !important; }
+				h3, h3[data-ke-size] { font-size:calc(1.24em * 0.9 * 0.9) !important;}
+				h4, h4[data-ke-size] { font-size:calc(1.17em * 0.9 * 0.9) !important; }
+				#tt-body-page p[data-ke-size='size18'],
+				p[data-ke-size='size18'] { font-size: calc(1.12em * 0.9 * 0.9) !important; }
+				#tt-body-page p[data-ke-size='size16'],
+				p[data-ke-size='size16'] { font-size: calc(1.08em * 0.9 * 0.9) !important; }
+				#tt-body-page p[data-ke-size='size14'],
+				p[data-ke-size='size14'] { font-size: calc(0.9em * 0.9 * 0.9) !important; }
+				figure[data-ke-type='opengraph'] div.og-text p.og-title, #tt-body-page figure[data-ke-type='opengraph'] div.og-text p.og-title {
+					font-size: calc(1.22em * 0.9 * 0.9) !important;
+					margin-bottom: 10px !important;
+				}
+				.comment-list ul li p {
+					font-size: calc(0.9em * 0.9 * 0.9) !important;
+				}
+				.content-article pre code {
+					font-size: calc(0.85em * 0.9 * 0.9) !important;
+				}
+				figure[data-ke-type='opengraph'] div.og-text p.og-desc, #tt-body-page figure[data-ke-type='opengraph'] div.og-text p.og-desc {
+					font-size: calc(0.83em * 0.9 * 0.9) !important;
+				}
+				figure[data-ke-type='opengraph'] div.og-text p.og-host, #tt-body-page figure[data-ke-type='opengraph'] div.og-text p.og-host {
+					font-size: calc(0.77em * 0.9 * 0.9) !important;
+				}
+				article .tags a, .comment-list ul li .author-meta {
+					font-size: calc(0.8125em * 0.9 * 0.9) !important;
+				}
+				.comment-form textarea, footer p, .content-title .category,
+				.content-title .meta {
+					font-size: calc(0.875em * 0.9 * 0.9) !important;
+				}
+				footer .copyright {
+					font-size: calc(0.8em * 0.9 * 0.9) !important;
+				}
+				.comment-form .submit button, .comment-form .submit .upload-image-label {
+					font-size: calc(0.77em * 0.9 * 0.9) !important;
+					width: calc(100px * 0.9 * 0.9);
+					height: calc(36px * 0.9 * 0.9);
+				}
+				.content-title .title-box {
+					height: calc(99px * 0.9 * 0.9) !important;
+				}
+				#blog-menu {
+					padding-top: calc(30px + 40px / 0.9 / 0.9);
+				}
+			}
+			@media (max-width: 600px) {
+				p[data-ke-size='size14'] { font-size: calc(0.9em * 0.9 * 0.9) !important; }
+				figure[data-ke-type='opengraph'] div.og-text p.og-title, #tt-body-page figure[data-ke-type='opengraph'] div.og-text p.og-title {
+					font-size: calc(1.0em * 0.9 * 0.9) !important;
+				}
+			}
+			/* shadow effect */
+			
+
+			
+				.layer_post {
+					box-shadow: none !important;
+				}
+			
+
+			/* etc settings */
+			
+			.sidebar .best-post ul li:nth-child(1) {
+				font-size: 0.94em;
+				font-weight: bold;
+			}
+			
+			
+			
+			
+			
+			
+			
+			.sidebar .d-day li:nth-child(1) .d-day-text {
+				color: #FF5400
+			}
+			
+			
+			
+			
+			
+
+			
+				.sidebar #recommend-ads.revenue_unit_item.adsense {
+					height:  960px;
+				}
+				.sidebar #recommend-ads > ins {
+					height: calc(960px - 20px) !important;
+				}
+			
+
+			
+			
+				article {
+					float: right;
+				}
+				aside {
+					float: left;
+				}
+			
+			
+			
+				section, footer, header, .floating-toc-new:after {
+					background-image: url('https://tistory1.daumcdn.net/tistory/178947/skin/images/paper.jpg');
+				}
+			
+			
+			
+				header p a {color:#353535}
+			
+
+			
+				#blog-menu ul li a {color:#353535}
+			
+
+			
+				header:after, section:after, footer:after, .content-title:after, .top-button .menu button:before,
+				.book-toc:after, .top-button .menu button:before, .move-top-btn:before, .move-comment-btn:before, .floating-toc-new,
+				.mobile-menu aside:after, .toast-wrap:after, .share-btn:before, .dark-mode-on-btn:before, .dark-mode-off-btn:before, .font-size-up-btn:before, .font-size-down-btn:before,
+				#toc-body::-webkit-scrollbar-track, ::-webkit-scrollbar-track {background-color:#FFFFFF}
+
+				.cover-list ul li a, .post-item a, .cover-special ul li,
+				article > .inner > ul li a {
+					background: #FFFFFF1A;
+				}
+				.comment-list ul li .author-meta .control .link a {
+					background: #FFFFFFDD;
+				}
+			
+			
+			
+				.sidebar h2 {background-color:#FFF6F6}
+			
+
+			
+				.sidebar h2, .sidebar h2 a {color:#353535}
+			
+			
+			
+				.sidebar .category .c_cnt,
+				article .another_category th a,
+				.pagination .next:before,
+				.pagination .prev:before, .content-title .meta a,
+				.content-article h2 button, .content-title .category, .content-title .meta,
+				.content-article h3 button, #tt-body-search .post-header h1 span:before,
+				.content-article h4 button, .tags a:before, #tt-body-tag .post-header h1 span:before, .cover-special ul li .category,
+				.more-reply, #toc-title p, .search button:before, .content-article a, .toast, .change-font-btn, .post-item .meta .category,
+				.content-article .book-toc p, .content-article .book-toc p span#toggle, .cover-list ul li .meta .category, article > .inner > ul li .meta .category,
+				.comments h2 .count, article .another_category th:before, .post-header h1 em, .bgm-btn, .dark-mode-btn-dark, .dark-mode-btn-default,
+				.move-top-btn:after, .move-comment-btn:after, .top-button .menu button:after, .post-header h1:before, article h2:before, .content-article .copy-title-btn,
+				.share-btn:after,.dark-mode-on-btn:after,.dark-mode-off-btn:after, .font-size-up-btn:after, .font-size-down-btn:after,
+				#toc > li a:after, #toc > li > ul > li a:after, #toc > li > ul > li > ul > li a:after {color:#FF565E}
+				#toc-title p #toggle, .floating-icon:after, .sidebar .recent-comment ul li a:before, .sidebar .archives ul li a:before,
+				.sidebar .notice ul li a:before, .sidebar .best-post ul li a:before, .sidebar .d-day ul li span:first-child:before,
+				.sidebar .category .category_list .link_item:before, .bgm-header, h2 .bgm-btn,
+				.sidebar .category .sub_category_list .link_sub_item:before,
+				#toc > li:before, #toc > li > ul > li:before, #toc > li > ul > li > ul > li:before {color:#FF565E !important;opacity:0.7;}
+				
+					.content-article h2 {border-left: #FF565Eff 12px solid !important;border-bottom: 0px solid #FF565Eff !important;}
+					.content-article h3 {border-left: #FF565Ecc 10px solid !important;border-bottom: 0px solid #FF565Ecc !important;}
+					.content-article h4 {border-left: #FF565E88 8px solid !important;border-bottom: 0px solid #FF565E88 !important;}
+				
+				
+				.comment-form .submit button, .comment-form .submit .upload-image-label,
+				.progress-bar-vertical, .progress-bar-horizontal,
+				.progress-bar-etc-vertical, .progress-bar-etc-horizontal,
+				.sidebar .close:before, .sidebar .close:after {background-color:#FF565E}
+				.move-top-btn, .move-comment-btn, .top-button .menu button, .sidebar .close, .top-button .profile button,
+				.share-btn, .dark-mode-on-btn, .dark-mode-off-btn, .font-size-up-btn, .font-size-down-btn, .toast-wrap
+				{border: 1px solid #FF565E55 !important}
+				.comment-list ul li .author-meta .control .link a {border: 1px solid #FF565E55}
+				::-webkit-scrollbar-thumb, #toc-body::-webkit-scrollbar-thumb {background-color:#FF565E55 !important}
+				.search input {border-bottom: 1px solid #FF565E55;}
+				article .another_category.another_category_color_gray a, .comment-list ul li .author-meta .control button:before,
+				.comment-list .tt_more_preview_comments_text, .content-box .content-arrow {
+					color:#FF565E !important;
+				}
+				.sidebar .category ul li ul li {
+					border-bottom: 1px dotted #FF565E55;
+				}
+				.comment-list ul li ul li:after {
+					background: linear-gradient(90deg, #FF565E55, transparent 50%);
+				}
+				.content-box {
+					background-color: #FFF6F6cc;
+					color: #353535;
+				}
+				.content-box a {
+					color: #353535;
+				}
+				.content-comment {
+					background-color: #FF565E33;
+				}
+				.content-article u {
+					text-decoration-color: #FF565E99;
+				}
+				.content-close-btn:after {
+					color: #FF565Eff;
+				}
+			
+				/* custom border size */
+			  
+					.container_postbtn .postbtn_like + .btn_menu_toolbar{
+						height: calc(30px + (1px * 2));
+					}
+					.bgm-title-wrap {
+						width: calc(220px - 1px);
+					}
+				
+
+				/* solid style */
+				
+					.comment-form .field {
+						border: 0px;
+					}
+					.comment-form .field input[type=text] {
+						border-top: 1px solid #FF565E55;
+						border-left: 1px solid #FF565E55;
+					}
+					.comment-form .field input[type=password] {
+						border-top: 1px solid #FF565E55;
+						border-left: 1px solid #FF565E55;
+						border-right: 1px solid #FF565E55;
+					}
+					.container_postbtn .postbtn_like,
+					.container_postbtn .btn_menu_toolbar {
+						border: 1px solid #FF565E55 !important;
+					}
+					.comment-list ul li, .comment-list ul li ul li {
+						border-top: 1px dotted #FF565E55;
+						border-bottom: 0px;
+					}
+					.comment-list {
+						border-bottom: 1px dotted #FF565E55;
+					}
+					.sidebar .category, .sidebar .notice, .sidebar .recent, .sidebar .profile-info, 
+					.sidebar .popular, .sidebar .recent-comment, .sidebar .tags, #tistorySnsLayer.layer_post,
+					.sidebar .count, .sidebar .module_plugin, .archives, .comment-form textarea,
+					.comment-list .tt_more_preview_comments_text, .sidebar .best-post, .sidebar .d-day,
+					figure.fileblock, #tt-body-page figure.fileblock {
+						border: 1px solid #FF565E55;
+					}
+					#___gcse_1 {
+						border: 1px solid #FF565E55;
+					}
+					.gsc-input-box {
+						border: 1px solid #FF565E55 !important;
+					}			
+					.gsc-search-button-v2 {
+						border: 1px solid #FF565E !important;
+						background-color: #FF565E !important;
+					}
+				
+				
+					section .content-wrapper {
+						border: 1px solid #FF565E55;
+					}
+				
+				
+					.content-title {
+						border: 1px solid #FF565E55;
+					}
+				
+				
+					.floating-toc-new, .book-toc {
+						border: 1px solid #FF565E55;
+					}
+				
+				
+					figure[data-ke-type='opengraph'], #tt-body-page figure[data-ke-type='opengraph'] {
+						border: 1px solid #FF565E55;
+					}
+				
+				
+					.cover-list ul li, .post-item a, .cover-special ul li, article > .inner > ul li {
+						border: 1px solid #FF565E55;
+					}
+				
+				
+				
+					figure.imageblock span[data-lightbox], #tt-body-page figure.imageblock span[data-lightbox],
+					figure.imagegridblock > div > span > img, #tt-body-page figure.imagegridblock > div > span > img {
+						border: 1px solid #FF565E55;
+					}
+					figure.imageblock span[data-lightbox], #tt-body-page figure.imageblock span[data-lightbox] {
+						display: flex;
+					}
+				
+			
+			
+			/* custom dark mode color */
+			
+				
+					body.dark-mode header p a {color:#FEDFD3}
+				
+
+				
+					body.dark-mode #blog-menu ul li a {color:#F9D8D8}
+				
+
+				
+					body.dark-mode header:after, body.dark-mode section:after, body.dark-mode footer:after, body.dark-mode .content-title:after, body.dark-mode .top-button .menu button:before,
+					body.dark-mode .book-toc:after, body.dark-mode .top-button .menu button:before, body.dark-mode .move-top-btn:before, .move-comment-btn:before,
+					body.dark-mode .mobile-menu aside:after, body.dark-mode .toast-wrap:after, body.dark-mode .share-btn:before, body.dark-mode .dark-mode-on-btn:before, body.dark-mode .dark-mode-off-btn:before, body.dark-mode .font-size-up-btn:before, body.dark-mode .font-size-down-btn:before
+					{background-color:#F9D8D8}
+
+					body.dark-mode .cover-list ul li a, body.dark-mode .post-item a, body.dark-mode .cover-special ul li, body.dark-mode .floating-toc-new,
+					body.dark-mode article > .inner > ul li a {
+						background: #F9D8D81A;
+					}
+				
+			
+				
+					body.dark-mode .sidebar h2 {background-color:#111111 !important}
+				
+
+				
+					body.dark-mode .sidebar h2, body.dark-mode .sidebar h2 a {color:#FFBE9B !important}
+				
+			
+				
+					body.dark-mode .sidebar .category .c_cnt,
+					body.dark-mode article .another_category th a,
+					body.dark-mode .pagination .next:before,
+					body.dark-mode .pagination .prev:before, body.dark-mode .content-title .meta a,
+					body.dark-mode .content-article h2 button, body.dark-mode .content-title .category, body.dark-mode .content-title .meta,
+					body.dark-mode .content-article h3 button, body.dark-mode #tt-body-search .post-header h1 span:before,
+					body.dark-mode .content-article h4 button, body.dark-mode .tags a:before, body.dark-mode #tt-body-tag .post-header h1 span:before, body.dark-mode .cover-special ul li .category,
+					body.dark-mode .more-reply, body.dark-mode #toc-title p, body.dark-mode .search button:before, body.dark-mode .content-article a, body.dark-mode .toast, body.dark-mode .change-font-btn, body.dark-mode .post-item .meta .category,
+					body.dark-mode .content-article .book-toc p, body.dark-mode .content-article .book-toc p span#toggle, body.dark-mode #toc > li:before, body.dark-mode #toc > li > ul > li:before, body.dark-mode #toc > li > ul > li > ul > li:before, body.dark-mode .cover-list ul li .meta .category, body.dark-mode article > .inner > ul li .meta .category,
+					body.dark-mode .comments h2 .count, body.dark-mode article .another_category th:before, body.dark-mode .post-header h1 em, body.dark-mode .bgm-btn, body.dark-mode .dark-mode-btn-dark, body.dark-mode .dark-mode-btn-default,
+					body.dark-mode .move-top-btn:after, body.dark-mode .move-comment-btn:after, body.dark-mode .top-button .menu button:after, body.dark-mode .post-header h1:before, body.dark-mode article h2:before, body.dark-mode .content-article .copy-title-btn,
+					body.dark-mode .share-btn:after, body.dark-mode .dark-mode-on-btn:after, body.dark-mode .dark-mode-off-btn:after, body.dark-mode .font-size-up-btn:after, body.dark-mode .font-size-down-btn:after,
+					body.dark-mode #toc > li a:after, body.dark-mode #toc > li > ul > li a:after, body.dark-mode #toc > li > ul > li > ul > li a:after {color:#FF935B}
+					body.dark-mode #toc-title p #toggle, body.dark-mode .floating-icon:after, body.dark-mode .sidebar .recent-comment ul li a:before, body.dark-mode .sidebar .archives ul li a:before,
+					body.dark-mode .sidebar .notice ul li a:before, body.dark-mode .sidebar .best-post ul li a:before, body.dark-mode .sidebar .d-day ul li span:first-child:before,
+					body.dark-mode .sidebar .category .category_list .link_item:before, body.dark-mode .bgm-header, body.dark-mode h2 .bgm-btn,
+					body.dark-mode .sidebar .category .sub_category_list .link_sub_item:before,
+					body.dark-mode #toc > li:before, body.dark-mode #toc > li > ul > li:before, body.dark-mode #toc > li > ul > li > ul > li:before {color:#FF935B !important;opacity:0.7;}
+					body.dark-mode .content-article h2 {border-left: #FF935Bff 12px solid !important;border-bottom: 0px solid #FF935Bff !important;}
+					body.dark-mode .content-article h3 {border-left: #FF935Bcc 10px solid !important;border-bottom: 0px solid #FF935Bcc !important;}
+					body.dark-mode .content-article h4 {border-left: #FF935B88 8px solid !important;border-bottom: 0px solid #FF935B88 !important;}
+					body.dark-mode .comment-form .submit button, body.dark-mode .comment-form .submit .upload-image-label,
+					body.dark-mode .progress-bar-vertical, body.dark-mode .progress-bar-horizontal,
+					body.dark-mode .progress-bar-etc-vertical, body.dark-mode .progress-bar-etc-horizontal,
+					body.dark-mode .sidebar .close:before, body.dark-mode .sidebar .close:after {background-color:#FF935B}
+					body.dark-mode .move-top-btn, body.dark-mode .move-comment-btn, body.dark-mode .top-button .menu button, body.dark-mode .sidebar .close, body.dark-mode .top-button .profile button,
+					body.dark-mode .share-btn, body.dark-mode .dark-mode-on-btn, body.dark-mode .dark-mode-off-btn, body.dark-mode .font-size-up-btn, body.dark-mode .font-size-down-btn, body.dark-mode .toast-wrap
+					{border: 1px solid #FF935B55 !important}
+					body.dark-mode .search input {border-bottom: 1px solid #FF935B55;}
+					body.dark-mode article .another_category.another_category_color_gray a, body.dark-mode .comment-list ul li .author-meta .control button:before,
+					body.dark-mode .comment-list .tt_more_preview_comments_text, body.dark-mode .content-box .content-arrow {
+						color:#FF935B !important;
+					}
+					body.dark-mode .sidebar .category ul li ul li {
+						border-bottom: 1px dotted #FF935B55;
+					}
+					body.dark-mode .comment-list ul li ul li:after {
+						background: linear-gradient(90deg, #FF565E55, transparent 50%);
+					}
+					body.dark-mode .content-box {
+						background-color: #11111199;
+						color: #FFBE9B;
+					}
+					body.dark-mode .content-box a {
+						color: #FFBE9B;
+					}
+					body.dark-mode .content-comment {
+						background-color: #FF935B33;
+					}
+					body.dark-mode .content-article u {
+						text-decoration-color: #FF935B99;
+					}
+					body.dark-mode .content-close-btn:after {
+						color: #FF935Bff;
+					}
+
+					/* solid style */
+					
+						body.dark-mode .comment-form .field {
+							border: 0px;
+						}
+						body.dark-mode .comment-form .field input[type=password] {
+							border-top: 1px solid #FF935B55;
+							border-left: 1px solid #FF935B55;
+							border-right: 1px solid #FF935B55;
+						}
+						body.dark-mode .comment-form .field input[type=text] {
+							border-top: 1px solid #FF935B55;
+							border-left: 1px solid #FF935B55;
+						}
+
+						body.dark-mode .container_postbtn .postbtn_like,
+						body.dark-mode .container_postbtn .btn_menu_toolbar {
+							border: 1px solid #FF935B55 !important;
+						}
+						body.dark-mode .comment-list, body.dark-mode .comment-list ul li ul li {
+							border-top: 1px dotted #FF935B55;
+						}
+						body.dark-mode .sidebar .category, body.dark-mode .sidebar .notice, body.dark-mode .sidebar .recent, body.dark-mode .sidebar .profile-info, 
+						body.dark-mode .sidebar .popular, body.dark-mode .sidebar .recent-comment, body.dark-mode .sidebar .tags, body.dark-mode #tistorySnsLayer.layer_post,
+						body.dark-mode .sidebar .count, body.dark-mode .sidebar .module_plugin, body.dark-mode .archives, body.dark-mode .comment-form textarea,
+						body.dark-mode .comment-list .tt_more_preview_comments_text, body.dark-mode .sidebar .best-post, body.dark-mode .sidebar .d-day,
+						body.dark-mode figure.fileblock, body.dark-mode #tt-body-page figure.fileblock {
+							border: 1px solid #FF935B55;
+						}
+					
+					
+						body.dark-mode section .content-wrapper {
+							border: 1px solid #FF935B55;
+						}
+					
+					
+						body.dark-mode .content-title {
+							border: 1px solid #FF935B55;
+						}
+					
+					
+						body.dark-mode .floating-toc-new, body.dark-mode .book-toc {
+							border: 1px solid #FF935B55;
+						}
+					
+					
+						body.dark-mode figure[data-ke-type='opengraph'], body.dark-mode #tt-body-page figure[data-ke-type='opengraph'] {
+							border: 1px solid #FF935B55 !important;
+						}
+					
+					
+						body.dark-mode .cover-list ul li, body.dark-mode .post-item a, body.dark-mode .cover-special ul li, body.dark-mode article > .inner > ul li {
+							border: 1px solid #FF935B55;
+						}
+					
+					
+					
+						body.dark-mode figure.imageblock, body.dark-mode #tt-body-page figure.imageblock,
+						body.dark-mode figure.imagegridblock > div > span > img, body.dark-mode #tt-body-page figure.imagegridblock > div > span > img {
+							border: 1px solid #FF935B55 !important;
+						}
+					
+				
+			
+			
+			
+				body.dark-mode .content-article p span:not(#toggle),
+				body.dark-mode .content-article li,
+				body.dark-mode blockquote[data-ke-style='style3'], body.dark-mode #tt-body-page blockquote[data-ke-style='style3'],
+				body.dark-mode table, body.dark-mode table span {
+					color: #d6d6d6 !important;
+					background-color: transparent !important;
+				}
+			
+
+			
+			
+				.post-item .title {-webkit-line-clamp:2;}
+			
+			
+				.post-item .excerpt {-webkit-line-clamp:3}
+			
+			
+			
+			
+				.sidebar .category .category_list .link_item:before {content: "\f107"}
+			
+			
+				.sidebar .category .sub_category_list .link_sub_item:before {content: "\f105"}
+			
+			
+				.fold:before {content: "\f106" !important}
+			
+			
+				#toc > li:before {content: "\f0d7" !important}
+				#toc > li a:after {content:"\f060" !important;font-size:0.8em;margin-left:5px;opacity:0;}
+				#toc > li a.selected:after {opacity:1;}
+			
+			
+				#toc > li ul li:before {content: "\2022" !important}
+				#toc > li ul li a:after {content:"\f060" !important;font-size:0.8em;margin-left:5px;opacity:0;}
+				#toc > li ul li a.selected:after {opacity:1;}
+			
+			
+				#toc > li ul li ul li:before {content: "\2219" !important}
+				#toc > li ul li ul li a:after {content:"\f060" !important;font-size:0.8em;margin-left:5px;opacity:0;}
+				#toc > li ul li ul li a.selected:after {opacity:1;}
+			
+			
+			
+				.floating-toc-new #toc-body #toc {
+					width: max-content;
+				}
+			
+			
+				section .content-wrapper {max-width:1100px;}
+				header .inner {max-width:calc(1100px + 40px);}
+				footer .inner {max-width:calc(1100px + 40px);}
+				article {width:calc(1100px - 341px - 1px);}
+				.cover-special ul li img {
+					width: calc((1100px - 356px - 1px) * 0.5);
+					height: calc((1100px - 356px - 1px) * 0.5);
+				}
+				@media (max-width: calc(1100px + 42px)) {					
+					#aside-top-blank {
+						display: none !important;
+					}
+					section .content-wrapper {
+						width: initial !important;
+						padding: 10px;
+					}
+					.cover-special ul li img {
+						width: calc((100vw - 48px - 1px) * 0.5) !important;
+						height: calc((100vw - 48px - 1px) * 0.5) !important;
+					}
+					.top-button {
+						position: fixed;
+					}
+					.top-button .profile {
+						display: none;
+					}
+					.top-button .menu {
+						display: block;
+						position: relative;
+						float: left;
+						margin-left: 14px;
+					}
+					.top-button .menu button {
+						display: flex;
+						overflow: hidden;
+						width: 32px;
+						height: 32px;
+						border-radius: 50%;
+						background-color: #fff;
+						align-items: center;
+						justify-content: center;
+					}
+					.top-button .menu button:before {
+						content: "";
+						position: absolute;
+						width: 100%;
+						height: 100%;
+						top: 0;
+						left: 0;
+						opacity: 0.1;
+						border-radius: 50%;
+					}
+					.top-button .menu button:after {
+						content: "\f0c9";
+						position: absolute;
+						visibility: visible;
+						font-family: 'Font_Awesome_5_Free';
+					}
+					article {
+						max-width: 1100px;
+						width: initial !important;
+						float: none !important;
+						width: auto;
+						padding-left: 0px;
+					}
+					.mobile-menu aside {
+						right: 0;
+						padding-left: 1px;
+						padding-right: 1px;
+					}
+					.mobile-menu aside:after {
+						content: "";
+						position: fixed;
+						width: 100%;
+						height: 100%;
+						top: 0;
+						z-index: -1;
+						opacity: 0.1;
+					}
+					.sidebar {
+						position: fixed;
+						top: 0;
+						right: -313px;
+						z-index: 202;
+						float: none;
+						overflow-y: auto;
+						overflow-x: hidden;
+						width: 313px;
+						height: 100%;
+						padding: 70px 0 0 0;
+						background-color: #fff;
+						box-sizing: border-box;
+						transition: left 0.3s;
+						-webkit-transition: right 0.3s;
+					}
+					.sidebar .close {
+						position: absolute;
+						top: 10px;
+						right: 10px;
+						display: block;
+						width: 30px;
+						height: 30px;
+						border-radius: 50%;
+						text-indent: -999em;
+						outline: none;
+					}
+					.sidebar .close span {display: none;}
+					.sidebar .close:before,
+					.sidebar .close:after {
+						content: "";
+						position: absolute;
+						top: 50%;
+						left: 50%;
+						width: 16px;
+						height: 1px;
+						margin: 0 0 0 -8px;
+					}
+					.sidebar .close:before {
+						transform: rotate(-45deg);
+					}
+					.sidebar .close:after {
+						transform: rotate(45deg);
+					}
+
+					.sidebar .profile {
+						display: block;
+						position: relative;
+						margin-bottom: -40px;
+					}
+					.sidebar .profile:before {
+						content: "";
+						position: absolute;
+						top: 0;
+						z-index: 0;
+						width: 100%;
+						height: 100%;
+						background-color: #f5f5f5;
+						padding-right: 28px;
+					}
+					.sidebar .profile ul {
+						position: relative;
+						z-index: 10;
+						text-align: center;
+					}
+					.sidebar .profile ul li {
+						display: inline-block;
+						padding: 16px 0 18px;
+						font-size: 0.875em;
+						color: #555;
+						vertical-align: middle;
+					}
+					.sidebar .profile ul li a {
+						display: inline-block;
+						vertical-align: middle;
+					}
+					.sidebar .profile ul li:before {
+						content: "";
+						display: inline-block;
+						width: 1px;
+						height: 7px;
+						margin: 0 30px 0 26px;
+						background-size: 200px auto;
+						vertical-align: middle;
+					}
+					.sidebar .profile ul li:first-child:before {
+						content: none;
+					}
+					.content-title h1 {
+						-webkit-line-clamp: 3;
+					}
+					.content-title .title-box {
+						height: 99px;
+					}
+					.comment-list ul li ul li .author-meta {
+						padding-left: 95px;
+					}
+					.comment-list ul li .author-meta .date {
+						display: block;
+						margin-left: -13px;
+					}
+					.comment-list ul li ul li p {
+						padding-left: 25px;
+					}
+					.comment-list ul li p {
+						padding: 25px 0 15px 5px;
+					}
+					.comment-list ul li ul li {
+						padding: 15px 0 0 0;
+					}
+					.comment-list ul li {
+						padding: 15px 0 0 0;
+					}
+					.more-reply {
+						margin-bottom: 0;
+					}
+				}
+				@media (max-width: 1079px) {
+					#aside-top-blank {
+						display: none !important;
+					}
+					.cover-special ul li img {
+						width: calc((100vw - 48px - 1px) * 0.5) !important;
+						height: calc((100vw - 48px - 1px) * 0.5) !important;
+					}
+					.top-button {
+						position: fixed;
+					}
+					.top-button .profile {
+						display: none;
+					}
+					.top-button .menu {
+						display: block;
+						position: relative;
+						float: left;
+						margin-left: 14px;
+					}
+					.top-button .menu button {
+						display: flex;
+						overflow: hidden;
+						width: 32px;
+						height: 32px;
+						border-radius: 50%;
+						background-color: #fff;
+						align-items: center;
+						justify-content: center;
+					}
+					.top-button .menu button:before {
+						content: "";
+						position: absolute;
+						width: 100%;
+						height: 100%;
+						top: 0;
+						left: 0;
+						opacity: 0.1;
+						border-radius: 50%;
+					}
+					.top-button .menu button:after {
+						content: "\f0c9";
+						position: absolute;
+						visibility: visible;
+						font-family: 'Font_Awesome_5_Free';
+					}
+					article {
+						float: none !important;
+						width: auto;
+						padding-left: 0px;
+						padding-right: 0px;
+					}
+					.mobile-menu aside {
+						right: 0;
+						padding-left: 1px;
+						padding-right: 1px;
+					}
+					.mobile-menu aside:after {
+						content: "";
+						position: fixed;
+						width: 100%;
+						height: 100%;
+						top: 0;
+						z-index: -1;
+						opacity: 0.1;
+					}
+					.sidebar {
+						position: fixed;
+						top: 0;
+						right: -313px;
+						z-index: 202;
+						float: none;
+						overflow-y: auto;
+						overflow-x: hidden;
+						width: 313px;
+						height: 100%;
+						padding: 70px 0 0 0;
+						background-color: #fff;
+						box-sizing: border-box;
+						transition: left 0.3s;
+						-webkit-transition: right 0.3s;
+					}
+					.sidebar .close {
+						position: absolute;
+						top: 10px;
+						right: 10px;
+						display: block;
+						width: 30px;
+						height: 30px;
+						border-radius: 50%;
+						text-indent: -999em;
+						outline: none;
+					}
+					.sidebar .close span {display: none;}
+					.sidebar .close:before,
+					.sidebar .close:after {
+						content: "";
+						position: absolute;
+						top: 50%;
+						left: 50%;
+						width: 16px;
+						height: 1px;
+						margin: 0 0 0 -8px;
+					}
+					.sidebar .close:before {
+						transform: rotate(-45deg);
+					}
+					.sidebar .close:after {
+						transform: rotate(45deg);
+					}
+
+					.sidebar .profile {
+						display: block;
+						position: relative;
+						margin-bottom: -40px;
+					}
+					.sidebar .profile:before {
+						content: "";
+						position: absolute;
+						top: 0;
+						z-index: 0;
+						width: 100%;
+						height: 100%;
+						background-color: #f5f5f5;
+						padding-right: 28px;
+					}
+					.sidebar .profile ul {
+						position: relative;
+						z-index: 10;
+						text-align: center;
+					}
+					.sidebar .profile ul li {
+						display: inline-block;
+						padding: 16px 0 18px;
+						font-size: 0.875em;
+						color: #555;
+						vertical-align: middle;
+					}
+					.sidebar .profile ul li a {
+						display: inline-block;
+						vertical-align: middle;
+					}
+					.sidebar .profile ul li:before {
+						content: "";
+						display: inline-block;
+						width: 1px;
+						height: 7px;
+						margin: 0 30px 0 26px;
+						background-size: 200px auto;
+						vertical-align: middle;
+					}
+					.sidebar .profile ul li:first-child:before {
+						content: none;
+					}
+					.content-title h1 {
+						-webkit-line-clamp: 3;
+					}
+					.content-title .title-box {
+						height: 99px;
+					}
+					.comment-list ul li ul li .author-meta {
+						padding-left: 95px;
+					}
+					.comment-list ul li .author-meta .date {
+						display: block;
+						margin-left: -13px;
+					}
+					.comment-list ul li ul li p {
+						padding-left: 25px;
+					}
+					.comment-list ul li p {
+						padding: 25px 0 15px 5px;
+					}
+					.comment-list ul li ul li {
+						padding: 15px 0 0 0;
+					}
+					.comment-list ul li {
+						padding: 15px 0 0 0;
+					}
+					.more-reply {
+						margin-bottom: 0;
+					}
+					#blog-menu {
+						float: none;
+					}
+				}
+				@media (max-width: 767px) {
+					.cover-special ul li img {
+						width: calc(100vw - 30px) !important;
+						height: calc(100vw - 30px) !important;
+						float: none;
+					}
+				}
+				.floating-toc-new {
+					max-width: calc((100vw - 1100px - 140px) / 2);
+					min-width: 50px;
+				}
+			
+			
+			
+			
+			
+			
+		</style>
+		<script>
+			window.$ = window.jQuery = window.tjQuery;
+			var pageLoaded = false;
+			function adPush() {
+				//try{(adsbygoogle = window.adsbygoogle || []).push({});}catch(e){}
+				(adsbygoogle = window.adsbygoogle || []).push({});
+			}
+			function adPushDelay() {
+				(new Promise(function(resolve, reject) {
+					var timer = 0;
+					timer = setInterval(function() {
+						if(pageLoaded) {
+							clearInterval(timer);
+							resolve();
+						}
+					}, 200);
+				})).then(function(){
+					setTimeout(function() {
+						//try{(adsbygoogle = window.adsbygoogle || []).push({});}catch(e){}
+						(adsbygoogle = window.adsbygoogle || []).push({});
+					}, 500);
+				});
+			}
+		</script>
+	
+                
+                
+                <style type="text/css">.another_category {
+    border: 1px solid #E5E5E5;
+    padding: 10px 10px 5px;
+    margin: 10px 0;
+    clear: both;
+}
+
+.another_category h4 {
+    font-size: 12px !important;
+    margin: 0 !important;
+    border-bottom: 1px solid #E5E5E5 !important;
+    padding: 2px 0 6px !important;
+}
+
+.another_category h4 a {
+    font-weight: bold !important;
+}
+
+.another_category table {
+    table-layout: fixed;
+    border-collapse: collapse;
+    width: 100% !important;
+    margin-top: 10px !important;
+}
+
+* html .another_category table {
+    width: auto !important;
+}
+
+*:first-child + html .another_category table {
+    width: auto !important;
+}
+
+.another_category th, .another_category td {
+    padding: 0 0 4px !important;
+}
+
+.another_category th {
+    text-align: left;
+    font-size: 12px !important;
+    font-weight: normal;
+    word-break: break-all;
+    overflow: hidden;
+    line-height: 1.5;
+}
+
+.another_category td {
+    text-align: right;
+    width: 80px;
+    font-size: 11px;
+}
+
+.another_category th a {
+    font-weight: normal;
+    text-decoration: none;
+    border: none !important;
+}
+
+.another_category th a.current {
+    font-weight: bold;
+    text-decoration: none !important;
+    border-bottom: 1px solid !important;
+}
+
+.another_category th span {
+    font-weight: normal;
+    text-decoration: none;
+    font: 10px Tahoma, Sans-serif;
+    border: none !important;
+}
+
+.another_category_color_gray, .another_category_color_gray h4 {
+    border-color: #E5E5E5 !important;
+}
+
+.another_category_color_gray * {
+    color: #909090 !important;
+}
+
+.another_category_color_gray th a.current {
+    border-color: #909090 !important;
+}
+
+.another_category_color_gray h4, .another_category_color_gray h4 a {
+    color: #737373 !important;
+}
+
+.another_category_color_red, .another_category_color_red h4 {
+    border-color: #F6D4D3 !important;
+}
+
+.another_category_color_red * {
+    color: #E86869 !important;
+}
+
+.another_category_color_red th a.current {
+    border-color: #E86869 !important;
+}
+
+.another_category_color_red h4, .another_category_color_red h4 a {
+    color: #ED0908 !important;
+}
+
+.another_category_color_green, .another_category_color_green h4 {
+    border-color: #CCE7C8 !important;
+}
+
+.another_category_color_green * {
+    color: #64C05B !important;
+}
+
+.another_category_color_green th a.current {
+    border-color: #64C05B !important;
+}
+
+.another_category_color_green h4, .another_category_color_green h4 a {
+    color: #3EA731 !important;
+}
+
+.another_category_color_blue, .another_category_color_blue h4 {
+    border-color: #C8DAF2 !important;
+}
+
+.another_category_color_blue * {
+    color: #477FD6 !important;
+}
+
+.another_category_color_blue th a.current {
+    border-color: #477FD6 !important;
+}
+
+.another_category_color_blue h4, .another_category_color_blue h4 a {
+    color: #1960CA !important;
+}
+
+.another_category_color_violet, .another_category_color_violet h4 {
+    border-color: #E1CEEC !important;
+}
+
+.another_category_color_violet * {
+    color: #9D64C5 !important;
+}
+
+.another_category_color_violet th a.current {
+    border-color: #9D64C5 !important;
+}
+
+.another_category_color_violet h4, .another_category_color_violet h4 a {
+    color: #7E2CB5 !important;
+}
+</style>
+
+                
+                <link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/style/revenue.css"/>
+
+<!-- BEGIN STRUCTURED_DATA -->
+<script type="application/ld+json">
+    {"@context":"http://schema.org","@type":"BlogPosting","mainEntityOfPage":{"@id":"https://kongdori.tistory.com/123","name":null},"url":"https://kongdori.tistory.com/123","headline":"[R 연습] 국내 주요 지수를 추종하는 ETF의 요일별 밤낮 평균 수익률은?","description":"문제 국내 주요 지수인 KOSPI 200과 KOSDAQ 150을 추종하는 ETF로 KODEX 200과 KODEX 코스닥 150이 있다. 이 두 ETF에 대해 시가에 매수해서 종가에 매도하는 전략을 (이하 주간 매매 전략) 사용하면 수익을 얻을 수 있는가? 반대로 종가에 매수해서 다음날 시가에 매도하는 전략은 (이하 야간 매매 전략) 어떠한가? 요일별로 특이점이 있는가? 주의 Yahoo Finance 또는 Google Finance의 (Google Sheet에서 불러온 경우도 포함) 국내 시세 데이터는 완벽하지 않습니다. 결측값이 있거나 잘못된 값이 있는 경우가 꽤 있습니다. 실사용 목적으로는 보다 완전한 데이터를 이용하는 것이 바람직합니다. 여기에서 제시하는 결과는 통계적 유의성을 전혀 고려하지 않았습니..","author":{"@type":"Person","name":"오렌지사과키위","logo":null},"image":{"@type":"ImageObject","url":"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbKR3LR%2FbtsA27qppBJ%2FYQikXLYQJlkrwTkKS9IhKK%2Fimg.png","width":"800px","height":"800px"},"datePublished":"20231129T15:33:48","dateModified":"20240104T18:18:22","publisher":{"@type":"Organization","name":"TISTORY","logo":{"@type":"ImageObject","url":"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png","width":"800px","height":"800px"}}}
+</script>
+<!-- END STRUCTURED_DATA -->
+<link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/style/dialog.css"/>
+<link rel="stylesheet" type="text/css" href="//t1.daumcdn.net/tistory_admin/www/style/top/font.css"/>
+<link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/style/postBtn.css"/>
+<link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/style/comment.css"/>
+<link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/style/tistory.css"/>
+<link rel="canonical" href="https://kongdori.tistory.com/123"/>
+<script type="text/javascript" src="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/script/common.js"></script>
+<script type="text/javascript" src="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/script/comment.js" defer=""></script>
+
+                
+                </head>
+	                                                <body id="tt-body-page">
+                
+                
+                
+		<script src="https://tistory1.daumcdn.net/tistory/178947/skin/images/preload.min.js?_version_=1708062523"></script>
+		
+			<div id="wrapper">
+				<!-- 블로그 로딩 코드 start -->
+				
+					<script type="text/javascript">
+						if(location.href.indexOf('#') > -1) {
+							$('#wrapper').addClass('loaded');
+						}
+						var doneFlag = false;
+						var loadingTimer = 0;
+						var wrapperObserver = new MutationObserver(function(mutations) {
+							$('#wrapper').css('height','');
+						});
+						var config = {
+							attributes: true,
+							childList: true,
+							characterData: true
+						};
+						var wrapper = document.getElementById('wrapper');
+
+						wrapperObserver.observe(wrapper, config);
+
+						function afterLoaded(forceDo) {
+							if(!doneFlag || forceDo) {
+								wrapperObserver.disconnect();
+								if(location.href.indexOf('#') == -1) {
+									$('#wrapper').addClass('loaded');
+								}
+								$('#wrapper').off('scroll touchmove mousewheel');
+								$("#waiting").fadeOut();
+								setTimeout(function() {
+									doneFlag = true;
+									smoothScroll();
+								}, 500);
+								/*
+									var allIns = $('ins');
+									for(var i=0; i < allIns.length; i++) {
+										if((allIns.eq(i).height() == 0) && allIns.eq(i).parent().height() != 0) {
+											if('^HTML^BODY^'.indexOf(allIns.eq(i).parent().prop('tagName')) == -1) {
+												allIns.eq(i).parent().css('display','none');
+											}
+										}
+									}
+									*/
+							}
+						}
+
+						$('#wrapper').on('scroll touchmove mousewheel', function(event) {
+							event.preventDefault();
+							event.stopPropagation();
+							return false;
+						});
+
+						$(function() {
+							$("#waiting").show();
+							loadingTimer = setTimeout(function(){
+								loadingTimer = 0;
+								afterLoaded(true);
+							}, 3000);
+						});
+
+						$(window).on('load', function() {
+							if(loadingTimer != 0) {
+								clearTimeout(loadingTimer);
+								afterLoaded();
+							}
+						});
+					</script>
+				
+				
+				<!-- 블로그 로딩 코드 end -->
+				<div class="top-button">
+					<div class="profile">
+						<button type="button"><img alt="블로그 이미지" src="https://tistory1.daumcdn.net/tistory/178947/attach/a7b5d8136d5143fd8a12038ae39a7d85"/></button>
+						<nav>
+							<ul>
+								<li><a href="https://kongdori.tistory.com/manage">관리</a></li>
+								<li><a href="https://kongdori.tistory.com/manage/entry/post ">글쓰기</a></li>
+								<li class="login"><a href="#">로그인</a></li>
+								<li class="logout"><a href="#">로그아웃</a></li>
+							</ul>
+						</nav>
+					</div>
+					<div class="menu">
+						<button type="button"></button>
+					</div>
+				</div>
+				<header>
+					<div class="inner">
+						<p>
+							<a class="title" href="https://kongdori.tistory.com/">
+								
+								
+									오렌지사과의 사진과 투자
+								
+							</a>
+						</p>
+						<nav id="blog-menu">
+							<ul></ul>
+						</nav>
+					</div>
+				</header>
+				<section style="z-index:110;">
+					<div class="progress-bar-ani">
+						<div class="progress-bar-horizontal" ></div>
+						<div class="progress-bar-vertical" style="display:none;"></div>
+						<div class="progress-bar-etc-horizontal" ></div>
+						<div class="progress-bar-etc-vertical" style="display:none;"></div>
+					</div>
+					<div class="floating-toc-new" style="display:none;"></div>
+					<div class="content-wrapper">
+						<aside class="sidebar">
+							<div class="inner">
+								<!-- 여백 만들기 -->
+								<div id="aside-top-blank" style="display:none;width:100%;"></div>
+								                        
+										<!-- 구글 검색바 -->
+										
+									
+										<!-- 검색바 -->
+										<div class="search">
+											<input type="text" id="search_default" value="" placeholder="검색 내용을 입력하세요." onkeypress="if (event.keyCode == 13) { search_default() }">
+											<button type="submit" onclick="search_default()">검색</button>
+										</div>
+									
+										<!-- 번역 서비스 -->
+										<div class="module module_plugin">
+											<div class="lang-box">
+												<h2>다국어 번역</h2>
+												<!-- GTranslate: https://gtranslate.io/ -->
+												<a href="#" onclick="doGTranslateCustom('ko|ko');return false;" title="한국어" class="gflag nturl">
+													<img class="flag" src="https://tistory1.daumcdn.net/tistory/178947/skin/images/ko.png" height="24" width="24" alt="한국어" loading="lazy" />
+												</a>
+												
+													<a href="#" onclick="doGTranslateCustom('ko|en');return false;" title="영어" class="gflag nturl">
+														<img class="flag" src="https://tistory1.daumcdn.net/tistory/178947/skin/images/en.png" height="24" width="24" alt="영어" loading="lazy" />
+													</a>
+												
+												
+													<a href="#" onclick="doGTranslateCustom('ko|zh-CN');return false;" title="중국어 간체" class="gflag nturl">
+														<img class="flag" src="https://tistory1.daumcdn.net/tistory/178947/skin/images/zh-CN.png" height="24" width="24" alt="중국어 간체" loading="lazy" />
+													</a>
+												
+												
+													<a href="#" onclick="doGTranslateCustom('ko|zh-TW');return false;" title="중국어 번체" class="gflag nturl">
+														<img class="flag" src="https://tistory1.daumcdn.net/tistory/178947/skin/images/zh-TW.png" height="24" width="24" alt="중국어 번체" loading="lazy" />
+													</a>
+												
+												
+													<a href="#" onclick="doGTranslateCustom('ko|ja');return false;" title="일본어" class="gflag nturl">
+														<img class="flag" src="https://tistory1.daumcdn.net/tistory/178947/skin/images/ja.png" height="24" width="24" alt="일본어" loading="lazy" />
+													</a>
+												
+												
+													<a href="#" onclick="doGTranslateCustom('ko|es');return false;" title="스페인어" class="gflag nturl">
+														<img class="flag" src="https://tistory1.daumcdn.net/tistory/178947/skin/images/es.png" height="24" width="24" alt="스페인어" loading="lazy" />
+													</a>
+												
+												<style>
+													<!--
+													a.gflag {text-decoration:none !important;margin:auto;}
+													a.gflag:hover {text-decoration:none !important;}
+													#goog-gt-tt {display:none !important;}
+													.goog-te-banner-frame {display:none !important;}
+													.goog-te-menu-value:hover {text-decoration:none !important;}
+													body {top:0 !important;}
+													#google_translate_element2 {display:none!important;}
+													-->
+												</style>
+												<div id="google_translate_element2"></div>
+											</div>
+										</div>
+									
+										<!-- 다크 모드 -->
+										
+											<div class="module module_plugin">
+												<div class="dark-mode-box">
+													<h2>다크 모드</h2>
+													<button class="dark-mode-btn-dark" onclick="setDarkMode('+')" >&#xf186;</button> <!-- moon -->
+													<button class="dark-mode-btn-default" onclick="setDarkMode('-')">&#xf185;</button> <!-- sun -->
+												</div>
+											</div>
+										
+									
+										<!-- 글자크기 -->
+										<div class="module module_plugin">
+											<div class="change-font-box">
+													<h2>글자 크기</h2>
+													<button class="change-font-btn" onclick="changeFontSize('+')" >&#xf00e;</button> <!-- size up -->
+													<button class="change-font-btn" onclick="changeFontSize('-')">&#xf010;</button> <!-- size down -->
+													<button class="change-font-btn" onclick="changeFontSize('')">&#xf3e5;</button> <!-- default -->
+											</div>
+										</div>
+									
+										<!-- 배경음악 -->
+										<div class="module module_plugin">
+											<h2 id="bgm-title">
+												<span class="bgm-header">&#xe077;</span>
+												<span class="bgm-title-wrap">
+													<span class="bgm-title-box">
+														<span id="current-bgm">플레이 버튼을 눌러 주세요</span>
+													</span>
+												</span>
+												<button class="bgm-btn" onclick="bgmMute()" style="margin:auto;" id='bgm-mute'>
+													&#xf6a9; <!-- mute btn -->
+												</button>
+											</h2>
+											<div class="bgm-box">
+												<button class="bgm-btn" onclick="nextBgm('-')" style="margin:auto;">
+													&#xf048; <!-- prev btn -->
+												</button>
+												<button class="bgm-btn" onclick="toggleBgm()" id='bgm-switch' style="margin:auto;">
+													<span id="bgm-status">&#xf04b;</span> <!-- play btn -->
+												</button>
+												<button class="bgm-btn" onclick="nextBgm('+')" style="margin:auto;">
+													&#xf051; <!-- next btn -->
+												</button>
+												<button class="bgm-btn" onclick="bgmVolume('+')" style="margin:auto;">
+													&#xf028; <!-- volume up btn -->
+												</button>
+												<button class="bgm-btn" onclick="bgmVolume('-')" style="margin:auto;">
+													&#xf027; <!-- volume down btn -->
+												</button>
+											</div>
+										</div>
+									
+										<!-- 디데이 -->
+										<div class="d-day">
+											<h2>D-Day</h2>
+											<ul>
+												
+													
+														<li class="d-day-box"><span id="d-day1" class="d-day-cnt"></span><span class="d-day-text">2023년</span></li>
+													
+												
+												
+												
+												
+												
+											</ul>
+										</div>
+									
+										<!-- 고정 추천 글 -->
+										<div class="best-post">
+											<h2>꼭 보고 가세요!</h2>
+											<ul>
+												
+													
+														<li><a href="https://sangminem.tistory.com/579">미넴 스킨 자주 묻는 질문(FAQ)</a></li>
+													
+												
+												
+												
+												
+												
+												
+												
+												
+												
+											</ul>
+										</div>
+									
+										<!-- 프로필 -->
+										<div class="profile-info">
+											<h2>프로필</h2>
+											<div style="padding:10px;">
+												
+												
+													<img src="https://tistory1.daumcdn.net/tistory/178947/skin/images/logo.svg" style="width:100%;">
+												
+												<p class="profile-desc">꾸미기 > 스킨 편집 > 문구 수정</p>
+												<p class="profile-details">꾸미기 > 사이드바 > 프로필 추가/제거</p>
+											</div>
+										</div>
+									
+										<!-- 카테고리 -->
+										<div class="category">
+											<h2><a href="/category">카테고리</a></h2>
+											<ul class="tt_category"><li class=""><a href="/category" class="link_tit"> 분류 전체보기 <span class="c_cnt">(151)</span> </a>
+  <ul class="category_list"><li class=""><a href="/category/%EC%A3%BC%EC%8B%9D%ED%88%AC%EC%9E%90" class="link_item"> 주식투자 <span class="c_cnt">(54)</span> </a></li>
+<li class=""><a href="/category/%ED%88%AC%EC%9E%90%20%EC%84%B1%EA%B3%BC" class="link_item"> 투자 성과 <span class="c_cnt">(7)</span> </a></li>
+<li class=""><a href="/category/%EC%B1%85" class="link_item"> 책 <span class="c_cnt">(27)</span> </a></li>
+<li class=""><a href="/category/%ED%8C%8C%EC%9D%B4%EC%8D%AC" class="link_item"> 파이썬 <span class="c_cnt">(2)</span> </a></li>
+<li class=""><a href="/category/R" class="link_item"> R <span class="c_cnt">(6)</span> </a></li>
+<li class=""><a href="/category/IT" class="link_item"> IT <span class="c_cnt">(1)</span> </a></li>
+<li class=""><a href="/category/%EC%82%AC%EC%9A%A9%EA%B8%B0" class="link_item"> 사용기 <span class="c_cnt">(19)</span> </a></li>
+<li class=""><a href="/category/%EB%B8%94%EB%A1%9C%EA%B9%85" class="link_item"> 블로깅 <span class="c_cnt">(9)</span> </a></li>
+<li class=""><a href="/category/%EC%9D%B4%EB%9F%B0%EC%A0%80%EB%9F%B0%20%EC%83%9D%EA%B0%81" class="link_item"> 이런저런 생각 <span class="c_cnt">(9)</span> </a></li>
+<li class=""><a href="/category/Korean%20Culture" class="link_item"> Korean Culture <span class="c_cnt">(4)</span> </a></li>
+<li class=""><a href="/category/%E9%9F%93%E5%9B%BD%E6%96%87%E5%8C%96" class="link_item"> 韓国文化 <span class="c_cnt">(1)</span> </a></li>
+<li class=""><a href="/category/%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8" class="link_item"> 사이트 업데이트 <span class="c_cnt">(7)</span> </a></li>
+</ul>
+</li>
+</ul>
+
+										</div>
+									
+										<!-- 공지사항 -->
+										
+											<div class="notice">
+												<h2>공지사항</h2>
+												<ul>
+													
+												</ul>
+											</div>
+										
+									
+										<!-- 최근 글 -->
+										<div class="recent content-item">
+											<h2>최근 글</h2>
+											<ul>
+												
+												
+													
+													<li>
+														<a href="/159">
+															<span class="thum">
+																
+																	<img src="//i1.daumcdn.net/thumb/C70x70/?fname=https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FtzC8S%2FbtsEVdeZ6R1%2FtbYJvohWbdeUpefFznYTc1%2Fimg.jpg" alt="" />
+																
+															</span>
+															<span class="title">OpenDart API 인증서 오류와 임시 해결책 (OpenDartReader 사용 시)</span>
+															<span class="date">2024.02.16</span>
+														</a>
+													</li>
+												
+													
+													<li>
+														<a href="/158">
+															<span class="thum">
+																
+																	<img src="//i1.daumcdn.net/thumb/C70x70/?fname=https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FqaLpj%2FbtsERzb52HQ%2Fve4IC51ptG2OooEtnVYC11%2Fimg.jpg" alt="" />
+																
+															</span>
+															<span class="title">국내 고배당 ETF의 종류와 성과 비교 및 개인적인 평가</span>
+															<span class="date">2024.02.15</span>
+														</a>
+													</li>
+												
+													
+													<li>
+														<a href="/157">
+															<span class="thum">
+																
+																	<img src="//i1.daumcdn.net/thumb/C70x70/?fname=https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FzFTBm%2FbtsEQMvxad8%2FX4nTyDr5zMW5hhik0aDiR1%2Fimg.jpg" alt="" />
+																
+															</span>
+															<span class="title">[이런저런 생각] 적절하지 않은 데이터로 고객에게 오해를 불러 일으키는 자산운용사의 수익률 표기</span>
+															<span class="date">2024.02.15</span>
+														</a>
+													</li>
+												
+													
+													<li>
+														<a href="/156">
+															<span class="thum">
+																
+																	<img src="//i1.daumcdn.net/thumb/C70x70/?fname=https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbWpJVI%2FbtsEOU1KUW3%2FmE2CJLuCJK8eWbtHgExt10%2Fimg.jpg" alt="" />
+																
+															</span>
+															<span class="title">[JEPIX 데이터 오류로 밝혀짐] JEPI가 SPY보다 좋은 성과를 거둔 이유는 무엇일까?</span>
+															<span class="date">2024.02.15</span>
+														</a>
+													</li>
+												
+													
+													<li>
+														<a href="/155">
+															<span class="thum">
+																
+																	<img src="//i1.daumcdn.net/thumb/C70x70/?fname=https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcttYQQ%2FbtsES51WFJS%2FKwLkXqYLq8Jn7i2HouCNe0%2Fimg.jpg" alt="" />
+																
+															</span>
+															<span class="title">커버드 콜 전략은 유용한가? (커버드 콜 전략을 쓰는 주요 ETF의 지금까지 수익률과 분석)</span>
+															<span class="date">2024.02.15</span>
+														</a>
+													</li>
+												
+													
+													<li>
+														<a href="/154">
+															<span class="thum">
+																
+																	<img src="//i1.daumcdn.net/thumb/C70x70/?fname=https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdkUMc0%2FbtsEOSPuuDU%2FFeUI1eyfe26d4bunTDDWO1%2Fimg.jpg" alt="" />
+																
+															</span>
+															<span class="title">[사이트 업데이트] 유사 종목 성과 비교 분석</span>
+															<span class="date">2024.02.14</span>
+														</a>
+													</li>
+												
+													
+													<li>
+														<a href="/153">
+															<span class="thum">
+																
+															</span>
+															<span class="title">JEPI는 SPY에 비해 얼마나 더 좋았나?</span>
+															<span class="date">2024.02.12</span>
+														</a>
+													</li>
+												
+											</ul>
+										</div>
+									
+										<!-- 인기 글 -->
+										<div class="popular content-item">
+											<h2>인기 글</h2>
+											<ul>
+												
+												
+													
+													<li>
+														<a href="/120">
+															<span class="thum">
+																
+																	<img src="//i1.daumcdn.net/thumb/C70x70/?fname=https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbeIVrO%2Fbtsk9CyQbxz%2FqSBlnwb1ZfQHHT6j5lQzR0%2Fimg.jpg" alt="" />
+																
+															</span>
+															<span class="title">TIGER 미국배당+7%프리미엄다우존스 ETF는 정말 고배당을 지속할 수 있는 상품일까?</span>
+															<span class="date">2023.06.24</span>
+														</a>
+													</li>
+												
+													
+													<li>
+														<a href="/133">
+															<span class="thum">
+																
+																	<img src="//i1.daumcdn.net/thumb/C70x70/?fname=https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcKQGwi%2FbtsDGLSo8Il%2F8veFszLtkrMshFVWO6QPx0%2Fimg.png" alt="" />
+																
+															</span>
+															<span class="title">[사이트 업데이트] 재무지표 기반 저PER, 저PBR, 고배당 종목 목록</span>
+															<span class="date">2024.01.20</span>
+														</a>
+													</li>
+												
+													
+													<li>
+														<a href="/79">
+															<span class="thum">
+																
+																	<img src="//i1.daumcdn.net/thumb/C70x70/?fname=https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbIJVw1%2FbtsEiVdUZ1e%2Fox4Guh0khg5K86w4oU3GF0%2Fimg.png" alt="" />
+																
+															</span>
+															<span class="title">삼슬라(TSL3, 3TSL)는 1년에 얼마나 녹았을까?</span>
+															<span class="date">2023.04.06</span>
+														</a>
+													</li>
+												
+													
+													<li>
+														<a href="/145">
+															<span class="thum">
+																
+																	<img src="//i1.daumcdn.net/thumb/C70x70/?fname=https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDFq6X%2FbtsEFkljKbJ%2FCI0HnjDx5d0QCtkWSiEU40%2Fimg.png" alt="" />
+																
+															</span>
+															<span class="title">TIGER 미국배당다우존스 ETF 삼총사는 출시 후 어떤 성과를 거두었을까?</span>
+															<span class="date">2024.02.10</span>
+														</a>
+													</li>
+												
+													
+													<li>
+														<a href="/148">
+															<span class="thum">
+																
+																	<img src="//i1.daumcdn.net/thumb/C70x70/?fname=https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbzotUb%2FbtsEGiOc0xN%2FYMMCVF5w1S9avKxKRPym60%2Fimg.png" alt="" />
+																
+															</span>
+															<span class="title">QLD가 유리할까? QQQ+TQQQ가 유리할까?</span>
+															<span class="date">2024.02.11</span>
+														</a>
+													</li>
+												
+													
+													<li>
+														<a href="/76">
+															<span class="thum">
+																
+																	<img src="//i1.daumcdn.net/thumb/C70x70/?fname=https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcdthYC%2Fbtr7wggWfK0%2FRYlmtgmYWKH96ZlAKDoHMk%2Fimg.png" alt="" />
+																
+															</span>
+															<span class="title">SPY보다는 QQQ에 현금이 더 좋은 이유 (위험 대비 수익률 이야기 #2)</span>
+															<span class="date">2023.04.02</span>
+														</a>
+													</li>
+												
+													
+													<li>
+														<a href="/115">
+															<span class="thum">
+																
+																	<img src="//i1.daumcdn.net/thumb/C70x70/?fname=https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FurJeT%2FbtsiFChuw02%2F4cMWAztUa0WeSty1qtHPLK%2Fimg.jpg" alt="" />
+																
+															</span>
+															<span class="title">TSLL(테슬라 1.5배 레버리지 ETF)는 1년에 얼마나 녹을까?</span>
+															<span class="date">2023.06.14</span>
+														</a>
+													</li>
+												
+											</ul>
+										</div>
+									
+										<!-- 멀티플렉스 광고 -->
+										
+									
+										<!-- 쿠팡 광고 -->
+										
+											
+										
+									
+										<!-- 최근댓글 -->
+										<div class="recent-comment">
+											<h2>최근 댓글</h2>
+											<ul>
+												
+													<li><a href="/146#comment24000760">사랑합니다. 새해 복 넘치게 받으세요</a></li>
+												
+													<li><a href="/127#comment23246670">오렌지사과의 사진과 투자 님, 안녕하세요~
+[R + Python 연습] 증권사 Open API를 이용하여 종목의 일일 시세를 다운로드하라.
+글 잘 봤습니다.
+오늘 남은 하루도 힘내셔요!</a></li>
+												
+													<li><a href="/58#comment23104072">재미있는 상품이다 라고만 생각하고 넘어 갔었는데 이런 숨은 내용이 있었군요 </a></li>
+												
+													<li><a href="/100#comment22506510">넹넹 응원감사합니다 ~^^♡♡♡🤗🤗🤗🤗🤗🤗</a></li>
+												
+													<li><a href="/100#comment22505984">네. 좋은 성과 거두시길 바라겠습니다 ^^</a></li>
+												
+													<li><a href="/100#comment22504041">N잡러 저도 이제 시작했어요
+애드포스트는 하고 있는데
+티스토리도 하려고 합니다
+좋은 정보들이 많이 되었으면 좋겠습니다 ~^^🤗🤗🤗🤗🤗🤗🤗🤗</a></li>
+												
+													<li><a href="/120#comment22291242">네. 저도 그렇게 예상하고 있습니다.</a></li>
+												
+											</ul>
+										</div>
+									
+										<!-- 태그 -->
+										<div class="tags">
+											<h2>태그</h2>
+											
+												<a href="/tag/xf10%20%EC%82%AC%EC%9A%A9%EA%B8%B0">xf10 사용기</a>
+											
+												<a href="/tag/upro">upro</a>
+											
+												<a href="/tag/%EA%B9%80%EC%84%B1%EC%9D%BC">김성일</a>
+											
+												<a href="/tag/%ED%9B%84%EC%A7%80%ED%95%84%EB%A6%84%20xf10%20%EC%84%A4%EC%A0%95">후지필름 xf10 설정</a>
+											
+												<a href="/tag/%ED%9B%84%EC%A7%80%ED%95%84%EB%A6%84%20xf10">후지필름 xf10</a>
+											
+												<a href="/tag/%EC%97%AD%EC%B6%94%EC%84%B8%20%EC%A0%84%EB%9E%B5">역추세 전략</a>
+											
+												<a href="/tag/%EC%BA%A1%EC%B3%90%EC%9B%90%20%EB%B3%B4%EC%A0%95">캡쳐원 보정</a>
+											
+												<a href="/tag/%EB%B6%81%ED%81%B4%EB%9F%BD">북클럽</a>
+											
+												<a href="/tag/jepix">jepix</a>
+											
+												<a href="/tag/%EB%A6%AC%EB%B0%B8%EB%9F%B0%EC%8B%B1">리밸런싱</a>
+											
+												<a href="/tag/xf10">xf10</a>
+											
+												<a href="/tag/%ED%9B%84%EC%A7%80%20xf10%20%EC%84%A4%EC%A0%95">후지 xf10 설정</a>
+											
+												<a href="/tag/soxl">soxl</a>
+											
+												<a href="/tag/%EB%8B%A4%EC%8B%9C%20%EC%93%B0%EB%8A%94%20%EC%A3%BC%EC%8B%9D%20%ED%88%AC%EC%9E%90%20%EA%B5%90%EA%B3%BC%EC%84%9C">다시 쓰는 주식 투자 교과서</a>
+											
+												<a href="/tag/%EC%A0%84%EC%9E%90%EC%B1%85%20%EB%A6%AC%EB%8D%94%EA%B8%B0">전자책 리더기</a>
+											
+												<a href="/tag/%ED%9B%84%EC%A7%80%20xf10%20%EC%82%AC%EC%9A%A9%EA%B8%B0">후지 xf10 사용기</a>
+											
+												<a href="/tag/%EC%A0%84%EC%9E%90%EC%B1%85">전자책</a>
+											
+												<a href="/tag/%EC%B1%84%EA%B6%8C%EC%9F%81%EC%9D%B4%20%EC%84%9C%EC%A4%80%EC%8B%9D%EC%9D%98%20%EB%8B%A4%EC%8B%9C%20%EC%93%B0%EB%8A%94%20%EC%A3%BC%EC%8B%9D%20%ED%88%AC%EC%9E%90%20%EA%B5%90%EA%B3%BC%EC%84%9C">채권쟁이 서준식의 다시 쓰는 주식 투자 교과서</a>
+											
+												<a href="/tag/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EC%9C%84%ED%97%98%EB%8F%84">포트폴리오 위험도</a>
+											
+												<a href="/tag/%ED%9B%84%EC%A7%80%20xf10">후지 xf10</a>
+											
+												<a href="/tag/%EC%BA%A1%EC%B3%90%EC%9B%90%20%ED%9B%84%EB%B3%B4%EC%A0%95">캡쳐원 후보정</a>
+											
+												<a href="/tag/%EC%86%8C%EB%8B%88%20hx99">소니 hx99</a>
+											
+												<a href="/tag/gr3%20%EC%84%A4%EC%A0%95">gr3 설정</a>
+											
+												<a href="/tag/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EB%B9%84%EC%A3%BC%EC%96%BC%EB%9D%BC%EC%9D%B4%EC%A0%80">포트폴리오 비주얼라이저</a>
+											
+												<a href="/tag/%EB%A6%AC%EB%94%94%ED%8E%98%EC%9D%B4%ED%8D%BC%20%ED%94%84%EB%A1%9C">리디페이퍼 프로</a>
+											
+												<a href="/tag/%EB%A6%AC%EC%BD%94%20gr3%20%EC%84%A4%EC%A0%95">리코 gr3 설정</a>
+											
+												<a href="/tag/JEPI">JEPI</a>
+											
+												<a href="/tag/%ED%94%BC%ED%8A%B8%20%ED%99%A9">피트 황</a>
+											
+												<a href="/tag/%EB%A6%AC%EB%8D%94%EA%B8%B0">리더기</a>
+											
+												<a href="/tag/%EB%A6%AC%EB%94%94%EC%85%80%EB%A0%89%ED%8A%B8">리디셀렉트</a>
+											
+												<a href="/tag/TIGER%20200%20%EC%84%A0%EB%AC%BC%EB%A0%88%EB%B2%84%EB%A6%AC%EC%A7%80">TIGER 200 선물레버리지</a>
+											
+												<a href="/tag/SPY">SPY</a>
+											
+												<a href="/tag/QLD">QLD</a>
+											
+												<a href="/tag/%ED%81%AC%EB%A0%88%EB%A7%88%20%EC%B9%B4%EB%A5%B4%ED%83%80%20G">크레마 카르타 G</a>
+											
+												<a href="/tag/%EA%B7%B8%EB%A6%AC%EB%93%9C%20%EB%A7%A4%EB%A7%A4">그리드 매매</a>
+											
+												<a href="/tag/xf10%20%EC%84%A4%EC%A0%95">xf10 설정</a>
+											
+												<a href="/tag/%EB%A0%88%EB%B2%84%EB%A6%AC%EC%A7%80">레버리지</a>
+											
+												<a href="/tag/%ED%8F%AC%ED%81%AC%ED%94%84%EB%A1%9C">포크프로</a>
+											
+												<a href="/tag/%EA%B5%AC%EA%B8%80%20%ED%8F%AC%ED%86%A0%20%EB%B0%B1%EC%97%85">구글 포토 백업</a>
+											
+												<a href="/tag/SQQQ">SQQQ</a>
+											
+												<a href="/tag/%ED%81%AC%EB%A0%88%EB%A7%88%20%EC%B9%B4%EB%A5%B4%ED%83%80G">크레마 카르타G</a>
+											
+												<a href="/tag/SOXS">SOXS</a>
+											
+												<a href="/tag/%EA%B3%A0%EB%B0%B0%EC%9C%A8%20%EC%BB%B4%ED%8C%A9%ED%8A%B8%20%EC%B9%B4%EB%A9%94%EB%9D%BC">고배율 컴팩트 카메라</a>
+											
+												<a href="/tag/qqq">qqq</a>
+											
+												<a href="/tag/TQQQ">TQQQ</a>
+											
+												<a href="/tag/SCHD">SCHD</a>
+											
+												<a href="/tag/%EB%B0%B1%ED%85%8C%EC%8A%A4%ED%8A%B8">백테스트</a>
+											
+												<a href="/tag/%ED%9B%84%EC%A7%80%ED%95%84%EB%A6%84%20xf10%20%EC%82%AC%EC%9A%A9%EA%B8%B0">후지필름 xf10 사용기</a>
+											
+												<a href="/tag/KBSTAR%20%EC%BD%94%EC%8A%A4%EB%8B%A5150%EC%84%A0%EB%AC%BC%EB%A0%88%EB%B2%84%EB%A6%AC%EC%A7%80">KBSTAR 코스닥150선물레버리지</a>
+											
+												<a href="/tag/%ED%91%9C%EC%A4%80%20%ED%8E%B8%EC%B0%A8">표준 편차</a>
+											
+										</div>
+									
+										<!-- 글 보관함 -->
+										<div class="archives">
+											<h2>글 보관함</h2>
+											<ul>
+												
+													<li><a href="/archive/202402">2024/02</a></li>
+												
+													<li><a href="/archive/202401">2024/01</a></li>
+												
+													<li><a href="/archive/202312">2023/12</a></li>
+												
+													<li><a href="/archive/202311">2023/11</a></li>
+												
+													<li><a href="/archive/202307">2023/07</a></li>
+												
+											</ul>
+										</div>
+									
+										<!-- 전체 방문자 -->
+										<div class="count">
+											<h2>방문자 통계</h2>
+											<p class="total">55,920</p>
+											<p style="font-size:0.95em;font-weight:bold;">오늘 : 134</p>
+											<p>어제 : 243</p>
+										</div>
+									
+							</div>
+						</aside>
+						<article>
+							
+							<div id="upper">
+								
+							</div>
+							
+							
+
+							
+
+							
+							
+							<div class="inner">
+								
+
+								
+									
+								
+								        
+            
+	
+		
+	
+	<ul>
+		
+	</ul>
+	
+	
+		<div class="content-title">
+			<div class="inner">
+				<span class="category">R</span>
+				<div class="title-box">
+					<h1>[R 연습] 국내 주요 지수를 추종하는 ETF의 요일별 밤낮 평균 수익률은?</h1>
+				</div>
+				<span class="meta">
+					<span class="author">오렌지사과키위</span>
+					<span class="date">2023. 11. 29.</span>
+					
+						<a href="https://kongdori.tistory.com/manage/post/123?returnURL=https://kongdori.tistory.com/123">수정</a>
+						<a href="#" onclick="deleteEntry(123); return false;">삭제</a>
+					
+				</span>
+			</div>
+		</div>
+
+		<div class="content-article">
+			<!-- 상단 광고 2개 삽입 start -->
+			
+			<!-- 상단 광고 2개 삽입 end -->
+			<div itemprop="articleBody">
+				<script onerror="changeAdsenseToAdfit()" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9527582522912841" crossorigin="anonymous"></script>
+<!-- inventory -->
+<ins class="adsbygoogle" style="margin:50px 0; display:block" data-ad-client="ca-pub-9527582522912841" data-ad-slot="3825649038" data-ad-format="auto" data-full-width-responsive="true" data-ad-type="inventory" data-ad-adfit-unit="DAN-nRFiQiN4avFYIKbk"></ins>
+
+<script id="adsense_script">
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script>
+    if(window.ObserveAdsenseUnfilledState !== undefined){ ObserveAdsenseUnfilledState(); }
+</script>
+            <!-- System - START -->
+
+<!-- System - END -->
+
+            <div class="tt_article_useless_p_margin contents_style"><h3 data-ke-size="size23"><b><span style="color: #8a3db6;">문제</span></b></h3>
+<blockquote data-ke-style="style3">국내 주요 지수인 KOSPI 200과 KOSDAQ 150을 추종하는 ETF로 KODEX 200과 KODEX 코스닥 150이 있다. 이 두 ETF에 대해 시가에 매수해서 종가에 매도하는 전략을 (이하 주간 매매 전략) 사용하면 수익을 얻을 수 있는가? 반대로 종가에 매수해서 다음날 시가에 매도하는 전략은 (이하 야간 매매 전략) 어떠한가? 요일별로 특이점이 있는가?</blockquote>
+<p data-ke-size="size16">&nbsp;</p>
+<h4 data-ke-size="size20"><span style="color: #009a87;"><b>주의</b></span></h4>
+<blockquote data-ke-style="style3">Yahoo Finance 또는 Google Finance의 (Google Sheet에서 불러온 경우도 포함) 국내 시세 데이터는 완벽하지 않습니다. 결측값이 있거나 잘못된 값이 있는 경우가 꽤 있습니다. 실사용 목적으로는 보다 완전한 데이터를 이용하는 것이 바람직합니다.<br />여기에서 제시하는 결과는 통계적 유의성을 전혀 고려하지 않았습니다. 또한 데이터 적용 기간에 따라 결과에 상당한 차이가 있을 수 있습니다.</blockquote>
+<p data-ke-size="size16">&nbsp;</p>
+<h3 style="color: #000000; text-align: start;" data-ke-size="size23"><b><span style="color: #8a3db6;">코드</span></b></h3>
+<pre id="code_1701235706237" class="r" data-ke-language="r" data-ke-type="codeblock"><code>library(dplyr)  ## for summarize()
+library(ggplot2)  ## got ggplot()
+library(lubridate)  ## for wday()
+library(quantmod)  ## for getSymbols()
+library(tidyr) ## for tribble()
+
+# Map Yahoo Finance ticker names and legends.
+ticker_map &lt;- tribble(
+  ~ticker, ~name,
+  "069500.KS", "Kodex.Kospi200",
+  "229200.KS", "Kodex.Kosdaq150",
+)
+
+# Get daily stock prices from Yahoo Finance.
+getSymbols(ticker_map$ticker, src = "yahoo")
+
+# Calculate day gains.
+gains_day &lt;- do.call(
+  cbind,
+  lapply(ticker_map$ticker,
+         function(x) (Cl(get(x)) / Op(get(x))) - 1)) %&gt;%
+  setNames(paste(ticker_map$name, "Day", sep = "."))
+
+# Calculate night gains.
+gains_night &lt;- do.call(
+  cbind,
+  lapply(ticker_map$ticker,
+         function(x) (
+           timeSeries::lag(Op(get(x)), k = -1) / Cl(get(x))) - 1)) %&gt;%
+  setNames(paste(ticker_map$name, "Night", sep = "."))
+
+# Merge them and convert to dataframe.
+gains &lt;- cbind(gains_day, gains_night) %&gt;%
+  na.omit() %&gt;%
+  fortify.zoo()
+
+# Calculate means.
+gain_means &lt;- summarize(gains, across(everything(), mean)) %&gt;%
+  subset(select = -c(Index))
+
+# Transpose and convert to dataframe.
+gain_means.df &lt;- pivot_longer(gain_means, c(everything()),
+                              names_to = "type", values_to = "mean_gain")
+
+# Draw a bar chart.
+ggplot(data = gain_means.df) +
+  geom_bar(mapping = aes(x = type, y = mean_gain * 100.0, fill = type),
+           stat = "identity") +
+  geom_hline(yintercept = 0, color = "red") +
+  xlab(NULL) +
+  theme(legend.position = "top")
+
+# Calculate means by wday.
+gain_wday_means &lt;- mutate(gains, wday = wday(Index, label = TRUE)) %&gt;%
+  group_by(wday) %&gt;%
+  summarize(across(everything(), mean)) %&gt;%
+  subset(select = -c(Index))
+
+# Transpose and convert to dataframe.
+gain_wday_means.df &lt;- pivot_longer(gain_wday_means, -c(wday),
+                              names_to = "type", values_to = "mean_gain")
+
+# Draw a bar chart.
+ggplot(data = gain_wday_means.df) +
+  geom_bar(mapping = aes(x = wday, y = mean_gain * 100.0, fill = type),
+           stat = "identity", position = "dodge") +
+  xlab(NULL) +
+  theme(legend.position = "top")</code></pre>
+
+<p data-ke-size="size16">&nbsp;</p>
+<h3 style="color: #000000; text-align: start;" data-ke-size="size23"><b><span style="color: #8a3db6;">결과 및 해석</span></b></h3>
+<p style="color: #333333; text-align: start;" data-ke-size="size16">아래 표와 그래프는 KODEX 코스닥 150과 KODEX 200 ETF의 주간 또는 야간 매매 전략의 평균 수익률입니다. 주간 매매 전략은 평균적으로 손실이 발생합니다. 야간 매매 전략은 평균적으로 대략 0.055% 가량 (두 ETF를 반반씩 매매했을 때) 수익이 납니다. 이는 수수료를 고려하지 않은 것입니다. 매수 매도 합산 수수료를 0.01%로 가정하면 기대 수익은 일 0.045% 정도가 됩니다. 1년 거래일이 250일이라면 산술평균으로 11.25% 정도가 됩니다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size18">&nbsp;</p>
+<pre id="code_1701236347224" class="r" data-ke-language="r" data-ke-type="codeblock"><code>gain_means.df %&gt;%
+  mutate(gain_means.df, mean_gain = mean_gain * 100) %&gt;%
+  arrange(type)
+  
+----------
+# A tibble: 4 &times; 2
+  type                  mean_gain
+  &lt;chr&gt;                     &lt;dbl&gt;
+1 Kodex.Kosdaq150.Day     -0.0454
+2 Kodex.Kosdaq150.Night    0.0673
+3 Kodex.Kospi200.Day      -0.0174
+4 Kodex.Kospi200.Night     0.0421</code></pre>
+<p style="color: #333333; text-align: start;" data-ke-size="size18">&nbsp;</p>
+<p><figure class="imageblock alignCenter" data-ke-mobileStyle="widthOrigin" data-filename="f87cddca-edc4-45ea-adb7-d0668490dfd7.png" data-origin-width="863" data-origin-height="546"><span data-url="https://blog.kakaocdn.net/dn/SB5Lc/btsA4eoX4mH/icSBpgSrWkod520LEWOkV1/img.png" data-lightbox="lightbox"><img src="https://blog.kakaocdn.net/dn/SB5Lc/btsA4eoX4mH/icSBpgSrWkod520LEWOkV1/img.png" srcset="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FSB5Lc%2FbtsA4eoX4mH%2FicSBpgSrWkod520LEWOkV1%2Fimg.png" onerror="this.onerror=null; this.src='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png'; this.srcset='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png';" data-filename="f87cddca-edc4-45ea-adb7-d0668490dfd7.png" data-origin-width="863" data-origin-height="546"/></span></figure>
+</p>
+
+<p data-ke-size="size18">&nbsp;</p>
+<p data-ke-size="size16">아래 표와 그래프는 요일별로 본 평균 수익률입니다. 월요일, 화요일, 그리고 수요일에 야간 매매 전략의 평균 수익률이 상대적으로 높음을 알 수 있습니다.</p>
+<p data-ke-size="size18">&nbsp;</p>
+<pre id="code_1701237840054" class="r" data-ke-language="r" data-ke-type="codeblock"><code>gain_wday_means[, c(1, order(colnames(gain_means)) + 1)] %&gt;%
+  mutate(across(!wday) * 100)
+
+----------
+# A tibble: 5 &times; 5
+  wday  Kodex.Kosdaq150.Day Kodex.Kosdaq150.Night Kodex.Kospi200.Day Kodex.Kospi200.Night
+  &lt;ord&gt;               &lt;dbl&gt;                 &lt;dbl&gt;              &lt;dbl&gt;                &lt;dbl&gt;
+1 Mon             -0.0643                  0.0915            -0.0262             0.103   
+2 Tue              0.0525                  0.100              0.0600             0.0363  
+3 Wed             -0.112                   0.114             -0.0588             0.0505  
+4 Thu             -0.102                   0.0104            -0.0858             0.000497
+5 Fri             -0.000944                0.0220             0.0248             0.0239</code></pre>
+<p data-ke-size="size16">&nbsp;</p>
+<p><figure class="imageblock alignCenter" data-ke-mobileStyle="widthOrigin" data-filename="f6aa33d9-da5e-4536-b8a4-d77063c9a3fd.png" data-origin-width="863" data-origin-height="546"><span data-url="https://blog.kakaocdn.net/dn/bKR3LR/btsA27qppBJ/YQikXLYQJlkrwTkKS9IhKK/img.png" data-lightbox="lightbox"><img src="https://blog.kakaocdn.net/dn/bKR3LR/btsA27qppBJ/YQikXLYQJlkrwTkKS9IhKK/img.png" srcset="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbKR3LR%2FbtsA27qppBJ%2FYQikXLYQJlkrwTkKS9IhKK%2Fimg.png" onerror="this.onerror=null; this.src='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png'; this.srcset='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png';" data-filename="f6aa33d9-da5e-4536-b8a4-d77063c9a3fd.png" data-origin-width="863" data-origin-height="546"/></span></figure>
+</p></div>
+            <!-- System - START -->
+
+<!-- System - END -->
+
+
+                    <div class="container_postbtn #post_button_group">
+  <div class="postbtn_like"><script>window.ReactionButtonType = 'reaction';
+window.ReactionApiUrl = '//kongdori.tistory.com/reaction';
+window.ReactionReqBody = {
+    entryId: 123
+}</script>
+<div class="wrap_btn" id="reaction-123"></div>
+<script src="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/script/reaction-button-container.min.js"></script><div class="wrap_btn wrap_btn_share"><button type="button" class="btn_post sns_btn btn_share" aria-expanded="false" data-thumbnail-url="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbKR3LR%2FbtsA27qppBJ%2FYQikXLYQJlkrwTkKS9IhKK%2Fimg.png" data-title="[R 연습] 국내 주요 지수를 추종하는 ETF의 요일별 밤낮 평균 수익률은?" data-description="문제 국내 주요 지수인 KOSPI 200과 KOSDAQ 150을 추종하는 ETF로 KODEX 200과 KODEX 코스닥 150이 있다. 이 두 ETF에 대해 시가에 매수해서 종가에 매도하는 전략을 (이하 주간 매매 전략) 사용하면 수익을 얻을 수 있는가? 반대로 종가에 매수해서 다음날 시가에 매도하는 전략은 (이하 야간 매매 전략) 어떠한가? 요일별로 특이점이 있는가? 주의 Yahoo Finance 또는 Google Finance의 (Google Sheet에서 불러온 경우도 포함) 국내 시세 데이터는 완벽하지 않습니다. 결측값이 있거나 잘못된 값이 있는 경우가 꽤 있습니다. 실사용 목적으로는 보다 완전한 데이터를 이용하는 것이 바람직합니다. 여기에서 제시하는 결과는 통계적 유의성을 전혀 고려하지 않았습니.." data-profile-image="https://tistory1.daumcdn.net/tistory/178947/attach/a7b5d8136d5143fd8a12038ae39a7d85" data-profile-name="오렌지사과키위" data-pc-url="https://kongdori.tistory.com/123" data-relative-pc-url="/123" data-blog-title="오렌지사과의 사진과 투자"><span class="ico_postbtn ico_share">공유하기</span></button>
+  <div class="layer_post" id="tistorySnsLayer"></div>
+</div><div class="wrap_btn"><button type="button" class="btn_post" data-entry-id="123"><span class="ico_postbtn ico_statistics">통계</span></button></div><div class="wrap_btn wrap_btn_etc" data-entry-id="123" data-entry-visibility="public" data-category-visibility="public"><button type="button" class="btn_post btn_etc1" aria-expanded="false"><span class="ico_postbtn ico_etc">게시글 관리</span></button>
+  <div class="layer_post" id="tistoryEtcLayer"></div>
+</div></div>
+<div class="postbtn_ccl" data-ccl-type="1" data-ccl-derive="2">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ko" target="_blank" class="link_ccl" rel="license">
+        <span class="bundle_ccl">
+            <span class="ico_postbtn ico_ccl1">저작자표시</span> <span class="ico_postbtn ico_ccl2">비영리</span> <span class="ico_postbtn ico_ccl3">변경금지</span> 
+        </span>
+    </a>
+</div>
+<!--
+<rdf:RDF xmlns="https://web.resource.org/cc/" xmlns:dc="https://purl.org/dc/elements/1.1/" xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <Work rdf:about="">
+        <license rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ko" />
+    </Work>
+    <License rdf:about="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ko">
+        <permits rdf:resource="https://web.resource.org/cc/Reproduction"/>
+        <permits rdf:resource="https://web.resource.org/cc/Distribution"/>
+        <requires rdf:resource="https://web.resource.org/cc/Notice"/>
+        <requires rdf:resource="https://web.resource.org/cc/Attribution"/>
+        <prohibits rdf:resource="https://web.resource.org/cc/CommercialUse"/>
+
+    </License>
+</rdf:RDF>
+-->  <div data-tistory-react-app="SupportButton"></div>
+</div>
+
+                    <!-- PostListinCategory - START -->
+<div class="another_category another_category_color_gray">
+  <h4>'<a href="/category/R">R</a>' 카테고리의 다른 글</h4>
+  <table>
+    <tr>
+      <th><a href="/127">[R + Python 연습] 증권사 Open API를 이용하여 종목의 일일 시세를 다운로드하라.</a>&nbsp;&nbsp;<span>(2)</span></th>
+      <td>2023.12.05</td>
+    </tr>
+    <tr>
+      <th><a href="/126">[R 연습] 증권사에서 다운받은 일일주가 데이터를 구글 시트에 올려 공유하고, 이를 가져오는 코드를 작성하라.</a>&nbsp;&nbsp;<span>(2)</span></th>
+      <td>2023.12.04</td>
+    </tr>
+    <tr>
+      <th><a href="/125">[R 연습] KOPSI 200을 추종하는 KODEX 200 ETF를 매매하는 전략을 선형 회귀 분석으로 도출하라.</a>&nbsp;&nbsp;<span>(1)</span></th>
+      <td>2023.11.30</td>
+    </tr>
+    <tr>
+      <th><a href="/124">[R 연습] 기대 수익률이 더 높지만 기대 변동성도 더 높은 투자 상품은 장기적으로 얼마나 더 유리한가?</a>&nbsp;&nbsp;<span>(1)</span></th>
+      <td>2023.11.29</td>
+    </tr>
+    <tr>
+      <th><a href="/122">[R 연습] 한국과 미국의 주요 주가지수를 추종하는 ETF들의 누적 수익률 그래프 그리기</a>&nbsp;&nbsp;<span>(0)</span></th>
+      <td>2023.11.28</td>
+    </tr>
+  </table>
+</div>
+
+<!-- PostListinCategory - END -->
+
+			</div>
+		</div>
+		<div style="margin-top:30px;"></div>
+		
+		<div style="margin-top:30px;"></div>
+		
+		<!-- 하단 광고 2개 삽입 start -->
+		
+		<!-- 하단 광고 2개 삽입 end -->
+		<div style="margin-top:30px;"></div>
+		<div class="comments">
+			<h2>댓글<span class="count"><span id="commentCount123_0">0</span></span></h2>
+			<div data-tistory-react-app="Namecard"></div><div id="entry123Comment">
+				       <form method="post" action="/comment/add/123" onsubmit="return false" style="margin: 0">
+           
+<div class="comment-form">
+	
+		<div class="field">
+			
+			<div class="secret">
+				<input type="checkbox" name="secret" id="secret">
+				<label for="secret" tabindex="0">비밀글</label>
+			</div>
+		</div>
+	
+	<textarea name="comment" cols="" rows="4" placeholder="여러분의 소중한 댓글을 입력해주세요."></textarea>
+	<div class="submit">
+		<button type="submit" class="btn" onclick="addComment(this, 123); return false;">등록</button>
+	</div>
+</div>
+
+       </form>
+
+				
+					<div class="comment-list">
+						<ul class="comment-reverse">
+							            
+
+            
+						</ul>
+					</div>
+				
+			</div>
+<script type="text/javascript">loadedComments[123]=true;
+findFragmentAndHighlight(123);</script>
+
+		</div>
+	
+
+            
+        
+							</div>
+
+							
+
+							
+
+							
+							<!-- 메인 멀티플렉스 광고 -->
+							
+							<div id="lower">
+								
+							</div>
+						</article>
+					</div>
+				</section>
+
+				<footer>
+					<div class="inner">
+						<a href="#" class="page-top">TOP</a>
+						<p class="meta">나를 이롭게 남을 이롭게 모두를 이롭게 하고 싶은 회사원 개발자 선생님</p>
+						<p class="copyright">미리 알았다면 좋았을 텐데</p>
+					</div>
+				</footer>
+			</div>
+			
+			<div class="floating-button">
+				<!-- 글자 크기 조절 버튼 -->
+				
+					<a class="font-size-up-btn" onclick="changeFontSize('+')"></a>
+					<a class="font-size-down-btn" onclick="changeFontSize('-')"></a>
+				
+
+				<!-- 다크모드 버튼 -->
+				
+					
+						<a class="dark-mode-on-btn" onclick="setDarkMode('-')" style="display:none;"></a>
+						<a class="dark-mode-off-btn" onclick="setDarkMode('+')" style="display:none;"></a>
+					
+				
+
+				<!-- 공유 버튼 -->
+				<a class="share-btn"></a>
+				<div id='custom-sns' class='layer_post'></div>
+				
+				<!-- 댓글 이동 버튼 -->
+				<a class="move-comment-btn" style="display:none;"></a>
+				
+				<!-- 상단 이동 버튼 -->
+				<a class="move-top-btn"></a>
+			</div>
+
+			<!-- 떠다니는 목차 -->
+			<div class="floating-toc"></div>
+
+			<!-- 토스트 메시지 -->
+			<div id="toast" class="toast-wrap" style="display:none;">
+				<div class="toast"></div>
+			</div>
+
+			<!-- 배경음악 태그 -->
+			<audio id='bgm' crossorigin='anonymous' muted></audio>
+
+			<!-- 1픽셀 이미지 -->
+			<img id="blank-img" src="https://tistory1.daumcdn.net/tistory/178947/skin/images/blank.png" style="display:none;">
+
+			<!-- 로딩 이미지 -->
+			<div id="waiting" style="display:none;">
+				
+				
+					<img src="https://tistory1.daumcdn.net/tistory/178947/skin/images/loading.gif" class="loading-image">
+				
+			</div>
+
+			<!-- 이전/다음 글 박스 -->
+			
+				<div id="recommend-contents" class="recommend-contents-wrap" style="display:none;">
+					<div class="content-close-btn" onclick="recommendPostClose()"></div>
+					<div class="content-comment">
+						잠깐만요! 이 글도 한 번 보고 가세요 🧡
+					</div>
+					<div class="recommend-contents-body">
+						<div class="content-box">
+							<div class="content-arrow">&#xf0d9;</div>
+							<div id="pre-content" class="pre-content"></div>
+						</div>
+						<div class="content-box">
+							<div id="next-content" class="next-content"></div>
+							<div class="content-arrow">&#xf0da;</div>
+						</div>
+					</div>
+				</div>
+			
+
+			<!-- 설정 값 -->
+			<input type='hidden' id='bgm-src-1' value="">
+			<input type='hidden' id='bgm-title-1' value="">
+			<input type='hidden' id='bgm-src-2' value="">
+			<input type='hidden' id='bgm-title-2' value="">
+			<input type='hidden' id='bgm-src-3' value="">
+			<input type='hidden' id='bgm-title-3' value="">
+			<input type='hidden' id='bgm-src-4' value="">
+			<input type='hidden' id='bgm-title-4' value="">
+			<input type='hidden' id='bgm-src-5' value="">
+			<input type='hidden' id='bgm-title-5' value="">
+			<input type='hidden' id='bgm-src-6' value="">
+			<input type='hidden' id='bgm-title-6' value="">
+			<input type='hidden' id='bgm-src-7' value="">
+			<input type='hidden' id='bgm-title-7' value="">
+			<input type='hidden' id='bgm-src-8' value="">
+			<input type='hidden' id='bgm-title-8' value="">
+			<input type='hidden' id='bgm-src-9' value="">
+			<input type='hidden' id='bgm-title-9' value="">
+			<input type='hidden' id='bgm-src-10' value="">
+			<input type='hidden' id='bgm-title-10' value="">
+			<input type='hidden' id='toast-after-like-yn' value="true">
+			<input type='hidden' id='toast-after-like' value="행운 가득 담아 드려요 💕">
+			<input type='hidden' id='make-bell-yn' value="true">
+			<input type='hidden' id='make-bell' value="도움이<br>되셨다면<br>공감 꾹 ~ !<br>부탁드려요 💖">
+			<input type='hidden' id='fold-comment-yn' value="true">
+			<input type='hidden' id='fold-comment-num' value="3">
+			<input type='hidden' id='floating-toc-position' value="true">
+			<input type='hidden' id='bgm-autoplay-yn' value="true">
+			<input type='hidden' id='bgm-autoplay-mobile-yn' value="">
+			<input type='hidden' id='init-bgm-volume' value="0.05">
+			<input type='hidden' id='hide-sidebar' value="">
+			<input type='hidden' id='fixed-header' value="true">
+			<input type='hidden' id='content-middle-yn' value="true">
+			<input type='hidden' id='fold-toc-yn' value="true">
+			<input type='hidden' id='auto-toc-yn' value="true">
+			<input type='hidden' id='use-floating-toc-yn' value="true">
+			<input type='hidden' id='ignore-toc-yn' value="">
+			<input type='hidden' id='auto-toc-position' value="article-top">
+			<input type='hidden' id='dark-mode' value="">
+			<input type='hidden' id='default-dark-mode' value="">
+			<input type='hidden' id='forced-dark-mode' value="">
+			<input type='hidden' id='lazy-loading' value="true">
+			<input type='hidden' id='article-max-width' value="1100">
+			<input type='hidden' id='progress-top' value="true">
+			<input type='hidden' id='progress-left' value="">
+			<input type='hidden' id='progress-right' value="">
+			<input type='hidden' id='progress-bottom' value="true">
+			<input type='hidden' id='toc-unfold-yn' value="true">
+			<input type='hidden' id='ads-toc-position' value="">
+			<input type='hidden' id='use-fixed-ads-yn' value="">
+			<input type='hidden' id='fold-category' value="">
+			<input type='hidden' id='fold-category-speed' value="600">
+			<input type='hidden' id='fold-category-target' value="">
+			<input type='hidden' id='adsense-refresh' value="">
+			<input type='hidden' id='fixed-ads-type' value="matched">
+			<input type='hidden' id='border-size' value="1">
+			<input type='hidden' id='make-clipboard-link' value="">
+			<input type='hidden' id='alert-chromium' value="">
+			<input type='hidden' id='alert-chromium-text' value="해당 브라우저에서는 미넴 스킨이 올바르게 동작하지 않을 수 있습니다.">
+			<input type='hidden' id='article-google-ads' value="">
+			<input type='hidden' id='article-google-ads-type' value="mixed">
+			<input type='hidden' id='article-google-ads-forced' value="">
+			<input type='hidden' id='article-data-ad-slot-inarticle' value="">
+			<input type='hidden' id='article-data-ad-slot-display1' value="">
+			<input type='hidden' id='article-data-ad-slot-display2' value="">
+			<input type='hidden' id='article-google-ads-frequency' value="60">
+			<input type='hidden' id='data-ad-client' value="">
+			<input type='hidden' id='auto-scroll-ads' value="">
+			<input type='hidden' id='d-day-date-1' value="20230101">
+			<input type='hidden' id='d-day-date-2' value="">
+			<input type='hidden' id='d-day-date-3' value="">
+			<input type='hidden' id='d-day-date-4' value="">
+			<input type='hidden' id='d-day-date-5' value="">
+			<input type='hidden' id='floating-toc-subtitle-fold' value="true">
+			<input type='hidden' id='upload-images-yn' value="">
+			<input type='hidden' id='imgur-client-id' value="">
+			<input type='hidden' id='toc-force-start' value="true">
+		
+		<script src="https://tistory1.daumcdn.net/tistory/178947/skin/images/common.min.js?_version_=1708062523"></script>
+		<script src="https://tistory1.daumcdn.net/tistory/178947/skin/images/jquery.toc.min.js?_version_=1708062523"></script>
+		<script src="https://tistory1.daumcdn.net/tistory/178947/skin/images/custom.js?_version_=1708062523"></script>
+		<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<script>
+			window.onload = function() {
+				pageLoaded = true;
+			}
+		</script>
+	<div class="#menubar menu_toolbar ">
+  <h2 class="screen_out">티스토리툴바</h2>
+</div>
+<div class="#menubar menu_toolbar "></div>
+<div class="layer_tooltip">
+  <div class="inner_layer_tooltip">
+    <p class="desc_g"></p>
+  </div>
+</div>
+<iframe id="editEntry" style="position:absolute;width:1px;height:1px;left:-100px;top:-100px" src="//kongdori.tistory.com/api"></iframe>
+
+                        <!-- CallBack - START -->
+        <script>                    (function () { 
+                        var blogTitle = '오렌지사과의 사진과 투자';
+                        
+                        (function () {
+    function isShortContents () {
+        return window.getSelection().toString().length < 30;
+    }
+    function isCommentLink (elementID) {
+        return elementID === 'commentLinkClipboardInput'
+    }
+
+    function copyWithSource (event) {
+        if (isShortContents() || isCommentLink(event.target.id)) {
+            return;
+        }
+        var range = window.getSelection().getRangeAt(0);
+        var contents = range.cloneContents();
+        var temp = document.createElement('div');
+
+        temp.appendChild(contents);
+
+        var url = document.location.href;
+        var decodedUrl = decodeURI(url);
+        var postfix = ' [' + blogTitle + ':티스토리]';
+
+        event.clipboardData.setData('text/plain', temp.innerText + '\n출처: ' + decodedUrl + postfix);
+        event.clipboardData.setData('text/html', '<pre data-ke-type="codeblock">' + temp.innerHTML + '</pre>' + '출처: <a href="' + url + '">' + decodedUrl + '</a>' + postfix);
+        event.preventDefault();
+    }
+
+    document.addEventListener('copy', copyWithSource);
+})()
+
+                    })()</script>
+
+        <!-- CallBack - END -->
+
+        <!-- NaverAnalytics - START -->
+        <script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
+<script type="text/javascript">if(!wcs_add) var wcs_add = {};
+   wcs_add["wa"] = encodeURI("16f8a2053bf9cd0");
+   wcs_do();</script>
+
+        <!-- NaverAnalytics - END -->
+
+        <!-- SyntaxHighlight - START -->
+        <link href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/styles/atom-one-light.min.css" rel="stylesheet"/><script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/highlight.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/delphi.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/php.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/python.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/r.min.js" defer></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/ruby.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/scala.min.js" defer></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/shell.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/sql.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/swift.min.js" defer></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/typescript.min.js" defer></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/vbnet.min.js" defer></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+
+
+        <!-- SyntaxHighlight - END -->
+
+                
+                <script>            (function (win, doc, src) {
+    win.Wpm = win.Wpm || function (name, param) {
+        win.Wpm.queue = win.Wpm.queue || [];
+        const { queue } = win.Wpm;
+        queue.push([name, param]);
+    };
+    const script = doc.createElement('script');
+    script.src = src;
+    script.async = 1;
+    const [elem] = doc.getElementsByTagName('script');
+    elem.parentNode.insertBefore(script, elem);
+})(window, document, 'https://t1.kakaocdn.net/malibu_prod/normal_wpm.js');
+            const APP_KEY = 'fd21bd1c091849f9a2555e49c43a73dd';
+            Wpm('appKey', APP_KEY);</script>
+<script type="text/javascript">(function($) {
+    $(document).ready(function() {
+        lightbox.options.fadeDuration = 200;
+        lightbox.options.resizeDuration = 200;
+        lightbox.options.wrapAround = false;
+        lightbox.options.albumLabel = "%1 / %2";
+    })
+})(tjQuery);</script>
+<div style="margin:0; padding:0; border:none; background:none; float:none; clear:none; z-index:0"></div>
+<script type="text/javascript" src="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/script/owner.js"></script>
+<script type="text/javascript" src="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/script/common.js"></script>
+<script type="text/javascript">window.roosevelt_params_queue = window.roosevelt_params_queue || [{channel_id: 'dk', channel_label: '{tistory}'}]</script>
+<script type="text/javascript" src="//t1.daumcdn.net/midas/rt/dk_bt/roosevelt_dk_bt.js" async="async"></script>
+<script type="text/javascript" src="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/script/menubar.min.js"></script>
+
+                
+                <script>window.tiara = {"svcDomain":"user.tistory.com","section":"글뷰","trackPage":"글뷰_보기","page":"글뷰","key":"178947-123","customProps":{"userId":"183107","blogId":"178947","entryId":"123","role":"owner","trackPage":"글뷰_보기","filterTarget":false},"entry":{"entryId":"123","categoryName":"R","categoryId":"1151852","author":"183107","image":"kage@bKR3LR/btsA27qppBJ/YQikXLYQJlkrwTkKS9IhKK","plink":"/123","tags":[]},"kakaoAppKey":"3e6ddd834b023f24221217e370daed18","appUserId":"1602669910"}</script>
+<script type="text/javascript" src="https://tistory1.daumcdn.net/tistory_admin/userblog/tistory-f8f440db2242aeb799e0d4f3578a4f18e45dcf8e/static/script/tiara.min.js"></script>
+
+                </body>
+</html>
