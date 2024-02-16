@@ -130,7 +130,7 @@ FnGuide 고배당알파 지수 vs FnGuide 고배당주지수
 
 
 
-### [TIGER Top10 vs KODEX 2000](/292150-vs-069500/)<a id="292150-vs-069500"></a>
+### [TIGER Top10 vs KODEX 200](/292150-vs-069500/)<a id="292150-vs-069500"></a>
 
 FnGuide TOP10 지수 vs KOSPI 200 지수
 

@@ -5636,3 +5636,9 @@ hr[data-ke-style='style8'],
 .box-timeline-content {
   word-break: break-all;
 }
+
+/* 커스텀: 블로그 소개 카드 삭제 */
+.tt_box_namecard {
+  display: none !important;
+}
+
