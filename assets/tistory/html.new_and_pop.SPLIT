@@ -1,0 +1,41 @@
+              <s_sidebar_element>
+                <!-- 최근글-->
+                <div class="box-recent">
+                  <h3 class="title-sidebar">최근글</h3>
+                  <ul class="list-recent">
+                    <s_rctps_rep>
+                      <li>
+                        <a href="[##_rctps_rep_link_##]" class="link-recent">
+                          <s_rctps_rep_thumbnail>
+                            <p class="thumbnail" style="background-image:url('[##_rctps_rep_thumbnail_##]')"></p>
+                          </s_rctps_rep_thumbnail>
+                          <div class="box-recent">
+                            <strong>[##_rctps_rep_title_##]</strong>
+                            <span>[##_rctps_rep_date_##]</span>
+                          </div>
+                        </a>
+                      </li>
+                    </s_rctps_rep>
+                  </ul>
+                </div>
+
+                <div class="box-recent">
+                  <h3 class="title-sidebar">인기글</h3>
+                    <ul class="list-recent">
+                    <s_rctps_popular_rep>
+                      <li>
+                        <a href="[##_rctps_rep_link_##]" class="link-recent">
+                          <s_rctps_rep_thumbnail>
+                            <p class="thumbnail" style="background-image:url('[##_rctps_rep_thumbnail_##]')"></p>
+                          </s_rctps_rep_thumbnail>
+                          <div class="box-recent">
+                            <strong>[##_rctps_rep_title_##]</strong>
+                            <span>[##_rctps_rep_date_##]</span>
+                          </div>
+                        </a>
+                      </li>
+                    </s_rctps_popular_rep>
+                  </ul>
+                </div>
+              </s_sidebar_element>
+              <!-- // 인기글 -->
