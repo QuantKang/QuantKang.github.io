@@ -263,6 +263,18 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 
 
 
+## 저변동성
+
+
+
+### [KODEX 저변동성 vs KODEX 200](/279540-vs-069500/)<a id="279540-vs-069500"></a>
+
+KODEX 저변동성은 하락장에서 손실폭을 줄이기 위해 주가변동이 낮은 종목을 편입합니다. 위험 대비 수익률이 개선하고자 하는 목표가 달성되고 있는지 KODEX 200의 성과와 비교해 봅니다.
+
+{% include vs/279540-vs-069500_md.inc %}
+
+
+
 ## 우선주와 일반주
 
 
@@ -274,15 +286,15 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 {% include vs/261140-vs-069500_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [삼성전자 우선주 vs 삼성전자 일반주](/005935-vs-005930/)<a id="005935-vs-005930"></a>
 
 의결권이 없는 대신 배당금이 조금 더 높은 우선주와 의결권이 있는 일반주의 성과가 어떠한지 살펴봅니다.
 
 {% include vs/005935-vs-005930_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -325,15 +337,15 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 {% include vs/schd-vs-spy_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [VIG vs SCHD](/vig-vs-schd/)<a id="vig-vs-schd"></a>
 
 VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당성장주 ETF입니다. 국내에 널리 알려진 SCHD는 Dow Jones U.S. Dividend 100 지수를 추종하는 대표적인 배당성장주 ETF입니다. 두 상품 모두 비슷한 관점에서 설계했기에, 장기직인 성과는 비슷하리라 예상할 수 있습니다.
 
 {% include vs/vig-vs-schd_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -368,13 +380,13 @@ JEPIX는 JEPII와 동일한 전략을 사용한다고 알려진 JP모건사 뮤�
 {% include vs/jepq-vs-qqq_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [JEPQ vs JEPI](/jepq-vs-jepi/)<a id="jepq-vs-jepi"></a>
 
 {% include vs/jepq-vs-jepi_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -407,6 +419,9 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수�
 {% include vs/djia-vs-dia_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ## 해외 상장 해외 ETF (동일 비중)
 
@@ -417,9 +432,6 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수�
 다우지수 동일 비중 vs 다우지수
 
 {% include vs/edow-vs-dia_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -456,3 +468,6 @@ Invesco사의 PGX는 우선주에 투자하는 상품으로 연 평균 5% 이상
 iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환사채)와 같은 하이브리드 증권에도 투자하는 ETF입니다. 이 상품을 S&P 500 지수를 추종하는 SPY와 비교해 봅니다.
 
 {% include vs/pff-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
