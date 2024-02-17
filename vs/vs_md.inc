@@ -263,7 +263,15 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 
 
 
-## 국내 일반 종목
+## 우선주와 일반주
+
+
+
+### [TIGER 우선주 vs KODEX 200](/261140-vs-069500/)<a id="261140-vs-069500"></a>
+
+의결권이 없는 대신 배당금이 조금 더 높은 우선주와 의결권이 있는 일반주의 성과가 어떠한지 살펴봅니다. TIGER 우선주는 코스피 우선주 지수를 추종하는 상품으로 시총, 유동성, 배당실적 등을 고려한 지수입니다. KODEX 200은 코스피 200에 편입된 종목을 시총가중 방식으로 투자하는 ETF입니다.
+
+{% include vs/261140-vs-069500_md.inc %}
 
 
 
@@ -272,6 +280,9 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 의결권이 없는 대신 배당금이 조금 더 높은 우선주와 의결권이 있는 일반주의 성과가 어떠한지 살펴봅니다.
 
 {% include vs/005935-vs-005930_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -284,9 +295,6 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 전세계 주식에 투자하는 VT와 미국 주식에만 투자하는 VTI의 장기 성과를 비교해 봅니다.
 
 {% include vs/vt-vs-vti_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -325,6 +333,9 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 {% include vs/vig-vs-schd_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ## 해외 상장 해외 ETF (커버드 콜)
 
@@ -333,9 +344,6 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 ### [JEPI vs SPY](/jepi-vs-spy/)<a id="jepi-vs-spy"></a>
 
 {% include vs/jepi-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -366,13 +374,13 @@ JEPIX는 JEPII와 동일한 전략을 사용한다고 알려진 JP모건사 뮤�
 {% include vs/jepq-vs-jepi_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [JEPQ vs SPY](/jepq-vs-spy/)<a id="jepq-vs-spy"></a>
 
 {% include vs/jepq-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -411,6 +419,9 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수�
 {% include vs/edow-vs-dia_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [RSP vs SPY](/rsp-vs-spy/)<a id="rsp-vs-spy"></a>
 
@@ -419,12 +430,29 @@ S&P 500 Equal Weight Index vs. S&P 500
 {% include vs/rsp-vs-spy_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [QQEW  vs QQQ](/qqew-vs-qqq/)<a id="qqew-vs-qqq"></a>
 
 Nasdaq 100 Equal Weight Index vs. Nasdaq 100
 
 {% include vs/qqew-vs-qqq_md.inc %}
+
+
+
+## 해외 상장 해외 ETF (우선주 vs 일반주)
+
+
+
+### [PGX vs SPY](/pgx-vs-spy/)<a id="pgx-vs-spy"></a>
+
+Invesco사의 PGX는 우선주에 투자하는 상품으로 연 평균 5% 이상의 배당률을 기록해 왔습니다. 이 상품을 S&P5 500 지수를 추종하는 SPY와 비교해 봅니다.
+
+{% include vs/pgx-vs-spy_md.inc %}
+
+
+
+### [PFF vs SPY](/pff-vs-spy/)<a id="pff-vs-spy"></a>
+
+iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환사채)와 같은 하이브리드 증권에도 투자하는 ETF입니다. 이 상품을 S&P 500 지수를 추종하는 SPY와 비교해 보ㅇㅂ니다.
+
+{% include vs/pff-vs-spy_md.inc %}
