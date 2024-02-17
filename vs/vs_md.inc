@@ -263,6 +263,18 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 
 
 
+## 저변동성
+
+
+
+### [KODEX 최소변동성 vs KODEX KRX 300](/279540-vs-292190/)<a id="279540-vs-292190"></a>
+
+KODEX 최소변동성은 하락장에서 손실폭을 줄이기 위해 주가변동이 낮은 종목을 편입합니다. KRX 최소변동성 지수를 추종합니다. 위험 대비 수익률이 개선하고자 하는 목표가 달성되고 있는지 KRX 300 지수를 추종하는 KODEX KRX300의 성과와 비교해 봅니다.
+
+{% include vs/279540-vs-292190_md.inc %}
+
+
+
 ## 우선주와 일반주
 
 
@@ -274,15 +286,15 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 {% include vs/261140-vs-069500_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [삼성전자 우선주 vs 삼성전자 일반주](/005935-vs-005930/)<a id="005935-vs-005930"></a>
 
 의결권이 없는 대신 배당금이 조금 더 높은 우선주와 의결권이 있는 일반주의 성과가 어떠한지 살펴봅니다.
 
 {% include vs/005935-vs-005930_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -325,15 +337,15 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 {% include vs/schd-vs-spy_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [VIG vs SCHD](/vig-vs-schd/)<a id="vig-vs-schd"></a>
 
 VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당성장주 ETF입니다. 국내에 널리 알려진 SCHD는 Dow Jones U.S. Dividend 100 지수를 추종하는 대표적인 배당성장주 ETF입니다. 두 상품 모두 비슷한 관점에서 설계했기에, 장기직인 성과는 비슷하리라 예상할 수 있습니다.
 
 {% include vs/vig-vs-schd_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -368,13 +380,13 @@ JEPIX는 JEPII와 동일한 전략을 사용한다고 알려진 JP모건사 뮤�
 {% include vs/jepq-vs-qqq_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [JEPQ vs JEPI](/jepq-vs-jepi/)<a id="jepq-vs-jepi"></a>
 
 {% include vs/jepq-vs-jepi_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -407,6 +419,9 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수�
 {% include vs/djia-vs-dia_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ## 해외 상장 해외 ETF (동일 비중)
 
@@ -417,9 +432,6 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수�
 다우지수 동일 비중 vs 다우지수
 
 {% include vs/edow-vs-dia_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -439,6 +451,61 @@ Nasdaq 100 Equal Weight Index vs. Nasdaq 100
 
 
 
+## 해외 상장 해외 ETF (저변동성)
+
+
+
+### [SPLV vs SPY](/splv-vs-spy/)<a id="splv-vs-spy"></a>
+
+Invesco사의 SPLV는 S&P500 종목 중에서 변동성이 낮은 종목에 투자하는 상품입니다. S&P5 500 지수를 추종하는 SPY와 비교해서 저변동성 종목 편입의 효과를 확인해 봅니다.
+
+{% include vs/splv-vs-spy_md.inc %}
+
+
+
+### [SPHD vs SPY](/sphd-vs-spy/)<a id="sphd-vs-spy"></a>
+
+Invesco사의 SPHD는 S&P500 종목 중에서 고배당을 주면서 변동성이 낮은 종목에 투자하는 상품입니다. S&P5 500 지수를 추종하는 SPY와 비교해서 고배당과 저변동성 모두 충족하는 종목에 투자한 효과를 확인해 봅니다.
+
+{% include vs/sphd-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
+### [SPHD vs SPLV](/sphd-vs-splv/)<a id="sphd-vs-splv"></a>
+
+저변동성만 고려하는 SPLV와 고배당까지  고려하는 SPHD를 비교하여, 고배당의 효과를 살펴 봅니다.
+
+{% include vs/sphd-vs-splv_md.inc %}
+
+
+
+### [XMLV vs IJH](/xmlv-vs-ijh/)<a id="xmlv-vs-ijh"></a>
+
+IJH는 S&P 400 중형주 지수를 추종하는 ETF입니다. XMLV는 지수 편입 종목 중에서 저변동성을 고려해서 선별한 S&P MidCap 400 Low Volatility Index를 추종하는 ETF입니다. 저변동성을 이용한 선별이 중형주에 효과가 있는지 살펴볼 수 있습니다.
+
+{% include vs/xmlv-vs-ijh_md.inc %}
+
+
+
+### [XSLV vs IJR](/xslv-vs-ijr/)<a id="xslv-vs-ijr"></a>
+
+IJR은 S&P 600 소형주 지수를 추종하는 ETF입니다. XSLV는 지수 편입 종목 중에서 저변동성을 고려해서 선별한 S&P SmallCap 600 Low Volatility Index를 추종하는 ETF입니다. 저변동성을 이용한 선별이 소형주에 효과가 있는지 살펴볼 수 있습니다.
+
+{% include vs/xslv-vs-ijr_md.inc %}
+
+
+
+### [ONEV vs IWB](/onev-vs-iwb/)<a id="onev-vs-iwb"></a>
+
+러셀 1000 지수 편입 종목 중에서 저변동성 종목을 선별하는 ONEV와 러셀 100 지수를 추종하는 IWB을 비교합니다.
+
+{% include vs/onev-vs-iwb_md.inc %}
+
+
+
 ## 해외 상장 해외 ETF (우선주 vs 일반주)
 
 
@@ -448,6 +515,9 @@ Nasdaq 100 Equal Weight Index vs. Nasdaq 100
 Invesco사의 PGX는 우선주에 투자하는 상품으로 연 평균 5% 이상의 배당률을 기록해 왔습니다. 이 상품을 S&P5 500 지수를 추종하는 SPY와 비교해 봅니다.
 
 {% include vs/pgx-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
