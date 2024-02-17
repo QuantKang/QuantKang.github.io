@@ -482,14 +482,6 @@ Invesco사의 SPHD는 S&P500 종목 중에서 고배당을 주면서 변동성�
 
 
 
-### [ONEV vs IWM](/onev-vs-iwm/)<a id="onev-vs-iwm"></a>
-
-러셀 1000 지수 편입 종목 중에서 저변동성 종목을 선별하는 ONEV와 러셀 100 지수를 추종하는 IWM을 비교합니다.
-
-{% include vs/onev-vs-iwm_md.inc %}
-
-
-
 ### [XMLV vs IJH](/xmlv-vs-ijh/)<a id="xmlv-vs-ijh"></a>
 
 IJH는 S&P 400 중형주 지수를 추종하는 ETF입니다. XMLV는 지수 편입 종목 중에서 저변동성을 고려해서 선별한 S&P MidCap 400 Low Volatility Index를 추종하는 ETF입니다. 저변동성을 이용한 선별이 중형주에 효과가 있는지 살펴볼 수 있습니다.
@@ -498,11 +490,30 @@ IJH는 S&P 400 중형주 지수를 추종하는 ETF입니다. XMLV는 지수 편
 
 
 
+### [XSLV vs IJR](/xslv-vs-ijr/)<a id="xslv-vs-ijr"></a>
+
+IJR은 S&P 600 소형주 지수를 추종하는 ETF입니다. XSLV는 지수 편입 종목 중에서 저변동성을 고려해서 선별한 S&P SmallCap 600 Low Volatility Index를 추종하는 ETF입니다. 저변동성을 이용한 선별이 소형주에 효과가 있는지 살펴볼 수 있습니다.
+
+{% include vs/xslv-vs-ijr_md.inc %}
+
+
+
+### [ONEV vs IWM](/onev-vs-iwm/)<a id="onev-vs-iwm"></a>
+
+러셀 1000 지수 편입 종목 중에서 저변동성 종목을 선별하는 ONEV와 러셀 100 지수를 추종하는 IWM을 비교합니다.
+
+{% include vs/onev-vs-iwm_md.inc %}
+
+
+
 ### [USMV vs VTI](/usmv-vs-vti/)<a id="usmv-vs-vti"></a>
 
 BlackRock사의 USMV는 미국 시장에 상장된 모든 종목 중에서 변동성이 낮은 종목에 투자합니다. 미국 시장의 전 종목에 투자하는 Vanguard사의 VTI와 비교해 봅니다.
 
 {% include vs/usmv-vs-vti_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -515,9 +526,6 @@ BlackRock사의 USMV는 미국 시장에 상장된 모든 종목 중에서 변�
 Invesco사의 PGX는 우선주에 투자하는 상품으로 연 평균 5% 이상의 배당률을 기록해 왔습니다. 이 상품을 S&P5 500 지수를 추종하는 SPY와 비교해 봅니다.
 
 {% include vs/pgx-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
