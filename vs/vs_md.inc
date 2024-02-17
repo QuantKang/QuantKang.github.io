@@ -498,11 +498,11 @@ IJR은 S&P 600 소형주 지수를 추종하는 ETF입니다. XSLV는 지수 편
 
 
 
-### [ONEV vs IWM](/onev-vs-iwm/)<a id="onev-vs-iwm"></a>
+### [ONEV vs IWB](/onev-vs-iwb/)<a id="onev-vs-iwb"></a>
 
-러셀 1000 지수 편입 종목 중에서 저변동성 종목을 선별하는 ONEV와 러셀 100 지수를 추종하는 IWM을 비교합니다.
+러셀 1000 지수 편입 종목 중에서 저변동성 종목을 선별하는 ONEV와 러셀 100 지수를 추종하는 IWB을 비교합니다.
 
-{% include vs/onev-vs-iwm_md.inc %}
+{% include vs/onev-vs-iwb_md.inc %}
 
 
 
