@@ -490,6 +490,14 @@ Invesco사의 SPHD는 S&P500 종목 중에서 고배당을 주면서 변동성�
 
 
 
+### [XMLV vs IJH](/xmlv-vs-ijh/)<a id="xmlv-vs-ijh"></a>
+
+IJH는 S&P 400 중형주 지수를 추종하는 ETF입니다. XMLV는 지수 편입 종목 중에서 저변동성을 고려해서 선별한 S&P MidCap 400 Low Volatility Index를 추종하는 ETF입니다. 저변동성을 이용한 선별이 중형주에 효과가 있는지 살펴볼 수 있습니다.
+
+{% include vs/xmlv-vs-ijh_md.inc %}
+
+
+
 ### [USMV vs VTI](/usmv-vs-vti/)<a id="usmv-vs-vti"></a>
 
 BlackRock사의 USMV는 미국 시장에 상장된 모든 종목 중에서 변동성이 낮은 종목에 투자합니다. 미국 시장의 전 종목에 투자하는 Vanguard사의 VTI와 비교해 봅니다.
@@ -509,12 +517,12 @@ Invesco사의 PGX는 우선주에 투자하는 상품으로 연 평균 5% 이상
 {% include vs/pgx-vs-spy_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [PFF vs SPY](/pff-vs-spy/)<a id="pff-vs-spy"></a>
 
 iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환사채)와 같은 하이브리드 증권에도 투자하는 ETF입니다. 이 상품을 S&P 500 지수를 추종하는 SPY와 비교해 봅니다.
 
 {% include vs/pff-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
