@@ -114,6 +114,25 @@ FnGuide 고배당알파 지수 vs FnGuide 고배당주지수
 
 
 
+### [KBSTAR 대형고배당10TR vs KODEX 200](/315960-vs-069500/)<a id="315960-vs-069500"></a>
+
+시총 상위 종목 중에서 배당금이 높은 종목에 투자하는 KBSTAR 대형고배당10TR이 일반적인 지수 추종 상품과 어떻게 다른지 비교합니다.
+
+{% include vs/315960-vs-069500_md.inc %}
+
+
+
+### [KBSTAR 대형고배당10TR vs TIGER Top10](/315960-vs-292150/)<a id="315960-vs-292150"></a>
+
+시총 상위 종목 중에서 배당금이 높은 종목에 투자하는 KBSTAR 대형고배당10TR이 시총 상위 소수 종목으로 구성한 ETF와 어떻게 다른지 비교합니다.
+
+{% include vs/315960-vs-292150_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
 ## 동일 가중 ETF
 
 
@@ -135,9 +154,6 @@ FnGuide 고배당알파 지수 vs FnGuide 고배당주지수
 FnGuide TOP10 지수 vs KOSPI 200 지수
 
 {% include vs/292150-vs-069500_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -164,6 +180,9 @@ KOSPI 200Top10 (동일가중) vs FnGuide TOP 10 동일가중 지수
 {% include vs/411540-vs-395170_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ## 국내 상장 커버드콜 ETF
 
@@ -182,9 +201,6 @@ TIGER 200 커버드콜5%OTM은 KOSPI 200 현물 주식을 보유하면서, KOSPI
 KBSTAR 200고배당커버드콜ATM은 코스피 고배당 50 지수 편입 50종목을 보유하는 동시에, 코스피200콜옵션 매도로 안정적인 월분배를 추구하는 ETF입니다. TIGER 코스피고배당은 코스피 고배당 50 지수를 추적대상지수로 하는 ETF입니다. 고배당을 종목을 보유하고 있을 때, 추가로 커버드 콜 전략을 적용하는 것이 효과적인지 살펴볼 수 있습니다.
 
 {% include vs/290080-vs-210780_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -219,6 +235,9 @@ TIGER 미국배당다우존스는 Dow Jones U.S. Dividend 100 지수(원화환�
 {% include vs/458750-vs-458730_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [SOL 미국배당다우존스(H) vs SOL 미국배당다우존스](/452360-vs-446720/)<a id="452360-vs-446720"></a>
 
@@ -233,9 +252,6 @@ SOL 미국배당다우존스(H)와 SOL 미국배당다우존스는 모두 Dow Jo
 TIGER 미국S&P500선물(H)는 S&P 500 선물지수를 추종하며 환헤지가 적용된 ETF입니다. 이 두 가지가 장기 성과에 어떤 영향을 미쳤는지 살펴봅니다.
 
 {% include vs/143850-vs-360750_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -270,6 +286,9 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 {% include vs/vt-vs-vti_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [VTI vs SPY](/vti-vs-spy/)<a id="vti-vs-spy"></a>
 
@@ -284,9 +303,6 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 나스닥에서 주요 종목을 선별하는 QQQ와 나스닥을 포함하여 미국 시장에 상장된 주요 종목을 대상으로 하는 SP간의 장기 성과를 비교해 봅니다.
 
 {% include vs/qqq-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -319,6 +335,9 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 {% include vs/jepi-vs-spy_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [JEPI vs JEPIX](/jepi-vs-jepix/)<a id="jepi-vs-jepix"></a>
 
@@ -333,9 +352,6 @@ JEPIX는 JEPI와 동일한 전략을 사용한다고 알려진 JP모건사의 �
 JEPIX는 JEPII와 동일한 전략을 사용한다고 알려진 JP모건사 뮤추얼 펀드입니다. JEPIX는 JEPI보다 먼저 설정되었습니다. JEPI/JEPIX의 전략이 유용한 지 좀 더 긴 기간을 대상으로 비교해 봅니다. 참고로 JEPIX의 시세 데이터에 오류가 있는 듯 합니다. JEPIX는 매달 배당금을 지급하는 방식에서 2023년 상반기에 대부분을 펀드에 재투자하는 방식으로 바뀌었습니다. 이로 인한 자산 증가분이 고려되지 않아 JEPI보다 낮은 성과를 보이는 착시가 발생할 수 있습니다. JEPIX 대신 JEPI로 비교하는 것이 현재로는 보다 정확합니다.
 
 {% include vs/jepix-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -356,6 +372,9 @@ JEPIX는 JEPII와 동일한 전략을 사용한다고 알려진 JP모건사 뮤�
 {% include vs/jepq-vs-spy_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [XYLD vs SPY](/xyld-vs-spy/)<a id="xyld-vs-spy"></a>
 
@@ -370,9 +389,6 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수�
 나스닥 100 지수에 대해 커버드 콜 전략을 쓰는 QYLD와 나스닥 100 지수를 QQQ의 성과를 비교해 봅니다.
 
 {% include vs/qyld-vs-qqq_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -401,6 +417,9 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수�
 S&P 500 Equal Weight Index vs. S&P 500
 
 {% include vs/rsp-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
