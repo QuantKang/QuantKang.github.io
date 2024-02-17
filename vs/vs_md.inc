@@ -451,6 +451,45 @@ Nasdaq 100 Equal Weight Index vs. Nasdaq 100
 
 
 
+## 해외 상장 해외 ETF (저변동성)
+
+
+
+### [SPLV vs SPY](/splv-vs-spy/)<a id="splv-vs-spy"></a>
+
+Invesco사의 SPLV는 S&P500 종목 중에서 변동성이 낮은 종목에 투자하는 상품입니다. S&P5 500 지수를 추종하는 SPY와 비교해서 저변동성 종목 편입의 효과를 확인해 봅니다.
+
+{% include vs/splv-vs-spy_md.inc %}
+
+
+
+### [SPHD vs SPY](/sphd-vs-spy/)<a id="sphd-vs-spy"></a>
+
+Invesco사의 SPHD는 S&P500 종목 중에서 변동성이 낮으면서 고배당을 주는 종목에 투자하는 상품입니다. S&P5 500 지수를 추종하는 SPY와 비교해서 고배당과 저변동성 모두 충족하는 종목에 투자한 효과를 확인해 봅니다.
+
+{% include vs/sphd-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
+### [SPHD vs SPLV](/sphd-vs-splv/)<a id="sphd-vs-splv"></a>
+
+저변동성만 고려하는 SPLV와 추가로 고배당을 고려하는 SPHD를 비교하여, 고배당의 효과를 살펴 봅니다.
+
+{% include vs/sphd-vs-splv_md.inc %}
+
+
+
+### [USMV vs VTI](/usmv-vs-vti/)<a id="usmv-vs-vti"></a>
+
+BlackRock사의 USMV는 미국 시장에 상장된 모든 종목 중에서 변동성이 낮은 종목에 투자합니다. 미국 시장의 전 종목에 투자하는 Vanguard사의 VTI와 비교해 봅니다.
+
+{% include vs/usmv-vs-vti_md.inc %}
+
+
+
 ## 해외 상장 해외 ETF (우선주 vs 일반주)
 
 
@@ -468,6 +507,3 @@ Invesco사의 PGX는 우선주에 투자하는 상품으로 연 평균 5% 이상
 iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환사채)와 같은 하이브리드 증권에도 투자하는 ETF입니다. 이 상품을 S&P 500 지수를 추종하는 SPY와 비교해 봅니다.
 
 {% include vs/pff-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}

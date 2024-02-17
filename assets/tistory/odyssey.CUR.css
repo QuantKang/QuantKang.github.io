@@ -4653,7 +4653,8 @@ html {
   /* 커스텀: 왼쪽에 바 설정 */
   padding-left: 0.5em;
   border-left: 0.2em solid #8f784b;
-
+  /* 커스텀: 폰트 굵게 */
+  font-weight: bold;
 }
 
 #article-view h3[data-ke-size] {
@@ -4662,6 +4663,8 @@ html {
   */
   font-size: 1.3em;
   line-height: 1.48;
+  /* 커스텀: 폰트 굵게 */
+  font-weight: bold;
 }
 
 #article-view h4[data-ke-size] {
