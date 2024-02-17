@@ -506,17 +506,6 @@ IJR은 S&P 600 소형주 지수를 추종하는 ETF입니다. XSLV는 지수 편
 
 
 
-### [USMV vs VTI](/usmv-vs-vti/)<a id="usmv-vs-vti"></a>
-
-BlackRock사의 USMV는 미국 시장에 상장된 모든 종목 중에서 변동성이 낮은 종목에 투자합니다. 미국 시장의 전 종목에 투자하는 Vanguard사의 VTI와 비교해 봅니다.
-
-{% include vs/usmv-vs-vti_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
-
-
-
 ## 해외 상장 해외 ETF (우선주 vs 일반주)
 
 
@@ -526,6 +515,9 @@ BlackRock사의 USMV는 미국 시장에 상장된 모든 종목 중에서 변�
 Invesco사의 PGX는 우선주에 투자하는 상품으로 연 평균 5% 이상의 배당률을 기록해 왔습니다. 이 상품을 S&P5 500 지수를 추종하는 SPY와 비교해 봅니다.
 
 {% include vs/pgx-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
