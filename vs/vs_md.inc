@@ -436,3 +436,23 @@ S&P 500 Equal Weight Index vs. S&P 500
 Nasdaq 100 Equal Weight Index vs. Nasdaq 100
 
 {% include vs/qqew-vs-qqq_md.inc %}
+
+
+
+## 해외 상장 해외 ETF (우선주 vs 일반주)
+
+
+
+### [PGX vs SPY](/pgx-vs-spy/)<a id="pgx-vs-spy"></a>
+
+Invesco사의 PGX는 우선주에 투자하는 상품으로 연 평균 5% 이상의 배당률을 기록해 왔습니다. 이 상품을 S&P5 500 지수를 추종하는 SPY와 비교해 봅니다.
+
+{% include vs/pgx-vs-spy_md.inc %}
+
+
+
+### [PFF vs SPY](/pff-vs-spy/)<a id="pff-vs-spy"></a>
+
+iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환사채)와 같은 하이브리드 증권에도 투자하는 ETF입니다. 이 상품을 S&P 500 지수를 추종하는 SPY와 비교해 보ㅇㅂ니다.
+
+{% include vs/pff-vs-spy_md.inc %}
