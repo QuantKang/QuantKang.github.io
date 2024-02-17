@@ -28,25 +28,6 @@ ARIRANG 고배당주는 고배당 종목으로 구성한 ETF입니다. 배당 �
 
 
 
-### [KBSTAR 대형고배당10TR vs KODEX 200](/315960-vs-069500/)<a id="315960-vs-069500"></a>
-
-시총 상위 종목 중에서 배당금이 높은 종목에 투자하는 KBSTAR 대형고배당10TR이 일반적인 지수 추종 상품과 어떻게 다른지 비교합니다.
-
-{% include vs/315960-vs-069500_md.inc %}
-
-
-
-### [KBSTAR 대형고배당10TR vs TIGER Top10](/315960-vs-292150/)<a id="315960-vs-292150"></a>
-
-시총 상위 종목 중에서 배당금이 높은 종목에 투자하는 KBSTAR 대형고배당10TR이 시총 상위 소수 종목으로 구성한 ETF와 어떻게 다른지 비교합니다.
-
-{% include vs/315960-vs-292150_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
-
-
-
 ### [KBSTAR 대형고배당10TR vs ARIRANG 고배당주](/315960-vs-161510/)<a id="315960-vs-161510"></a>
 
 WISE 대형고배당10TR지수 vs FnGuide 고배당주지수
@@ -60,6 +41,9 @@ WISE 대형고배당10TR지수 vs FnGuide 고배당주지수
 FnGuide 고배당포커스 지수 vs FnGuide 고배당주지수
 
 {% include vs/266160-vs-161510_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -86,9 +70,6 @@ MKF 웰스 고배당 20 지수 vs FnGuide 고배당주지수
 {% include vs/104530-vs-161510_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [KBSTAR KQ고배당 vs ARIRANG 고배당주](/270800-vs-161510/)<a id="270800-vs-161510"></a>
 
@@ -103,6 +84,9 @@ FnGuide KQ고배당포커스 지수 vs FnGuide 고배당주지수
 코스피 200 고배당지수 vs FnGuide 고배당주지수
 
 {% include vs/192720-vs-161510_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -127,6 +111,22 @@ FnGuide 중소형 고배당포커스 지수 vs FnGuide 고배당주지수
 FnGuide 고배당알파 지수 vs FnGuide 고배당주지수
 
 {% include vs/322410-vs-161510_md.inc %}
+
+
+
+### [KBSTAR 대형고배당10TR vs KODEX 200](/315960-vs-069500/)<a id="315960-vs-069500"></a>
+
+시총 상위 종목 중에서 배당금이 높은 종목에 투자하는 KBSTAR 대형고배당10TR이 일반적인 지수 추종 상품과 어떻게 다른지 비교합니다.
+
+{% include vs/315960-vs-069500_md.inc %}
+
+
+
+### [KBSTAR 대형고배당10TR vs TIGER Top10](/315960-vs-292150/)<a id="315960-vs-292150"></a>
+
+시총 상위 종목 중에서 배당금이 높은 종목에 투자하는 KBSTAR 대형고배당10TR이 시총 상위 소수 종목으로 구성한 ETF와 어떻게 다른지 비교합니다.
+
+{% include vs/315960-vs-292150_md.inc %}
 
 
 {% include /commons/ads/adsense.html %}
