@@ -465,7 +465,7 @@ Invesco사의 SPLV는 S&P500 종목 중에서 변동성이 낮은 종목에 투�
 
 ### [SPHD vs SPY](/sphd-vs-spy/)<a id="sphd-vs-spy"></a>
 
-Invesco사의 SPHD는 S&P500 종목 중에서 변동성이 낮으면서 고배당을 주는 종목에 투자하는 상품입니다. S&P5 500 지수를 추종하는 SPY와 비교해서 고배당과 저변동성 모두 충족하는 종목에 투자한 효과를 확인해 봅니다.
+Invesco사의 SPHD는 S&P500 종목 중에서 고배당을 주면서 변동성이 낮은 종목에 투자하는 상품입니다. S&P5 500 지수를 추종하는 SPY와 비교해서 고배당과 저변동성 모두 충족하는 종목에 투자한 효과를 확인해 봅니다.
 
 {% include vs/sphd-vs-spy_md.inc %}
 
@@ -476,9 +476,17 @@ Invesco사의 SPHD는 S&P500 종목 중에서 변동성이 낮으면서 고배�
 
 ### [SPHD vs SPLV](/sphd-vs-splv/)<a id="sphd-vs-splv"></a>
 
-저변동성만 고려하는 SPLV와 추가로 고배당을 고려하는 SPHD를 비교하여, 고배당의 효과를 살펴 봅니다.
+저변동성만 고려하는 SPLV와 고배당까지  고려하는 SPHD를 비교하여, 고배당의 효과를 살펴 봅니다.
 
 {% include vs/sphd-vs-splv_md.inc %}
+
+
+
+### [ONEV vs IWM](/onev-vs-iwm/)<a id="onev-vs-iwm"></a>
+
+러셀 1000 지수 편입 종목 중에서 저변동성 종목을 선별하는 ONEV와 러셀 100 지수를 추종하는 IWM을 비교합니다.
+
+{% include vs/onev-vs-iwm_md.inc %}
 
 
 
@@ -507,3 +515,6 @@ Invesco사의 PGX는 우선주에 투자하는 상품으로 연 평균 5% 이상
 iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환사채)와 같은 하이브리드 증권에도 투자하는 ETF입니다. 이 상품을 S&P 500 지수를 추종하는 SPY와 비교해 봅니다.
 
 {% include vs/pff-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
