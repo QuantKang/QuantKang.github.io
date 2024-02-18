@@ -1,0 +1,10 @@
+        <!-- GoogleAnalytics - START -->
+        <script src="https://www.googletagmanager.com/gtag/js?id=G-FGH74JWMHV" async="async"></script>
+<script>window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config','G-FGH74JWMHV', {
+    cookie_domain: 'auto',
+    cookie_flags: 'max-age=0;domain=.tistory.com',
+    cookie_expires: 7 * 24 * 60 * 60 // 7 days, in seconds
+});</script>
