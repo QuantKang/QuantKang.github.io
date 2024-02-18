@@ -243,6 +243,45 @@ KOSPI 200Top10 (동일가중) vs FnGuide TOP 10 동일가중 지수
 
 
 
+## 스마트 베타 ETF
+
+
+
+### [TIGER 모멘텀 vs KODEX 200](/147970-vs-069500/)<a id="147970-vs-069500"></a>
+
+TIGER 모멘텀 vs KOSPI 200 지수
+
+{% include vs/147970-vs-069500_md.inc %}
+
+
+
+### [TIGER 로우볼 vs KODEX 200](/174350-vs-069500/)<a id="174350-vs-069500"></a>
+
+TIGER 로우볼 vs KOSPI 200 지수
+
+{% include vs/174350-vs-069500_md.inc %}
+
+
+
+### [TIGER 배당성장 vs KODEX 200](/211560-vs-069500/)<a id="211560-vs-069500"></a>
+
+TIGER 배당성장 vs KOSPI 200 지수
+
+{% include vs/211560-vs-069500_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
+### [TIGER 우량가치 vs KODEX 200](/227570-vs-069500/)<a id="227570-vs-069500"></a>
+
+TIGER 우량가치 vs KOSPI 200 지수
+
+{% include vs/227570-vs-069500_md.inc %}
+
+
+
 ## 국내 상장 커버드콜 ETF
 
 
@@ -274,9 +313,6 @@ KODEX 코스닥150레버리지는 현물 100%와 선물 100%로 2배 레버리�
 {% include vs/278240-vs-233740_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ## 국내 상장 해외 ETF
 
@@ -287,6 +323,9 @@ KODEX 코스닥150레버리지는 현물 100%와 선물 100%로 2배 레버리�
 TIGER 미국배당다우존스는 Dow Jones U.S. Dividend 100 지수(원화환산)(Price Return) 지수를 추종하는 배당성장주 ETF입니다. TIGER 미국배당+7%프리미엄다우존스는 여기에 최대 40%까지 커버드 콜 비중을 두어 단기 배당금을 높인 Dow Jones U.S. Dividend 100 7% Premium Covered Call 지수(Total Return)(원화환산) 지수를 추종하는 ETF입니다. 커버드 콜에 의한 성과 변화가 어떠했는지 살펴봅니다.
 
 {% include vs/458760-vs-458730_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -321,9 +360,6 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 {% include vs/441680-vs-133690_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ## 저변동성
 
@@ -334,6 +370,9 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 KODEX 최소변동성은 하락장에서 손실폭을 줄이기 위해 주가변동이 낮은 종목을 편입합니다. KRX 최소변동성 지수를 추종합니다. 위험 대비 수익률이 개선하고자 하는 목표가 달성되고 있는지 KRX 300 지수를 추종하는 KODEX KRX300의 성과와 비교해 봅니다.
 
 {% include vs/279540-vs-292190_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -376,15 +415,15 @@ KODEX 최소변동성은 하락장에서 손실폭을 줄이기 위해 주가변
 {% include vs/vti-vs-spy_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [QQQ vs SPY](/qqq-vs-spy/)<a id="qqq-vs-spy"></a>
 
 나스닥에서 주요 종목을 선별하는 QQQ와 나스닥을 포함하여 미국 시장에 상장된 주요 종목을 대상으로 하는 SP간의 장기 성과를 비교해 봅니다.
 
 {% include vs/qqq-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -425,15 +464,15 @@ JEPIX는 JEPI와 동일한 전략을 사용한다고 알려진 JP모건사의 �
 {% include vs/jepi-vs-jepix_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [JEPIX vs SPY](/jepix-vs-spy/)<a id="jepix-vs-spy"></a>
 
 JEPIX는 JEPII와 동일한 전략을 사용한다고 알려진 JP모건사 뮤추얼 펀드입니다. JEPIX는 JEPI보다 먼저 설정되었습니다. JEPI/JEPIX의 전략이 유용한 지 좀 더 긴 기간을 대상으로 비교해 봅니다. 참고로 JEPIX의 시세 데이터에 오류가 있는 듯 합니다. JEPIX는 매달 배당금을 지급하는 방식에서 2023년 상반기에 대부분을 펀드에 재투자하는 방식으로 바뀌었습니다. 이로 인한 자산 증가분이 고려되지 않아 JEPI보다 낮은 성과를 보이는 착시가 발생할 수 있습니다. JEPIX 대신 JEPI로 비교하는 것이 현재로는 보다 정확합니다.
 
 {% include vs/jepix-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -462,15 +501,15 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수�
 {% include vs/xyld-vs-spy_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [QYLD vs QQQ](/qyld-vs-qqq/)<a id="qyld-vs-qqq"></a>
 
 나스닥 100 지수에 대해 커버드 콜 전략을 쓰는 QYLD와 나스닥 100 지수를 QQQ의 성과를 비교해 봅니다.
 
 {% include vs/qyld-vs-qqq_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -509,9 +548,6 @@ Nasdaq 100 Equal Weight Index vs. Nasdaq 100
 {% include vs/qqew-vs-qqq_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ## 해외 상장 해외 ETF (저변동성)
 
@@ -522,6 +558,9 @@ Nasdaq 100 Equal Weight Index vs. Nasdaq 100
 Invesco사의 SPLV는 S&P500 종목 중에서 변동성이 낮은 종목에 투자하는 상품입니다. S&P5 500 지수를 추종하는 SPY와 비교해서 저변동성 종목 편입의 효과를 확인해 봅니다.
 
 {% include vs/splv-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -556,15 +595,15 @@ IJR은 S&P 600 소형주 지수를 추종하는 ETF입니다. XSLV는 지수 편
 {% include vs/xslv-vs-ijr_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [ONEV vs IWB](/onev-vs-iwb/)<a id="onev-vs-iwb"></a>
 
 러셀 1000 지수 편입 종목 중에서 저변동성 종목을 선별하는 ONEV와 러셀 100 지수를 추종하는 IWB을 비교합니다.
 
 {% include vs/onev-vs-iwb_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
