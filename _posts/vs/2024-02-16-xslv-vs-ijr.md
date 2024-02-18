@@ -8,6 +8,10 @@ header:
 toc: true
 categories:
 - vs
+tags:
+- IJR
+- XSLV
+- XSLV vs IJR
 ---
 
 ## 비교 상품 소개

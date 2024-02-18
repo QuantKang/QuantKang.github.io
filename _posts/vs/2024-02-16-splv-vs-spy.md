@@ -8,6 +8,10 @@ header:
 toc: true
 categories:
 - vs
+tags:
+- SPY
+- SPLV
+- SPLV vs SPY
 ---
 
 ## 비교 상품 소개

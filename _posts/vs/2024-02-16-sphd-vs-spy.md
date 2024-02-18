@@ -8,6 +8,10 @@ header:
 toc: true
 categories:
 - vs
+tags:
+- SPY
+- SPHD
+- SPHD vs SPY
 ---
 
 ## 비교 상품 소개

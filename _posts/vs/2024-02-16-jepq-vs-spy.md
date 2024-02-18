@@ -8,6 +8,10 @@ header:
 toc: true
 categories:
 - vs
+tags:
+- SPY
+- JEPQ
+- JEPQ vs SPY
 ---
 
 ## 비교 상품 소개

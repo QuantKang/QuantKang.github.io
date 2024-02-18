@@ -8,6 +8,10 @@ header:
 toc: true
 categories:
 - vs
+tags:
+- DIA
+- EDOW
+- EDOW vs DIA
 ---
 
 ## 비교 상품 소개

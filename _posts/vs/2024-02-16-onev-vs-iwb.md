@@ -8,6 +8,10 @@ header:
 toc: true
 categories:
 - vs
+tags:
+- IWB
+- ONEV
+- ONEV vs IWB
 ---
 
 ## 비교 상품 소개

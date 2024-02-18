@@ -8,6 +8,10 @@ header:
 toc: true
 categories:
 - vs
+tags:
+- SPY
+- XYLD
+- XYLD vs SPY
 ---
 
 ## 비교 상품 소개

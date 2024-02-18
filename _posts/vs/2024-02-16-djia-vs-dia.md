@@ -8,6 +8,10 @@ header:
 toc: true
 categories:
 - vs
+tags:
+- DIA
+- DJIA
+- DJIA vs DIA
 ---
 
 ## 비교 상품 소개

@@ -8,6 +8,10 @@ header:
 toc: true
 categories:
 - vs
+tags:
+- SPLV
+- SPHD
+- SPHD vs SPLV
 ---
 
 ## 비교 상품 소개

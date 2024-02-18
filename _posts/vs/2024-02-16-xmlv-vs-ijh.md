@@ -8,6 +8,10 @@ header:
 toc: true
 categories:
 - vs
+tags:
+- IJH
+- XMLV
+- XMLV vs IJH
 ---
 
 ## 비교 상품 소개

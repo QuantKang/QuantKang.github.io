@@ -8,6 +8,10 @@ header:
 toc: true
 categories:
 - vs
+tags:
+- JEPIX
+- JEPI
+- JEPI vs JEPIX
 ---
 
 ## 비교 상품 소개

@@ -8,6 +8,10 @@ header:
 toc: true
 categories:
 - vs
+tags:
+- QQQ
+- QQEW
+- QQEW vs QQQ
 ---
 
 ## 비교 상품 소개
