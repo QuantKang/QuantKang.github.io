@@ -8,6 +8,7 @@ header:
 toc: true
 categories:
 - vs
+keywords: SPY, SCHG, SCHG SPY 비교
 ---
 
 ## 비교 상품 소개

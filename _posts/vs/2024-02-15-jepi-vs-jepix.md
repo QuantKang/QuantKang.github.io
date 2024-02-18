@@ -8,6 +8,7 @@ header:
 toc: true
 categories:
 - vs
+keywords: JEPIX, JEPI, JEPI JEPIX 비교
 ---
 
 ## 비교 상품 소개

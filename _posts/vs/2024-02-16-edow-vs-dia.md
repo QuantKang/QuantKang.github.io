@@ -8,6 +8,7 @@ header:
 toc: true
 categories:
 - vs
+keywords: DIA, EDOW, EDOW DIA 비교
 ---
 
 ## 비교 상품 소개

@@ -28,6 +28,11 @@
 {%- assign author = page.author | default: page.authors[0] | default: site.author -%}
 {%- assign author = site.data.authors[author] | default: author -%}
 
+<!-- 커스텀: keywords -->
+{% if page.keywords %}
+  {%- assign keywords = page.keywords %}
+{% endif %}
+
 {%- if author.twitter -%}
   {%- assign author_twitter = author.twitter | replace: "@", "" -%}
 {%- endif -%}
@@ -55,6 +60,11 @@
   {% if og_type == "article" %}
   <meta property="article:author" content="{{ author.name | default: author }}">
   {% endif %}
+{% endif %}
+
+<!-- 커스텀: keywords -->
+{% if keywords %}
+<meta name="keywords" content="{{ keywords | join: ", " }}">
 {% endif %}
 
 <meta property="og:type" content="{{ og_type }}">
