@@ -8,10 +8,7 @@ header:
 toc: true
 categories:
 - vs
-tags:
-- QQQ
-- JEPQ
-- JEPQ vs QQQ
+keywords: QQQ, JEPQ, JEPQ QQQ 비교
 ---
 
 ## 비교 상품 소개

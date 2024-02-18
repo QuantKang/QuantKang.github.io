@@ -8,10 +8,7 @@ header:
 toc: true
 categories:
 - vs
-tags:
-- QQQ
-- QQEW
-- QQEW vs QQQ
+keywords: QQQ, QQEW, QQEW QQQ 비교
 ---
 
 ## 비교 상품 소개

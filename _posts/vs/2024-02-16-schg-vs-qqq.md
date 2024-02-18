@@ -8,10 +8,7 @@ header:
 toc: true
 categories:
 - vs
-tags:
-- QQQ
-- SCHG
-- SCHG vs QQQ
+keywords: QQQ, SCHG, SCHG QQQ 비교
 ---
 
 ## 비교 상품 소개

@@ -8,10 +8,7 @@ header:
 toc: true
 categories:
 - vs
-tags:
-- SPY
-- SPHD
-- SPHD vs SPY
+keywords: SPY, SPHD, SPHD SPY 비교
 ---
 
 ## 비교 상품 소개

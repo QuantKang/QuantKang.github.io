@@ -8,10 +8,7 @@ header:
 toc: true
 categories:
 - vs
-tags:
-- SPY
-- JEPIX
-- JEPIX vs SPY
+keywords: SPY, JEPIX, JEPIX SPY 비교
 ---
 
 ## 비교 상품 소개

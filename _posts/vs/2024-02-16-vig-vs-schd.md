@@ -8,10 +8,7 @@ header:
 toc: true
 categories:
 - vs
-tags:
-- SCHD
-- VIG
-- VIG vs SCHD
+keywords: SCHD, VIG, VIG SCHD 비교
 ---
 
 ## 비교 상품 소개

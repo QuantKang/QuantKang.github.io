@@ -8,10 +8,7 @@ header:
 toc: true
 categories:
 - vs
-tags:
-- DIA
-- DJIA
-- DJIA vs DIA
+keywords: DIA, DJIA, DJIA DIA 비교
 ---
 
 ## 비교 상품 소개

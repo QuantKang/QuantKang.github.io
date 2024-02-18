@@ -8,10 +8,7 @@ header:
 toc: true
 categories:
 - vs
-tags:
-- IJR
-- XSLV
-- XSLV vs IJR
+keywords: IJR, XSLV, XSLV IJR 비교
 ---
 
 ## 비교 상품 소개

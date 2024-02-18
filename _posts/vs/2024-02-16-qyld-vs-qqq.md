@@ -8,10 +8,7 @@ header:
 toc: true
 categories:
 - vs
-tags:
-- QQQ
-- QYLD
-- QYLD vs QQQ
+keywords: QQQ, QYLD, QYLD QQQ 비교
 ---
 
 ## 비교 상품 소개

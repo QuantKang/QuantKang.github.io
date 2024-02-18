@@ -8,10 +8,7 @@ header:
 toc: true
 categories:
 - vs
-tags:
-- SPY
-- SCHD
-- SCHD vs SPY
+keywords: SPY, SCHD, SCHD SPY 비교
 ---
 
 ## 비교 상품 소개
