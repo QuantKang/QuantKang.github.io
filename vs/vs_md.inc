@@ -467,7 +467,7 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 
 
 
-### [SCHP vs SPY](/schp-vs-spy/)<a id="schp-vs-spy"></a>
+### [SCHG vs SPY](/schp-vs-spy/)<a id="schp-vs-spy"></a>
 
 {% include vs/schp-vs-spy_md.inc %}
 
@@ -476,7 +476,7 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 
 
 
-### [SCHP vs QQQ](/schp-vs-qqq/)<a id="schp-vs-qqq"></a>
+### [SCHG vs QQQ](/schp-vs-qqq/)<a id="schp-vs-qqq"></a>
 
 {% include vs/schp-vs-qqq_md.inc %}
 
