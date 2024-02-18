@@ -247,6 +247,14 @@ KOSPI 200Top10 (동일가중) vs FnGuide TOP 10 동일가중 지수
 
 
 
+### [TIGER 베타플러스 vs KODEX 200](/170350-vs-069500/)<a id="170350-vs-069500"></a>
+
+TIGER 베타플러스 vs KODEX 200
+
+{% include vs/170350-vs-069500_md.inc %}
+
+
+
 ### [TIGER 모멘텀 vs KODEX 200](/147970-vs-069500/)<a id="147970-vs-069500"></a>
 
 TIGER 모멘텀 vs KODEX 200
@@ -262,15 +270,15 @@ TIGER 로우볼 vs KODEX 200
 {% include vs/174350-vs-069500_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [TIGER 배당성장 vs KODEX 200](/211560-vs-069500/)<a id="211560-vs-069500"></a>
 
 TIGER 배당성장 vs KODEX 200
 
 {% include vs/211560-vs-069500_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -309,6 +317,9 @@ KBSTAR 200고배당커버드콜ATM은 코스피 고배당 50 지수 편입 50종
 {% include vs/290080-vs-210780_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ## 국내 상장 레버리지 ETF
 
@@ -319,9 +330,6 @@ KBSTAR 200고배당커버드콜ATM은 코스피 고배당 50 지수 편입 50종
 KODEX 코스닥150레버리지는 현물 100%와 선물 100%로 2배 레버리지를 구성한 상품입니다. KBSTAR 코스닥150선물레버리지는 선물 200%로만 2배 레버리지를 구성한 상품입니다. 이로 인해 현물 지수가 아닌 선물 지수의 일일등락을 2배로 추종합니다. 선물 비중이 높은 레버리지는 상대적으로 어떤 성과를 거두었는지 살펴봅니다.
 
 {% include vs/278240-vs-233740_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -360,15 +368,15 @@ TIGER 미국S&P500선물(H)는 S&P 500 선물지수를 추종하며 환헤지가
 {% include vs/143850-vs-360750_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [TIGER 미국나스닥100커버드콜(합성) vs TIGER 미국나스닥100](/441680-vs-133690/)<a id="441680-vs-133690"></a>
 
 TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 커버드콜 전략을 사용하는 ETF입니다. 커버드 콜 전략이 나스닥 100 지수에 비해 어떤 성과를 거두었는지 살펴봅니다.
 
 {% include vs/441680-vs-133690_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -415,15 +423,15 @@ KODEX 최소변동성은 하락장에서 손실폭을 줄이기 위해 주가변
 {% include vs/vt-vs-vti_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [VTI vs SPY](/vti-vs-spy/)<a id="vti-vs-spy"></a>
 
 미국에 상장된 모든 주식에 투자하는 VTI와 S&P 500 지수에 포함된 대형주에만 투자하는 SPY의 장기 성과를 비교해 봅니다.
 
 {% include vs/vti-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -464,15 +472,15 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 {% include vs/jepi-vs-spy_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [JEPI vs JEPIX](/jepi-vs-jepix/)<a id="jepi-vs-jepix"></a>
 
 JEPIX는 JEPI와 동일한 전략을 사용한다고 알려진 JP모건사의 뮤추얼 펀드입니다. JEPIX는 JEPI보다 먼저 설정되었습니다. 두 상품이 동일한지 확인해 봅니다. 참고로 JEPIX의 시세 데이터에 오류가 있는 듯 합니다. JEPIX는 매달 배당금을 지급하는 방식에서 2023년 상반기에 대부분을 펀드에 재투자하는 방식으로 바뀌었습니다. 이로 인한 자산 증가분이 고려되지 않아 JEPI보다 낮은 성과를 보이는 착시가 발생할 수 있습니다.
 
 {% include vs/jepi-vs-jepix_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -501,15 +509,15 @@ JEPIX는 JEPII와 동일한 전략을 사용한다고 알려진 JP모건사 뮤�
 {% include vs/jepq-vs-spy_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [XYLD vs SPY](/xyld-vs-spy/)<a id="xyld-vs-spy"></a>
 
 S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수를 추종하는 SPY의 성과를 비교해 봅니다.
 
 {% include vs/xyld-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -548,15 +556,15 @@ S&P 500 Equal Weight Index vs. S&P 500
 {% include vs/rsp-vs-spy_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [QQEW  vs QQQ](/qqew-vs-qqq/)<a id="qqew-vs-qqq"></a>
 
 Nasdaq 100 Equal Weight Index vs. Nasdaq 100
 
 {% include vs/qqew-vs-qqq_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -595,15 +603,15 @@ IJH는 S&P 400 중형주 지수를 추종하는 ETF입니다. XMLV는 지수 편
 {% include vs/xmlv-vs-ijh_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [XSLV vs IJR](/xslv-vs-ijr/)<a id="xslv-vs-ijr"></a>
 
 IJR은 S&P 600 소형주 지수를 추종하는 ETF입니다. XSLV는 지수 편입 종목 중에서 저변동성을 고려해서 선별한 S&P SmallCap 600 Low Volatility Index를 추종하는 ETF입니다. 저변동성을 이용한 선별이 소형주에 효과가 있는지 살펴볼 수 있습니다.
 
 {% include vs/xslv-vs-ijr_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
