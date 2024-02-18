@@ -463,6 +463,25 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 
 
 
+## 해외 상장 해외 ETF (스마트 베타)
+
+
+
+### [SCHP vs SPY](/schp-vs-spy/)<a id="schp-vs-spy"></a>
+
+{% include vs/schp-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
+### [SCHP vs QQQ](/schp-vs-qqq/)<a id="schp-vs-qqq"></a>
+
+{% include vs/schp-vs-qqq_md.inc %}
+
+
+
 ## 해외 상장 해외 ETF (커버드 콜)
 
 
@@ -470,9 +489,6 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 ### [JEPI vs SPY](/jepi-vs-spy/)<a id="jepi-vs-spy"></a>
 
 {% include vs/jepi-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -497,6 +513,9 @@ JEPIX는 JEPII와 동일한 전략을 사용한다고 알려진 JP모건사 뮤�
 {% include vs/jepq-vs-qqq_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [JEPQ vs JEPI](/jepq-vs-jepi/)<a id="jepq-vs-jepi"></a>
 
@@ -507,9 +526,6 @@ JEPIX는 JEPII와 동일한 전략을 사용한다고 알려진 JP모건사 뮤�
 ### [JEPQ vs SPY](/jepq-vs-spy/)<a id="jepq-vs-spy"></a>
 
 {% include vs/jepq-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -536,6 +552,9 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수�
 {% include vs/djia-vs-dia_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ## 해외 상장 해외 ETF (동일 비중)
 
@@ -554,9 +573,6 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수�
 S&P 500 Equal Weight Index vs. S&P 500
 
 {% include vs/rsp-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -587,6 +603,9 @@ Invesco사의 SPHD는 S&P500 종목 중에서 고배당을 주면서 변동성�
 {% include vs/sphd-vs-spy_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [SPHD vs SPLV](/sphd-vs-splv/)<a id="sphd-vs-splv"></a>
 
@@ -601,9 +620,6 @@ Invesco사의 SPHD는 S&P500 종목 중에서 고배당을 주면서 변동성�
 IJH는 S&P 400 중형주 지수를 추종하는 ETF입니다. XMLV는 지수 편입 종목 중에서 저변동성을 고려해서 선별한 S&P MidCap 400 Low Volatility Index를 추종하는 ETF입니다. 저변동성을 이용한 선별이 중형주에 효과가 있는지 살펴볼 수 있습니다.
 
 {% include vs/xmlv-vs-ijh_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -632,6 +648,9 @@ IJR은 S&P 600 소형주 지수를 추종하는 ETF입니다. XSLV는 지수 편
 Invesco사의 PGX는 우선주에 투자하는 상품으로 연 평균 5% 이상의 배당률을 기록해 왔습니다. 이 상품을 S&P5 500 지수를 추종하는 SPY와 비교해 봅니다.
 
 {% include vs/pgx-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
