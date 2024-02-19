@@ -247,19 +247,19 @@ KOSPI 200Top10 (동일가중) vs FnGuide TOP 10 동일가중 지수
 
 
 
-### [TIGER 베타플러스 vs KODEX 200](/170350-vs-069500/)<a id="170350-vs-069500"></a>
-
-TIGER 베타플러스 vs KODEX 200
-
-{% include vs/170350-vs-069500_md.inc %}
-
-
-
 ### [TIGER 모멘텀 vs KODEX 200](/147970-vs-069500/)<a id="147970-vs-069500"></a>
 
 TIGER 모멘텀 vs KODEX 200
 
 {% include vs/147970-vs-069500_md.inc %}
+
+
+
+### [TIGER 베타플러스 vs KODEX 200](/170350-vs-069500/)<a id="170350-vs-069500"></a>
+
+TIGER 베타플러스 vs KODEX 200
+
+{% include vs/170350-vs-069500_md.inc %}
 
 
 
@@ -282,6 +282,41 @@ TIGER 배당성장 vs KODEX 200
 
 
 
+### [TIGER 가격조정 vs KODEX 200](/217790-vs-069500/)<a id="217790-vs-069500"></a>
+
+TIGER 가격조정 vs KODEX 200
+
+{% include vs/217790-vs-069500_md.inc %}
+
+
+
+### [ARIRANG 스마트베타Quality vs KODEX 200](/222200-vs-069500/)<a id="222200-vs-069500"></a>
+
+ARIRANG 스마트베타Quality vs KODEX 200
+
+{% include vs/222200-vs-069500_md.inc %}
+
+
+
+### [ARIRANG 스마트베타Value vs KODEX 200](/222180-vs-069500/)<a id="222180-vs-069500"></a>
+
+ARIRANG 스마트베타Value vs KODEX 200
+
+{% include vs/222180-vs-069500_md.inc %}
+
+
+
+### [ARIRANG 스마트베타Momentum vs KODEX 200](/222190-vs-069500/)<a id="222190-vs-069500"></a>
+
+ARIRANG 스마트베타Momentum vs KODEX 200
+
+{% include vs/222190-vs-069500_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
 ### [TIGER 우량가치 vs KODEX 200](/227570-vs-069500/)<a id="227570-vs-069500"></a>
 
 TIGER 우량가치 vs KODEX 200
@@ -290,11 +325,81 @@ TIGER 우량가치 vs KODEX 200
 
 
 
+### [ARIRANG 스마트베타LowVOL vs KODEX 200](/236460-vs-069500/)<a id="236460-vs-069500"></a>
+
+ARIRANG 스마트베타LowVOL vs KODEX 200
+
+{% include vs/236460-vs-069500_md.inc %}
+
+
+
+### [TIGER 지속배당 vs KODEX 200](/266140-vs-069500/)<a id="266140-vs-069500"></a>
+
+TIGER 지속배당 vs KODEX 200
+
+{% include vs/266140-vs-069500_md.inc %}
+
+
+
 ### [TIGER 코스피대형주 vs KODEX 200](/277640-vs-069500/)<a id="277640-vs-069500"></a>
 
 TIGER 코스피대형주 vs KODEX 200
 
 {% include vs/277640-vs-069500_md.inc %}
+
+
+
+### [TIGER 대형성장 vs KODEX 200](/292100-vs-069500/)<a id="292100-vs-069500"></a>
+
+TIGER 대형성장 vs KODEX 200
+
+{% include vs/292100-vs-069500_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
+### [TIGER 대형가치 vs KODEX 200](/292110-vs-069500/)<a id="292110-vs-069500"></a>
+
+TIGER 대형가치 vs KODEX 200
+
+{% include vs/292110-vs-069500_md.inc %}
+
+
+
+### [TIGER 중소형성장 vs KODEX 200](/292130-vs-069500/)<a id="292130-vs-069500"></a>
+
+ TIGER 중소형성장 vs KODEX 200
+
+{% include vs/292130-vs-069500_md.inc %}
+
+
+
+### [TIGER 중소형 vs KODEX 200](/292120-vs-069500/)<a id="292120-vs-069500"></a>
+
+ TIGER 중소형 vs KODEX 200
+
+{% include vs/292120-vs-069500_md.inc %}
+
+
+
+### [TIGER 중소형가치 vs KODEX 200](/292140-vs-069500/)<a id="292140-vs-069500"></a>
+
+ TIGER 중소형가치 vs KODEX 200
+
+{% include vs/292140-vs-069500_md.inc %}
+
+
+
+### [ARIRANG 스마트베타4종결합 vs KODEX 200](/244820-vs-069500/)<a id="244820-vs-069500"></a>
+
+ARIRANG 스마트베타4종결합 vs KODEX 200
+
+{% include vs/244820-vs-069500_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -315,9 +420,6 @@ TIGER 200 커버드콜5%OTM은 KOSPI 200 현물 주식을 보유하면서, KOSPI
 KBSTAR 200고배당커버드콜ATM은 코스피 고배당 50 지수 편입 50종목을 보유하는 동시에, 코스피200콜옵션 매도로 안정적인 월분배를 추구하는 ETF입니다. TIGER 코스피고배당은 코스피 고배당 50 지수를 추적대상지수로 하는 ETF입니다. 고배당을 종목을 보유하고 있을 때, 추가로 커버드 콜 전략을 적용하는 것이 효과적인지 살펴볼 수 있습니다.
 
 {% include vs/290080-vs-210780_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -352,6 +454,9 @@ TIGER 미국배당다우존스는 Dow Jones U.S. Dividend 100 지수(원화환�
 {% include vs/458750-vs-458730_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [SOL 미국배당다우존스(H) vs SOL 미국배당다우존스](/452360-vs-446720/)<a id="452360-vs-446720"></a>
 
@@ -366,9 +471,6 @@ SOL 미국배당다우존스(H)와 SOL 미국배당다우존스는 모두 Dow Jo
 TIGER 미국S&P500선물(H)는 S&P 500 선물지수를 추종하며 환헤지가 적용된 ETF입니다. 이 두 가지가 장기 성과에 어떤 영향을 미쳤는지 살펴봅니다.
 
 {% include vs/143850-vs-360750_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -403,6 +505,9 @@ KODEX 최소변동성은 하락장에서 손실폭을 줄이기 위해 주가변
 {% include vs/261140-vs-069500_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [삼성전자 우선주 vs 삼성전자 일반주](/005935-vs-005930/)<a id="005935-vs-005930"></a>
 
@@ -421,9 +526,6 @@ KODEX 최소변동성은 하락장에서 손실폭을 줄이기 위해 주가변
 전세계 주식에 투자하는 VT와 미국 주식에만 투자하는 VTI의 장기 성과를 비교해 봅니다.
 
 {% include vs/vt-vs-vti_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -454,6 +556,9 @@ KODEX 최소변동성은 하락장에서 손실폭을 줄이기 위해 주가변
 {% include vs/schd-vs-spy_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [VIG vs SCHD](/vig-vs-schd/)<a id="vig-vs-schd"></a>
 
@@ -470,9 +575,6 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 ### [SCHG vs SPY](/schg-vs-spy/)<a id="schg-vs-spy"></a>
 
 {% include vs/schg-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -497,6 +599,9 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 {% include vs/xlk-vs-qqq_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ## 해외 상장 해외 ETF (커버드 콜)
 
@@ -513,9 +618,6 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 JEPIX는 JEPI와 동일한 전략을 사용한다고 알려진 JP모건사의 뮤추얼 펀드입니다. JEPIX는 JEPI보다 먼저 설정되었습니다. 두 상품이 동일한지 확인해 봅니다. 참고로 JEPIX의 시세 데이터에 오류가 있는 듯 합니다. JEPIX는 매달 배당금을 지급하는 방식에서 2023년 상반기에 대부분을 펀드에 재투자하는 방식으로 바뀌었습니다. 이로 인한 자산 증가분이 고려되지 않아 JEPI보다 낮은 성과를 보이는 착시가 발생할 수 있습니다.
 
 {% include vs/jepi-vs-jepix_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -538,6 +640,9 @@ JEPIX는 JEPII와 동일한 전략을 사용한다고 알려진 JP모건사 뮤�
 {% include vs/jepq-vs-jepi_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [JEPQ vs SPY](/jepq-vs-spy/)<a id="jepq-vs-spy"></a>
 
@@ -550,9 +655,6 @@ JEPIX는 JEPII와 동일한 전략을 사용한다고 알려진 JP모건사 뮤�
 S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수를 추종하는 SPY의 성과를 비교해 봅니다.
 
 {% include vs/xyld-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -583,6 +685,9 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수�
 {% include vs/edow-vs-dia_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [RSP vs SPY](/rsp-vs-spy/)<a id="rsp-vs-spy"></a>
 
@@ -597,9 +702,6 @@ S&P 500 Equal Weight Index vs. S&P 500
 Nasdaq 100 Equal Weight Index vs. Nasdaq 100
 
 {% include vs/qqew-vs-qqq_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -630,6 +732,9 @@ Invesco사의 SPHD는 S&P500 종목 중에서 고배당을 주면서 변동성�
 {% include vs/sphd-vs-splv_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [XMLV vs IJH](/xmlv-vs-ijh/)<a id="xmlv-vs-ijh"></a>
 
@@ -644,9 +749,6 @@ IJH는 S&P 400 중형주 지수를 추종하는 ETF입니다. XMLV는 지수 편
 IJR은 S&P 600 소형주 지수를 추종하는 ETF입니다. XSLV는 지수 편입 종목 중에서 저변동성을 고려해서 선별한 S&P SmallCap 600 Low Volatility Index를 추종하는 ETF입니다. 저변동성을 이용한 선별이 소형주에 효과가 있는지 살펴볼 수 있습니다.
 
 {% include vs/xslv-vs-ijr_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -675,3 +777,6 @@ Invesco사의 PGX는 우선주에 투자하는 상품으로 연 평균 5% 이상
 iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환사채)와 같은 하이브리드 증권에도 투자하는 ETF입니다. 이 상품을 S&P 500 지수를 추종하는 SPY와 비교해 봅니다.
 
 {% include vs/pff-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
