@@ -14,7 +14,7 @@ keywords: SPY, NOBL, NOBL SPY 비교
 ## 비교 상품 소개
 
 
-ProShares사의 NOBL은 배당금이 꾸준히 증가한 배당귀족주에 투자하는 대표적인 배당 ETF입니다. 배당금 증액의 효과를 SPY와 비교해 봅니다.
+ProShares사의 NOBL은 배당금이 꾸준히 증가한 배당귀족주에 투자하는 대표적인 배당 ETF입니다. 꾸준한 배당금 증액의 효과를 SPY와 비교해 봅니다.
 
 
 
