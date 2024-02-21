@@ -482,6 +482,31 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 
 
 
+## 국내 상장 해외 ETF (동일 지수 추종)
+
+
+
+### [ACE 미국S&P500 vs TIGER 미국S&P500](/360200-vs-360750/)<a id="360200-vs-360750"></a>
+
+{% include vs/360200-vs-360750_md.inc %}
+
+
+
+### [KODEX 미국S&P500TR vs TIGER 미국S&P500](/379800-vs-360750/)<a id="379800-vs-360750"></a>
+
+{% include vs/379800-vs-360750_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
+### [KBSTAR 미국S&P500 vs TIGER 미국S&P500](/379780-vs-360750/)<a id="379780-vs-360750"></a>
+
+{% include vs/379780-vs-360750_md.inc %}
+
+
+
 ## 저변동성
 
 
@@ -505,9 +530,6 @@ KODEX 최소변동성은 하락장에서 손실폭을 줄이기 위해 주가변
 {% include vs/261140-vs-069500_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [삼성전자 우선주 vs 삼성전자 일반주](/005935-vs-005930/)<a id="005935-vs-005930"></a>
 
@@ -526,6 +548,9 @@ KODEX 최소변동성은 하락장에서 손실폭을 줄이기 위해 주가변
 전세계 주식에 투자하는 VT와 미국 주식에만 투자하는 VTI의 장기 성과를 비교해 봅니다.
 
 {% include vs/vt-vs-vti_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -556,9 +581,6 @@ KODEX 최소변동성은 하락장에서 손실폭을 줄이기 위해 주가변
 {% include vs/schd-vs-spy_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [VIG vs SPY](/vig-vs-spy/)<a id="vig-vs-spy"></a>
 
@@ -573,6 +595,9 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 Invesco사의 PEY는 지속적으로 배당금이 성장한 종목을 선별한 Dividend Achiever 50 Index를 추종하는 ETF입니다. 꾸준한 배당금 증액으로 종목을 선별하는 효과를 SPY와 비교해 봅니다.
 
 {% include vs/pey-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -599,9 +624,6 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 {% include vs/vig-vs-schd_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ## 해외 상장 해외 ETF (스마트 베타)
 
@@ -616,6 +638,9 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 ### [SCHG vs QQQ](/schg-vs-qqq/)<a id="schg-vs-qqq"></a>
 
 {% include vs/schg-vs-qqq_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -644,9 +669,6 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 {% include vs/jepi-vs-spy_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [JEPI vs JEPIX](/jepi-vs-jepix/)<a id="jepi-vs-jepix"></a>
 
@@ -661,6 +683,9 @@ JEPIX는 JEPI와 동일한 전략을 사용한다고 알려진 JP모건사의 �
 JEPIX는 JEPII와 동일한 전략을 사용한다고 알려진 JP모건사 뮤추얼 펀드입니다. JEPIX는 JEPI보다 먼저 설정되었습니다. JEPI/JEPIX의 전략이 유용한 지 좀 더 긴 기간을 대상으로 비교해 봅니다. 참고로 JEPIX의 시세 데이터에 오류가 있는 듯 합니다. JEPIX는 매달 배당금을 지급하는 방식에서 2023년 상반기에 대부분을 펀드에 재투자하는 방식으로 바뀌었습니다. 이로 인한 자산 증가분이 고려되지 않아 JEPI보다 낮은 성과를 보이는 착시가 발생할 수 있습니다. JEPIX 대신 JEPI로 비교하는 것이 현재로는 보다 정확합니다.
 
 {% include vs/jepix-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -681,9 +706,6 @@ JEPIX는 JEPII와 동일한 전략을 사용한다고 알려진 JP모건사 뮤�
 {% include vs/jepq-vs-spy_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [XYLD vs SPY](/xyld-vs-spy/)<a id="xyld-vs-spy"></a>
 
@@ -698,6 +720,9 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수�
 나스닥 100 지수에 대해 커버드 콜 전략을 쓰는 QYLD와 나스닥 100 지수를 QQQ의 성과를 비교해 봅니다.
 
 {% include vs/qyld-vs-qqq_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -728,9 +753,6 @@ S&P 500 Equal Weight Index vs. S&P 500
 {% include vs/rsp-vs-spy_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [QQEW  vs QQQ](/qqew-vs-qqq/)<a id="qqew-vs-qqq"></a>
 
@@ -749,6 +771,9 @@ Nasdaq 100 Equal Weight Index vs. Nasdaq 100
 Invesco사의 SPLV는 S&P500 종목 중에서 변동성이 낮은 종목에 투자하는 상품입니다. S&P5 500 지수를 추종하는 SPY와 비교해서 저변동성 종목 편입의 효과를 확인해 봅니다.
 
 {% include vs/splv-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -775,9 +800,6 @@ IJH는 S&P 400 중형주 지수를 추종하는 ETF입니다. XMLV는 지수 편
 {% include vs/xmlv-vs-ijh_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [XSLV vs IJR](/xslv-vs-ijr/)<a id="xslv-vs-ijr"></a>
 
@@ -792,6 +814,9 @@ IJR은 S&P 600 소형주 지수를 추종하는 ETF입니다. XSLV는 지수 편
 러셀 1000 지수 편입 종목 중에서 저변동성 종목을 선별하는 ONEV와 러셀 100 지수를 추종하는 IWB을 비교합니다.
 
 {% include vs/onev-vs-iwb_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
