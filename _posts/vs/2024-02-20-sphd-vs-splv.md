@@ -27,7 +27,7 @@ keywords: SPLV, SPHD, SPHD SPLV 비교
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SPHD | <span style="color: tomato">8.8<small>%</small></span> | 16.8<small>%</small> | 0.52 | -41.4<small>%</small> | -5.0<small>%</small> |
+| SPHD | <span style="color: tomato">8.8<small>%</small></span> | 16.8<small>%</small> | 0.53 | -41.4<small>%</small> | -5.0<small>%</small> |
 | SPLV | <span style="color: tomato">9.9<small>%</small></span> | 15.1<small>%</small> | 0.66 | -36.3<small>%</small> | -4.0<small>%</small> |
 
 <!-- more -->
@@ -69,7 +69,7 @@ SPLV<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPL
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SPHD | <span style="color: tomato">8.8<small>%</small></span> | 16.8<small>%</small> | 0.52 | -41.4<small>%</small> | -5.0<small>%</small> |
+| SPHD | <span style="color: tomato">8.8<small>%</small></span> | 16.8<small>%</small> | 0.53 | -41.4<small>%</small> | -5.0<small>%</small> |
 | SPLV | <span style="color: tomato">9.9<small>%</small></span> | 15.1<small>%</small> | 0.66 | -36.3<small>%</small> | -4.0<small>%</small> |
 | SPLV<sub>STD</sub> <small>(112%)</small> | <span style="color: tomato">11.0<small>%</small></span> | 16.8<small>%</small> | 0.65 | -39.8<small>%</small> | -4.5<small>%</small> |
 | SPLV<sub>MDD</sub> <small>(114%)</small> | <span style="color: tomato">11.2<small>%</small></span> | 17.2<small>%</small> | 0.65 | -40.5<small>%</small> | -4.6<small>%</small> |
@@ -77,7 +77,7 @@ SPLV<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPL
 
 
 각각의 경우를 SPHD의 성과와 비교해 봅니다.
-- **위험도 지표 (표준편차):** 112% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 11.0%로 SPHD의 8.8%보다 2.2% 높았습니다. (높은 수익률)
+- **위험도 지표 (표준편차):** 112% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 11.0%로 SPHD의 8.8%보다 2.1% 높았습니다. (높은 수익률)
 
 - **위험도 지표 (MDD):** 114% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 11.2%로 SPHD의 8.8%보다 2.4% 높았습니다. (높은 수익률)
 
@@ -92,7 +92,7 @@ SPLV<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPL
 지난 11년 3개월간 거치식으로 투자했다고 가정합니다.
 
 SPLV의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 11.1%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 SPHD의 8.8%보다 2.3% 높았습니다.
+이 포트폴리오는 SPHD의 8.8%보다 2.2% 높았습니다.
 
 ### SPHD	&lt; SPLV
 {: .text-center}

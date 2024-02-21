@@ -2,4 +2,4 @@
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | EWJ | 기초 | <span style="color: tomato">23.2<small>%</small></span> | - | - | - |
 | [EZJ](/ezj/) | 2<small>배</small> | <span style="color: tomato">36.0<small>%</small></span> | 2.1<small>%</small> | 8.5<small>%</small> | 10.4<small>%</small> |
-| [EWV](/ewv/) | -2<small>배</small> | <span style="color: cornflowerblue">-31.4<small>%</small></span> | 6.3<small>%</small> | -11.1<small>%</small> | -4.2<small>%</small> |
+| [EWV](/ewv/) | -2<small>배</small> | <span style="color: cornflowerblue">-31.4<small>%</small></span> | 6.3<small>%</small> | -11.1<small>%</small> | -4.1<small>%</small> |

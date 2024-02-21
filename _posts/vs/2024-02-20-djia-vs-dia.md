@@ -1,7 +1,7 @@
 ---
 layout: single
 title: DJIA vs DIA
-excerpt: DJIA의 최근 2년 CAGR은 3.2%로 DIA의 8.6%보다 -5.4% 낮았습니다.
+excerpt: DJIA의 최근 2년 CAGR은 3.4%로 DIA의 8.6%보다 -5.2% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -27,7 +27,7 @@ keywords: DIA, DJIA, DJIA DIA 비교
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| DJIA | <span style="color: tomato">3.2<small>%</small></span> | 11.4<small>%</small> | 0.28 | -16.9<small>%</small> | -5.7<small>%</small> |
+| DJIA | <span style="color: tomato">3.4<small>%</small></span> | 11.4<small>%</small> | 0.30 | -16.9<small>%</small> | -5.7<small>%</small> |
 | DIA | <span style="color: tomato">8.6<small>%</small></span> | 15.7<small>%</small> | 0.55 | -17.8<small>%</small> | -4.5<small>%</small> |
 
 <!-- more -->
@@ -35,7 +35,7 @@ keywords: DIA, DJIA, DJIA DIA 비교
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-- **수익률 지표 (CAGR):** DJIA의 CAGR은 3.2%로 DIA의 8.6%보다 -5.4% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+- **수익률 지표 (CAGR):** DJIA의 CAGR은 3.4%로 DIA의 8.6%보다 -5.2% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 - **위험도 지표 (표준편차):** DJIA의 표준편차는 11.4%로 DIA의 15.7%보다 -4.3% 낮았습니다. (낮은 위험도)
 
@@ -69,7 +69,7 @@ DIA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, DIA<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| DJIA | <span style="color: tomato">3.2<small>%</small></span> | 11.4<small>%</small> | 0.28 | -16.9<small>%</small> | -5.7<small>%</small> |
+| DJIA | <span style="color: tomato">3.4<small>%</small></span> | 11.4<small>%</small> | 0.30 | -16.9<small>%</small> | -5.7<small>%</small> |
 | DIA | <span style="color: tomato">8.6<small>%</small></span> | 15.7<small>%</small> | 0.55 | -17.8<small>%</small> | -4.5<small>%</small> |
 | DIA<sub>STD</sub> <small>(73%)</small> | <span style="color: tomato">6.4<small>%</small></span> | 11.4<small>%</small> | 0.56 | -13.1<small>%</small> | -3.2<small>%</small> |
 | DIA<sub>MDD</sub> <small>(95%)</small> | <span style="color: tomato">8.2<small>%</small></span> | 14.9<small>%</small> | 0.55 | -16.9<small>%</small> | -4.2<small>%</small> |
@@ -77,9 +77,9 @@ DIA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, DIA<
 
 
 각각의 경우를 DJIA의 성과와 비교해 봅니다.
-- **위험도 지표 (표준편차):** 73% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 6.4%로 DJIA의 3.2%보다 3.2% 높았습니다. (높은 수익률)
+- **위험도 지표 (표준편차):** 73% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 6.4%로 DJIA의 3.4%보다 3.0% 높았습니다. (높은 수익률)
 
-- **위험도 지표 (MDD):** 95% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 8.2%로 DJIA의 3.2%보다 5.0% 높았습니다. (높은 수익률)
+- **위험도 지표 (MDD):** 95% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 8.2%로 DJIA의 3.4%보다 4.8% 높았습니다. (높은 수익률)
 
 
 
@@ -92,7 +92,7 @@ DIA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, DIA<
 지난 2년간 거치식으로 투자했다고 가정합니다.
 
 DIA의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 7.3%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 DJIA의 3.2%보다 4.1% 높았습니다.
+이 포트폴리오는 DJIA의 3.4%보다 3.9% 높았습니다.
 
 ### DJIA	&lt; DIA
 {: .text-center}
