@@ -27,7 +27,7 @@ Invesco사의 SPHD는 S&P500 종목 중에서 고배당을 주면서 변동성�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SPHD | <span style="color: tomato">8.8<small>%</small></span> | 16.8<small>%</small> | 0.52 | -41.4<small>%</small> | -5.0<small>%</small> |
+| SPHD | <span style="color: tomato">8.8<small>%</small></span> | 16.8<small>%</small> | 0.53 | -41.4<small>%</small> | -5.0<small>%</small> |
 | SPY | <span style="color: tomato">13.8<small>%</small></span> | 16.9<small>%</small> | 0.82 | -33.7<small>%</small> | -4.0<small>%</small> |
 
 <!-- more -->
@@ -69,7 +69,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SPHD | <span style="color: tomato">8.8<small>%</small></span> | 16.8<small>%</small> | 0.52 | -41.4<small>%</small> | -5.0<small>%</small> |
+| SPHD | <span style="color: tomato">8.8<small>%</small></span> | 16.8<small>%</small> | 0.53 | -41.4<small>%</small> | -5.0<small>%</small> |
 | SPY | <span style="color: tomato">13.8<small>%</small></span> | 16.9<small>%</small> | 0.82 | -33.7<small>%</small> | -4.0<small>%</small> |
 | SPY<sub>STD</sub> <small>(100%)</small> | <span style="color: tomato">13.8<small>%</small></span> | 16.8<small>%</small> | 0.82 | -33.6<small>%</small> | -4.0<small>%</small> |
 | SPY<sub>MDD</sub> <small>(123%)</small> | <span style="color: tomato">16.8<small>%</small></span> | 20.7<small>%</small> | 0.81 | -40.2<small>%</small> | -5.0<small>%</small> |
@@ -79,7 +79,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 각각의 경우를 SPHD의 성과와 비교해 봅니다.
 - **위험도 지표 (표준편차):** 100% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 13.8%로 SPHD의 8.8%보다 5.0% 높았습니다. (높은 수익률)
 
-- **위험도 지표 (MDD):** 123% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 16.8%로 SPHD의 8.8%보다 8.0% 높았습니다. (높은 수익률)
+- **위험도 지표 (MDD):** 123% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 16.8%로 SPHD의 8.8%보다 7.9% 높았습니다. (높은 수익률)
 
 
 
@@ -92,7 +92,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 지난 11년 3개월간 거치식으로 투자했다고 가정합니다.
 
 SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 15.3%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 SPHD의 8.8%보다 6.5% 높았습니다.
+이 포트폴리오는 SPHD의 8.8%보다 6.4% 높았습니다.
 
 ### SPHD	&lt; SPY
 {: .text-center}
