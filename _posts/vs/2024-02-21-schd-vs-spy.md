@@ -53,6 +53,9 @@ keywords: SPY, SCHD, SCHD SPY 비교
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 33.7% / 33.4% = 99% 비중으로 투자하면 됩니다.
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ## 동일 수준 위험하에서의 추정 성과
 
