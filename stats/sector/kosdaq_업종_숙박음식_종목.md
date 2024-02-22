@@ -5,7 +5,7 @@ excerpt: KOSDAQ 숙박음식 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-02-21
+last_modified_at: 2024-02-22
 ---
 
 
@@ -16,8 +16,8 @@ last_modified_at: 2024-02-21
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [아난티](/025980/) | 18.1 | 1.1 | - | 54.0<small>%</small> |
-| [서부T&D](/006730/) | 29.9 | 0.7 | 0.7<small>%</small> | 43.4<small>%</small> |
-| 디딤이앤에프 | - | 2.4 | - | 2.7<small>%</small> |
+| [아난티](/025980/) | 18.3 | 1.1 | - | 54.2<small>%</small> |
+| [서부T&D](/006730/) | 29.8 | 0.7 | 0.7<small>%</small> | 42.9<small>%</small> |
+| 디딤이앤에프 | - | 2.6 | - | 2.9<small>%</small> |
 
 {% include commons/footnotes.md %}
