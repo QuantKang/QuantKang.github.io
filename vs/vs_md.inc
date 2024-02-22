@@ -864,3 +864,139 @@ Invesco사의 PGX는 우선주에 투자하는 상품으로 연 평균 5% 이상
 iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환사채)와 같은 하이브리드 증권에도 투자하는 ETF입니다. 이 상품을 S&P 500 지수를 추종하는 SPY와 비교해 봅니다.
 
 {% include vs/pff-vs-spy_md.inc %}
+
+
+
+## 해외 상장 개별주 커버드 콜
+
+
+
+### [TSLY vs TSLA](/tsly-vs-tsla/)<a id="tsly-vs-tsla"></a>
+
+{% include vs/tsly-vs-tsla_md.inc %}
+
+
+
+### [OARK vs ARKK](/oark-vs-arkk/)<a id="oark-vs-arkk"></a>
+
+{% include vs/oark-vs-arkk_md.inc %}
+
+
+
+### [APLY vs AAPL](/aply-vs-aapl/)<a id="aply-vs-aapl"></a>
+
+{% include vs/aply-vs-aapl_md.inc %}
+
+
+
+### [NVDY vs NVDA](/nvdy-vs-nvda/)<a id="nvdy-vs-nvda"></a>
+
+{% include vs/nvdy-vs-nvda_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
+### [AMZY vs AMZN](/amzy-vs-amzn/)<a id="amzy-vs-amzn"></a>
+
+{% include vs/amzy-vs-amzn_md.inc %}
+
+
+
+### [FBY vs META](/fby-vs-meta/)<a id="fby-vs-meta"></a>
+
+{% include vs/fby-vs-meta_md.inc %}
+
+
+
+### [GOOY vs GOOGL](/gooy-vs-googl/)<a id="gooy-vs-googl"></a>
+
+{% include vs/gooy-vs-googl_md.inc %}
+
+
+
+### [CONY vs COIN](/cony-vs-coin/)<a id="cony-vs-coin"></a>
+
+{% include vs/cony-vs-coin_md.inc %}
+
+
+
+### [DISO vs DIS](/diso-vs-dis/)<a id="diso-vs-dis"></a>
+
+{% include vs/diso-vs-dis_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
+### [NFLY vs NFLX](/nfly-vs-nflx/)<a id="nfly-vs-nflx"></a>
+
+{% include vs/nfly-vs-nflx_md.inc %}
+
+
+
+### [MSFO vs MSFT](/msfo-vs-msft/)<a id="msfo-vs-msft"></a>
+
+{% include vs/msfo-vs-msft_md.inc %}
+
+
+
+### [XOMO vs XOM](/xomo-vs-xom/)<a id="xomo-vs-xom"></a>
+
+{% include vs/xomo-vs-xom_md.inc %}
+
+
+
+### [JPMO vs JPM](/jpmo-vs-jpm/)<a id="jpmo-vs-jpm"></a>
+
+{% include vs/jpmo-vs-jpm_md.inc %}
+
+
+
+### [AMDY vs AMD](/amdy-vs-amd/)<a id="amdy-vs-amd"></a>
+
+{% include vs/amdy-vs-amd_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
+### [PYPY vs PYPL](/pypy-vs-pypl/)<a id="pypy-vs-pypl"></a>
+
+{% include vs/pypy-vs-pypl_md.inc %}
+
+
+
+### [SQY vs SQ](/sqy-vs-sq/)<a id="sqy-vs-sq"></a>
+
+{% include vs/sqy-vs-sq_md.inc %}
+
+
+
+### [MRNY vs MRNA](/mrny-vs-mrna/)<a id="mrny-vs-mrna"></a>
+
+{% include vs/mrny-vs-mrna_md.inc %}
+
+
+
+### [AIYY vs AI](/aiyy-vs-ai/)<a id="aiyy-vs-ai"></a>
+
+{% include vs/aiyy-vs-ai_md.inc %}
+
+
+
+### [YMAX vs JEPI](/ymax-vs-jepi/)<a id="ymax-vs-jepi"></a>
+
+{% include vs/ymax-vs-jepi_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
+### [YMAG vs JEPI](/ymag-vs-jepi/)<a id="ymag-vs-jepi"></a>
+
+{% include vs/ymag-vs-jepi_md.inc %}
