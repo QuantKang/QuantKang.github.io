@@ -864,3 +864,58 @@ Invesco사의 PGX는 우선주에 투자하는 상품으로 연 평균 5% 이상
 iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환사채)와 같은 하이브리드 증권에도 투자하는 ETF입니다. 이 상품을 S&P 500 지수를 추종하는 SPY와 비교해 봅니다.
 
 {% include vs/pff-vs-spy_md.inc %}
+
+
+
+## 해외 상장 개별주 커버드 콜
+
+
+
+### [TSLY vs TSLA](/tsly-vs-tsla/)<a id="tsly-vs-tsla"></a>
+
+{% include vs/tsly-vs-tsla_md.inc %}
+
+
+
+### [NVDY vs NVDA](/nvdy-vs-nvda/)<a id="nvdy-vs-nvda"></a>
+
+{% include vs/nvdy-vs-nvda_md.inc %}
+
+
+
+### [AMZY vs AMZN](/amzy-vs-amzn/)<a id="amzy-vs-amzn"></a>
+
+{% include vs/amzy-vs-amzn_md.inc %}
+
+
+
+### [APLY vs AAPL](/aply-vs-aapl/)<a id="aply-vs-aapl"></a>
+
+{% include vs/aply-vs-aapl_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
+### [FBY vs META](/fby-vs-meta/)<a id="fby-vs-meta"></a>
+
+{% include vs/fby-vs-meta_md.inc %}
+
+
+
+### [CONY vs COIN](/cony-vs-coin/)<a id="cony-vs-coin"></a>
+
+{% include vs/cony-vs-coin_md.inc %}
+
+
+
+### [NFLY  vs NFLX](/nfly-vs-nflx/)<a id="nfly-vs-nflx"></a>
+
+{% include vs/nfly-vs-nflx_md.inc %}
+
+
+
+### [AMDY  vs AMD](/amdy-vs-amd/)<a id="amdy-vs-amd"></a>
+
+{% include vs/amdy-vs-amd_md.inc %}
