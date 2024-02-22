@@ -5,4 +5,4 @@
 | [AAP2.L](/aap2/) | 2<small>배</small> | <span style="color: tomato">34.0<small>%</small></span> | 3.7<small>%</small> | 8.7<small>%</small> | 12.1<small>%</small> |
 | [AAP3.L](/aap3/) | 3<small>배</small> | <span style="color: tomato">42.3<small>%</small></span> | 10.6<small>%</small> | 15.4<small>%</small> | 24.4<small>%</small> |
 | [AAPD](/aapd/) | -1<small>배</small> | <span style="color: cornflowerblue">-15.6<small>%</small></span> | 3.6<small>%</small> | -8.1<small>%</small> | -4.2<small>%</small> |
-| [AAPS.L](/aaps/) | -3<small>배</small> | <span style="color: cornflowerblue">-50.3<small>%</small></span> | 20.2<small>%</small> | -15.9<small>%</small> | 7.5<small>%</small> |
+| [AAPS.L](/aaps/) | -3<small>배</small> | <span style="color: cornflowerblue">-51.1<small>%</small></span> | 20.2<small>%</small> | -15.4<small>%</small> | 7.9<small>%</small> |
