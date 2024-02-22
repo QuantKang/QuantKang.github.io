@@ -1,7 +1,7 @@
 ---
 layout: single
 title: AMDY vs Advanced Micro Devices Inc
-excerpt: AMDY의 최근 4개월 CAGR은 134.0%로 Advanced Micro Devices Inc의 306.8%보다 -172.8% 낮았습니다.
+excerpt: AMDY의 최근 4개월 CAGR은 134.2%로 Advanced Micro Devices Inc의 306.1%보다 -171.9% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -29,17 +29,17 @@ Advanced Micro Devices Inc 상품과 AMDY 상품의 성과를 수익률과 위�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| AMDY | <span style="color: tomato">134.0<small>%</small></span> | 36.1<small>%</small> | 3.72 | -12.8<small>%</small> | -2.2<small>%</small> |
-| Advanced Micro Devices Inc | <span style="color: tomato">306.8<small>%</small></span> | 47.6<small>%</small> | 6.44 | -14.1<small>%</small> | -2.6<small>%</small> |
+| AMDY | <span style="color: tomato">134.2<small>%</small></span> | 36.1<small>%</small> | 3.72 | -12.8<small>%</small> | -2.2<small>%</small> |
+| Advanced Micro Devices Inc | <span style="color: tomato">306.1<small>%</small></span> | 47.6<small>%</small> | 6.44 | -14.1<small>%</small> | -2.6<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** AMDY의 CAGR은 134.0%로 Advanced Micro Devices Inc의 306.8%보다 -172.8% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** AMDY의 CAGR은 134.2%로 Advanced Micro Devices Inc의 306.1%보다 -171.9% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** AMDY의 표준편차는 36.1%로 Advanced Micro Devices Inc의 47.6%보다 -11.6% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** AMDY의 표준편차는 36.1%로 Advanced Micro Devices Inc의 47.6%보다 -11.5% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** AMDY의 12.8%의 MDD는 Advanced Micro Devices Inc의 14.1%보다 -1.3% 낮았습니다. (낮은 위험도)
 
@@ -72,18 +72,18 @@ Advanced Micro Devices Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weight
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| AMDY | <span style="color: tomato">134.0<small>%</small></span> | 36.1<small>%</small> | 3.72 | -12.8<small>%</small> | -2.2<small>%</small> |
-| Advanced Micro Devices Inc | <span style="color: tomato">306.8<small>%</small></span> | 47.6<small>%</small> | 6.44 | -14.1<small>%</small> | -2.6<small>%</small> |
-| Advanced Micro Devices Inc<sub>STD</sub> <small>(76%)</small> | <span style="color: tomato">195.4<small>%</small></span> | 36.1<small>%</small> | 5.42 | -10.8<small>%</small> | -2.0<small>%</small> |
-| Advanced Micro Devices Inc<sub>MDD</sub> <small>(91%)</small> | <span style="color: tomato">262.1<small>%</small></span> | 43.4<small>%</small> | 6.05 | -12.9<small>%</small> | -2.4<small>%</small> |
+| AMDY | <span style="color: tomato">134.2<small>%</small></span> | 36.1<small>%</small> | 3.72 | -12.8<small>%</small> | -2.2<small>%</small> |
+| Advanced Micro Devices Inc | <span style="color: tomato">306.1<small>%</small></span> | 47.6<small>%</small> | 6.44 | -14.1<small>%</small> | -2.6<small>%</small> |
+| Advanced Micro Devices Inc<sub>STD</sub> <small>(76%)</small> | <span style="color: tomato">195.5<small>%</small></span> | 36.1<small>%</small> | 5.42 | -10.8<small>%</small> | -2.0<small>%</small> |
+| Advanced Micro Devices Inc<sub>MDD</sub> <small>(91%)</small> | <span style="color: tomato">261.5<small>%</small></span> | 43.3<small>%</small> | 6.04 | -12.9<small>%</small> | -2.4<small>%</small> |
 
 
 
 각각의 경우를 AMDY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 76% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 195.4%로 AMDY의 134.0%보다 61.4% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 76% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 195.5%로 AMDY의 134.2%보다 61.3% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 91% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 262.1%로 AMDY의 134.0%보다 128.2% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 91% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 261.5%로 AMDY의 134.2%보다 127.3% 높았습니다. (높은 수익률)
 
 
 
@@ -95,8 +95,8 @@ Advanced Micro Devices Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weight
 
 지난 4개월간 거치식으로 투자했다고 가정합니다.
 
-Advanced Micro Devices Inc의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 228.8%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 AMDY의 134.0%보다 94.8% 높았습니다.
+Advanced Micro Devices Inc의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 228.5%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 AMDY의 134.2%보다 94.3% 높았습니다.
 
 ### AMDY	&lt; Advanced Micro Devices Inc
 {: .text-center}

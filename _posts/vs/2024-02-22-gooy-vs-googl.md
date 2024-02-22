@@ -1,7 +1,7 @@
 ---
 layout: single
 title: GOOY vs Alphabet Inc Class A
-excerpt: GOOY의 최근 7개월 CAGR은 -11.6%로 Alphabet Inc Class A의 15.1%보다 -26.7% 낮았습니다.
+excerpt: GOOY의 최근 7개월 CAGR은 -10.9%로 Alphabet Inc Class A의 15.7%보다 -26.6% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -29,15 +29,15 @@ Alphabet Inc Class A 상품과 GOOY 상품의 성과를 수익률과 위험도�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| GOOY | <span style="color: cornflowerblue">-11.6<small>%</small></span> | 20.8<small>%</small> | -0.56 | -12.2<small>%</small> | -5.0<small>%</small> |
-| Alphabet Inc Class A | <span style="color: tomato">15.1<small>%</small></span> | 26.4<small>%</small> | 0.57 | -13.1<small>%</small> | -3.3<small>%</small> |
+| GOOY | <span style="color: cornflowerblue">-10.9<small>%</small></span> | 20.8<small>%</small> | -0.52 | -12.2<small>%</small> | -5.0<small>%</small> |
+| Alphabet Inc Class A | <span style="color: tomato">15.7<small>%</small></span> | 26.4<small>%</small> | 0.59 | -13.1<small>%</small> | -3.3<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** GOOY의 CAGR은 -11.6%로 Alphabet Inc Class A의 15.1%보다 -26.7% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** GOOY의 CAGR은 -10.9%로 Alphabet Inc Class A의 15.7%보다 -26.6% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** GOOY의 표준편차는 20.8%로 Alphabet Inc Class A의 26.4%보다 -5.6% 낮았습니다. (낮은 위험도)
 
@@ -72,18 +72,18 @@ Alphabet Inc Class A<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] �
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| GOOY | <span style="color: cornflowerblue">-11.6<small>%</small></span> | 20.8<small>%</small> | -0.56 | -12.2<small>%</small> | -5.0<small>%</small> |
-| Alphabet Inc Class A | <span style="color: tomato">15.1<small>%</small></span> | 26.4<small>%</small> | 0.57 | -13.1<small>%</small> | -3.3<small>%</small> |
-| Alphabet Inc Class A<sub>STD</sub> <small>(79%)</small> | <span style="color: tomato">12.4<small>%</small></span> | 20.8<small>%</small> | 0.60 | -10.3<small>%</small> | -2.6<small>%</small> |
-| Alphabet Inc Class A<sub>MDD</sub> <small>(93%)</small> | <span style="color: tomato">14.2<small>%</small></span> | 24.5<small>%</small> | 0.58 | -12.2<small>%</small> | -3.1<small>%</small> |
+| GOOY | <span style="color: cornflowerblue">-10.9<small>%</small></span> | 20.8<small>%</small> | -0.52 | -12.2<small>%</small> | -5.0<small>%</small> |
+| Alphabet Inc Class A | <span style="color: tomato">15.7<small>%</small></span> | 26.4<small>%</small> | 0.59 | -13.1<small>%</small> | -3.3<small>%</small> |
+| Alphabet Inc Class A<sub>STD</sub> <small>(79%)</small> | <span style="color: tomato">12.8<small>%</small></span> | 20.8<small>%</small> | 0.62 | -10.4<small>%</small> | -2.6<small>%</small> |
+| Alphabet Inc Class A<sub>MDD</sub> <small>(93%)</small> | <span style="color: tomato">14.8<small>%</small></span> | 24.6<small>%</small> | 0.60 | -12.2<small>%</small> | -3.1<small>%</small> |
 
 
 
 각각의 경우를 GOOY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 79% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 12.4%로 GOOY의 -11.6%보다 24.0% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 79% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 12.8%로 GOOY의 -10.9%보다 23.7% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 93% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 14.2%로 GOOY의 -11.6%보다 25.8% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 93% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 14.8%로 GOOY의 -10.9%보다 25.7% 높았습니다. (높은 수익률)
 
 
 
@@ -95,8 +95,8 @@ Alphabet Inc Class A<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] �
 
 지난 7개월간 거치식으로 투자했다고 가정합니다.
 
-Alphabet Inc Class A의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 13.3%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 GOOY의 -11.6%보다 24.9% 높았습니다.
+Alphabet Inc Class A의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 13.8%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 GOOY의 -10.9%보다 24.7% 높았습니다.
 
 ### GOOY	&lt; Alphabet Inc Class A
 {: .text-center}

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: CONY vs Coinbase Global Inc
-excerpt: CONY의 최근 6개월 CAGR은 161.5%로 Coinbase Global Inc의 341.4%보다 -179.9% 낮았습니다.
+excerpt: CONY의 최근 6개월 CAGR은 162.6%로 Coinbase Global Inc의 340.8%보다 -178.2% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -29,17 +29,17 @@ Coinbase Global Inc 상품과 CONY 상품의 성과를 수익률과 위험도로
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| CONY | <span style="color: tomato">161.5<small>%</small></span> | 50.0<small>%</small> | 3.23 | -29.1<small>%</small> | -7.6<small>%</small> |
-| Coinbase Global Inc | <span style="color: tomato">341.4<small>%</small></span> | 69.2<small>%</small> | 4.93 | -37.1<small>%</small> | -10.5<small>%</small> |
+| CONY | <span style="color: tomato">162.6<small>%</small></span> | 50.0<small>%</small> | 3.25 | -29.1<small>%</small> | -7.6<small>%</small> |
+| Coinbase Global Inc | <span style="color: tomato">340.8<small>%</small></span> | 69.2<small>%</small> | 4.92 | -37.1<small>%</small> | -10.5<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** CONY의 CAGR은 161.5%로 Coinbase Global Inc의 341.4%보다 -179.9% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** CONY의 CAGR은 162.6%로 Coinbase Global Inc의 340.8%보다 -178.2% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** CONY의 표준편차는 50.0%로 Coinbase Global Inc의 69.2%보다 -19.3% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** CONY의 표준편차는 50.0%로 Coinbase Global Inc의 69.2%보다 -19.2% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** CONY의 29.1%의 MDD는 Coinbase Global Inc의 37.1%보다 -8.0% 낮았습니다. (낮은 위험도)
 
@@ -72,18 +72,18 @@ Coinbase Global Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] �
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| CONY | <span style="color: tomato">161.5<small>%</small></span> | 50.0<small>%</small> | 3.23 | -29.1<small>%</small> | -7.6<small>%</small> |
-| Coinbase Global Inc | <span style="color: tomato">341.4<small>%</small></span> | 69.2<small>%</small> | 4.93 | -37.1<small>%</small> | -10.5<small>%</small> |
-| Coinbase Global Inc<sub>STD</sub> <small>(72%)</small> | <span style="color: tomato">206.2<small>%</small></span> | 50.0<small>%</small> | 4.13 | -28.0<small>%</small> | -7.7<small>%</small> |
-| Coinbase Global Inc<sub>MDD</sub> <small>(78%)</small> | <span style="color: tomato">233.5<small>%</small></span> | 54.3<small>%</small> | 4.30 | -30.1<small>%</small> | -8.3<small>%</small> |
+| CONY | <span style="color: tomato">162.6<small>%</small></span> | 50.0<small>%</small> | 3.25 | -29.1<small>%</small> | -7.6<small>%</small> |
+| Coinbase Global Inc | <span style="color: tomato">340.8<small>%</small></span> | 69.2<small>%</small> | 4.92 | -37.1<small>%</small> | -10.5<small>%</small> |
+| Coinbase Global Inc<sub>STD</sub> <small>(72%)</small> | <span style="color: tomato">206.2<small>%</small></span> | 50.0<small>%</small> | 4.12 | -28.0<small>%</small> | -7.7<small>%</small> |
+| Coinbase Global Inc<sub>MDD</sub> <small>(78%)</small> | <span style="color: tomato">233.1<small>%</small></span> | 54.3<small>%</small> | 4.29 | -30.1<small>%</small> | -8.3<small>%</small> |
 
 
 
 각각의 경우를 CONY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 72% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 206.2%로 CONY의 161.5%보다 44.7% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 72% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 206.2%로 CONY의 162.6%보다 43.6% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 78% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 233.5%로 CONY의 161.5%보다 72.0% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 78% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 233.1%로 CONY의 162.6%보다 70.5% 높았습니다. (높은 수익률)
 
 
 
@@ -95,8 +95,8 @@ Coinbase Global Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] �
 
 지난 6개월간 거치식으로 투자했다고 가정합니다.
 
-Coinbase Global Inc의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 219.8%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 CONY의 161.5%보다 58.3% 높았습니다.
+Coinbase Global Inc의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 219.7%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 CONY의 162.6%보다 57.1% 높았습니다.
 
 ### CONY	&lt; Coinbase Global Inc
 {: .text-center}

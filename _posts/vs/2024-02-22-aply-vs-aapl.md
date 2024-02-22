@@ -1,7 +1,7 @@
 ---
 layout: single
 title: APLY vs Apple Inc
-excerpt: APLY의 최근 9개월 CAGR은 8.3%로 Apple Inc의 11.6%보다 -3.3% 낮았습니다.
+excerpt: APLY의 최근 9개월 CAGR은 9.0%로 Apple Inc의 12.6%보다 -3.6% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -29,15 +29,15 @@ Apple Inc 상품과 APLY 상품의 성과를 수익률과 위험도로 비교합
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| APLY | <span style="color: tomato">8.3<small>%</small></span> | 15.7<small>%</small> | 0.53 | -15.9<small>%</small> | -5.9<small>%</small> |
-| Apple Inc | <span style="color: tomato">11.6<small>%</small></span> | 18.8<small>%</small> | 0.62 | -14.9<small>%</small> | -4.7<small>%</small> |
+| APLY | <span style="color: tomato">9.0<small>%</small></span> | 15.7<small>%</small> | 0.57 | -15.9<small>%</small> | -5.9<small>%</small> |
+| Apple Inc | <span style="color: tomato">12.6<small>%</small></span> | 18.8<small>%</small> | 0.67 | -14.9<small>%</small> | -4.7<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** APLY의 CAGR은 8.3%로 Apple Inc의 11.6%보다 -3.3% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** APLY의 CAGR은 9.0%로 Apple Inc의 12.6%보다 -3.6% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** APLY의 표준편차는 15.7%로 Apple Inc의 18.8%보다 -3.1% 낮았습니다. (낮은 위험도)
 
@@ -72,18 +72,18 @@ Apple Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| APLY | <span style="color: tomato">8.3<small>%</small></span> | 15.7<small>%</small> | 0.53 | -15.9<small>%</small> | -5.9<small>%</small> |
-| Apple Inc | <span style="color: tomato">11.6<small>%</small></span> | 18.8<small>%</small> | 0.62 | -14.9<small>%</small> | -4.7<small>%</small> |
-| Apple Inc<sub>STD</sub> <small>(83%)</small> | <span style="color: tomato">9.9<small>%</small></span> | 15.7<small>%</small> | 0.63 | -12.5<small>%</small> | -3.9<small>%</small> |
-| Apple Inc<sub>MDD</sub> <small>(106%)</small> | <span style="color: tomato">12.2<small>%</small></span> | 19.9<small>%</small> | 0.61 | -15.8<small>%</small> | -5.0<small>%</small> |
+| APLY | <span style="color: tomato">9.0<small>%</small></span> | 15.7<small>%</small> | 0.57 | -15.9<small>%</small> | -5.9<small>%</small> |
+| Apple Inc | <span style="color: tomato">12.6<small>%</small></span> | 18.8<small>%</small> | 0.67 | -14.9<small>%</small> | -4.7<small>%</small> |
+| Apple Inc<sub>STD</sub> <small>(83%)</small> | <span style="color: tomato">10.7<small>%</small></span> | 15.7<small>%</small> | 0.68 | -12.5<small>%</small> | -3.9<small>%</small> |
+| Apple Inc<sub>MDD</sub> <small>(106%)</small> | <span style="color: tomato">13.3<small>%</small></span> | 20.0<small>%</small> | 0.67 | -15.8<small>%</small> | -5.0<small>%</small> |
 
 
 
 각각의 경우를 APLY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 83% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 9.9%로 APLY의 8.3%보다 1.5% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 83% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 10.7%로 APLY의 9.0%보다 1.7% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 106% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 12.2%로 APLY의 8.3%보다 3.9% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 106% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 13.3%로 APLY의 9.0%보다 4.3% 높았습니다. (높은 수익률)
 
 
 
@@ -95,8 +95,8 @@ Apple Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고
 
 지난 9개월간 거치식으로 투자했다고 가정합니다.
 
-Apple Inc의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 11.1%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 APLY의 8.3%보다 2.7% 높았습니다.
+Apple Inc의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 12.0%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 APLY의 9.0%보다 3.0% 높았습니다.
 
 ### APLY	&lt; Apple Inc
 {: .text-center}

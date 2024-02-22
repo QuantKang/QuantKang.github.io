@@ -988,18 +988,12 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 
 
 
-### [MSTY vs MSTR](/msty-vs-mstr/)<a id="msty-vs-mstr"></a>
-
-{% include vs/msty-vs-mstr_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
-
-
-
 ### [YMAX vs JEPI](/ymax-vs-jepi/)<a id="ymax-vs-jepi"></a>
 
 {% include vs/ymax-vs-jepi_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 

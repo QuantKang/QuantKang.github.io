@@ -1,7 +1,7 @@
 ---
 layout: single
 title: DISO vs Walt Disney Co
-excerpt: DISO의 최근 6개월 CAGR은 42.2%로 Walt Disney Co의 68.5%보다 -26.3% 낮았습니다.
+excerpt: DISO의 최근 6개월 CAGR은 41.4%로 Walt Disney Co의 66.8%보다 -25.4% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -29,15 +29,15 @@ Walt Disney Co 상품과 DISO 상품의 성과를 수익률과 위험도로 비�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| DISO | <span style="color: tomato">42.2<small>%</small></span> | 19.1<small>%</small> | 2.21 | -6.0<small>%</small> | -2.0<small>%</small> |
-| Walt Disney Co | <span style="color: tomato">68.5<small>%</small></span> | 28.5<small>%</small> | 2.40 | -8.0<small>%</small> | -2.9<small>%</small> |
+| DISO | <span style="color: tomato">41.4<small>%</small></span> | 19.1<small>%</small> | 2.17 | -6.0<small>%</small> | -2.0<small>%</small> |
+| Walt Disney Co | <span style="color: tomato">66.8<small>%</small></span> | 28.5<small>%</small> | 2.34 | -8.0<small>%</small> | -2.9<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** DISO의 CAGR은 42.2%로 Walt Disney Co의 68.5%보다 -26.3% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** DISO의 CAGR은 41.4%로 Walt Disney Co의 66.8%보다 -25.4% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** DISO의 표준편차는 19.1%로 Walt Disney Co의 28.5%보다 -9.4% 낮았습니다. (낮은 위험도)
 
@@ -72,18 +72,18 @@ Walt Disney Co<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| DISO | <span style="color: tomato">42.2<small>%</small></span> | 19.1<small>%</small> | 2.21 | -6.0<small>%</small> | -2.0<small>%</small> |
-| Walt Disney Co | <span style="color: tomato">68.5<small>%</small></span> | 28.5<small>%</small> | 2.40 | -8.0<small>%</small> | -2.9<small>%</small> |
-| Walt Disney Co<sub>STD</sub> <small>(67%)</small> | <span style="color: tomato">43.1<small>%</small></span> | 19.1<small>%</small> | 2.25 | -5.4<small>%</small> | -2.0<small>%</small> |
-| Walt Disney Co<sub>MDD</sub> <small>(76%)</small> | <span style="color: tomato">49.4<small>%</small></span> | 21.6<small>%</small> | 2.29 | -6.1<small>%</small> | -2.2<small>%</small> |
+| DISO | <span style="color: tomato">41.4<small>%</small></span> | 19.1<small>%</small> | 2.17 | -6.0<small>%</small> | -2.0<small>%</small> |
+| Walt Disney Co | <span style="color: tomato">66.8<small>%</small></span> | 28.5<small>%</small> | 2.34 | -8.0<small>%</small> | -2.9<small>%</small> |
+| Walt Disney Co<sub>STD</sub> <small>(67%)</small> | <span style="color: tomato">42.1<small>%</small></span> | 19.1<small>%</small> | 2.20 | -5.4<small>%</small> | -2.0<small>%</small> |
+| Walt Disney Co<sub>MDD</sub> <small>(76%)</small> | <span style="color: tomato">48.3<small>%</small></span> | 21.6<small>%</small> | 2.24 | -6.1<small>%</small> | -2.2<small>%</small> |
 
 
 
 각각의 경우를 DISO의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 67% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 43.1%로 DISO의 42.2%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 67% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 42.1%로 DISO의 41.4%와 비슷했습니다. (비슷한 수익률)
 
-**위험도 지표 (MDD):** 76% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 49.4%로 DISO의 42.2%보다 7.2% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 76% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 48.3%로 DISO의 41.4%보다 6.9% 높았습니다. (높은 수익률)
 
 
 
@@ -95,8 +95,8 @@ Walt Disney Co<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우�
 
 지난 6개월간 거치식으로 투자했다고 가정합니다.
 
-Walt Disney Co의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 46.3%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 DISO의 42.2%보다 4.0% 높았습니다.
+Walt Disney Co의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 45.2%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 DISO의 41.4%보다 3.8% 높았습니다.
 
 ### DISO	&lt; Walt Disney Co
 {: .text-center}

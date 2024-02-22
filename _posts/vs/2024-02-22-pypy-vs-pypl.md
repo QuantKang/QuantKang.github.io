@@ -1,7 +1,7 @@
 ---
 layout: single
 title: PYPY vs PayPal Holdings Inc
-excerpt: PYPY의 최근 4개월 CAGR은 8.0%로 PayPal Holdings Inc의 4.3%보다 3.7% 높았습니다.
+excerpt: PYPY의 최근 4개월 CAGR은 8.1%로 PayPal Holdings Inc의 4.4%보다 3.7% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -29,15 +29,15 @@ PayPal Holdings Inc 상품과 PYPY 상품의 성과를 수익률과 위험도로
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| PYPY | <span style="color: tomato">8.0<small>%</small></span> | 30.9<small>%</small> | 0.26 | -12.4<small>%</small> | -3.2<small>%</small> |
-| PayPal Holdings Inc | <span style="color: tomato">4.3<small>%</small></span> | 40.2<small>%</small> | 0.11 | -14.7<small>%</small> | -4.5<small>%</small> |
+| PYPY | <span style="color: tomato">8.1<small>%</small></span> | 30.9<small>%</small> | 0.26 | -12.4<small>%</small> | -3.2<small>%</small> |
+| PayPal Holdings Inc | <span style="color: tomato">4.4<small>%</small></span> | 40.2<small>%</small> | 0.11 | -14.7<small>%</small> | -4.5<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** PYPY의 CAGR은 8.0%로 PayPal Holdings Inc의 4.3%보다 3.7% 높았습니다. (높은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** PYPY의 CAGR은 8.1%로 PayPal Holdings Inc의 4.4%보다 3.7% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** PYPY의 표준편차는 30.9%로 PayPal Holdings Inc의 40.2%보다 -9.3% 낮았습니다. (낮은 위험도)
 
@@ -72,18 +72,18 @@ PayPal Holdings Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] �
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| PYPY | <span style="color: tomato">8.0<small>%</small></span> | 30.9<small>%</small> | 0.26 | -12.4<small>%</small> | -3.2<small>%</small> |
-| PayPal Holdings Inc | <span style="color: tomato">4.3<small>%</small></span> | 40.2<small>%</small> | 0.11 | -14.7<small>%</small> | -4.5<small>%</small> |
-| PayPal Holdings Inc<sub>STD</sub> <small>(77%)</small> | <span style="color: tomato">4.8<small>%</small></span> | 30.9<small>%</small> | 0.16 | -11.3<small>%</small> | -3.4<small>%</small> |
+| PYPY | <span style="color: tomato">8.1<small>%</small></span> | 30.9<small>%</small> | 0.26 | -12.4<small>%</small> | -3.2<small>%</small> |
+| PayPal Holdings Inc | <span style="color: tomato">4.4<small>%</small></span> | 40.2<small>%</small> | 0.11 | -14.7<small>%</small> | -4.5<small>%</small> |
+| PayPal Holdings Inc<sub>STD</sub> <small>(77%)</small> | <span style="color: tomato">4.9<small>%</small></span> | 30.9<small>%</small> | 0.16 | -11.3<small>%</small> | -3.4<small>%</small> |
 | PayPal Holdings Inc<sub>MDD</sub> <small>(84%)</small> | <span style="color: tomato">4.8<small>%</small></span> | 33.8<small>%</small> | 0.14 | -12.4<small>%</small> | -3.8<small>%</small> |
 
 
 
 각각의 경우를 PYPY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 77% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 4.8%로 PYPY의 8.0%보다 -3.2% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 77% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 4.9%로 PYPY의 8.1%보다 -3.3% 낮았습니다. (낮은 수익률)
 
-**위험도 지표 (MDD):** 84% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 4.8%로 PYPY의 8.0%보다 -3.2% 낮았습니다. (낮은 수익률)
+**위험도 지표 (MDD):** 84% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 4.8%로 PYPY의 8.1%보다 -3.3% 낮았습니다. (낮은 수익률)
 
 
 
@@ -95,8 +95,8 @@ PayPal Holdings Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] �
 
 지난 4개월간 거치식으로 투자했다고 가정합니다.
 
-PayPal Holdings Inc의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 4.8%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 PYPY의 8.0%보다 -3.2% 낮았습니다.
+PayPal Holdings Inc의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 4.9%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 PYPY의 8.1%보다 -3.3% 낮았습니다.
 
 ### PYPY &gt; PayPal Holdings Inc
 {: .text-center}
