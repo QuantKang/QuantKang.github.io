@@ -1,7 +1,7 @@
 ---
 layout: single
 title: XMLV vs IJH
-excerpt: XMLV의 최근 11년 CAGR은 9.2%로 IJH의 -4.5%보다 13.7% 높았습니다.
+excerpt: XMLV의 최근 11년 CAGR은 9.2%로 IJH의 17.5%보다 -8.3% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -28,18 +28,18 @@ IJH는 S&P 400 중형주 지수를 추종하는 ETF입니다. XMLV는 지수 편
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | XMLV | <span style="color: tomato">9.2<small>%</small></span> | 16.3<small>%</small> | 0.56 | -39.9<small>%</small> | -4.6<small>%</small> |
-| IJH | <span style="color: cornflowerblue">-4.5<small>%</small></span> | 31.1<small>%</small> | -0.15 | -80.0<small>%</small> | -5.5<small>%</small> |
+| IJH | <span style="color: tomato">17.5<small>%</small></span> | 20.0<small>%</small> | 0.87 | -42.2<small>%</small> | -3.9<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** XMLV의 CAGR은 9.2%로 IJH의 -4.5%보다 13.7% 높았습니다. (높은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** XMLV의 CAGR은 9.2%로 IJH의 17.5%보다 -8.3% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** XMLV의 표준편차는 16.3%로 IJH의 31.1%보다 -14.8% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** XMLV의 표준편차는 16.3%로 IJH의 20.0%보다 -3.7% 낮았습니다. (낮은 위험도)
 
-**위험도 지표 (MDD):** XMLV의 39.9%의 MDD는 IJH의 80.0%보다 -40.1% 낮았습니다. (낮은 위험도)
+**위험도 지표 (MDD):** XMLV의 39.9%의 MDD는 IJH의 42.2%보다 -2.3% 낮았습니다. (낮은 위험도)
 
 
 
@@ -48,9 +48,9 @@ IJH는 S&P 400 중형주 지수를 추종하는 ETF입니다. XMLV는 지수 편
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 IJH의 투자 비중[^fn_vs_weight]을 조절하여 XMLV의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 31.1% / 16.3% = 53% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 20.0% / 16.3% = 82% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
-**위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 80.0% / 39.9% = 50% 비중으로 투자하면 됩니다.
+**위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 42.2% / 39.9% = 94% 비중으로 투자하면 됩니다.
 
 
 {% include /commons/ads/adsense.html %}
@@ -71,17 +71,17 @@ IJH<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IJH<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | XMLV | <span style="color: tomato">9.2<small>%</small></span> | 16.3<small>%</small> | 0.56 | -39.9<small>%</small> | -4.6<small>%</small> |
-| IJH | <span style="color: cornflowerblue">-4.5<small>%</small></span> | 31.1<small>%</small> | -0.15 | -80.0<small>%</small> | -5.5<small>%</small> |
-| IJH<sub>STD</sub> <small>(53%)</small> | <span style="color: tomato">0.8<small>%</small></span> | 16.3<small>%</small> | 0.05 | -42.3<small>%</small> | -2.7<small>%</small> |
-| IJH<sub>MDD</sub> <small>(50%)</small> | <span style="color: tomato">0.8<small>%</small></span> | 15.5<small>%</small> | 0.05 | -40.2<small>%</small> | -2.5<small>%</small> |
+| IJH | <span style="color: tomato">17.5<small>%</small></span> | 20.0<small>%</small> | 0.87 | -42.2<small>%</small> | -3.9<small>%</small> |
+| IJH<sub>STD</sub> <small>(82%)</small> | <span style="color: tomato">14.4<small>%</small></span> | 16.3<small>%</small> | 0.88 | -35.6<small>%</small> | -3.2<small>%</small> |
+| IJH<sub>MDD</sub> <small>(94%)</small> | <span style="color: tomato">16.6<small>%</small></span> | 18.9<small>%</small> | 0.88 | -40.3<small>%</small> | -3.7<small>%</small> |
 
 
 
 각각의 경우를 XMLV의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 53% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 0.8%로 XMLV의 9.2%보다 -8.4% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 82% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 14.4%로 XMLV의 9.2%보다 5.2% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 50% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 0.8%로 XMLV의 9.2%보다 -8.4% 낮았습니다. (낮은 수익률)
+**위험도 지표 (MDD):** 94% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 16.6%로 XMLV의 9.2%보다 7.4% 높았습니다. (높은 수익률)
 
 
 
@@ -93,10 +93,10 @@ IJH<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IJH<
 
 지난 11년간 거치식으로 투자했다고 가정합니다.
 
-IJH의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 0.8%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 XMLV의 9.2%보다 -8.4% 낮았습니다.
+IJH의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 15.5%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 XMLV의 9.2%보다 6.3% 높았습니다.
 
-### XMLV &gt; IJH
+### XMLV	&lt; IJH
 {: .text-center}
 
 
