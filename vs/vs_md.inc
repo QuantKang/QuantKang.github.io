@@ -867,7 +867,7 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 
 
 
-## 해외 상장 개별주 커버드 콜
+## 해외 상장 개별주 커버드콜 (YieldMax)
 
 
 
