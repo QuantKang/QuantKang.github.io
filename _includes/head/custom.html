@@ -1,5 +1,10 @@
 <!-- start custom head snippets -->
 
+{% if site.github.url == site.prod_url__ %}
+{% include head/adblock.html %}
+{% include head/adblock_add.html %}
+{% endif %}
+
 <!-- 커스텀: 구글 애드센스 -->
 {% if site.github.url == site.prod_url__ %}
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8120389152057270"
@@ -15,10 +20,5 @@
 <link rel="mask-icon" href="/assets/logos/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
-
-{% if site.github.url == site.prod_url__ %}
-{% include head/adblock.html %}
-{% include head/adblock_add.html %}
-{% endif %}
 
 <!-- end custom head snippets -->
