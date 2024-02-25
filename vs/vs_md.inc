@@ -1037,3 +1037,15 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [AIIQ vs SPY](/aiiq-vs-spy/)<a id="aiiq-vs-spy"></a>
 
 {% include vs/aiiq-vs-spy_md.inc %}
+
+
+
+### [HDIV vs SPY](/hdiv-vs-spy/)<a id="hdiv-vs-spy"></a>
+
+{% include vs/hdiv-vs-spy_md.inc %}
+
+
+
+### [NVQ vs SPY](/nvq-vs-spy/)<a id="nvq-vs-spy"></a>
+
+{% include vs/nvq-vs-spy_md.inc %}
