@@ -1000,3 +1000,40 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [YMAG vs JEPI](/ymag-vs-jepi/)<a id="ymag-vs-jepi"></a>
 
 {% include vs/ymag-vs-jepi_md.inc %}
+
+
+
+## 해외 상장 ETF (AI 운용)
+
+
+
+### [QRFT vs SPY](/qrft-vs-spy/)<a id="qrft-vs-spy"></a>
+
+{% include vs/qrft-vs-spy_md.inc %}
+
+
+
+### [AMOM vs SPY](/amom-vs-spy/)<a id="amom-vs-spy"></a>
+
+{% include vs/amom-vs-spy_md.inc %}
+
+
+
+### [AIEQ vs SPY](/aieq-vs-spy/)<a id="aieq-vs-spy"></a>
+
+{% include vs/aieq-vs-spy_md.inc %}
+
+
+
+### [AIIQ vs SPY](/aiiq-vs-spy/)<a id="aiiq-vs-spy"></a>
+
+{% include vs/aiiq-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
+### [KOMP vs SPY](/komp-vs-spy/)<a id="komp-vs-spy"></a>
+
+{% include vs/komp-vs-spy_md.inc %}
