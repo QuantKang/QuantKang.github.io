@@ -1007,6 +1007,18 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 
 
 
+### [AIEQ vs SPY](/aieq-vs-spy/)<a id="aieq-vs-spy"></a>
+
+{% include vs/aieq-vs-spy_md.inc %}
+
+
+
+### [KOMP vs SPY](/komp-vs-spy/)<a id="komp-vs-spy"></a>
+
+{% include vs/komp-vs-spy_md.inc %}
+
+
+
 ### [QRFT vs SPY](/qrft-vs-spy/)<a id="qrft-vs-spy"></a>
 
 {% include vs/qrft-vs-spy_md.inc %}
@@ -1018,22 +1030,10 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/amom-vs-spy_md.inc %}
 
 
-
-### [AIEQ vs SPY](/aieq-vs-spy/)<a id="aieq-vs-spy"></a>
-
-{% include vs/aieq-vs-spy_md.inc %}
+{% include /commons/ads/adsense.html %}
 
 
 
 ### [AIIQ vs SPY](/aiiq-vs-spy/)<a id="aiiq-vs-spy"></a>
 
 {% include vs/aiiq-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
-
-
-
-### [KOMP vs SPY](/komp-vs-spy/)<a id="komp-vs-spy"></a>
-
-{% include vs/komp-vs-spy_md.inc %}
