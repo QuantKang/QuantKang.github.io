@@ -5,7 +5,7 @@ excerpt: KOSDAQ 출판매체복제 업종 종목별 시가총액 비중입니다
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-02-27
+last_modified_at: 2024-02-28
 ---
 
 
@@ -16,31 +16,31 @@ last_modified_at: 2024-02-27
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| 넵튠 | - | 0.8 | - | 12.1<small>%</small> |
-| 와이더플래닛 | - | 18.2 | - | 8.2<small>%</small> |
-| 신테카바이오 | - | 5.5 | - | 7.6<small>%</small> |
-| 녹원씨엔아이 | - | 3.2 | - | 7.3<small>%</small> |
-| 드림시큐리티 | 19.2 | 2.2 | - | 7.2<small>%</small> |
-| 양지사 | 127.0 | 0.8 | 0.4<small>%</small> | 7.0<small>%</small> |
-| 고스트스튜디오 | - | - | - | 6.2<small>%</small> |
-| 메가스터디 | 6.6 | 0.4 | 9.7<small>%</small> | 5.0<small>%</small> |
-| SBI핀테크솔루션즈 | - | - | - | 3.9<small>%</small> |
+| 넵튠 | - | 0.8 | - | 12.0<small>%</small> |
+| 와이더플래닛 | - | 19.8 | - | 8.8<small>%</small> |
+| 신테카바이오 | - | 5.6 | - | 7.6<small>%</small> |
+| 드림시큐리티 | 20.3 | 2.3 | - | 7.4<small>%</small> |
+| 녹원씨엔아이 | - | 3.2 | - | 7.2<small>%</small> |
+| 양지사 | 126.8 | 0.8 | 0.4<small>%</small> | 6.9<small>%</small> |
+| 고스트스튜디오 | - | - | - | 6.0<small>%</small> |
+| 메가스터디 | 6.7 | 0.4 | 9.6<small>%</small> | 5.0<small>%</small> |
+| SBI핀테크솔루션즈 | - | - | - | 3.8<small>%</small> |
 | FSN | - | 0.8 | - | 3.6<small>%</small> |
-| NE능률 | 20.1 | 1.1 | 1.1<small>%</small> | 3.5<small>%</small> |
-| SM Life Design | 34.4 | 1.6 | - | 3.3<small>%</small> |
-| 나무기술 | 232.5 | 1.9 | - | 3.1<small>%</small> |
-| 웨이버스 | - | 2.6 | - | 2.7<small>%</small> |
+| NE능률 | 20.6 | 1.1 | 1.1<small>%</small> | 3.6<small>%</small> |
+| SM Life Design | 34.4 | 1.6 | - | 3.2<small>%</small> |
+| 나무기술 | 231.0 | 1.9 | - | 3.0<small>%</small> |
 | 수산아이앤티 | 28.5 | 0.9 | 1.2<small>%</small> | 2.7<small>%</small> |
-| 위세아이텍 | 13.5 | 1.9 | 1.8<small>%</small> | 2.4<small>%</small> |
+| 웨이버스 | - | 2.6 | - | 2.7<small>%</small> |
+| 위세아이텍 | 13.4 | 1.9 | 1.8<small>%</small> | 2.4<small>%</small> |
 | 썸에이지 | - | 1.5 | - | 2.0<small>%</small> |
 | 아이스크림에듀 | 59.3 | 0.7 | - | 1.9<small>%</small> |
-| 디지캡 | 41.9 | 0.9 | 0.7<small>%</small> | 1.6<small>%</small> |
+| 디지캡 | 42.8 | 0.9 | 0.7<small>%</small> | 1.6<small>%</small> |
 | 예림당 | - | 0.3 | - | 1.6<small>%</small> |
-| 지란지교시큐리티 | 23.6 | 0.8 | - | 1.4<small>%</small> |
-| 소프트캠프 | 37.5 | 2.0 | - | 1.3<small>%</small> |
-| 제이엠아이 | 13.3 | 0.8 | - | 1.3<small>%</small> |
-| 비유테크놀러지 | - | 1.0 | - | 1.1<small>%</small> |
-| 이퓨쳐 | 7.7 | 1.0 | - | 1.0<small>%</small> |
-| 골드앤에스 | - | 1.7 | - | 0.9<small>%</small> |
+| 지란지교시큐리티 | 23.4 | 0.8 | - | 1.3<small>%</small> |
+| 소프트캠프 | 37.4 | 2.0 | - | 1.3<small>%</small> |
+| 제이엠아이 | 13.4 | 0.8 | - | 1.3<small>%</small> |
+| 골드앤에스 | - | 2.2 | - | 1.2<small>%</small> |
+| 비유테크놀러지 | - | 0.8 | - | 1.0<small>%</small> |
+| 이퓨쳐 | 7.7 | 1.0 | - | 0.9<small>%</small> |
 
 {% include commons/footnotes.md %}
