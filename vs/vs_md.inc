@@ -1049,3 +1049,22 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [NVQ vs SPY](/nvq-vs-spy/)<a id="nvq-vs-spy"></a>
 
 {% include vs/nvq-vs-spy_md.inc %}
+
+
+
+## 해외 상장 ETF (특정 ETF)
+
+
+
+### [ARKK vs QQQ](/arkk-vs-qqq/)<a id="arkk-vs-qqq"></a>
+
+{% include vs/arkk-vs-qqq_md.inc %}
+
+
+
+### [ARKK vs QLD](/arkk-vs-qld/)<a id="arkk-vs-qld"></a>
+
+{% include vs/arkk-vs-qld_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
