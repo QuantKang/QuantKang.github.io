@@ -1075,8 +1075,16 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 
 
 
+### [BRK-A vs S&P 500](/brk-a-vs-us500/)<a id="brk-a-vs-us500"></a>
+
+워런 버핏이 CEO로 있는 버크셔 해서웨이(BRK.A)와 미국 대표 지수인 S&P 500(배당 미고려)의 성과를 비교해 봅니다.
+
+{% include vs/brk-a-vs-us500_md.inc %}
+
+
+
 ### [BRK-B vs SPY](/brk-b-vs-spy/)<a id="brk-b-vs-spy"></a>
 
-워런 버핏이 CEO로 있는 버크셔 해서웨이와 미국 대표 지수의 성과를 비교해 봅니다.
+워런 버핏이 CEO로 있는 버크셔 해서웨이(BRK.B)와 미국 대표 지수를 추종하는 SPY의 성과를 비교해 봅니다.
 
 {% include vs/brk-b-vs-spy_md.inc %}
