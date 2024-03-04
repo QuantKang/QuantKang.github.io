@@ -30,7 +30,7 @@ JEPI 상품과 YMAG 상품의 성과를 수익률과 위험도로 비교합니�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | YMAG | - | 20.3<small>%</small> | nan | -2.0<small>%</small> | -0.5<small>%</small> |
-| JEPI | - | 5.6<small>%</small> | nan | -0.7<small>%</small> | -0.2<small>%</small> |
+| JEPI | - | 5.4<small>%</small> | nan | -0.7<small>%</small> | -0.1<small>%</small> |
 
 <!-- more -->
 
@@ -39,7 +39,7 @@ JEPI 상품과 YMAG 상품의 성과를 수익률과 위험도로 비교합니�
 
 **수익률 지표 (CAGR):** YMAG의 CAGR은 -로 JEPI의 -와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** YMAG의 표준편차는 20.3%로 JEPI의 5.6%보다 14.8% 높았습니다. (높은 위험도)
+**위험도 지표 (표준편차):** YMAG의 표준편차는 20.3%로 JEPI의 5.4%보다 14.9% 높았습니다. (높은 위험도)
 
 **위험도 지표 (MDD):** YMAG의 2.0%의 MDD는 JEPI의 0.7%보다 1.3% 높았습니다. (높은 위험도)
 
@@ -50,7 +50,7 @@ JEPI 상품과 YMAG 상품의 성과를 수익률과 위험도로 비교합니�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 JEPI의 투자 비중[^fn_vs_weight]을 조절하여 YMAG의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 5.6% / 20.3% = 365% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 5.4% / 20.3% = 374% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 0.7% / 2.0% = 283% 비중으로 투자하면 됩니다.
 
@@ -73,15 +73,15 @@ JEPI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | YMAG | - | 20.3<small>%</small> | nan | -2.0<small>%</small> | -0.5<small>%</small> |
-| JEPI | - | 5.6<small>%</small> | nan | -0.7<small>%</small> | -0.2<small>%</small> |
-| JEPI<sub>STD</sub> <small>(365%)</small> | - | 20.3<small>%</small> | nan | -2.5<small>%</small> | -0.6<small>%</small> |
-| JEPI<sub>MDD</sub> <small>(283%)</small> | - | 15.7<small>%</small> | nan | -2.0<small>%</small> | -0.4<small>%</small> |
+| JEPI | - | 5.4<small>%</small> | nan | -0.7<small>%</small> | -0.1<small>%</small> |
+| JEPI<sub>STD</sub> <small>(374%)</small> | - | 20.3<small>%</small> | nan | -2.6<small>%</small> | -0.5<small>%</small> |
+| JEPI<sub>MDD</sub> <small>(283%)</small> | - | 15.4<small>%</small> | nan | -2.0<small>%</small> | -0.4<small>%</small> |
 
 
 
 각각의 경우를 YMAG의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 365% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 -로 YMAG의 -와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 374% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 -로 YMAG의 -와 비슷했습니다. (비슷한 수익률)
 
 **위험도 지표 (MDD):** 283% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 -로 YMAG의 -와 비슷했습니다. (비슷한 수익률)
 
