@@ -5,7 +5,7 @@ excerpt: KOSDAQ 컴퓨터서비스 업종 종목별 시가총액 비중입니다
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-02-29
+last_modified_at: 2024-03-04
 ---
 
 
@@ -16,31 +16,31 @@ last_modified_at: 2024-02-29
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| 아이티센 | 127.1 | 4.0 | - | 12.3<small>%</small> |
-| 상상인 | 3.9 | 0.2 | 2.9<small>%</small> | 9.4<small>%</small> |
-| 인성정보 | 143.3 | 2.2 | - | 8.4<small>%</small> |
+| 아이티센 | 130.9 | 4.2 | - | 12.3<small>%</small> |
+| 상상인 | 4.0 | 0.2 | 2.9<small>%</small> | 9.2<small>%</small> |
+| 인성정보 | 144.7 | 2.3 | - | 8.2<small>%</small> |
+| 폴라리스AI | - | 1.5 | - | 5.7<small>%</small> |
 | 에스넷 | - | 1.2 | - | 5.0<small>%</small> |
-| 브리지텍 | 27.9 | 1.8 | 1.8<small>%</small> | 4.9<small>%</small> |
-| 케이씨에스 | 117.7 | 5.3 | 1.7<small>%</small> | 4.8<small>%</small> |
-| 링네트 | 7.7 | 0.9 | - | 4.8<small>%</small> |
-| 리노스 | - | 1.2 | - | 4.7<small>%</small> |
-| 이삭엔지니어링 | 41.7 | 1.8 | - | 4.3<small>%</small> |
-| 슈프리마에이치큐 | 5.6 | 0.4 | - | 3.9<small>%</small> |
-| 오픈베이스 | 13.0 | 1.0 | 0.6<small>%</small> | 3.9<small>%</small> |
-| 소프트센 | 5.7 | 1.0 | - | 3.6<small>%</small> |
-| BF랩스 | - | 1.5 | - | 3.2<small>%</small> |
-| 쌍용정보통신 | 5.0 | 1.1 | - | 3.1<small>%</small> |
-| 큐로컴 | - | 1.4 | - | 3.0<small>%</small> |
-| 아이크래프트 | 92.6 | 1.4 | - | 2.8<small>%</small> |
-| 케이씨티 | 76.9 | 1.5 | 2.0<small>%</small> | 2.6<small>%</small> |
-| 휴맥스홀딩스 | - | 0.4 | - | 2.5<small>%</small> |
+| 링네트 | 8.1 | 1.0 | - | 4.9<small>%</small> |
+| 브리지텍 | 28.6 | 1.9 | 1.8<small>%</small> | 4.8<small>%</small> |
+| 케이씨에스 | 119.6 | 5.4 | 1.7<small>%</small> | 4.8<small>%</small> |
+| 이삭엔지니어링 | 45.4 | 2.0 | - | 4.5<small>%</small> |
+| 오픈베이스 | 13.4 | 1.1 | 0.6<small>%</small> | 3.9<small>%</small> |
+| 슈프리마에이치큐 | 5.7 | 0.4 | - | 3.8<small>%</small> |
+| 소프트센 | 5.7 | 1.0 | - | 3.5<small>%</small> |
+| BF랩스 | - | 1.5 | - | 3.1<small>%</small> |
+| 쌍용정보통신 | 5.1 | 1.1 | - | 3.0<small>%</small> |
+| 큐로컴 | - | 1.4 | - | 2.9<small>%</small> |
+| 아이크래프트 | 94.5 | 1.4 | - | 2.8<small>%</small> |
+| 휴맥스홀딩스 | - | 0.5 | - | 2.5<small>%</small> |
+| 케이씨티 | 76.7 | 1.5 | 2.0<small>%</small> | 2.5<small>%</small> |
 | 솔트웨어 | - | 2.2 | - | 2.3<small>%</small> |
-| 대신정보통신 | - | 1.5 | 1.8<small>%</small> | 2.1<small>%</small> |
+| 대신정보통신 | - | 1.5 | 1.8<small>%</small> | 2.0<small>%</small> |
 | 플랜티넷 | - | 0.6 | 4.0<small>%</small> | 2.0<small>%</small> |
-| 정원엔시스 | 32.0 | 0.9 | - | 1.9<small>%</small> |
-| 로지시스 | 160.0 | 1.9 | 1.8<small>%</small> | 1.6<small>%</small> |
-| 벨로크 | - | - | - | 1.5<small>%</small> |
-| 한솔인티큐브 | - | 1.1 | - | 1.2<small>%</small> |
+| 정원엔시스 | 30.6 | 0.9 | - | 1.8<small>%</small> |
+| 로지시스 | 158.8 | 1.9 | 1.8<small>%</small> | 1.6<small>%</small> |
+| 벨로크 | - | - | - | 1.4<small>%</small> |
+| 한솔인티큐브 | - | 1.1 | - | 1.1<small>%</small> |
 | 소프트센우 | - | - | - | 0.2<small>%</small> |
 
 {% include commons/footnotes.md %}
