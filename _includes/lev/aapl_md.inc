@@ -2,7 +2,7 @@
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | AAPL | 기초 | <span style="color: tomato">10.5<small>%</small></span> | - | - | - |
 | [AAPU](/aapu/) | 1.5<small>배</small> | <span style="color: tomato">7.5<small>%</small></span> | 1.4<small>%</small> | 6.2<small>%</small> | 7.5<small>%</small> |
-| [AAP2.L](/aap2/) | 2<small>배</small> | <span style="color: tomato">8.6<small>%</small></span> | 3.6<small>%</small> | 8.8<small>%</small> | 12.2<small>%</small> |
+| [AAP2.L](/aap2/) | 2<small>배</small> | <span style="color: tomato">7.7<small>%</small></span> | 3.6<small>%</small> | 8.5<small>%</small> | 11.8<small>%</small> |
 | [AAP3.L](/aap3/) | 3<small>배</small> | <span style="color: tomato">2.6<small>%</small></span> | 10.6<small>%</small> | 15.0<small>%</small> | 24.0<small>%</small> |
 | [AAPD](/aapd/) | -1<small>배</small> | <span style="color: cornflowerblue">-5.5<small>%</small></span> | 3.6<small>%</small> | -8.3<small>%</small> | -4.4<small>%</small> |
 | [AAPS.L](/aaps/) | -3<small>배</small> | <span style="color: cornflowerblue">-31.4<small>%</small></span> | 20.0<small>%</small> | -15.7<small>%</small> | 7.4<small>%</small> |
