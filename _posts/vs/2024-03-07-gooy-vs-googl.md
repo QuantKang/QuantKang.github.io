@@ -74,7 +74,7 @@ Alphabet Inc Class A<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] �
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | GOOY | <span style="color: cornflowerblue">-18.3<small>%</small></span> | 21.5<small>%</small> | -0.85 | -17.0<small>%</small> | -5.6<small>%</small> |
 | Alphabet Inc Class A | <span style="color: tomato">2.1<small>%</small></span> | 26.8<small>%</small> | 0.08 | -14.4<small>%</small> | -3.9<small>%</small> |
-| Alphabet Inc Class A<sub>STD</sub> <small>(80%)</small> | <span style="color: tomato">2.3<small>%</small></span> | 21.5<small>%</small> | 0.11 | -11.6<small>%</small> | -3.1<small>%</small> |
+| Alphabet Inc Class A<sub>STD</sub> <small>(80%)</small> | <span style="color: tomato">2.3<small>%</small></span> | 21.5<small>%</small> | 0.11 | -11.7<small>%</small> | -3.1<small>%</small> |
 | Alphabet Inc Class A<sub>MDD</sub> <small>(118%)</small> | <span style="color: tomato">1.6<small>%</small></span> | 31.7<small>%</small> | 0.05 | -16.9<small>%</small> | -4.6<small>%</small> |
 
 
