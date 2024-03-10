@@ -697,9 +697,9 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 
 
 
-### [JEPI vs SCHD](/jepi-vs-spy/)<a id="jepi-vs-spy"></a>
+### [JEPI vs SCHD](/jepi-vs-schd/)<a id="jepi-vs-schd"></a>
 
-{% include vs/jepi-vs-spy_md.inc %}
+{% include vs/jepi-vs-schd_md.inc %}
 
 
 
