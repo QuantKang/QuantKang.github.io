@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [롯데지주](/004990/#dart) | | [의결권대리행사권유참고서류](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240313001109){:target="_blank"} |
-| [한미사이언스](/008930/#dart) | | [의결권대리행사권유참고서류](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240313001104){:target="_blank"} |
-| [하나기술](/299030/#dart) | | [주주총회소집공고](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240313001102){:target="_blank"} |
-| [BNK금융지주](/138930/#dart) | | [감사보고서제출              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240313801551){:target="_blank"} |
-| [한국앤컴퍼니](/000240/#dart) | | [[기재정정]주주총회소집공고](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240313001080){:target="_blank"} |
+| [LX인터내셔널](/001120/#dart) | | [사업보고서 (2023.12)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240313001808){:target="_blank"} |
+| [한국정보통신](/025770/#dart) | | [감사보고서제출              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240313902781){:target="_blank"} |
+| [에이비엘바이오](/298380/#dart) | | [감사보고서제출              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240313902799){:target="_blank"} |
+| [한샘](/009240/#dart) | | [사업보고서 (2023.12)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240313001778){:target="_blank"} |
+| [큐렉소](/060280/#dart) | | [사업보고서 (2023.12)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240313001766){:target="_blank"} |
