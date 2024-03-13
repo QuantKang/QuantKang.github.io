@@ -5,7 +5,7 @@ excerpt: KOSDAQ 화학 업종 종목별 시가총액 비중입니다. 종목별�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-03-12
+last_modified_at: 2024-03-13
 ---
 
 
@@ -16,104 +16,104 @@ last_modified_at: 2024-03-12
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [엔켐](/348370/) | 176.5 | 14.0 | - | 16.2<small>%</small> |
-| [솔브레인](/357780/) | 13.6 | 2.8 | 0.7<small>%</small> | 8.2<small>%</small> |
-| [레이크머티리얼즈](/281740/) | 74.1 | 23.2 | - | 7.5<small>%</small> |
-| [나노신소재](/121600/) | 78.8 | 7.6 | 0.2<small>%</small> | 6.5<small>%</small> |
-| [에코프로에이치엔](/383310/) | 35.7 | 13.3 | 0.8<small>%</small> | 4.3<small>%</small> |
-| [성일하이텍](/365340/) | 24.5 | 3.9 | - | 4.3<small>%</small> |
-| [천보](/278280/) | 24.1 | 2.6 | 0.6<small>%</small> | 3.4<small>%</small> |
-| [현대바이오](/048410/) | - | 14.4 | - | 3.1<small>%</small> |
-| 씨앤씨인터내셔널 | 44.4 | 5.5 | - | 2.7<small>%</small> |
-| 에코앤드림 | 8514.3 | 7.8 | - | 2.5<small>%</small> |
-| 브이티 | 45.1 | 6.4 | - | 2.1<small>%</small> |
-| 클리오 | 49.3 | 2.6 | 0.7<small>%</small> | 1.9<small>%</small> |
-| 코스메카코리아 | 142.8 | 2.6 | - | 1.4<small>%</small> |
-| KG ETS | 0.8 | 0.5 | 1.4<small>%</small> | 1.4<small>%</small> |
-| 켐트로닉스 | 57.6 | 2.4 | 0.8<small>%</small> | 1.4<small>%</small> |
-| 동성화인텍 | 39.9 | 2.3 | 3.0<small>%</small> | 1.3<small>%</small> |
-| 석경에이티 | 81.2 | 11.7 | - | 1.3<small>%</small> |
+| [엔켐](/348370/) | 167.7 | 13.3 | - | 16.1<small>%</small> |
+| [솔브레인](/357780/) | 13.7 | 2.9 | 0.7<small>%</small> | 8.4<small>%</small> |
+| [레이크머티리얼즈](/281740/) | 72.3 | 22.7 | - | 7.3<small>%</small> |
+| [나노신소재](/121600/) | 77.2 | 7.5 | 0.2<small>%</small> | 6.4<small>%</small> |
+| [에코프로에이치엔](/383310/) | 37.1 | 13.8 | 0.8<small>%</small> | 4.5<small>%</small> |
+| [성일하이텍](/365340/) | 24.4 | 3.9 | - | 4.3<small>%</small> |
+| [천보](/278280/) | 23.4 | 2.5 | 0.6<small>%</small> | 3.3<small>%</small> |
+| [현대바이오](/048410/) | - | 13.8 | - | 3.0<small>%</small> |
+| 씨앤씨인터내셔널 | 43.0 | 5.3 | - | 2.7<small>%</small> |
+| 에코앤드림 | 8171.4 | 7.5 | - | 2.5<small>%</small> |
+| 브이티 | 47.7 | 6.8 | - | 2.2<small>%</small> |
+| 클리오 | 47.6 | 2.6 | 0.7<small>%</small> | 1.9<small>%</small> |
+| KG ETS | 0.8 | 0.5 | 1.5<small>%</small> | 1.4<small>%</small> |
+| 코스메카코리아 | 134.1 | 2.4 | - | 1.3<small>%</small> |
+| 동성화인텍 | 40.2 | 2.3 | 3.0<small>%</small> | 1.3<small>%</small> |
+| 켐트로닉스 | 55.4 | 2.3 | 0.9<small>%</small> | 1.3<small>%</small> |
+| 석경에이티 | 80.2 | 11.5 | - | 1.3<small>%</small> |
 | 이엔에프테크놀로지 | 7.2 | 0.9 | 0.6<small>%</small> | 1.3<small>%</small> |
-| 마녀공장 | 16.6 | 5.6 | - | 1.2<small>%</small> |
-| 중앙첨단소재 | - | 7.0 | - | 1.2<small>%</small> |
-| [상아프론테크](/089980/) | 40.8 | 1.6 | 1.0<small>%</small> | 1.2<small>%</small> |
-| 새빗켐 | 33.0 | 4.7 | 0.5<small>%</small> | 1.1<small>%</small> |
-| 펌텍코리아 | 14.7 | 1.3 | 1.6<small>%</small> | 1.1<small>%</small> |
-| 디엔에프 | 45.2 | 1.7 | 0.9<small>%</small> | 1.0<small>%</small> |
-| BGF에코머티리얼즈 | 4.3 | 0.7 | 2.2<small>%</small> | 0.9<small>%</small> |
-| 잉글우드랩 | - | - | - | 0.9<small>%</small> |
+| 마녀공장 | 16.6 | 5.6 | - | 1.3<small>%</small> |
+| 중앙첨단소재 | - | 7.2 | - | 1.2<small>%</small> |
+| [상아프론테크](/089980/) | 40.6 | 1.6 | 1.0<small>%</small> | 1.2<small>%</small> |
+| 새빗켐 | 32.8 | 4.7 | 0.5<small>%</small> | 1.1<small>%</small> |
+| 펌텍코리아 | 14.3 | 1.3 | 1.6<small>%</small> | 1.1<small>%</small> |
+| 디엔에프 | 44.5 | 1.7 | 0.9<small>%</small> | 1.0<small>%</small> |
+| BGF에코머티리얼즈 | 4.2 | 0.7 | 2.2<small>%</small> | 0.9<small>%</small> |
 | 한국알콜 | 7.5 | 0.5 | 0.5<small>%</small> | 0.9<small>%</small> |
-| 켐트로스 | 56.0 | 3.6 | - | 0.8<small>%</small> |
+| 잉글우드랩 | - | - | - | 0.9<small>%</small> |
+| 켐트로스 | 55.7 | 3.6 | - | 0.8<small>%</small> |
 | 네오팜 | 11.6 | 1.4 | 2.8<small>%</small> | 0.8<small>%</small> |
 | 와이엠티 | - | 1.6 | - | 0.7<small>%</small> |
-| 피엔에이치테크 | 23.1 | 6.2 | - | 0.7<small>%</small> |
-| 에이에스텍 | 50.3 | 24.2 | - | 0.6<small>%</small> |
-| 아이패밀리에스씨 | 41.3 | 6.3 | 0.3<small>%</small> | 0.6<small>%</small> |
+| 피엔에이치테크 | 23.5 | 6.2 | - | 0.7<small>%</small> |
+| 에이에스텍 | 50.2 | 24.1 | - | 0.6<small>%</small> |
+| 아이패밀리에스씨 | 40.1 | 6.2 | 0.3<small>%</small> | 0.6<small>%</small> |
 | 티케이케미칼 | 0.6 | 0.2 | - | 0.6<small>%</small> |
 | 제이씨케미칼 | 7.2 | 1.0 | 2.4<small>%</small> | 0.6<small>%</small> |
 | 라파스 | - | 3.6 | - | 0.6<small>%</small> |
-| 현대바이오랜드 | 28.5 | 1.1 | 0.8<small>%</small> | 0.5<small>%</small> |
+| 현대바이오랜드 | 28.6 | 1.1 | 0.8<small>%</small> | 0.5<small>%</small> |
 | 대정화금 | 9.0 | 0.8 | 2.3<small>%</small> | 0.5<small>%</small> |
 | 동아화성 | 7.3 | 0.8 | 1.6<small>%</small> | 0.4<small>%</small> |
-| 라이온켐텍 | 13.1 | 0.9 | 6.2<small>%</small> | 0.4<small>%</small> |
+| 라이온켐텍 | 13.3 | 1.0 | 6.1<small>%</small> | 0.4<small>%</small> |
 | 스톰테크 | 8.5 | 2.3 | - | 0.4<small>%</small> |
-| 상보 | 12.2 | 1.6 | - | 0.4<small>%</small> |
-| 아셈스 | 14.7 | 1.9 | - | 0.4<small>%</small> |
-| 코리아나 | 53.8 | 1.0 | - | 0.4<small>%</small> |
-| 선진뷰티사이언스 | 4.9 | 1.5 | 0.2<small>%</small> | 0.4<small>%</small> |
+| 상보 | 12.1 | 1.6 | - | 0.4<small>%</small> |
+| 코리아나 | 53.3 | 1.0 | - | 0.4<small>%</small> |
+| 아셈스 | 14.0 | 1.8 | - | 0.4<small>%</small> |
 | 씨티케이 | - | 0.6 | 1.0<small>%</small> | 0.4<small>%</small> |
+| 선진뷰티사이언스 | 4.8 | 1.4 | 0.3<small>%</small> | 0.4<small>%</small> |
 | HRS | 8.8 | 0.8 | 3.6<small>%</small> | 0.3<small>%</small> |
 | 소니드 | - | 0.6 | - | 0.3<small>%</small> |
-| EG | - | 1.4 | - | 0.3<small>%</small> |
+| EG | - | 1.3 | - | 0.3<small>%</small> |
 | KCI | 4.5 | 0.8 | 3.4<small>%</small> | 0.3<small>%</small> |
-| KBG | 22.7 | 2.1 | 1.5<small>%</small> | 0.3<small>%</small> |
-| 본느 | 34.3 | 2.7 | - | 0.3<small>%</small> |
-| CSA 코스믹 | - | 15.6 | - | 0.3<small>%</small> |
+| KBG | 22.6 | 2.1 | 1.5<small>%</small> | 0.3<small>%</small> |
+| 코디 | - | 2.9 | - | 0.3<small>%</small> |
+| 본느 | 33.6 | 2.6 | - | 0.3<small>%</small> |
+| CSA 코스믹 | - | 15.7 | - | 0.3<small>%</small> |
+| 케이피엠테크 | - | 0.7 | - | 0.3<small>%</small> |
 | 엔에프씨 | 39.5 | 1.3 | 0.2<small>%</small> | 0.3<small>%</small> |
-| 코디 | - | 2.7 | - | 0.3<small>%</small> |
-| 레몬 | - | 5.7 | - | 0.3<small>%</small> |
 | 잉크테크 | 18.1 | 1.0 | - | 0.3<small>%</small> |
-| 케이피엠테크 | - | 0.6 | - | 0.3<small>%</small> |
-| 진영 | 9.6 | 2.3 | - | 0.3<small>%</small> |
+| 레몬 | - | 5.5 | - | 0.3<small>%</small> |
+| 진영 | 9.5 | 2.3 | - | 0.3<small>%</small> |
 | 효성오앤비 | 47.7 | 0.8 | - | 0.2<small>%</small> |
 | 전진바이오팜 | - | 5.2 | - | 0.2<small>%</small> |
 | TKG애강 | 12.7 | 0.6 | - | 0.2<small>%</small> |
 | 아우딘퓨쳐스 | - | 4.0 | - | 0.2<small>%</small> |
 | 폴라리스우노 | 11.1 | 0.5 | - | 0.2<small>%</small> |
 | 대유 | - | 0.5 | - | 0.2<small>%</small> |
+| 누보 | - | 1.9 | - | 0.2<small>%</small> |
 | 에스디생명공학 | - | 0.6 | - | 0.2<small>%</small> |
-| 나노브릭 | - | 5.3 | - | 0.2<small>%</small> |
-| 누보 | - | 1.8 | - | 0.2<small>%</small> |
 | 오공 | 6.9 | 0.5 | 1.6<small>%</small> | 0.2<small>%</small> |
 | 한일화학 | 11.8 | 0.4 | 0.7<small>%</small> | 0.2<small>%</small> |
-| 뷰티스킨 | 13.0 | 1.3 | - | 0.2<small>%</small> |
-| 원풍 | 5.6 | 0.6 | 4.8<small>%</small> | 0.2<small>%</small> |
+| 원풍 | 5.7 | 0.6 | 4.8<small>%</small> | 0.2<small>%</small> |
+| 나노브릭 | - | 4.8 | - | 0.2<small>%</small> |
+| 뷰티스킨 | 12.9 | 1.3 | - | 0.2<small>%</small> |
 | 케이디켐 | 5.7 | 0.5 | 3.5<small>%</small> | 0.2<small>%</small> |
-| 세림B&G | 21.6 | 1.7 | - | 0.2<small>%</small> |
+| 세림B&G | 21.5 | 1.6 | - | 0.2<small>%</small> |
 | 씨큐브 | 7.8 | 0.7 | 3.9<small>%</small> | 0.2<small>%</small> |
-| 한국큐빅 | 6.8 | 0.6 | 2.2<small>%</small> | 0.2<small>%</small> |
-| 디케이앤디 | 6.1 | 0.7 | 1.7<small>%</small> | 0.2<small>%</small> |
+| 한국큐빅 | 6.7 | 0.6 | 2.2<small>%</small> | 0.2<small>%</small> |
+| 디케이앤디 | 5.9 | 0.7 | 1.8<small>%</small> | 0.2<small>%</small> |
 | 나노 | - | 1.5 | - | 0.2<small>%</small> |
 | 리더스코스메틱 | - | 0.8 | - | 0.1<small>%</small> |
 | TS트릴리온 | - | 1.9 | - | 0.1<small>%</small> |
-| 세화피앤씨 | 26.4 | 0.9 | 1.2<small>%</small> | 0.1<small>%</small> |
-| 와토스코리아 | 6.6 | 0.5 | 4.1<small>%</small> | 0.1<small>%</small> |
+| 세화피앤씨 | 26.6 | 0.9 | 1.2<small>%</small> | 0.1<small>%</small> |
+| 와토스코리아 | 6.5 | 0.5 | 4.1<small>%</small> | 0.1<small>%</small> |
 | 엔터파트너즈 | - | 2.1 | - | 0.1<small>%</small> |
 | 메디앙스 | - | 0.4 | - | 0.1<small>%</small> |
+| 엔피케이 | 22.1 | 0.7 | 1.7<small>%</small> | 0.1<small>%</small> |
 | 인바이오 | - | 0.7 | - | 0.1<small>%</small> |
-| 블레이드 Ent | - | 1.1 | - | 0.1<small>%</small> |
-| 엔피케이 | 22.2 | 0.8 | 1.7<small>%</small> | 0.1<small>%</small> |
 | 프럼파스트 | 21.3 | 0.8 | 1.5<small>%</small> | 0.1<small>%</small> |
+| 블레이드 Ent | - | 1.0 | - | 0.1<small>%</small> |
 | 에스폴리텍 | - | 0.5 | - | 0.1<small>%</small> |
 | 뉴보텍 | - | 1.7 | - | 0.1<small>%</small> |
 | 제닉 | - | 1.7 | - | 0.1<small>%</small> |
-| 이노진 | 15.8 | 3.1 | - | 0.1<small>%</small> |
+| 이노진 | 15.6 | 3.1 | - | 0.1<small>%</small> |
 | 나노캠텍 | - | 0.7 | - | 0.1<small>%</small> |
-| 코스나인 | - | 0.8 | - | 0.1<small>%</small> |
 | 케이엠제약 | - | 0.7 | - | 0.1<small>%</small> |
+| 코스나인 | - | 0.8 | - | 0.1<small>%</small> |
 | 웹스 | - | 0.7 | - | 0.1<small>%</small> |
 | 예선테크 | - | 0.7 | - | 0.1<small>%</small> |
-| 스타플렉스 | 3.2 | 0.3 | - | 0.1<small>%</small> |
+| 스타플렉스 | 3.1 | 0.3 | - | 0.1<small>%</small> |
 | 에스아이리소스 | - | 1.0 | - | 0.1<small>%</small> |
 
 {% include commons/footnotes.md %}
