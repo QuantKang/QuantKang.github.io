@@ -1,8 +1,8 @@
 | **종목** | **배율** | **1년** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| NVDA | 기초 | <span style="color: tomato">294.8<small>%</small></span> | - | - | - |
-| [NVDL](/nvdl/) | 2<small>배</small> | <span style="color: tomato">1744.5<small>%</small></span> | 18.2<small>%</small> | -44.7<small>%</small> | -18.4<small>%</small> |
-| [3LNV.L](/3lnv/) | 3<small>배</small> | <span style="color: tomato">2652.4<small>%</small></span> | 43.9<small>%</small> | 20.4<small>%</small> | 55.3<small>%</small> |
-| [NVDD](/nvdd/) | -1<small>배</small> | <span style="color: cornflowerblue">-77.8<small>%</small></span> | 9.3<small>%</small> | -4.2<small>%</small> | 5.5<small>%</small> |
-| [NVD](/nvd/) | -2<small>배</small> | <span style="color: cornflowerblue">-92.6<small>%</small></span> | 27.4<small>%</small> | -20.5<small>%</small> | 12.5<small>%</small> |
-| [3SNV.L](/3snv/) | -3<small>배</small> | <span style="color: cornflowerblue">-99.7<small>%</small></span> | 83.0<small>%</small> | -9.2<small>%</small> | 81.4<small>%</small> |
+| NVDA | 기초 | <span style="color: tomato">264.6<small>%</small></span> | - | - | - |
+| [NVDL](/nvdl/) | 2<small>배</small> | <span style="color: tomato">1508.1<small>%</small></span> | 18.1<small>%</small> | -47.7<small>%</small> | -21.0<small>%</small> |
+| [3LNV.L](/3lnv/) | 3<small>배</small> | <span style="color: tomato">2175.9<small>%</small></span> | 43.7<small>%</small> | 16.7<small>%</small> | 53.1<small>%</small> |
+| [NVDD](/nvdd/) | -1<small>배</small> | <span style="color: cornflowerblue">-76.1<small>%</small></span> | 9.4<small>%</small> | -4.2<small>%</small> | 5.5<small>%</small> |
+| [NVD](/nvd/) | -2<small>배</small> | <span style="color: cornflowerblue">-91.7<small>%</small></span> | 27.6<small>%</small> | -20.3<small>%</small> | 12.9<small>%</small> |
+| [3SNV.L](/3snv/) | -3<small>배</small> | <span style="color: cornflowerblue">-99.6<small>%</small></span> | 82.8<small>%</small> | -3.6<small>%</small> | 82.2<small>%</small> |
