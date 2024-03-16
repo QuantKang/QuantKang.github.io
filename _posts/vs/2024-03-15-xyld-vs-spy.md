@@ -1,7 +1,7 @@
 ---
 layout: single
 title: XYLD vs SPY
-excerpt: XYLD의 최근 10년 8개월 CAGR은 5.5%로 SPY의 13.5%보다 -8.0% 낮았습니다.
+excerpt: XYLD의 최근 10년 8개월 CAGR은 5.5%로 SPY의 13.5%보다 -8.1% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -35,7 +35,7 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** XYLD의 CAGR은 5.5%로 SPY의 13.5%보다 -8.0% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** XYLD의 CAGR은 5.5%로 SPY의 13.5%보다 -8.1% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** XYLD의 표준편차는 14.1%로 SPY의 17.1%보다 -3.0% 낮았습니다. (낮은 위험도)
 
