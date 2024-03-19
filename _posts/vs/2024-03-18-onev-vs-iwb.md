@@ -1,7 +1,7 @@
 ---
 layout: single
 title: ONEV vs IWB
-excerpt: ONEV의 최근 8년 3개월 CAGR은 11.2%로 IWB의 13.2%보다 -2.0% 낮았습니다.
+excerpt: ONEV의 최근 8년 3개월 CAGR은 11.2%로 IWB의 13.2%보다 -1.9% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -35,7 +35,7 @@ keywords: IWB, ONEV, ONEV IWB 비교
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** ONEV의 CAGR은 11.2%로 IWB의 13.2%보다 -2.0% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** ONEV의 CAGR은 11.2%로 IWB의 13.2%보다 -1.9% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** ONEV의 표준편차는 17.8%로 IWB의 18.5%와 비슷했습니다. (비슷한 위험도)
 
