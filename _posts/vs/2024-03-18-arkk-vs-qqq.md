@@ -74,16 +74,16 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | ARKK | <span style="color: tomato">11.0<small>%</small></span> | 37.7<small>%</small> | 0.29 | -80.9<small>%</small> | -23.1<small>%</small> |
 | QQQ | <span style="color: tomato">17.8<small>%</small></span> | 21.9<small>%</small> | 0.81 | -35.1<small>%</small> | -6.4<small>%</small> |
-| QQQ<sub>STD</sub> <small>(172%)</small> | <span style="color: tomato">28.6<small>%</small></span> | 37.7<small>%</small> | 0.76 | -55.6<small>%</small> | -11.6<small>%</small> |
+| QQQ<sub>STD</sub> <small>(172%)</small> | <span style="color: tomato">28.7<small>%</small></span> | 37.7<small>%</small> | 0.76 | -55.6<small>%</small> | -11.6<small>%</small> |
 | QQQ<sub>MDD</sub> <small>(230%)</small> | <span style="color: tomato">35.5<small>%</small></span> | 50.4<small>%</small> | 0.70 | -68.6<small>%</small> | -15.9<small>%</small> |
 
 
 
 각각의 경우를 ARKK의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 172% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 28.6%로 ARKK의 11.0%보다 17.7% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 172% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 28.7%로 ARKK의 11.0%보다 17.7% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 230% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 35.5%로 ARKK의 11.0%보다 24.5% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 230% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 35.5%로 ARKK의 11.0%보다 24.6% 높았습니다. (높은 수익률)
 
 
 
