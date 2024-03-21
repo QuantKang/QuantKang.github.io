@@ -74,7 +74,7 @@ QLD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QLD<
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | ARKK | <span style="color: tomato">11.3<small>%</small></span> | 37.7<small>%</small> | 0.30 | -80.9<small>%</small> | -23.2<small>%</small> |
 | QLD | <span style="color: tomato">28.8<small>%</small></span> | 43.7<small>%</small> | 0.66 | -63.7<small>%</small> | -14.6<small>%</small> |
-| QLD<sub>STD</sub> <small>(86%)</small> | <span style="color: tomato">25.8<small>%</small></span> | 37.7<small>%</small> | 0.68 | -57.2<small>%</small> | -12.4<small>%</small> |
+| QLD<sub>STD</sub> <small>(86%)</small> | <span style="color: tomato">25.8<small>%</small></span> | 37.7<small>%</small> | 0.69 | -57.2<small>%</small> | -12.4<small>%</small> |
 | QLD<sub>MDD</sub> <small>(127%)</small> | <span style="color: tomato">33.3<small>%</small></span> | 55.6<small>%</small> | 0.60 | -74.4<small>%</small> | -18.9<small>%</small> |
 
 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: SCHG vs SPY
-excerpt: SCHG의 최근 14년 2개월 CAGR은 15.8%로 SPY의 13.4%보다 2.3% 높았습니다.
+excerpt: SCHG의 최근 14년 2개월 CAGR은 15.8%로 SPY의 13.4%보다 2.4% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -29,7 +29,7 @@ SPY 상품과 SCHG 상품의 성과를 수익률과 위험도로 비교합니다
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SCHG | <span style="color: tomato">15.8<small>%</small></span> | 19.6<small>%</small> | 0.80 | -34.6<small>%</small> | -5.4<small>%</small> |
+| SCHG | <span style="color: tomato">15.8<small>%</small></span> | 19.6<small>%</small> | 0.81 | -34.6<small>%</small> | -5.4<small>%</small> |
 | SPY | <span style="color: tomato">13.4<small>%</small></span> | 17.2<small>%</small> | 0.78 | -33.7<small>%</small> | -4.1<small>%</small> |
 
 <!-- more -->
@@ -37,7 +37,7 @@ SPY 상품과 SCHG 상품의 성과를 수익률과 위험도로 비교합니다
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** SCHG의 CAGR은 15.8%로 SPY의 13.4%보다 2.3% 높았습니다. (높은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** SCHG의 CAGR은 15.8%로 SPY의 13.4%보다 2.4% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** SCHG의 표준편차는 19.6%로 SPY의 17.2%보다 2.4% 높았습니다. (높은 위험도)
 
@@ -72,7 +72,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SCHG | <span style="color: tomato">15.8<small>%</small></span> | 19.6<small>%</small> | 0.80 | -34.6<small>%</small> | -5.4<small>%</small> |
+| SCHG | <span style="color: tomato">15.8<small>%</small></span> | 19.6<small>%</small> | 0.81 | -34.6<small>%</small> | -5.4<small>%</small> |
 | SPY | <span style="color: tomato">13.4<small>%</small></span> | 17.2<small>%</small> | 0.78 | -33.7<small>%</small> | -4.1<small>%</small> |
 | SPY<sub>STD</sub> <small>(114%)</small> | <span style="color: tomato">15.1<small>%</small></span> | 19.6<small>%</small> | 0.77 | -37.7<small>%</small> | -4.7<small>%</small> |
 | SPY<sub>MDD</sub> <small>(103%)</small> | <span style="color: tomato">13.7<small>%</small></span> | 17.6<small>%</small> | 0.78 | -34.5<small>%</small> | -4.2<small>%</small> |
