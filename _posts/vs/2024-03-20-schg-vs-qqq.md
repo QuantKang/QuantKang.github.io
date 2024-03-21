@@ -29,7 +29,7 @@ QQQ 상품과 SCHG 상품의 성과를 수익률과 위험도로 비교합니다
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SCHG | <span style="color: tomato">15.8<small>%</small></span> | 19.6<small>%</small> | 0.80 | -34.6<small>%</small> | -5.4<small>%</small> |
+| SCHG | <span style="color: tomato">15.8<small>%</small></span> | 19.6<small>%</small> | 0.81 | -34.6<small>%</small> | -5.4<small>%</small> |
 | QQQ | <span style="color: tomato">18.3<small>%</small></span> | 20.5<small>%</small> | 0.89 | -35.1<small>%</small> | -5.4<small>%</small> |
 
 <!-- more -->
@@ -72,7 +72,7 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SCHG | <span style="color: tomato">15.8<small>%</small></span> | 19.6<small>%</small> | 0.80 | -34.6<small>%</small> | -5.4<small>%</small> |
+| SCHG | <span style="color: tomato">15.8<small>%</small></span> | 19.6<small>%</small> | 0.81 | -34.6<small>%</small> | -5.4<small>%</small> |
 | QQQ | <span style="color: tomato">18.3<small>%</small></span> | 20.5<small>%</small> | 0.89 | -35.1<small>%</small> | -5.4<small>%</small> |
 | QQQ<sub>STD</sub> <small>(96%)</small> | <span style="color: tomato">17.6<small>%</small></span> | 19.6<small>%</small> | 0.90 | -33.8<small>%</small> | -5.1<small>%</small> |
 | QQQ<sub>MDD</sub> <small>(98%)</small> | <span style="color: tomato">18.0<small>%</small></span> | 20.2<small>%</small> | 0.90 | -34.7<small>%</small> | -5.3<small>%</small> |
