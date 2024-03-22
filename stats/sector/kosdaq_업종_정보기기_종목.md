@@ -5,7 +5,7 @@ excerpt: KOSDAQ 정보기기 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-03-21
+last_modified_at: 2024-03-22
 ---
 
 
@@ -16,29 +16,29 @@ last_modified_at: 2024-03-21
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| 토비스 | - | 1.3 | 0.6<small>%</small> | 11.8<small>%</small> |
-| 이트론 | - | 2.4 | - | 11.4<small>%</small> |
-| 스마트레이더시스템 | - | 16.9 | - | 8.4<small>%</small> |
-| 에이텍 | 24.0 | 1.4 | 1.2<small>%</small> | 6.2<small>%</small> |
-| 트루엔 | 13.2 | 2.0 | - | 6.1<small>%</small> |
-| 엠투아이 | 12.2 | 1.8 | 3.3<small>%</small> | 6.0<small>%</small> |
-| 코텍 | 3.8 | 0.3 | 3.4<small>%</small> | 5.4<small>%</small> |
-| 빅솔론 | 8.2 | 0.5 | 7.3<small>%</small> | 4.9<small>%</small> |
-| 코츠테크놀로지 | 29.3 | 4.1 | - | 4.7<small>%</small> |
-| 데이타솔루션 | 38.8 | 3.0 | - | 4.3<small>%</small> |
-| 에이텍모빌리티 | 18.8 | 1.5 | 0.6<small>%</small> | 3.9<small>%</small> |
-| 바이오스마트 | 92.9 | 0.7 | - | 3.5<small>%</small> |
-| 푸른기술 | 364.6 | 2.1 | 0.2<small>%</small> | 3.4<small>%</small> |
-| 에이루트 | 10.8 | 0.5 | - | 3.3<small>%</small> |
-| 엠젠솔루션 | - | 1.0 | - | 2.7<small>%</small> |
-| 앱코 | - | 0.9 | - | 2.5<small>%</small> |
+| 토비스 | - | 1.3 | 0.6<small>%</small> | 11.7<small>%</small> |
+| 이트론 | - | 2.4 | - | 11.2<small>%</small> |
+| 스마트레이더시스템 | - | 16.7 | - | 8.2<small>%</small> |
+| 에이텍 | 24.8 | 1.5 | 1.2<small>%</small> | 6.3<small>%</small> |
+| 트루엔 | 13.4 | 2.0 | - | 6.1<small>%</small> |
+| 엠투아이 | 12.2 | 1.8 | 3.3<small>%</small> | 5.9<small>%</small> |
+| 코텍 | 3.8 | 0.3 | 3.3<small>%</small> | 5.4<small>%</small> |
+| 코츠테크놀로지 | 32.0 | 4.5 | - | 5.1<small>%</small> |
+| 빅솔론 | 8.2 | 0.5 | 7.3<small>%</small> | 4.8<small>%</small> |
+| 데이타솔루션 | 37.9 | 2.9 | - | 4.1<small>%</small> |
+| 에이텍모빌리티 | 19.2 | 1.5 | 0.6<small>%</small> | 3.9<small>%</small> |
+| 바이오스마트 | 94.7 | 0.7 | - | 3.5<small>%</small> |
+| 엠젠솔루션 | - | 1.3 | - | 3.5<small>%</small> |
+| 푸른기술 | 368.8 | 2.1 | 0.2<small>%</small> | 3.4<small>%</small> |
+| 에이루트 | 10.9 | 0.5 | - | 3.2<small>%</small> |
+| 앱코 | - | 0.9 | - | 2.4<small>%</small> |
 | 아이디피 | 4.8 | 1.0 | 4.0<small>%</small> | 2.3<small>%</small> |
 | 이씨에스 | 9.7 | 0.8 | 3.3<small>%</small> | 2.1<small>%</small> |
 | 알엔투테크놀로지 | - | 0.8 | 0.6<small>%</small> | 1.7<small>%</small> |
-| 딜리 | 11.8 | 0.5 | 3.6<small>%</small> | 1.5<small>%</small> |
+| 딜리 | 11.9 | 0.5 | 3.6<small>%</small> | 1.5<small>%</small> |
 | 셀피글로벌 | 2.7 | 1.1 | - | 1.4<small>%</small> |
-| 에스디시스템 | - | 2.9 | - | 1.3<small>%</small> |
-| 디지아이 | 33.7 | 0.5 | - | 1.1<small>%</small> |
+| 에스디시스템 | - | 2.9 | - | 1.2<small>%</small> |
+| 디지아이 | 33.8 | 0.5 | - | 1.1<small>%</small> |
 | THE MIDONG | - | 0.4 | - | 0.4<small>%</small> |
 
 {% include commons/footnotes.md %}
