@@ -1,7 +1,7 @@
 ---
 layout: single
 title: EDOW vs DIA
-excerpt: EDOW의 최근 6년 7개월 CAGR은 10.7%로 DIA의 11.7%보다 -1.1% 낮았습니다.
+excerpt: EDOW의 최근 6년 7개월 CAGR은 10.7%로 DIA의 11.7%와 비슷했습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -35,7 +35,7 @@ keywords: DIA, EDOW, EDOW DIA 비교
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** EDOW의 CAGR은 10.7%로 DIA의 11.7%보다 -1.1% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** EDOW의 CAGR은 10.7%로 DIA의 11.7%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** EDOW의 표준편차는 18.9%로 DIA의 19.4%와 비슷했습니다. (비슷한 위험도)
 
