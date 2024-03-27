@@ -29,7 +29,7 @@ PayPal Holdings Inc 상품과 PYPY 상품의 성과를 수익률과 위험도로
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| PYPY | <span style="color: tomato">35.6<small>%</small></span> | 29.1<small>%</small> | 1.22 | -12.4<small>%</small> | -3.1<small>%</small> |
+| PYPY | <span style="color: tomato">35.6<small>%</small></span> | 29.1<small>%</small> | 1.23 | -12.4<small>%</small> | -3.1<small>%</small> |
 | PayPal Holdings Inc | <span style="color: tomato">35.6<small>%</small></span> | 38.0<small>%</small> | 0.94 | -14.7<small>%</small> | -4.9<small>%</small> |
 
 <!-- more -->
@@ -72,7 +72,7 @@ PayPal Holdings Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] �
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| PYPY | <span style="color: tomato">35.6<small>%</small></span> | 29.1<small>%</small> | 1.22 | -12.4<small>%</small> | -3.1<small>%</small> |
+| PYPY | <span style="color: tomato">35.6<small>%</small></span> | 29.1<small>%</small> | 1.23 | -12.4<small>%</small> | -3.1<small>%</small> |
 | PayPal Holdings Inc | <span style="color: tomato">35.6<small>%</small></span> | 38.0<small>%</small> | 0.94 | -14.7<small>%</small> | -4.9<small>%</small> |
 | PayPal Holdings Inc<sub>STD</sub> <small>(77%)</small> | <span style="color: tomato">27.9<small>%</small></span> | 29.1<small>%</small> | 0.96 | -11.3<small>%</small> | -3.7<small>%</small> |
 | PayPal Holdings Inc<sub>MDD</sub> <small>(84%)</small> | <span style="color: tomato">30.4<small>%</small></span> | 31.9<small>%</small> | 0.95 | -12.4<small>%</small> | -4.1<small>%</small> |
