@@ -5,7 +5,7 @@ excerpt: KOSDAQ 섬유의류 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-03-26
+last_modified_at: 2024-03-27
 ---
 
 
@@ -16,25 +16,25 @@ last_modified_at: 2024-03-26
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [더네이쳐홀딩스](/298540/) | 3.1 | 0.7 | 2.7<small>%</small> | 11.5<small>%</small> |
-| 좋은사람들 | - | 3.8 | - | 10.9<small>%</small> |
-| 폰드그룹 | - | - | - | 10.6<small>%</small> |
-| 크리스에프앤씨 | 6.5 | 0.5 | 3.1<small>%</small> | 10.0<small>%</small> |
-| 씨싸이트 | - | - | - | 8.4<small>%</small> |
-| 공구우먼 | 10.6 | 2.2 | 3.1<small>%</small> | 7.1<small>%</small> |
-| 씨앤투스 | 4.6 | 0.5 | 8.1<small>%</small> | 4.7<small>%</small> |
-| 에스제이그룹 | 2.7 | 0.6 | 6.2<small>%</small> | 4.2<small>%</small> |
-| 웰크론 | 115.6 | 1.0 | - | 4.2<small>%</small> |
+| [더네이쳐홀딩스](/298540/) | 3.1 | 0.8 | 2.7<small>%</small> | 11.7<small>%</small> |
+| 좋은사람들 | - | 3.8 | - | 11.0<small>%</small> |
+| 폰드그룹 | - | - | - | 10.7<small>%</small> |
+| 크리스에프앤씨 | 6.6 | 0.6 | 3.1<small>%</small> | 10.3<small>%</small> |
+| 씨싸이트 | - | - | - | 7.7<small>%</small> |
+| 공구우먼 | 10.4 | 2.2 | 3.1<small>%</small> | 7.0<small>%</small> |
+| 씨앤투스 | 4.6 | 0.5 | 8.0<small>%</small> | 4.8<small>%</small> |
+| 에스제이그룹 | 2.7 | 0.6 | 6.2<small>%</small> | 4.3<small>%</small> |
+| 웰크론 | 115.8 | 1.0 | - | 4.2<small>%</small> |
 | 코데즈컴바인 | 8.7 | 1.1 | - | 3.6<small>%</small> |
-| 그리티 | 30.1 | 0.9 | 1.0<small>%</small> | 3.3<small>%</small> |
+| 그리티 | 30.4 | 0.9 | 1.0<small>%</small> | 3.3<small>%</small> |
 | 케이엠 | 6.9 | 0.4 | 1.1<small>%</small> | 2.9<small>%</small> |
-| 배럴 | - | 1.8 | - | 2.9<small>%</small> |
+| 배럴 | - | 1.7 | - | 2.9<small>%</small> |
 | 지엔코 | - | 0.9 | - | 2.6<small>%</small> |
-| 셀바이오휴먼텍 | - | - | - | 2.2<small>%</small> |
-| GH신소재 | 8.0 | 0.5 | - | 2.1<small>%</small> |
+| GH신소재 | 8.1 | 0.5 | - | 2.1<small>%</small> |
+| 셀바이오휴먼텍 | - | - | - | 2.0<small>%</small> |
 | 아즈텍WB | - | 0.3 | 1.4<small>%</small> | 1.7<small>%</small> |
 | 엠에프엠코리아 | - | 0.7 | - | 1.6<small>%</small> |
-| 패션플랫폼 | 2.9 | 0.4 | - | 1.5<small>%</small> |
+| 패션플랫폼 | 2.9 | 0.4 | - | 1.6<small>%</small> |
 | 원풍물산 | - | 2.0 | - | 1.5<small>%</small> |
 | 에스티오 | 15.8 | 0.8 | 5.3<small>%</small> | 1.4<small>%</small> |
 | 형지I&C | - | 0.7 | - | 1.1<small>%</small> |
