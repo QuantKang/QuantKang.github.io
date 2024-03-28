@@ -5,7 +5,7 @@ excerpt: KOSPI 기타금융 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-03-27
+last_modified_at: 2024-03-28
 ---
 
 
@@ -16,77 +16,77 @@ last_modified_at: 2024-03-27
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [KB금융](/105560/) | 6.3 | 0.6 | 4.3<small>%</small> | 12.8<small>%</small> |
+| [KB금융](/105560/) | 6.4 | 0.6 | 4.2<small>%</small> | 13.1<small>%</small> |
 | [신한지주](/055550/) | 5.6 | 0.5 | 4.4<small>%</small> | 11.1<small>%</small> |
 | [하나금융지주](/086790/) | 5.0 | 0.5 | 5.7<small>%</small> | 7.9<small>%</small> |
-| [메리츠금융지주](/138040/) | 9.5 | 3.0 | 0.1<small>%</small> | 7.5<small>%</small> |
-| [LG](/003550/) | 7.2 | 0.5 | 3.4<small>%</small> | 6.5<small>%</small> |
-| [SK](/034730/) | 9.5 | 0.5 | 2.7<small>%</small> | 6.2<small>%</small> |
-| [SK스퀘어](/402340/) | 43.2 | 0.7 | - | 5.1<small>%</small> |
-| [우리금융지주](/316140/) | 3.5 | 0.4 | 7.7<small>%</small> | 5.1<small>%</small> |
+| [메리츠금융지주](/138040/) | 9.7 | 3.0 | 0.1<small>%</small> | 7.6<small>%</small> |
+| [LG](/003550/) | 7.0 | 0.5 | 3.4<small>%</small> | 6.3<small>%</small> |
+| [SK](/034730/) | 9.3 | 0.5 | 2.7<small>%</small> | 6.2<small>%</small> |
+| [우리금융지주](/316140/) | 3.5 | 0.4 | 7.8<small>%</small> | 5.0<small>%</small> |
+| [SK스퀘어](/402340/) | 42.8 | 0.7 | - | 5.0<small>%</small> |
 | [HD한국조선해양](/009540/) | - | 0.9 | - | 3.9<small>%</small> |
 | 맥쿼리인프라 | - | - | - | 2.6<small>%</small> |
 | [HD현대](/267250/) | 3.5 | 0.7 | 6.7<small>%</small> | 2.5<small>%</small> |
-| [카카오페이](/377300/) | 97.0 | 2.9 | - | 2.4<small>%</small> |
-| [GS](/078930/) | 2.2 | 0.4 | 5.0<small>%</small> | 2.1<small>%</small> |
-| [삼성카드](/029780/) | 6.6 | 0.5 | 6.5<small>%</small> | 2.1<small>%</small> |
-| [한국금융지주](/071050/) | 6.3 | 0.5 | 3.4<small>%</small> | 1.8<small>%</small> |
-| [LS](/006260/) | 7.1 | 0.8 | 1.3<small>%</small> | 1.7<small>%</small> |
-| [CJ](/001040/) | 19.3 | 0.6 | 2.2<small>%</small> | 1.6<small>%</small> |
-| [롯데지주](/004990/) | 11.8 | 0.3 | 5.3<small>%</small> | 1.4<small>%</small> |
-| [한미사이언스](/008930/) | 40.2 | 3.8 | 0.5<small>%</small> | 1.3<small>%</small> |
+| [카카오페이](/377300/) | 95.6 | 2.9 | - | 2.4<small>%</small> |
+| [GS](/078930/) | 2.1 | 0.4 | 5.2<small>%</small> | 2.1<small>%</small> |
+| [삼성카드](/029780/) | 6.6 | 0.5 | 6.5<small>%</small> | 2.0<small>%</small> |
+| [한국금융지주](/071050/) | 6.1 | 0.5 | 3.5<small>%</small> | 1.7<small>%</small> |
+| [LS](/006260/) | 7.0 | 0.8 | 1.4<small>%</small> | 1.7<small>%</small> |
+| [CJ](/001040/) | 20.3 | 0.6 | 2.0<small>%</small> | 1.6<small>%</small> |
+| [한미사이언스](/008930/) | 43.9 | 4.2 | 0.5<small>%</small> | 1.4<small>%</small> |
+| [롯데지주](/004990/) | 11.7 | 0.3 | 5.4<small>%</small> | 1.3<small>%</small> |
 | [BNK금융지주](/138930/) | 3.3 | 0.3 | 7.8<small>%</small> | 1.2<small>%</small> |
-| [JB금융지주](/175330/) | 4.4 | 0.6 | 6.3<small>%</small> | 1.2<small>%</small> |
+| [JB금융지주](/175330/) | 4.3 | 0.6 | 6.4<small>%</small> | 1.2<small>%</small> |
 | [두산](/000150/) | - | 1.1 | 1.3<small>%</small> | 1.1<small>%</small> |
-| 동원산업 | 6.8 | 0.6 | 2.8<small>%</small> | 0.8<small>%</small> |
-| [한국앤컴퍼니](/000240/) | 9.4 | 0.4 | 4.0<small>%</small> | 0.7<small>%</small> |
-| [DGB금융지주](/139130/) | 3.9 | 0.3 | 7.4<small>%</small> | 0.7<small>%</small> |
-| [효성](/004800/) | 73.2 | 0.5 | 7.8<small>%</small> | 0.6<small>%</small> |
-| [영원무역홀딩스](/009970/) | 2.3 | 0.5 | 3.5<small>%</small> | 0.6<small>%</small> |
-| 세아제강지주 | 3.5 | 0.6 | 0.9<small>%</small> | 0.5<small>%</small> |
-| [오리온홀딩스](/001800/) | 8.3 | 0.4 | 4.9<small>%</small> | 0.4<small>%</small> |
+| 동원산업 | 6.9 | 0.6 | 2.8<small>%</small> | 0.8<small>%</small> |
+| [한국앤컴퍼니](/000240/) | 9.2 | 0.4 | 4.0<small>%</small> | 0.7<small>%</small> |
+| [DGB금융지주](/139130/) | 3.8 | 0.3 | 7.5<small>%</small> | 0.7<small>%</small> |
+| [효성](/004800/) | 79.3 | 0.5 | 7.2<small>%</small> | 0.6<small>%</small> |
+| [영원무역홀딩스](/009970/) | 2.3 | 0.5 | 3.5<small>%</small> | 0.5<small>%</small> |
+| 세아제강지주 | 3.4 | 0.6 | 1.0<small>%</small> | 0.4<small>%</small> |
+| [오리온홀딩스](/001800/) | 8.3 | 0.4 | 5.0<small>%</small> | 0.4<small>%</small> |
 | SK디스커버리 | 2.1 | 0.3 | 3.8<small>%</small> | 0.4<small>%</small> |
 | 동아쏘시오홀딩스 | 65.9 | 0.8 | 1.3<small>%</small> | 0.3<small>%</small> |
-| 현대지에프홀딩스 | 6.7 | 0.2 | 4.9<small>%</small> | 0.3<small>%</small> |
+| 현대지에프홀딩스 | 6.8 | 0.2 | 4.8<small>%</small> | 0.3<small>%</small> |
 | 쿠쿠홀딩스 | 4.9 | 0.6 | 4.3<small>%</small> | 0.3<small>%</small> |
-| 삼양홀딩스 | 7.9 | 0.3 | 4.8<small>%</small> | 0.3<small>%</small> |
+| 삼양홀딩스 | 7.8 | 0.3 | 4.9<small>%</small> | 0.3<small>%</small> |
 | F&F홀딩스 | 4.5 | 0.3 | 2.3<small>%</small> | 0.3<small>%</small> |
 | LS에코에너지 | - | 3.7 | 1.4<small>%</small> | 0.3<small>%</small> |
 | LX홀딩스 | 3.2 | 0.3 | 4.4<small>%</small> | 0.2<small>%</small> |
 | HDC | - | 0.2 | 3.1<small>%</small> | 0.2<small>%</small> |
-| 풍산홀딩스 | 5.8 | 0.5 | 4.3<small>%</small> | 0.2<small>%</small> |
+| 풍산홀딩스 | 5.7 | 0.4 | 4.5<small>%</small> | 0.2<small>%</small> |
 | 맵스리얼티1 | - | - | - | 0.2<small>%</small> |
 | 한국자산신탁 | 3.6 | 0.4 | 7.0<small>%</small> | 0.2<small>%</small> |
-| BGF | 15.5 | 0.2 | 2.9<small>%</small> | 0.2<small>%</small> |
-| CJ4우(전환) | - | - | 3.0<small>%</small> | 0.2<small>%</small> |
-| HL홀딩스 | 113.2 | 0.3 | 5.6<small>%</small> | 0.2<small>%</small> |
-| SNT홀딩스 | 6.2 | 0.3 | 3.2<small>%</small> | 0.2<small>%</small> |
+| CJ4우(전환) | - | - | 2.9<small>%</small> | 0.2<small>%</small> |
+| BGF | 15.4 | 0.2 | 2.9<small>%</small> | 0.2<small>%</small> |
+| SNT홀딩스 | 6.3 | 0.3 | 3.1<small>%</small> | 0.2<small>%</small> |
+| HL홀딩스 | 107.6 | 0.3 | 5.9<small>%</small> | 0.2<small>%</small> |
 | 대상홀딩스 | 10.8 | 0.5 | 2.9<small>%</small> | 0.2<small>%</small> |
 | 스틱인베스트먼트 | 18.1 | 1.2 | 2.6<small>%</small> | 0.1<small>%</small> |
-| 농심홀딩스 | 9.3 | 0.3 | 3.6<small>%</small> | 0.1<small>%</small> |
+| 농심홀딩스 | 9.1 | 0.3 | 3.7<small>%</small> | 0.1<small>%</small> |
 | 한국콜마홀딩스 | - | 0.5 | 3.6<small>%</small> | 0.1<small>%</small> |
 | 두산우 | - | - | 2.9<small>%</small> | 0.1<small>%</small> |
 | 한국금융지주우 | - | - | 5.0<small>%</small> | 0.1<small>%</small> |
-| 한국토지신탁 | 9.8 | 0.2 | 8.7<small>%</small> | 0.1<small>%</small> |
-| 서연 | 3.5 | 0.4 | 0.9<small>%</small> | 0.1<small>%</small> |
-| JW홀딩스 | 10.4 | 2.2 | 3.1<small>%</small> | 0.1<small>%</small> |
-| 대덕 | 12.2 | 0.4 | 6.0<small>%</small> | 0.1<small>%</small> |
+| 한국토지신탁 | 9.7 | 0.2 | 8.7<small>%</small> | 0.1<small>%</small> |
+| 서연 | 3.4 | 0.4 | 1.0<small>%</small> | 0.1<small>%</small> |
+| JW홀딩스 | 10.4 | 2.1 | 3.1<small>%</small> | 0.1<small>%</small> |
+| 대덕 | 11.8 | 0.4 | 6.2<small>%</small> | 0.1<small>%</small> |
 | 일진홀딩스 | 11.1 | 0.5 | 3.4<small>%</small> | 0.1<small>%</small> |
 | 코오롱 | 1.7 | 0.2 | 3.2<small>%</small> | 0.1<small>%</small> |
 | 하이트진로홀딩스 | 6.3 | 0.3 | 5.5<small>%</small> | 0.1<small>%</small> |
-| 경동인베스트 | 13.2 | 0.4 | 0.9<small>%</small> | 0.1<small>%</small> |
 | AK홀딩스 | - | 0.4 | 1.3<small>%</small> | 0.1<small>%</small> |
+| 경동인베스트 | 13.1 | 0.4 | 0.9<small>%</small> | 0.1<small>%</small> |
 | LG우 | - | - | 4.7<small>%</small> | 0.1<small>%</small> |
-| 미원홀딩스 | 9.0 | 0.8 | 0.9<small>%</small> | 0.1<small>%</small> |
-| 티와이홀딩스 | 1.2 | 0.1 | 4.7<small>%</small> | 0.1<small>%</small> |
+| 티와이홀딩스 | 1.4 | 0.1 | 4.2<small>%</small> | 0.1<small>%</small> |
+| 미원홀딩스 | 8.9 | 0.8 | 0.9<small>%</small> | 0.1<small>%</small> |
 | 노루홀딩스 | 4.9 | 0.3 | 4.3<small>%</small> | 0.1<small>%</small> |
-| 디와이 | - | 0.4 | 2.0<small>%</small> | 0.1<small>%</small> |
+| 디와이 | - | 0.4 | 2.1<small>%</small> | 0.1<small>%</small> |
 | 샘표 | 10.4 | 0.6 | 0.4<small>%</small> | 0.1<small>%</small> |
-| CJ우 | - | - | 4.2<small>%</small> | 0.1<small>%</small> |
+| CJ우 | - | - | 4.1<small>%</small> | 0.1<small>%</small> |
 | 한솔홀딩스 | 2.7 | 0.2 | 3.9<small>%</small> | 0.1<small>%</small> |
 | 코스맥스비티아이 | - | 0.3 | - | 0.0<small>%</small> |
 | 크라운해태홀딩스 | 11.0 | 0.3 | 1.6<small>%</small> | 0.0<small>%</small> |
-| 에이플러스에셋 | 1.8 | 0.6 | 5.0<small>%</small> | 0.0<small>%</small> |
+| 에이플러스에셋 | 1.8 | 0.6 | 5.1<small>%</small> | 0.0<small>%</small> |
 | SK우 | - | - | 3.5<small>%</small> | 0.0<small>%</small> |
 | CS홀딩스 | 5.2 | 0.3 | 0.8<small>%</small> | 0.0<small>%</small> |
 | 두산2우B | - | - | 2.5<small>%</small> | 0.0<small>%</small> |
@@ -97,14 +97,14 @@ last_modified_at: 2024-03-27
 | 롯데지주우 | - | - | 4.3<small>%</small> | 0.0<small>%</small> |
 | 한국ANKOR유전 | - | - | - | 0.0<small>%</small> |
 | 한국패러랠 | - | - | - | 0.0<small>%</small> |
-| 대상홀딩스우 | - | - | 1.5<small>%</small> | 0.0<small>%</small> |
 | 삼양홀딩스우 | - | - | 6.5<small>%</small> | 0.0<small>%</small> |
+| 대상홀딩스우 | - | - | 1.5<small>%</small> | 0.0<small>%</small> |
 | 코오롱우 | - | - | 4.6<small>%</small> | 0.0<small>%</small> |
 | LX홀딩스1우 | - | - | 3.5<small>%</small> | 0.0<small>%</small> |
-| 대덕1우 | - | - | 5.5<small>%</small> | 0.0<small>%</small> |
+| 대덕1우 | - | - | 5.4<small>%</small> | 0.0<small>%</small> |
 | 노루홀딩스우 | - | - | 1.5<small>%</small> | 0.0<small>%</small> |
+| 티와이홀딩스우 | - | - | 3.2<small>%</small> | 0.0<small>%</small> |
 | 크라운해태홀딩스우 | - | - | 1.1<small>%</small> | 0.0<small>%</small> |
-| 티와이홀딩스우 | - | - | 3.7<small>%</small> | 0.0<small>%</small> |
 | 하이트진로홀딩스우 | - | - | 4.6<small>%</small> | 0.0<small>%</small> |
 
 {% include commons/footnotes.md %}
