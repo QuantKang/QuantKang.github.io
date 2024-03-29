@@ -1236,3 +1236,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 
 
 {% include /commons/ads/adsense.html %}
+
+
+
+## 기타
+
+
+
+### [iShares Core 7-10 Year US Treasury Bond JPY Hedged ETF vs iShares 7-10 Year Treasury Bond ETF](/1482-vs-ief/)<a id="1482-vs-ief"></a>
+
+{% include vs/1482-vs-ief_md.inc %}
