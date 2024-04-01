@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [JEPIX](/jepix-vs-schd/) | <span style="color: tomato">11.5<small>%</small></span> | 15.7<small>%</small> | 0.73 | -32.6<small>%</small> | -3.3<small>%</small> |
-| SCHD | <span style="color: tomato">15.2<small>%</small></span> | 19.7<small>%</small> | 0.77 | -33.4<small>%</small> | -4.4<small>%</small> |
+| [JEPIX](/jepix-vs-schd/) | <span style="color: tomato">12.9<small>%</small></span> | 7.5<small>%</small> | 1.71 | -7.0<small>%</small> | -1.0<small>%</small> |
+| SCHD | <span style="color: tomato">13.9<small>%</small></span> | 11.6<small>%</small> | 1.20 | -10.8<small>%</small> | -2.6<small>%</small> |
