@@ -1279,3 +1279,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [iShares 20+ Year US Treasury Bond JPY Hedged ETF vs iShares 20+ Year Treasury Bond ETF](/2621-vs-tlt/)<a id="2621-vs-tlt"></a>
 
 {% include vs/2621-vs-tlt_md.inc %}
+
+
+
+### [CSHI vs BIL](/cshi-vs-bil/)<a id="cshi-vs-bil"></a>
+
+{% include vs/cshi-vs-bil_md.inc %}
