@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [VIG](/vig-vs-spy/) | <span style="color: tomato">9.6<small>%</small></span> | 17.4<small>%</small> | 0.55 | -46.8<small>%</small> | -6.0<small>%</small> |
-| SPY | <span style="color: tomato">10.1<small>%</small></span> | 19.7<small>%</small> | 0.52 | -55.2<small>%</small> | -8.1<small>%</small> |
+| [VIG](/vig-vs-spy/) | <span style="color: tomato">9.9<small>%</small></span> | 17.8<small>%</small> | 0.56 | -43.8<small>%</small> | -5.5<small>%</small> |
+| SPY | <span style="color: tomato">10.3<small>%</small></span> | 20.2<small>%</small> | 0.51 | -51.9<small>%</small> | -7.3<small>%</small> |
