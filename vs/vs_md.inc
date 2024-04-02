@@ -1285,3 +1285,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [CSHI vs BIL](/cshi-vs-bil/)<a id="cshi-vs-bil"></a>
 
 {% include vs/cshi-vs-bil_md.inc %}
+
+
+
+### [BNDI  vs BND](/bndi-vs-bnd/)<a id="bndi-vs-bnd"></a>
+
+{% include vs/bndi-vs-bnd_md.inc %}
