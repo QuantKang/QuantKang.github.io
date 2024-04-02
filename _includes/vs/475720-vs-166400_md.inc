@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [475720](/475720-vs-166400/) | - | 10.7<small>%</small> | nan | -1.7<small>%</small> | -0.3<small>%</small> |
-| TIGER 200커버드콜5%OTM | - | 16.0<small>%</small> | nan | -2.4<small>%</small> | -0.4<small>%</small> |
+| [475720](/475720-vs-166400/) | - | 10.4<small>%</small> | nan | -1.7<small>%</small> | -0.3<small>%</small> |
+| TIGER 200커버드콜5%OTM | - | 15.5<small>%</small> | nan | -2.4<small>%</small> | -0.4<small>%</small> |
