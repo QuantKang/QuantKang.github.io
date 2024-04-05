@@ -718,11 +718,66 @@ ProShares사의 NOBL은 배당금이 꾸준히 증가한 배당귀족주에 투�
 
 
 
+## 해외 상장 해외 ETF (배당, SCHD 대비)
+
+
+
 ### [VIG vs SCHD](/vig-vs-schd/)<a id="vig-vs-schd"></a>
 
 VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당성장주 ETF입니다. 국내에 널리 알려진 SCHD는 Dow Jones U.S. Dividend 100 지수를 추종하는 대표적인 배당성장주 ETF입니다. 두 상품 모두 비슷한 관점에서 설계했기에, 장기직인 성과는 비슷하리라 예상할 수 있습니다.
 
 {% include vs/vig-vs-schd_md.inc %}
+
+
+
+### [SPY vs SCHD](/spy-vs-schd/)<a id="spy-vs-schd"></a>
+
+{% include vs/spy-vs-schd_md.inc %}
+
+
+
+### [SDY vs SCHD](/sdy-vs-schd/)<a id="sdy-vs-schd"></a>
+
+{% include vs/sdy-vs-schd_md.inc %}
+
+
+
+### [HDV vs SCHD](/sdy-vs-schd/)<a id="sdy-vs-schd"></a>
+
+{% include vs/sdy-vs-schd_md.inc %}
+
+
+
+### [NOBL vs SCHD](/nobl-vs-schd/)<a id="nobl-vs-schd"></a>
+
+{% include vs/nobl-vs-schd_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
+### [DIVO vs SCHD](/divo-vs-schd/)<a id="divo-vs-schd"></a>
+
+{% include vs/divo-vs-schd_md.inc %}
+
+
+
+### [VYM vs SCHD](/vym-vs-schd/)<a id="vym-vs-schd"></a>
+
+{% include vs/vym-vs-schd_md.inc %}
+
+
+
+### [DGRO vs SCHD](/dgro-vs-schd/)<a id="dgro-vs-schd"></a>
+
+{% include vs/dgro-vs-schd_md.inc %}
+
+
+
+### [SPHD vs SCHD](/sphd-vs-schd/)<a id="sphd-vs-schd"></a>
+
+{% include vs/sphd-vs-schd_md.inc %}
 
 
 
@@ -733,6 +788,9 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 ### [SCHG vs SPY](/schg-vs-spy/)<a id="schg-vs-spy"></a>
 
 {% include vs/schg-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -757,9 +815,6 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 {% include vs/xlk-vs-qqq_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ## 해외 상장 해외 ETF (커버드 콜)
 
@@ -776,6 +831,9 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 SPYI와 S&P 500 지수�
 ### [SPYI vs XYLD](/spyi-vs-xyld/)<a id="spyi-vs-xyld"></a>
 
 {% include vs/spyi-vs-xyld_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -796,9 +854,6 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 SPYI와 S&P 500 지수�
 {% include vs/jepix-vs-schd_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [JEPI vs JEPIX](/jepi-vs-jepix/)<a id="jepi-vs-jepix"></a>
 
@@ -813,6 +868,9 @@ JEPIX는 JEPI와 동일한 전략을 사용한다고 알려진 JP모건사의 �
 JEPIX는 JEPII와 동일한 전략을 사용한다고 알려진 JP모건사 뮤추얼 펀드입니다. JEPIX는 JEPI보다 먼저 설정되었습니다. JEPI/JEPIX의 전략이 유용한 지 좀 더 긴 기간을 대상으로 비교해 봅니다. 참고로 JEPIX의 시세 데이터에 오류가 있는 듯 합니다. JEPIX는 매달 배당금을 지급하는 방식에서 2023년 상반기에 대부분을 펀드에 재투자하는 방식으로 바뀌었습니다. 이로 인한 자산 증가분이 고려되지 않아 JEPI보다 낮은 성과를 보이는 착시가 발생할 수 있습니다. JEPIX 대신 JEPI로 비교하는 것이 현재로는 보다 정확합니다.
 
 {% include vs/jepix-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -833,9 +891,6 @@ JEPIX는 JEPII와 동일한 전략을 사용한다고 알려진 JP모건사 뮤�
 {% include vs/jepq-vs-spy_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [XYLD vs SPY](/xyld-vs-spy/)<a id="xyld-vs-spy"></a>
 
@@ -850,6 +905,9 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수�
 S&P 500 지수에 대해 커버드 콜 전략을 쓰는 JEPY와 S&P 500 지수를 추종하는 SPY의 성과를 비교해 봅니다.
 
 {% include vs/jepy-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -876,9 +934,6 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 JEPY와 S&P 500 지수�
 {% include vs/djia-vs-dia_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [IWMY vs IWM](/iwmy-vs-iwm/)<a id="iwmy-vs-iwm"></a>
 
@@ -893,6 +948,9 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 JEPY와 S&P 500 지수�
 TLT는 미국 장기 국채에 투자하는 ETF입니다. TLTW는 미국 장기 국채에 커버드콜 전략을 사용하는 ETF입니다. 변동성이 높은 장기 국채에 커버드콜 전략이 효과가 있는지 비교해 봅니다.
 
 {% include vs/tltw-vs-tlt_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -923,9 +981,6 @@ Nasdaq 100 Equal Weight Index vs. Nasdaq 100
 {% include vs/qqew-vs-qqq_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ## 해외 상장 해외 ETF (저변동성)
 
@@ -944,6 +999,9 @@ Invesco사의 SPLV는 S&P500 종목 중에서 변동성이 낮은 종목에 투�
 Invesco사의 SPHD는 S&P500 종목 중에서 고배당을 주면서 변동성이 낮은 종목에 투자하는 상품입니다. S&P5 500 지수를 추종하는 SPY와 비교해서 고배당과 저변동성 모두 충족하는 종목에 투자한 효과를 확인해 봅니다.
 
 {% include vs/sphd-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -970,9 +1028,6 @@ IJR은 S&P 600 소형주 지수를 추종하는 ETF입니다. XSLV는 지수 편
 {% include vs/xslv-vs-ijr_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [ONEV vs IWB](/onev-vs-iwb/)<a id="onev-vs-iwb"></a>
 
@@ -991,6 +1046,9 @@ IJR은 S&P 600 소형주 지수를 추종하는 ETF입니다. XSLV는 지수 편
 Invesco사의 PGX는 우선주에 투자하는 상품으로 연 평균 5% 이상의 배당률을 기록해 왔습니다. 이 상품을 S&P5 500 지수를 추종하는 SPY와 비교해 봅니다.
 
 {% include vs/pgx-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -1017,9 +1075,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/oark-vs-arkk_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [APLY vs AAPL](/aply-vs-aapl/)<a id="aply-vs-aapl"></a>
 
@@ -1030,6 +1085,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [NVDY vs NVDA](/nvdy-vs-nvda/)<a id="nvdy-vs-nvda"></a>
 
 {% include vs/nvdy-vs-nvda_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -1050,9 +1108,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/gooy-vs-googl_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [CONY vs COIN](/cony-vs-coin/)<a id="cony-vs-coin"></a>
 
@@ -1063,6 +1118,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [DISO vs DIS](/diso-vs-dis/)<a id="diso-vs-dis"></a>
 
 {% include vs/diso-vs-dis_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -1083,9 +1141,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/xomo-vs-xom_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [JPMO vs JPM](/jpmo-vs-jpm/)<a id="jpmo-vs-jpm"></a>
 
@@ -1096,6 +1151,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [AMDY vs AMD](/amdy-vs-amd/)<a id="amdy-vs-amd"></a>
 
 {% include vs/amdy-vs-amd_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -1116,9 +1174,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/mrny-vs-mrna_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [AIYY vs AI](/aiyy-vs-ai/)<a id="aiyy-vs-ai"></a>
 
@@ -1129,6 +1184,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [YMAX vs JEPI](/ymax-vs-jepi/)<a id="ymax-vs-jepi"></a>
 
 {% include vs/ymax-vs-jepi_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -1153,9 +1211,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/komp-vs-spy_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [QRFT vs SPY](/qrft-vs-spy/)<a id="qrft-vs-spy"></a>
 
@@ -1166,6 +1221,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [AMOM vs SPY](/amom-vs-spy/)<a id="amom-vs-spy"></a>
 
 {% include vs/amom-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -1186,9 +1244,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/nvq-vs-spy_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ## 해외 상장 ETF (특정 ETF)
 
@@ -1203,6 +1258,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [ARKK vs QLD](/arkk-vs-qld/)<a id="arkk-vs-qld"></a>
 
 {% include vs/arkk-vs-qld_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -1233,9 +1291,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/brk-b-vs-spy_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [BRK-B vs BRK-A](/brk-b-vs-brk-a/)<a id="brk-b-vs-brk-a"></a>
 
@@ -1252,6 +1307,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [ARIRANG 미국S&P500(H) vs SPY](/269540-vs-spy/)<a id="269540-vs-spy"></a>
 
 {% include vs/269540-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -1272,9 +1330,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/250730-vs-2828_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [iShares 20+ Year US Treasury Bond JPY Hedged ETF vs iShares 20+ Year Treasury Bond ETF](/2621-vs-tlt/)<a id="2621-vs-tlt"></a>
 
@@ -1285,6 +1340,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [CSHI vs BIL](/cshi-vs-bil/)<a id="cshi-vs-bil"></a>
 
 {% include vs/cshi-vs-bil_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
