@@ -1,7 +1,7 @@
 ---
 layout: single
 title: NVDY vs NVIDIA Corp
-excerpt: NVDY의 최근 10개월 CAGR은 107.7%로 NVIDIA Corp의 243.9%보다 -136.2% 낮았습니다.
+excerpt: NVDY의 최근 10개월 CAGR은 130.5%로 NVIDIA Corp의 243.9%보다 -113.4% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -29,7 +29,7 @@ NVIDIA Corp 상품과 NVDY 상품의 성과를 수익률과 위험도로 비교�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| NVDY | <span style="color: tomato">107.7<small>%</small></span> | 37.5<small>%</small> | 2.88 | -16.5<small>%</small> | -3.3<small>%</small> |
+| NVDY | <span style="color: tomato">130.5<small>%</small></span> | 35.3<small>%</small> | 3.70 | -13.9<small>%</small> | -3.2<small>%</small> |
 | NVIDIA Corp | <span style="color: tomato">243.9<small>%</small></span> | 48.7<small>%</small> | 5.01 | -18.3<small>%</small> | -4.5<small>%</small> |
 
 <!-- more -->
@@ -37,11 +37,11 @@ NVIDIA Corp 상품과 NVDY 상품의 성과를 수익률과 위험도로 비교�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** NVDY의 CAGR은 107.7%로 NVIDIA Corp의 243.9%보다 -136.2% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** NVDY의 CAGR은 130.5%로 NVIDIA Corp의 243.9%보다 -113.4% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** NVDY의 표준편차는 37.5%로 NVIDIA Corp의 48.7%보다 -11.2% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** NVDY의 표준편차는 35.3%로 NVIDIA Corp의 48.7%보다 -13.4% 낮았습니다. (낮은 위험도)
 
-**위험도 지표 (MDD):** NVDY의 16.5%의 MDD는 NVIDIA Corp의 18.3%보다 -1.8% 낮았습니다. (낮은 위험도)
+**위험도 지표 (MDD):** NVDY의 13.9%의 MDD는 NVIDIA Corp의 18.3%보다 -4.4% 낮았습니다. (낮은 위험도)
 
 
 
@@ -50,9 +50,9 @@ NVIDIA Corp 상품과 NVDY 상품의 성과를 수익률과 위험도로 비교�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 NVIDIA Corp의 투자 비중[^fn_vs_weight]을 조절하여 NVDY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 48.7% / 37.5% = 77% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 48.7% / 35.3% = 72% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
-**위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 18.3% / 16.5% = 90% 비중으로 투자하면 됩니다.
+**위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 18.3% / 13.9% = 76% 비중으로 투자하면 됩니다.
 
 
 {% include /commons/ads/adsense.html %}
@@ -72,18 +72,18 @@ NVIDIA Corp<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| NVDY | <span style="color: tomato">107.7<small>%</small></span> | 37.5<small>%</small> | 2.88 | -16.5<small>%</small> | -3.3<small>%</small> |
+| NVDY | <span style="color: tomato">130.5<small>%</small></span> | 35.3<small>%</small> | 3.70 | -13.9<small>%</small> | -3.2<small>%</small> |
 | NVIDIA Corp | <span style="color: tomato">243.9<small>%</small></span> | 48.7<small>%</small> | 5.01 | -18.3<small>%</small> | -4.5<small>%</small> |
-| NVIDIA Corp<sub>STD</sub> <small>(77%)</small> | <span style="color: tomato">163.7<small>%</small></span> | 37.5<small>%</small> | 4.37 | -14.2<small>%</small> | -3.5<small>%</small> |
-| NVIDIA Corp<sub>MDD</sub> <small>(90%)</small> | <span style="color: tomato">208.1<small>%</small></span> | 44.0<small>%</small> | 4.73 | -16.6<small>%</small> | -4.1<small>%</small> |
+| NVIDIA Corp<sub>STD</sub> <small>(72%)</small> | <span style="color: tomato">150.1<small>%</small></span> | 35.3<small>%</small> | 4.26 | -13.4<small>%</small> | -3.3<small>%</small> |
+| NVIDIA Corp<sub>MDD</sub> <small>(76%)</small> | <span style="color: tomato">161.3<small>%</small></span> | 37.1<small>%</small> | 4.35 | -14.1<small>%</small> | -3.4<small>%</small> |
 
 
 
 각각의 경우를 NVDY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 77% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 163.7%로 NVDY의 107.7%보다 56.0% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 72% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 150.1%로 NVDY의 130.5%보다 19.6% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 90% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 208.1%로 NVDY의 107.7%보다 100.4% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 76% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 161.3%로 NVDY의 130.5%보다 30.8% 높았습니다. (높은 수익률)
 
 
 
@@ -95,8 +95,8 @@ NVIDIA Corp<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이�
 
 지난 10개월간 거치식으로 투자했다고 가정합니다.
 
-NVIDIA Corp의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 185.9%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 NVDY의 107.7%보다 78.2% 높았습니다.
+NVIDIA Corp의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 155.7%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 NVDY의 130.5%보다 25.2% 높았습니다.
 
 ### NVDY	&lt; NVIDIA Corp
 {: .text-center}

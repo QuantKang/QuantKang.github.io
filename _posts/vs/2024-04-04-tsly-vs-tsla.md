@@ -1,7 +1,7 @@
 ---
 layout: single
 title: TSLY vs Tesla Inc
-excerpt: TSLY의 최근 1년 4개월 CAGR은 -16.1%로 Tesla Inc의 -4.8%보다 -11.4% 낮았습니다.
+excerpt: TSLY의 최근 1년 4개월 CAGR은 -13.3%로 Tesla Inc의 -4.8%보다 -8.5% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -29,7 +29,7 @@ Tesla Inc 상품과 TSLY 상품의 성과를 수익률과 위험도로 비교합
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| TSLY | <span style="color: cornflowerblue">-16.1<small>%</small></span> | 41.7<small>%</small> | -0.39 | -40.5<small>%</small> | -18.7<small>%</small> |
+| TSLY | <span style="color: cornflowerblue">-13.3<small>%</small></span> | 41.7<small>%</small> | -0.32 | -40.5<small>%</small> | -18.7<small>%</small> |
 | Tesla Inc | <span style="color: cornflowerblue">-4.8<small>%</small></span> | 54.6<small>%</small> | -0.09 | -44.6<small>%</small> | -18.7<small>%</small> |
 
 <!-- more -->
@@ -37,9 +37,9 @@ Tesla Inc 상품과 TSLY 상품의 성과를 수익률과 위험도로 비교합
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** TSLY의 CAGR은 -16.1%로 Tesla Inc의 -4.8%보다 -11.4% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** TSLY의 CAGR은 -13.3%로 Tesla Inc의 -4.8%보다 -8.5% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** TSLY의 표준편차는 41.7%로 Tesla Inc의 54.6%보다 -12.9% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** TSLY의 표준편차는 41.7%로 Tesla Inc의 54.6%보다 -13.0% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** TSLY의 40.5%의 MDD는 Tesla Inc의 44.6%보다 -4.1% 낮았습니다. (낮은 위험도)
 
@@ -72,7 +72,7 @@ Tesla Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| TSLY | <span style="color: cornflowerblue">-16.1<small>%</small></span> | 41.7<small>%</small> | -0.39 | -40.5<small>%</small> | -18.7<small>%</small> |
+| TSLY | <span style="color: cornflowerblue">-13.3<small>%</small></span> | 41.7<small>%</small> | -0.32 | -40.5<small>%</small> | -18.7<small>%</small> |
 | Tesla Inc | <span style="color: cornflowerblue">-4.8<small>%</small></span> | 54.6<small>%</small> | -0.09 | -44.6<small>%</small> | -18.7<small>%</small> |
 | Tesla Inc<sub>STD</sub> <small>(76%)</small> | <span style="color: cornflowerblue">-1.0<small>%</small></span> | 41.7<small>%</small> | -0.02 | -35.8<small>%</small> | -14.3<small>%</small> |
 | Tesla Inc<sub>MDD</sub> <small>(91%)</small> | <span style="color: cornflowerblue">-3.1<small>%</small></span> | 49.6<small>%</small> | -0.06 | -41.3<small>%</small> | -17.0<small>%</small> |
@@ -81,9 +81,9 @@ Tesla Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고
 
 각각의 경우를 TSLY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 76% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 -1.0%로 TSLY의 -16.1%보다 15.1% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 76% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 -1.0%로 TSLY의 -13.3%보다 12.3% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 91% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 -3.1%로 TSLY의 -16.1%보다 13.0% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 91% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 -3.1%로 TSLY의 -13.3%보다 10.2% 높았습니다. (높은 수익률)
 
 
 
@@ -96,7 +96,7 @@ Tesla Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고
 지난 1년 4개월간 거치식으로 투자했다고 가정합니다.
 
 Tesla Inc의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 -2.1%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 TSLY의 -16.1%보다 14.1% 높았습니다.
+이 포트폴리오는 TSLY의 -13.3%보다 11.2% 높았습니다.
 
 ### TSLY	&lt; Tesla Inc
 {: .text-center}
