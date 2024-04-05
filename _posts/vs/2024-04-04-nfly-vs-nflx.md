@@ -1,7 +1,7 @@
 ---
 layout: single
 title: NFLY vs Netflix Inc
-excerpt: NFLY의 최근 8개월 CAGR은 38.5%로 Netflix Inc의 74.4%보다 -35.9% 낮았습니다.
+excerpt: NFLY의 최근 8개월 CAGR은 47.9%로 Netflix Inc의 74.4%보다 -26.5% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -29,7 +29,7 @@ Netflix Inc 상품과 NFLY 상품의 성과를 수익률과 위험도로 비교�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| NFLY | <span style="color: tomato">38.5<small>%</small></span> | 32.0<small>%</small> | 1.20 | -21.4<small>%</small> | -4.2<small>%</small> |
+| NFLY | <span style="color: tomato">47.9<small>%</small></span> | 31.7<small>%</small> | 1.51 | -21.4<small>%</small> | -4.1<small>%</small> |
 | Netflix Inc | <span style="color: tomato">74.4<small>%</small></span> | 35.0<small>%</small> | 2.13 | -22.8<small>%</small> | -4.5<small>%</small> |
 
 <!-- more -->
@@ -37,9 +37,9 @@ Netflix Inc 상품과 NFLY 상품의 성과를 수익률과 위험도로 비교�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** NFLY의 CAGR은 38.5%로 Netflix Inc의 74.4%보다 -35.9% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** NFLY의 CAGR은 47.9%로 Netflix Inc의 74.4%보다 -26.5% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** NFLY의 표준편차는 32.0%로 Netflix Inc의 35.0%보다 -2.9% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** NFLY의 표준편차는 31.7%로 Netflix Inc의 35.0%보다 -3.3% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** NFLY의 21.4%의 MDD는 Netflix Inc의 22.8%보다 -1.4% 낮았습니다. (낮은 위험도)
 
@@ -50,7 +50,7 @@ Netflix Inc 상품과 NFLY 상품의 성과를 수익률과 위험도로 비교�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 Netflix Inc의 투자 비중[^fn_vs_weight]을 조절하여 NFLY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 35.0% / 32.0% = 92% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 35.0% / 31.7% = 91% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 22.8% / 21.4% = 94% 비중으로 투자하면 됩니다.
 
@@ -72,18 +72,18 @@ Netflix Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| NFLY | <span style="color: tomato">38.5<small>%</small></span> | 32.0<small>%</small> | 1.20 | -21.4<small>%</small> | -4.2<small>%</small> |
+| NFLY | <span style="color: tomato">47.9<small>%</small></span> | 31.7<small>%</small> | 1.51 | -21.4<small>%</small> | -4.1<small>%</small> |
 | Netflix Inc | <span style="color: tomato">74.4<small>%</small></span> | 35.0<small>%</small> | 2.13 | -22.8<small>%</small> | -4.5<small>%</small> |
-| Netflix Inc<sub>STD</sub> <small>(92%)</small> | <span style="color: tomato">67.2<small>%</small></span> | 32.0<small>%</small> | 2.10 | -21.1<small>%</small> | -4.1<small>%</small> |
+| Netflix Inc<sub>STD</sub> <small>(91%)</small> | <span style="color: tomato">66.3<small>%</small></span> | 31.7<small>%</small> | 2.09 | -20.9<small>%</small> | -4.0<small>%</small> |
 | Netflix Inc<sub>MDD</sub> <small>(94%)</small> | <span style="color: tomato">69.1<small>%</small></span> | 32.8<small>%</small> | 2.11 | -21.6<small>%</small> | -4.2<small>%</small> |
 
 
 
 각각의 경우를 NFLY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 92% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 67.2%로 NFLY의 38.5%보다 28.7% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 91% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 66.3%로 NFLY의 47.9%보다 18.4% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 94% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 69.1%로 NFLY의 38.5%보다 30.6% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 94% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 69.1%로 NFLY의 47.9%보다 21.3% 높았습니다. (높은 수익률)
 
 
 
@@ -95,8 +95,8 @@ Netflix Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이�
 
 지난 8개월간 거치식으로 투자했다고 가정합니다.
 
-Netflix Inc의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 68.1%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 NFLY의 38.5%보다 29.7% 높았습니다.
+Netflix Inc의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 67.7%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 NFLY의 47.9%보다 19.8% 높았습니다.
 
 ### NFLY	&lt; Netflix Inc
 {: .text-center}
