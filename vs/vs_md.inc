@@ -919,6 +919,12 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 JEPY와 S&P 500 지수�
 
 
 
+### [QYLD vs XYLD](/qyld-vs-xyld/)<a id="qyld-vs-xyld"></a>
+
+{% include vs/qyld-vs-xyld_md.inc %}
+
+
+
 ### [QQQY vs QQQ](/qqqy-vs-qqq/)<a id="qqqy-vs-qqq"></a>
 
 나스닥 100 지수에 대해 커버드 콜 전략을 쓰는 QQQY와 나스닥 100 지수를 추종하는 QQQ의 성과를 비교해 봅니다.
@@ -942,15 +948,15 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 JEPY와 S&P 500 지수�
 {% include vs/iwmy-vs-iwm_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [TLTW vs TLT](/tltw-vs-tlt/)<a id="tltw-vs-tlt"></a>
 
 TLT는 미국 장기 국채에 투자하는 ETF입니다. TLTW는 미국 장기 국채에 커버드콜 전략을 사용하는 ETF입니다. 변동성이 높은 장기 국채에 커버드콜 전략이 효과가 있는지 비교해 봅니다.
 
 {% include vs/tltw-vs-tlt_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -993,15 +999,15 @@ Invesco사의 SPLV는 S&P500 종목 중에서 변동성이 낮은 종목에 투�
 {% include vs/splv-vs-spy_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [SPHD vs SPY](/sphd-vs-spy/)<a id="sphd-vs-spy"></a>
 
 Invesco사의 SPHD는 S&P500 종목 중에서 고배당을 주면서 변동성이 낮은 종목에 투자하는 상품입니다. S&P5 500 지수를 추종하는 SPY와 비교해서 고배당과 저변동성 모두 충족하는 종목에 투자한 효과를 확인해 봅니다.
 
 {% include vs/sphd-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1036,6 +1042,9 @@ IJR은 S&P 600 소형주 지수를 추종하는 ETF입니다. XSLV는 지수 편
 {% include vs/onev-vs-iwb_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ## 해외 상장 해외 ETF (우선주 vs 일반주)
 
@@ -1046,9 +1055,6 @@ IJR은 S&P 600 소형주 지수를 추종하는 ETF입니다. XSLV는 지수 편
 Invesco사의 PGX는 우선주에 투자하는 상품으로 연 평균 5% 이상의 배당률을 기록해 왔습니다. 이 상품을 S&P5 500 지수를 추종하는 SPY와 비교해 봅니다.
 
 {% include vs/pgx-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1081,13 +1087,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/aply-vs-aapl_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [NVDY vs NVDA](/nvdy-vs-nvda/)<a id="nvdy-vs-nvda"></a>
 
 {% include vs/nvdy-vs-nvda_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1114,13 +1120,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/cony-vs-coin_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [DISO vs DIS](/diso-vs-dis/)<a id="diso-vs-dis"></a>
 
 {% include vs/diso-vs-dis_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1147,13 +1153,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/jpmo-vs-jpm_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [AMDY vs AMD](/amdy-vs-amd/)<a id="amdy-vs-amd"></a>
 
 {% include vs/amdy-vs-amd_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1180,13 +1186,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/aiyy-vs-ai_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [YMAX vs JEPI](/ymax-vs-jepi/)<a id="ymax-vs-jepi"></a>
 
 {% include vs/ymax-vs-jepi_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1217,13 +1223,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/qrft-vs-spy_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [AMOM vs SPY](/amom-vs-spy/)<a id="amom-vs-spy"></a>
 
 {% include vs/amom-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1254,13 +1260,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/arkk-vs-qqq_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [ARKK vs QLD](/arkk-vs-qld/)<a id="arkk-vs-qld"></a>
 
 {% include vs/arkk-vs-qld_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1299,6 +1305,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/brk-b-vs-brk-a_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ## 기타
 
@@ -1307,9 +1316,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [ARIRANG 미국S&P500(H) vs SPY](/269540-vs-spy/)<a id="269540-vs-spy"></a>
 
 {% include vs/269540-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1336,13 +1342,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/2621-vs-tlt_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [CSHI vs BIL](/cshi-vs-bil/)<a id="cshi-vs-bil"></a>
 
 {% include vs/cshi-vs-bil_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
