@@ -50,7 +50,7 @@ JEPI 상품과 JEPQ 상품의 성과를 수익률과 위험도로 비교합니�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 JEPI의 투자 비중[^fn_vs_weight]을 조절하여 JEPQ의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 11.2% / 16.8% = 150% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 11.2% / 16.8% = 151% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 10.5% / 16.8% = 160% 비중으로 투자하면 됩니다.
 
@@ -74,14 +74,14 @@ JEPI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | JEPQ | <span style="color: tomato">15.7<small>%</small></span> | 16.8<small>%</small> | 0.94 | -16.8<small>%</small> | -4.1<small>%</small> |
 | JEPI | <span style="color: tomato">8.9<small>%</small></span> | 11.2<small>%</small> | 0.80 | -10.5<small>%</small> | -1.8<small>%</small> |
-| JEPI<sub>STD</sub> <small>(150%)</small> | <span style="color: tomato">13.2<small>%</small></span> | 16.8<small>%</small> | 0.79 | -15.5<small>%</small> | -2.8<small>%</small> |
+| JEPI<sub>STD</sub> <small>(151%)</small> | <span style="color: tomato">13.2<small>%</small></span> | 16.8<small>%</small> | 0.79 | -15.5<small>%</small> | -2.8<small>%</small> |
 | JEPI<sub>MDD</sub> <small>(160%)</small> | <span style="color: tomato">14.0<small>%</small></span> | 17.8<small>%</small> | 0.78 | -16.4<small>%</small> | -3.0<small>%</small> |
 
 
 
 각각의 경우를 JEPQ의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 150% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 13.2%로 JEPQ의 15.7%보다 -2.5% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 151% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 13.2%로 JEPQ의 15.7%보다 -2.5% 낮았습니다. (낮은 수익률)
 
 **위험도 지표 (MDD):** 160% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 14.0%로 JEPQ의 15.7%보다 -1.7% 낮았습니다. (낮은 수익률)
 
