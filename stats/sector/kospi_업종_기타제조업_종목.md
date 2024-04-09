@@ -5,7 +5,7 @@ excerpt: KOSPI 기타제조업 업종 종목별 시가총액 비중입니다. �
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-04-08
+last_modified_at: 2024-04-09
 ---
 
 
@@ -16,20 +16,20 @@ last_modified_at: 2024-04-08
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [KT&G](/033780/) | 10.7 | 1.1 | 5.5<small>%</small> | 80.5<small>%</small> |
-| 화승엔터프라이즈 | - | 0.8 | 0.6<small>%</small> | 3.0<small>%</small> |
-| 퍼시스 | 56.5 | 0.7 | 3.0<small>%</small> | 2.8<small>%</small> |
-| 조광피혁 | 29.4 | 0.5 | - | 2.3<small>%</small> |
-| 이월드 | 50.2 | 1.1 | - | 1.9<small>%</small> |
-| 지누스 | 9.0 | 0.4 | 3.9<small>%</small> | 1.9<small>%</small> |
-| 제이에스코퍼레이션 | 3.4 | 0.8 | 4.9<small>%</small> | 1.6<small>%</small> |
-| 유니켐 | 55.6 | 1.1 | 1.1<small>%</small> | 1.2<small>%</small> |
+| [KT&G](/033780/) | 10.7 | 1.1 | 5.5<small>%</small> | 80.4<small>%</small> |
+| 화승엔터프라이즈 | - | 0.8 | 0.6<small>%</small> | 3.1<small>%</small> |
+| 퍼시스 | 56.0 | 0.7 | 3.0<small>%</small> | 2.8<small>%</small> |
+| 조광피혁 | 29.2 | 0.5 | - | 2.2<small>%</small> |
+| 이월드 | 50.5 | 1.2 | - | 1.9<small>%</small> |
+| 지누스 | 8.8 | 0.4 | 4.0<small>%</small> | 1.9<small>%</small> |
+| 제이에스코퍼레이션 | 3.4 | 0.9 | 4.9<small>%</small> | 1.6<small>%</small> |
+| 유니켐 | 56.7 | 1.1 | 1.1<small>%</small> | 1.2<small>%</small> |
 | 현대리바트 | - | 0.3 | - | 1.0<small>%</small> |
-| 삼양통상 | 9.2 | 0.3 | 3.1<small>%</small> | 1.0<small>%</small> |
-| 동인기연 | 3.8 | 2.1 | 3.8<small>%</small> | 0.9<small>%</small> |
-| 삼익악기 | 7.0 | 0.4 | 3.9<small>%</small> | 0.8<small>%</small> |
+| 삼양통상 | 9.1 | 0.3 | 3.1<small>%</small> | 1.0<small>%</small> |
+| 동인기연 | 3.7 | 2.0 | 3.8<small>%</small> | 0.9<small>%</small> |
+| 삼익악기 | 6.9 | 0.4 | 3.9<small>%</small> | 0.8<small>%</small> |
 | 씨아이테크 | - | 1.0 | - | 0.4<small>%</small> |
-| 시디즈 | 19.3 | 0.8 | 1.4<small>%</small> | 0.4<small>%</small> |
+| 시디즈 | 18.9 | 0.8 | 1.4<small>%</small> | 0.4<small>%</small> |
 | 에넥스 | - | 0.7 | - | 0.2<small>%</small> |
 | 코아스 | - | 0.9 | - | 0.1<small>%</small> |
 
