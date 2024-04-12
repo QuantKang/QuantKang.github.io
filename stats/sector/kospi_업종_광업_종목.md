@@ -5,7 +5,7 @@ excerpt: KOSPI 광업 업종 종목별 시가총액 비중입니다. 종목별�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-04-11
+last_modified_at: 2024-04-12
 ---
 
 
@@ -16,6 +16,6 @@ last_modified_at: 2024-04-11
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| HLB글로벌 | - | 5.0 | - | 100.0<small>%</small> |
+| HLB글로벌 | - | 5.1 | - | 100.0<small>%</small> |
 
 {% include commons/footnotes.md %}
