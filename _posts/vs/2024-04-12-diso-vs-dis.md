@@ -75,7 +75,7 @@ Walt Disney Co<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우�
 | DISO | <span style="color: tomato">34.0<small>%</small></span> | 18.4<small>%</small> | 1.84 | -6.4<small>%</small> | -1.9<small>%</small> |
 | Walt Disney Co | <span style="color: tomato">63.5<small>%</small></span> | 26.9<small>%</small> | 2.36 | -8.0<small>%</small> | -2.7<small>%</small> |
 | Walt Disney Co<sub>STD</sub> <small>(68%)</small> | <span style="color: tomato">41.0<small>%</small></span> | 18.4<small>%</small> | 2.23 | -5.5<small>%</small> | -1.8<small>%</small> |
-| Walt Disney Co<sub>MDD</sub> <small>(80%)</small> | <span style="color: tomato">49.0<small>%</small></span> | 21.5<small>%</small> | 2.28 | -6.4<small>%</small> | -2.2<small>%</small> |
+| Walt Disney Co<sub>MDD</sub> <small>(80%)</small> | <span style="color: tomato">48.9<small>%</small></span> | 21.5<small>%</small> | 2.28 | -6.4<small>%</small> | -2.2<small>%</small> |
 
 
 
@@ -83,7 +83,7 @@ Walt Disney Co<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우�
 
 **위험도 지표 (표준편차):** 68% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 41.0%로 DISO의 34.0%보다 7.1% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 80% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 49.0%로 DISO의 34.0%보다 15.0% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 80% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 48.9%로 DISO의 34.0%보다 15.0% 높았습니다. (높은 수익률)
 
 
 
