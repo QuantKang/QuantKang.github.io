@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [삼성전자](/005930/#dart) | | [[기재정정]기타경영사항(자율공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240416800005){:target="_blank"} |
-| [롯데쇼핑](/023530/#dart) | | [효력발생안내( 2024.4.3. 제출 증권신고서(채무증권) )](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240403100060){:target="_blank"} |
-| [카카오](/035720/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240415800661){:target="_blank"} |
-| [NH투자증권](/005940/#dart) | | [[기재정정]증권발행실적보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240415001204){:target="_blank"} |
-| [GS건설](/006360/#dart) | | [기타경영사항(자율공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240415800641){:target="_blank"} |
+| [나노신소재](/121600/#dart) | | [[기재정정]주식매수선택권부여에관한신고](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240416000322){:target="_blank"} |
+| [HD현대일렉트릭](/267260/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240416800450){:target="_blank"} |
+| [F&F](/383220/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240416000312){:target="_blank"} |
+| [HLB](/028300/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240416000301){:target="_blank"} |
+| [현대엘리베이터](/017800/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240416000296){:target="_blank"} |
