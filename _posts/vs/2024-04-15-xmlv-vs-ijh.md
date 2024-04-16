@@ -27,7 +27,7 @@ IJH는 S&P 400 중형주 지수를 추종하는 ETF입니다. XMLV는 지수 편
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| XMLV | <span style="color: tomato">9.0<small>%</small></span> | 16.3<small>%</small> | 0.56 | -39.9<small>%</small> | -4.6<small>%</small> |
+| XMLV | <span style="color: tomato">9.0<small>%</small></span> | 16.3<small>%</small> | 0.55 | -39.9<small>%</small> | -4.6<small>%</small> |
 | IJH | <span style="color: tomato">10.4<small>%</small></span> | 19.8<small>%</small> | 0.53 | -42.2<small>%</small> | -5.4<small>%</small> |
 
 <!-- more -->
@@ -70,7 +70,7 @@ IJH<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IJH<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| XMLV | <span style="color: tomato">9.0<small>%</small></span> | 16.3<small>%</small> | 0.56 | -39.9<small>%</small> | -4.6<small>%</small> |
+| XMLV | <span style="color: tomato">9.0<small>%</small></span> | 16.3<small>%</small> | 0.55 | -39.9<small>%</small> | -4.6<small>%</small> |
 | IJH | <span style="color: tomato">10.4<small>%</small></span> | 19.8<small>%</small> | 0.53 | -42.2<small>%</small> | -5.4<small>%</small> |
 | IJH<sub>STD</sub> <small>(82%)</small> | <span style="color: tomato">8.8<small>%</small></span> | 16.3<small>%</small> | 0.54 | -35.8<small>%</small> | -4.3<small>%</small> |
 | IJH<sub>MDD</sub> <small>(94%)</small> | <span style="color: tomato">9.9<small>%</small></span> | 18.7<small>%</small> | 0.53 | -40.3<small>%</small> | -5.1<small>%</small> |
