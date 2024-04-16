@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [나노신소재](/121600/#dart) | | [[기재정정]주식매수선택권부여에관한신고](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240416000322){:target="_blank"} |
-| [HD현대일렉트릭](/267260/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240416800450){:target="_blank"} |
-| [F&F](/383220/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240416000312){:target="_blank"} |
-| [HLB](/028300/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240416000301){:target="_blank"} |
-| [현대엘리베이터](/017800/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240416000296){:target="_blank"} |
+| [삼양식품](/003230/#dart) | | [효력발생안내( 2024.4.4. 제출 증권신고서(채무증권) )](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240404100018){:target="_blank"} |
+| [대웅](/003090/#dart) | | [투자판단관련주요경영사항(자회사의 주요경영사항)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240416800678){:target="_blank"} |
+| [대웅제약](/069620/#dart) | | [투자판단관련주요경영사항              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240416800655){:target="_blank"} |
+| [NAVER](/035420/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240416000462){:target="_blank"} |
+| [현대글로비스](/086280/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240416000451){:target="_blank"} |
