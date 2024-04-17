@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [475720](/475720-vs-069500/) | - | 12.6<small>%</small> | nan | -3.6<small>%</small> | -0.5<small>%</small> |
-| KODEX 200 | - | 17.8<small>%</small> | nan | -5.0<small>%</small> | -0.8<small>%</small> |
+| [475720](/475720-vs-069500/) | - | 12.8<small>%</small> | nan | -4.6<small>%</small> | -0.7<small>%</small> |
+| KODEX 200 | - | 17.8<small>%</small> | nan | -6.0<small>%</small> | -1.0<small>%</small> |

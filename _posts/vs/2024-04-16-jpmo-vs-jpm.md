@@ -1,7 +1,7 @@
 ---
 layout: single
 title: JPMO vs JPMorgan Chase & Co
-excerpt: JPMO의 최근 7개월 CAGR은 18.8%로 JPMorgan Chase & Co의 47.6%보다 -28.9% 낮았습니다.
+excerpt: JPMO의 최근 7개월 CAGR은 18.8%로 JPMorgan Chase & Co의 47.6%보다 -28.8% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -37,7 +37,7 @@ JPMorgan Chase & Co 상품과 JPMO 상품의 성과를 수익률과 위험도로
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** JPMO의 CAGR은 18.8%로 JPMorgan Chase & Co의 47.6%보다 -28.9% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** JPMO의 CAGR은 18.8%로 JPMorgan Chase & Co의 47.6%보다 -28.8% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** JPMO의 표준편차는 13.8%로 JPMorgan Chase & Co의 16.5%보다 -2.8% 낮았습니다. (낮은 위험도)
 
