@@ -5,7 +5,7 @@ excerpt: KOSPI 증권 업종 종목별 시가총액 비중입니다. 종목별�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-04-16
+last_modified_at: 2024-04-17
 ---
 
 
@@ -16,29 +16,29 @@ last_modified_at: 2024-04-16
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [미래에셋증권](/006800/) | 7.2 | 0.3 | 2.7<small>%</small> | 20.8<small>%</small> |
-| [NH투자증권](/005940/) | 12.5 | 0.5 | 6.4<small>%</small> | 17.1<small>%</small> |
-| [삼성증권](/016360/) | 7.7 | 0.5 | 4.7<small>%</small> | 15.1<small>%</small> |
-| [키움증권](/039490/) | 6.7 | 0.7 | 2.5<small>%</small> | 14.6<small>%</small> |
-| 대신증권 | 8.3 | 0.4 | 8.2<small>%</small> | 3.5<small>%</small> |
+| [미래에셋증권](/006800/) | 7.0 | 0.3 | 2.8<small>%</small> | 20.4<small>%</small> |
+| [NH투자증권](/005940/) | 12.5 | 0.5 | 6.4<small>%</small> | 17.2<small>%</small> |
+| [삼성증권](/016360/) | 7.6 | 0.5 | 4.7<small>%</small> | 15.2<small>%</small> |
+| [키움증권](/039490/) | 6.7 | 0.7 | 2.5<small>%</small> | 14.7<small>%</small> |
+| 대신증권 | 8.2 | 0.3 | 8.3<small>%</small> | 3.4<small>%</small> |
 | 한화투자증권 | - | 0.5 | - | 3.4<small>%</small> |
-| 신영증권 | 5.4 | 0.3 | 6.2<small>%</small> | 2.8<small>%</small> |
-| 교보증권 | 7.0 | 0.2 | 4.2<small>%</small> | 2.5<small>%</small> |
-| 유안타증권 | 12.6 | 0.3 | 4.2<small>%</small> | 2.5<small>%</small> |
+| 신영증권 | 5.3 | 0.3 | 6.3<small>%</small> | 2.8<small>%</small> |
+| 교보증권 | 7.0 | 0.2 | 4.2<small>%</small> | 2.6<small>%</small> |
+| 유안타증권 | 12.5 | 0.3 | 4.2<small>%</small> | 2.5<small>%</small> |
 | 미래에셋증권2우B | - | - | 5.7<small>%</small> | 2.3<small>%</small> |
 | 신영증권우 | - | - | 6.3<small>%</small> | 2.1<small>%</small> |
-| 유진투자증권 | 26.8 | 0.4 | 1.3<small>%</small> | 2.0<small>%</small> |
+| 유진투자증권 | 27.1 | 0.4 | 1.3<small>%</small> | 2.1<small>%</small> |
 | 대신증권우 | - | - | 8.9<small>%</small> | 1.7<small>%</small> |
-| SK증권 | 25.7 | 0.4 | 0.8<small>%</small> | 1.3<small>%</small> |
+| SK증권 | 25.6 | 0.4 | 0.8<small>%</small> | 1.3<small>%</small> |
 | 현대차증권 | 3.2 | 0.2 | 6.5<small>%</small> | 1.3<small>%</small> |
-| 부국증권 | 4.7 | 0.2 | 6.7<small>%</small> | 1.1<small>%</small> |
+| 부국증권 | 4.8 | 0.2 | 6.6<small>%</small> | 1.1<small>%</small> |
 | NH투자증권우 | - | - | 7.3<small>%</small> | 0.9<small>%</small> |
 | 다올투자증권 | 3.0 | 0.3 | 4.9<small>%</small> | 0.9<small>%</small> |
 | DB금융투자 | - | 0.2 | 4.3<small>%</small> | 0.8<small>%</small> |
-| 대신증권2우B | - | - | 8.8<small>%</small> | 0.6<small>%</small> |
+| 대신증권2우B | - | - | 8.9<small>%</small> | 0.6<small>%</small> |
 | 한양증권 | 5.4 | 0.3 | 7.9<small>%</small> | 0.6<small>%</small> |
 | 유화증권 | 33.2 | 0.2 | 4.9<small>%</small> | 0.6<small>%</small> |
-| 상상인증권 | 19.7 | 0.3 | - | 0.3<small>%</small> |
+| 상상인증권 | 19.7 | 0.3 | - | 0.4<small>%</small> |
 | 부국증권우 | - | - | 7.6<small>%</small> | 0.3<small>%</small> |
 | 미래에셋증권우 | - | - | 5.6<small>%</small> | 0.3<small>%</small> |
 | 유화증권우 | - | - | 5.4<small>%</small> | 0.2<small>%</small> |
