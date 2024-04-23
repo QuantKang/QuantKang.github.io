@@ -1,7 +1,7 @@
 ---
 layout: single
 title: QYLD vs QQQ
-excerpt: QYLD의 최근 10년 4개월 CAGR은 6.8%로 QQQ의 17.7%보다 -10.9% 낮았습니다.
+excerpt: QYLD의 최근 10년 4개월 CAGR은 6.9%로 QQQ의 17.7%보다 -10.8% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -27,7 +27,7 @@ keywords: QQQ, QYLD, QYLD QQQ 비교
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| QYLD | <span style="color: tomato">6.8<small>%</small></span> | 14.8<small>%</small> | 0.46 | -24.8<small>%</small> | -4.2<small>%</small> |
+| QYLD | <span style="color: tomato">6.9<small>%</small></span> | 14.8<small>%</small> | 0.47 | -24.8<small>%</small> | -4.2<small>%</small> |
 | QQQ | <span style="color: tomato">17.7<small>%</small></span> | 21.3<small>%</small> | 0.83 | -35.1<small>%</small> | -6.0<small>%</small> |
 
 <!-- more -->
@@ -35,7 +35,7 @@ keywords: QQQ, QYLD, QYLD QQQ 비교
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** QYLD의 CAGR은 6.8%로 QQQ의 17.7%보다 -10.9% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** QYLD의 CAGR은 6.9%로 QQQ의 17.7%보다 -10.8% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** QYLD의 표준편차는 14.8%로 QQQ의 21.3%보다 -6.5% 낮았습니다. (낮은 위험도)
 
@@ -70,7 +70,7 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| QYLD | <span style="color: tomato">6.8<small>%</small></span> | 14.8<small>%</small> | 0.46 | -24.8<small>%</small> | -4.2<small>%</small> |
+| QYLD | <span style="color: tomato">6.9<small>%</small></span> | 14.8<small>%</small> | 0.47 | -24.8<small>%</small> | -4.2<small>%</small> |
 | QQQ | <span style="color: tomato">17.7<small>%</small></span> | 21.3<small>%</small> | 0.83 | -35.1<small>%</small> | -6.0<small>%</small> |
 | QQQ<sub>STD</sub> <small>(69%)</small> | <span style="color: tomato">12.5<small>%</small></span> | 14.8<small>%</small> | 0.85 | -25.2<small>%</small> | -4.1<small>%</small> |
 | QQQ<sub>MDD</sub> <small>(70%)</small> | <span style="color: tomato">12.7<small>%</small></span> | 15.0<small>%</small> | 0.85 | -25.6<small>%</small> | -4.1<small>%</small> |
@@ -79,9 +79,9 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 
 각각의 경우를 QYLD의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 69% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 12.5%로 QYLD의 6.8%보다 5.7% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 69% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 12.5%로 QYLD의 6.9%보다 5.6% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 70% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 12.7%로 QYLD의 6.8%보다 5.9% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 70% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 12.7%로 QYLD의 6.9%보다 5.8% 높았습니다. (높은 수익률)
 
 
 
@@ -94,7 +94,7 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 지난 10년 4개월간 거치식으로 투자했다고 가정합니다.
 
 QQQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 12.6%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 QYLD의 6.8%보다 5.8% 높았습니다.
+이 포트폴리오는 QYLD의 6.9%보다 5.7% 높았습니다.
 
 ### QYLD	&lt; QQQ
 {: .text-center}

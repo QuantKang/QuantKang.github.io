@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KODEX 미국S&P500TR](/379800-vs-360750/) | <span style="color: tomato">15.3<small>%</small></span> | 14.7<small>%</small> | 1.04 | -16.7<small>%</small> | -3.9<small>%</small> |
-| TIGER 미국S&P500 | <span style="color: tomato">15.0<small>%</small></span> | 14.8<small>%</small> | 1.01 | -16.7<small>%</small> | -4.0<small>%</small> |
+| [KODEX 미국S&P500TR](/379800-vs-360750/) | <span style="color: tomato">15.4<small>%</small></span> | 14.7<small>%</small> | 1.05 | -16.7<small>%</small> | -3.9<small>%</small> |
+| TIGER 미국S&P500 | <span style="color: tomato">15.1<small>%</small></span> | 14.8<small>%</small> | 1.02 | -16.7<small>%</small> | -4.0<small>%</small> |
