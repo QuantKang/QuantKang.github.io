@@ -1,7 +1,7 @@
 ---
 layout: single
 title: SPHD vs SPY
-excerpt: SPHD의 최근 11년 6개월 CAGR은 9.0%로 SPY의 13.7%보다 -4.7% 낮았습니다.
+excerpt: SPHD의 최근 11년 6개월 CAGR은 9.1%로 SPY의 13.7%보다 -4.6% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -27,7 +27,7 @@ Invesco사의 SPHD는 S&P500 종목 중에서 고배당을 주면서 변동성�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SPHD | <span style="color: tomato">9.0<small>%</small></span> | 16.7<small>%</small> | 0.54 | -41.4<small>%</small> | -5.0<small>%</small> |
+| SPHD | <span style="color: tomato">9.1<small>%</small></span> | 16.7<small>%</small> | 0.54 | -41.4<small>%</small> | -5.0<small>%</small> |
 | SPY | <span style="color: tomato">13.7<small>%</small></span> | 16.8<small>%</small> | 0.82 | -33.7<small>%</small> | -3.9<small>%</small> |
 
 <!-- more -->
@@ -35,7 +35,7 @@ Invesco사의 SPHD는 S&P500 종목 중에서 고배당을 주면서 변동성�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** SPHD의 CAGR은 9.0%로 SPY의 13.7%보다 -4.7% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** SPHD의 CAGR은 9.1%로 SPY의 13.7%보다 -4.6% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** SPHD의 표준편차는 16.7%로 SPY의 16.8%와 비슷했습니다. (비슷한 위험도)
 
@@ -70,7 +70,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SPHD | <span style="color: tomato">9.0<small>%</small></span> | 16.7<small>%</small> | 0.54 | -41.4<small>%</small> | -5.0<small>%</small> |
+| SPHD | <span style="color: tomato">9.1<small>%</small></span> | 16.7<small>%</small> | 0.54 | -41.4<small>%</small> | -5.0<small>%</small> |
 | SPY | <span style="color: tomato">13.7<small>%</small></span> | 16.8<small>%</small> | 0.82 | -33.7<small>%</small> | -3.9<small>%</small> |
 | SPY<sub>STD</sub> <small>(100%)</small> | <span style="color: tomato">13.7<small>%</small></span> | 16.7<small>%</small> | 0.82 | -33.6<small>%</small> | -3.9<small>%</small> |
 | SPY<sub>MDD</sub> <small>(123%)</small> | <span style="color: tomato">16.6<small>%</small></span> | 20.6<small>%</small> | 0.81 | -40.2<small>%</small> | -5.0<small>%</small> |
@@ -79,9 +79,9 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 각각의 경우를 SPHD의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 100% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 13.7%로 SPHD의 9.0%보다 4.6% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 100% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 13.7%로 SPHD의 9.1%보다 4.6% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 123% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 16.6%로 SPHD의 9.0%보다 7.6% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 123% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 16.6%로 SPHD의 9.1%보다 7.5% 높았습니다. (높은 수익률)
 
 
 
@@ -94,7 +94,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 지난 11년 6개월간 거치식으로 투자했다고 가정합니다.
 
 SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 15.1%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 SPHD의 9.0%보다 6.1% 높았습니다.
+이 포트폴리오는 SPHD의 9.1%보다 6.1% 높았습니다.
 
 ### SPHD	&lt; SPY
 {: .text-center}
