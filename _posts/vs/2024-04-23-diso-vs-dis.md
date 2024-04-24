@@ -1,7 +1,7 @@
 ---
 layout: single
 title: DISO vs Walt Disney Co
-excerpt: DISO의 최근 8개월 CAGR은 32.0%로 Walt Disney Co의 59.2%보다 -27.2% 낮았습니다.
+excerpt: DISO의 최근 8개월 CAGR은 32.0%로 Walt Disney Co의 59.2%보다 -27.1% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -37,7 +37,7 @@ Walt Disney Co 상품과 DISO 상품의 성과를 수익률과 위험도로 비�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** DISO의 CAGR은 32.0%로 Walt Disney Co의 59.2%보다 -27.2% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** DISO의 CAGR은 32.0%로 Walt Disney Co의 59.2%보다 -27.1% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** DISO의 표준편차는 18.2%로 Walt Disney Co의 26.5%보다 -8.3% 낮았습니다. (낮은 위험도)
 
