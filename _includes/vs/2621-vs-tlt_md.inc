@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [2621.T](/2621-vs-tlt/) | <span style="color: cornflowerblue">-17.1<small>%</small></span> | 16.2<small>%</small> | -1.05 | -51.7<small>%</small> | -27.2<small>%</small> |
-| TLT | <span style="color: cornflowerblue">-13.7<small>%</small></span> | 17.6<small>%</small> | -0.78 | -45.5<small>%</small> | -23.6<small>%</small> |
+| [2621.T](/2621-vs-tlt/) | <span style="color: cornflowerblue">-17.2<small>%</small></span> | 16.2<small>%</small> | -1.06 | -51.7<small>%</small> | -27.2<small>%</small> |
+| TLT | <span style="color: cornflowerblue">-13.9<small>%</small></span> | 17.6<small>%</small> | -0.79 | -45.5<small>%</small> | -23.6<small>%</small> |
