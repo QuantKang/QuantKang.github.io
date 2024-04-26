@@ -5,7 +5,7 @@ excerpt: KOSDAQ 종이목재 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-04-25
+last_modified_at: 2024-04-26
 ---
 
 
@@ -17,14 +17,14 @@ last_modified_at: 2024-04-25
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
 | [동화기업](/025900/) | 26.8 | 1.6 | - | 39.6<small>%</small> |
-| 국일제지 | - | 1.9 | - | 31.3<small>%</small> |
-| 대양제지 | - | 1.3 | 0.4<small>%</small> | 8.5<small>%</small> |
+| 국일제지 | - | 1.9 | - | 31.4<small>%</small> |
+| 대양제지 | - | 1.3 | 0.4<small>%</small> | 8.6<small>%</small> |
 | 삼보판지 | 3.0 | 0.3 | 1.7<small>%</small> | 5.8<small>%</small> |
-| 스피어파워 | - | 10.2 | - | 4.8<small>%</small> |
+| 스피어파워 | - | 10.0 | - | 4.8<small>%</small> |
 | 대림제지 | 3.0 | 0.3 | 1.2<small>%</small> | 2.6<small>%</small> |
-| 삼륭물산 | - | 1.0 | 1.9<small>%</small> | 2.1<small>%</small> |
 | 한국팩키지 | - | 0.9 | 1.7<small>%</small> | 2.1<small>%</small> |
-| 이건홀딩스 | 23.9 | 0.3 | 2.2<small>%</small> | 1.8<small>%</small> |
+| 삼륭물산 | - | 1.0 | 1.9<small>%</small> | 2.0<small>%</small> |
+| 이건홀딩스 | 24.1 | 0.3 | 2.2<small>%</small> | 1.8<small>%</small> |
 | 무림SP | - | 0.2 | 0.9<small>%</small> | 1.3<small>%</small> |
 
 {% include commons/footnotes.md %}
