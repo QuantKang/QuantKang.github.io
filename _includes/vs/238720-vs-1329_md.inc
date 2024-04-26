@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [ACE 일본Nikkei225(H)](/238720-vs-1329/) | <span style="color: tomato">11.9<small>%</small></span> | 19.8<small>%</small> | 0.60 | -32.1<small>%</small> | -6.1<small>%</small> |
-| 1329.T | <span style="color: tomato">12.4<small>%</small></span> | 19.4<small>%</small> | 0.64 | -31.2<small>%</small> | -5.8<small>%</small> |
+| [ACE 일본Nikkei225(H)](/238720-vs-1329/) | <span style="color: tomato">12.0<small>%</small></span> | 19.8<small>%</small> | 0.61 | -32.1<small>%</small> | -6.1<small>%</small> |
+| 1329.T | <span style="color: tomato">12.5<small>%</small></span> | 19.4<small>%</small> | 0.64 | -31.2<small>%</small> | -5.8<small>%</small> |
