@@ -1,8 +1,8 @@
 | **종목** | **배율** | **1년** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| KODEX 150 | 기초 | <span style="color: tomato">13.4<small>%</small></span> | - | - | - |
-| [KODEX 150 2x](/233740/) | 2<small>배</small> | <span style="color: tomato">16.0<small>%</small></span> | 8.5<small>%</small> | 1.4<small>%</small> | 9.8<small>%</small> |
-| [KBSTAR 150 2xF](/278240/) | 2<small>배</small> | <span style="color: tomato">22.1<small>%</small></span> | 8.5<small>%</small> | -3.9<small>%</small> | 5.0<small>%</small> |
-| [KODEX 150 -1x](/251340/) | -1<small>배</small> | <span style="color: cornflowerblue">-19.1<small>%</small></span> | 9.0<small>%</small> | -0.8<small>%</small> | 8.3<small>%</small> |
-| [삼성 150 -2x](/530107/) | -2<small>배</small> | <span style="color: cornflowerblue">-44.9<small>%</small></span> | 25.2<small>%</small> | 5.4<small>%</small> | 29.2<small>%</small> |
-| [미래 150 -2x](/520057/) | -2<small>배</small> | <span style="color: cornflowerblue">-44.9<small>%</small></span> | 25.2<small>%</small> | 5.5<small>%</small> | 29.3<small>%</small> |
+| KODEX 150 | 기초 | <span style="color: tomato">9.8<small>%</small></span> | - | - | - |
+| [KODEX 150 2x](/233740/) | 2<small>배</small> | <span style="color: tomato">8.9<small>%</small></span> | 8.4<small>%</small> | 1.3<small>%</small> | 9.6<small>%</small> |
+| [KBSTAR 150 2xF](/278240/) | 2<small>배</small> | <span style="color: tomato">14.3<small>%</small></span> | 8.4<small>%</small> | -3.5<small>%</small> | 5.2<small>%</small> |
+| [KODEX 150 -1x](/251340/) | -1<small>배</small> | <span style="color: cornflowerblue">-16.3<small>%</small></span> | 8.9<small>%</small> | -0.9<small>%</small> | 8.0<small>%</small> |
+| [삼성 150 -2x](/530107/) | -2<small>배</small> | <span style="color: cornflowerblue">-40.8<small>%</small></span> | 24.9<small>%</small> | 4.7<small>%</small> | 28.4<small>%</small> |
+| [미래 150 -2x](/520057/) | -2<small>배</small> | <span style="color: cornflowerblue">-40.8<small>%</small></span> | 24.9<small>%</small> | 4.7<small>%</small> | 28.4<small>%</small> |
