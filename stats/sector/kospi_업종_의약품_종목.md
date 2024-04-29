@@ -5,7 +5,7 @@ excerpt: KOSPI 의약품 업종 종목별 시가총액 비중입니다. 종목�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-04-26
+last_modified_at: 2024-04-29
 ---
 
 
@@ -16,54 +16,54 @@ last_modified_at: 2024-04-26
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [삼성바이오로직스](/207940/) | 67.3 | 6.1 | - | 44.0<small>%</small> |
-| [셀트리온](/068270/) | 47.1 | 6.1 | 0.2<small>%</small> | 30.9<small>%</small> |
-| [유한양행](/000100/) | 55.8 | 2.6 | 0.6<small>%</small> | 4.6<small>%</small> |
-| [SK바이오사이언스](/302440/) | 36.0 | 2.5 | - | 3.5<small>%</small> |
-| [한미약품](/128940/) | 47.6 | 4.5 | 0.2<small>%</small> | 3.2<small>%</small> |
-| [한올바이오파마](/009420/) | 6950.0 | 10.5 | - | 1.5<small>%</small> |
-| [종근당](/185750/) | 16.0 | 2.1 | 1.0<small>%</small> | 1.1<small>%</small> |
-| [녹십자](/006280/) | 19.5 | 1.0 | 1.6<small>%</small> | 1.0<small>%</small> |
-| [대웅제약](/069620/) | 29.5 | 2.0 | 0.5<small>%</small> | 1.0<small>%</small> |
-| [대웅](/003090/) | 7.4 | 0.9 | 0.6<small>%</small> | 0.8<small>%</small> |
-| 보령 | 17.2 | 1.4 | 0.9<small>%</small> | 0.6<small>%</small> |
-| [신풍제약](/019170/) | - | 2.0 | - | 0.6<small>%</small> |
-| JW중외제약 | 23.3 | 2.9 | 1.2<small>%</small> | 0.6<small>%</small> |
-| 동아에스티 | 43.7 | 0.9 | 1.0<small>%</small> | 0.5<small>%</small> |
-| 일동제약 | - | 2.1 | - | 0.3<small>%</small> |
+| [삼성바이오로직스](/207940/) | 67.7 | 6.1 | - | 43.4<small>%</small> |
+| [셀트리온](/068270/) | 49.0 | 6.3 | 0.2<small>%</small> | 31.5<small>%</small> |
+| [유한양행](/000100/) | 57.3 | 2.7 | 0.6<small>%</small> | 4.6<small>%</small> |
+| [SK바이오사이언스](/302440/) | 36.8 | 2.6 | - | 3.6<small>%</small> |
+| [한미약품](/128940/) | 48.8 | 4.6 | 0.2<small>%</small> | 3.2<small>%</small> |
+| [한올바이오파마](/009420/) | 7070.0 | 10.7 | - | 1.5<small>%</small> |
+| [종근당](/185750/) | 16.7 | 2.2 | 0.9<small>%</small> | 1.1<small>%</small> |
+| [녹십자](/006280/) | 20.1 | 1.0 | 1.5<small>%</small> | 1.1<small>%</small> |
+| [대웅제약](/069620/) | 29.7 | 2.1 | 0.5<small>%</small> | 1.0<small>%</small> |
+| [대웅](/003090/) | 7.6 | 0.9 | 0.5<small>%</small> | 0.9<small>%</small> |
+| 보령 | 17.6 | 1.4 | 0.9<small>%</small> | 0.6<small>%</small> |
+| [신풍제약](/019170/) | - | 2.1 | - | 0.6<small>%</small> |
+| JW중외제약 | 23.5 | 2.9 | 1.2<small>%</small> | 0.6<small>%</small> |
+| 동아에스티 | 43.5 | 0.9 | 1.0<small>%</small> | 0.5<small>%</small> |
+| 일동제약 | - | 2.2 | - | 0.3<small>%</small> |
 | 부광약품 | - | 1.6 | - | 0.3<small>%</small> |
-| 바이오노트 | 1.2 | 0.3 | 12.1<small>%</small> | 0.3<small>%</small> |
-| 영진약품 | - | 4.2 | - | 0.3<small>%</small> |
-| 유나이티드제약 | 7.5 | 1.0 | 1.8<small>%</small> | 0.3<small>%</small> |
-| 광동제약 | 11.5 | 0.5 | 1.5<small>%</small> | 0.3<small>%</small> |
-| 파미셀 | 31.6 | 4.3 | - | 0.3<small>%</small> |
+| 바이오노트 | 1.3 | 0.3 | 11.9<small>%</small> | 0.3<small>%</small> |
+| 영진약품 | - | 4.3 | - | 0.3<small>%</small> |
+| 유나이티드제약 | 7.5 | 1.0 | 1.7<small>%</small> | 0.3<small>%</small> |
+| 광동제약 | 11.6 | 0.5 | 1.5<small>%</small> | 0.3<small>%</small> |
+| 파미셀 | 32.0 | 4.4 | - | 0.3<small>%</small> |
 | 대원제약 | 9.9 | 1.2 | 2.3<small>%</small> | 0.3<small>%</small> |
-| 종근당홀딩스 | 280.8 | 0.6 | 2.3<small>%</small> | 0.2<small>%</small> |
-| 삼진제약 | 11.4 | 0.9 | 4.1<small>%</small> | 0.2<small>%</small> |
+| 종근당홀딩스 | 282.6 | 0.6 | 2.3<small>%</small> | 0.2<small>%</small> |
+| 삼진제약 | 11.4 | 0.9 | 4.0<small>%</small> | 0.2<small>%</small> |
 | 일성아이에스 | 1.4 | 0.3 | 20.2<small>%</small> | 0.2<small>%</small> |
-| 일양약품 | 13.2 | 1.1 | 1.1<small>%</small> | 0.2<small>%</small> |
+| 일양약품 | 13.3 | 1.1 | 1.1<small>%</small> | 0.2<small>%</small> |
 | 환인제약 | 8.8 | 0.6 | 2.2<small>%</small> | 0.2<small>%</small> |
 | 이연제약 | 33.2 | 1.0 | 1.1<small>%</small> | 0.2<small>%</small> |
-| 동화약품 | 11.8 | 0.7 | 2.1<small>%</small> | 0.2<small>%</small> |
+| 동화약품 | 11.9 | 0.7 | 2.1<small>%</small> | 0.2<small>%</small> |
 | 제일약품 | - | 1.5 | 0.3<small>%</small> | 0.2<small>%</small> |
 | 하나제약 | 9.5 | 0.9 | 3.8<small>%</small> | 0.2<small>%</small> |
-| JW생명과학 | 12.8 | 1.4 | 4.0<small>%</small> | 0.2<small>%</small> |
+| JW생명과학 | 13.0 | 1.4 | 4.0<small>%</small> | 0.2<small>%</small> |
 | 진원생명과학 | - | 1.0 | - | 0.2<small>%</small> |
-| 한독 | 17.2 | 0.5 | 3.0<small>%</small> | 0.1<small>%</small> |
-| 삼일제약 | - | 1.0 | - | 0.1<small>%</small> |
+| 한독 | 17.8 | 0.5 | 2.9<small>%</small> | 0.1<small>%</small> |
+| 삼일제약 | - | 1.1 | - | 0.1<small>%</small> |
 | 경보제약 | 286.1 | 1.2 | 0.7<small>%</small> | 0.1<small>%</small> |
 | 삼성제약 | - | 1.2 | - | 0.1<small>%</small> |
-| 동성제약 | - | 2.8 | - | 0.1<small>%</small> |
 | 종근당바이오 | - | 0.9 | - | 0.1<small>%</small> |
+| 동성제약 | - | 2.8 | - | 0.1<small>%</small> |
 | 현대약품 | - | 1.2 | 0.8<small>%</small> | 0.1<small>%</small> |
-| 국제약품 | 28.1 | 1.4 | - | 0.1<small>%</small> |
+| 국제약품 | 28.3 | 1.4 | - | 0.1<small>%</small> |
 | 에이프로젠바이오로직스 | 8.2 | 0.2 | - | 0.1<small>%</small> |
-| 일동홀딩스 | - | 8.3 | 1.1<small>%</small> | 0.1<small>%</small> |
+| 일동홀딩스 | - | 8.4 | 1.1<small>%</small> | 0.1<small>%</small> |
 | 팜젠사이언스 | 1.2 | 0.4 | - | 0.1<small>%</small> |
-| 유유제약 | - | 0.7 | 2.3<small>%</small> | 0.1<small>%</small> |
+| 유유제약 | - | 0.7 | 2.2<small>%</small> | 0.1<small>%</small> |
 | 유한양행우 | - | - | 0.7<small>%</small> | 0.1<small>%</small> |
-| 명문제약 | 8.9 | 0.8 | - | 0.1<small>%</small> |
-| 오리엔트바이오 | - | 0.9 | - | 0.1<small>%</small> |
+| 명문제약 | 9.1 | 0.8 | - | 0.1<small>%</small> |
+| 오리엔트바이오 | - | 0.9 | - | 0.0<small>%</small> |
 | 신풍제약우 | - | - | - | 0.0<small>%</small> |
 | JW중외제약2우B | - | - | 0.6<small>%</small> | 0.0<small>%</small> |
 | 유유제약1우 | - | - | 2.2<small>%</small> | 0.0<small>%</small> |
