@@ -5,7 +5,7 @@ excerpt: KOSDAQ 기타제조 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-04-26
+last_modified_at: 2024-04-29
 ---
 
 
@@ -16,21 +16,21 @@ last_modified_at: 2024-04-26
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| 에이스침대 | 5.0 | 0.5 | 5.0<small>%</small> | 17.4<small>%</small> |
-| 노바텍 | 12.3 | 1.6 | 1.0<small>%</small> | 12.7<small>%</small> |
-| [리튬포어스](/073570/) | 1.2 | 0.9 | - | 12.6<small>%</small> |
+| 에이스침대 | 5.0 | 0.5 | 5.1<small>%</small> | 17.2<small>%</small> |
+| [리튬포어스](/073570/) | 1.2 | 0.9 | - | 12.8<small>%</small> |
+| 노바텍 | 12.4 | 1.6 | 1.0<small>%</small> | 12.7<small>%</small> |
 | 엔바이오니아 | - | 7.6 | - | 9.9<small>%</small> |
-| 엑스플러스 | - | 7.2 | 3.6<small>%</small> | 6.2<small>%</small> |
-| 꿈비 | 48.8 | 7.4 | - | 6.0<small>%</small> |
-| 블리츠웨이 | - | 2.4 | - | 5.9<small>%</small> |
-| 아이씨에이치 | - | 1.4 | - | 5.5<small>%</small> |
-| RF머트리얼즈 | 20.9 | 1.6 | 1.2<small>%</small> | 4.3<small>%</small> |
-| 비비씨 | 69.3 | 1.0 | 1.6<small>%</small> | 4.2<small>%</small> |
-| 피코그램 | 20.9 | 2.1 | - | 4.0<small>%</small> |
-| 휴엠앤씨 | 67.8 | 1.8 | - | 3.2<small>%</small> |
+| 꿈비 | 51.5 | 7.8 | - | 6.3<small>%</small> |
+| 엑스플러스 | - | 6.8 | 3.8<small>%</small> | 5.9<small>%</small> |
+| 블리츠웨이 | - | 2.4 | - | 5.8<small>%</small> |
+| 아이씨에이치 | - | 1.4 | - | 5.6<small>%</small> |
+| RF머트리얼즈 | 21.5 | 1.7 | 1.1<small>%</small> | 4.4<small>%</small> |
+| 비비씨 | 69.0 | 1.0 | 1.6<small>%</small> | 4.2<small>%</small> |
+| 피코그램 | 21.3 | 2.2 | - | 4.1<small>%</small> |
+| 휴엠앤씨 | 68.6 | 1.8 | - | 3.2<small>%</small> |
 | 브이씨 | 25.1 | 0.7 | - | 2.1<small>%</small> |
-| 제이에스티나 | 22.8 | 0.6 | 5.2<small>%</small> | 1.9<small>%</small> |
-| 듀오백 | - | 1.4 | - | 1.9<small>%</small> |
+| 제이에스티나 | 23.3 | 0.7 | 5.0<small>%</small> | 1.9<small>%</small> |
+| 듀오백 | - | 1.4 | - | 1.8<small>%</small> |
 | 세니젠 | - | - | - | 1.5<small>%</small> |
 | 에이디칩스 | - | 0.4 | - | 0.7<small>%</small> |
 
