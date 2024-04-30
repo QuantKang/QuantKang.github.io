@@ -75,7 +75,7 @@ BIL<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, BIL<
 | CSHI | <span style="color: tomato">5.4<small>%</small></span> | 1.0<small>%</small> | 5.52 | -0.4<small>%</small> | -0.0<small>%</small> |
 | BIL | <span style="color: tomato">4.7<small>%</small></span> | 0.3<small>%</small> | 16.51 | -0.0<small>%</small> | -0.0<small>%</small> |
 | BIL<sub>STD</sub> <small>(346%)</small> | <span style="color: tomato">17.0<small>%</small></span> | 1.0<small>%</small> | 17.46 | -0.1<small>%</small> | -0.0<small>%</small> |
-| BIL<sub>MDD</sub> <small>(1456%)</small> | <span style="color: tomato">93.8<small>%</small></span> | 4.1<small>%</small> | 22.81 | -0.4<small>%</small> | -0.0<small>%</small> |
+| BIL<sub>MDD</sub> <small>(1456%)</small> | <span style="color: tomato">93.8<small>%</small></span> | 4.1<small>%</small> | 22.82 | -0.4<small>%</small> | -0.0<small>%</small> |
 
 
 
