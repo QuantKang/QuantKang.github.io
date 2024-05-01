@@ -987,14 +987,6 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수�
 
 
 
-### [JEPY vs SPY](/jepy-vs-spy/)<a id="jepy-vs-spy"></a>
-
-S&P 500 지수에 대해 커버드 콜 전략을 쓰는 JEPY와 S&P 500 지수를 추종하는 SPY의 성과를 비교해 봅니다.
-
-{% include vs/jepy-vs-spy_md.inc %}
-
-
-
 ### [QYLD vs QQQ](/qyld-vs-qqq/)<a id="qyld-vs-qqq"></a>
 
 나스닥 100 지수에 대해 커버드 콜 전략을 쓰는 QYLD와 나스닥 100 지수를 추종하는 QQQ의 성과를 비교해 봅니다.
@@ -1009,17 +1001,6 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 JEPY와 S&P 500 지수�
 
 
 
-### [QQQY vs QQQ](/qqqy-vs-qqq/)<a id="qqqy-vs-qqq"></a>
-
-나스닥 100 지수에 대해 커버드 콜 전략을 쓰는 QQQY와 나스닥 100 지수를 추종하는 QQQ의 성과를 비교해 봅니다.
-
-{% include vs/qqqy-vs-qqq_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
-
-
-
 ### [DJIA vs DIA](/djia-vs-dia/)<a id="djia-vs-dia"></a>
 
 전통이 깊은 다우 존스 산업평균지수에 대해 커버드 콜 전략을 쓰는 DIJA를 해당 지수를 추종하는 DIA와 비교해 봅니다.
@@ -1028,9 +1009,28 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 JEPY와 S&P 500 지수�
 
 
 
+### [JEPY vs SPY](/jepy-vs-spy/)<a id="jepy-vs-spy"></a>
+
+S&P 500 지수에 대해 데일리 커버드 콜 전략을 쓰는 JEPY와 S&P 500 지수를 추종하는 SPY의 성과를 비교해 봅니다.
+
+{% include vs/jepy-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
+### [QQQY vs QQQ](/qqqy-vs-qqq/)<a id="qqqy-vs-qqq"></a>
+
+나스닥 100 지수에 대해 데일리 커버드 콜 전략을 쓰는 QQQY와 나스닥 100 지수를 추종하는 QQQ의 성과를 비교해 봅니다.
+
+{% include vs/qqqy-vs-qqq_md.inc %}
+
+
+
 ### [IWMY vs IWM](/iwmy-vs-iwm/)<a id="iwmy-vs-iwm"></a>
 
-러셀 2000 지수에 대해 커버드 콜 전략을 쓰는 IWMY와 러셀 2000 지수를 추종하는 IWM의 성과를 비교해 봅니다.
+러셀 2000 지수에 대해 데일리 커버드 콜 전략을 쓰는 IWMY와 러셀 2000 지수를 추종하는 IWM의 성과를 비교해 봅니다.
 
 {% include vs/iwmy-vs-iwm_md.inc %}
 
