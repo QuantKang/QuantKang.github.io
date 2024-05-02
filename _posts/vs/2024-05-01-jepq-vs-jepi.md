@@ -1,7 +1,7 @@
 ---
 layout: single
 title: JEPQ vs JEPI
-excerpt: JEPQ의 최근 2년 CAGR은 12.6%로 JEPI의 7.1%보다 5.5% 높았습니다.
+excerpt: JEPQ의 최근 2년 CAGR은 13.1%로 JEPI의 7.4%보다 5.7% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -29,15 +29,15 @@ JEPI 상품과 JEPQ 상품의 성과를 수익률과 위험도로 비교합니�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| JEPQ | <span style="color: tomato">12.6<small>%</small></span> | 16.8<small>%</small> | 0.75 | -16.8<small>%</small> | -4.0<small>%</small> |
-| JEPI | <span style="color: tomato">7.1<small>%</small></span> | 11.1<small>%</small> | 0.64 | -10.5<small>%</small> | -1.9<small>%</small> |
+| JEPQ | <span style="color: tomato">13.1<small>%</small></span> | 16.8<small>%</small> | 0.78 | -16.8<small>%</small> | -4.0<small>%</small> |
+| JEPI | <span style="color: tomato">7.4<small>%</small></span> | 11.1<small>%</small> | 0.67 | -10.5<small>%</small> | -1.9<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** JEPQ의 CAGR은 12.6%로 JEPI의 7.1%보다 5.5% 높았습니다. (높은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** JEPQ의 CAGR은 13.1%로 JEPI의 7.4%보다 5.7% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** JEPQ의 표준편차는 16.8%로 JEPI의 11.1%보다 5.7% 높았습니다. (높은 위험도)
 
@@ -50,7 +50,7 @@ JEPI 상품과 JEPQ 상품의 성과를 수익률과 위험도로 비교합니�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 JEPI의 투자 비중[^fn_vs_weight]을 조절하여 JEPQ의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 11.1% / 16.8% = 152% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 11.1% / 16.8% = 151% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 10.5% / 16.8% = 160% 비중으로 투자하면 됩니다.
 
@@ -72,18 +72,18 @@ JEPI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| JEPQ | <span style="color: tomato">12.6<small>%</small></span> | 16.8<small>%</small> | 0.75 | -16.8<small>%</small> | -4.0<small>%</small> |
-| JEPI | <span style="color: tomato">7.1<small>%</small></span> | 11.1<small>%</small> | 0.64 | -10.5<small>%</small> | -1.9<small>%</small> |
-| JEPI<sub>STD</sub> <small>(152%)</small> | <span style="color: tomato">10.4<small>%</small></span> | 16.8<small>%</small> | 0.62 | -15.6<small>%</small> | -2.8<small>%</small> |
-| JEPI<sub>MDD</sub> <small>(160%)</small> | <span style="color: tomato">10.9<small>%</small></span> | 17.8<small>%</small> | 0.62 | -16.4<small>%</small> | -3.0<small>%</small> |
+| JEPQ | <span style="color: tomato">13.1<small>%</small></span> | 16.8<small>%</small> | 0.78 | -16.8<small>%</small> | -4.0<small>%</small> |
+| JEPI | <span style="color: tomato">7.4<small>%</small></span> | 11.1<small>%</small> | 0.67 | -10.5<small>%</small> | -1.9<small>%</small> |
+| JEPI<sub>STD</sub> <small>(151%)</small> | <span style="color: tomato">10.9<small>%</small></span> | 16.8<small>%</small> | 0.65 | -15.6<small>%</small> | -2.8<small>%</small> |
+| JEPI<sub>MDD</sub> <small>(160%)</small> | <span style="color: tomato">11.5<small>%</small></span> | 17.7<small>%</small> | 0.65 | -16.4<small>%</small> | -3.0<small>%</small> |
 
 
 
 각각의 경우를 JEPQ의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 152% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 10.4%로 JEPQ의 12.6%보다 -2.2% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 151% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 10.9%로 JEPQ의 13.1%보다 -2.2% 낮았습니다. (낮은 수익률)
 
-**위험도 지표 (MDD):** 160% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 10.9%로 JEPQ의 12.6%보다 -1.7% 낮았습니다. (낮은 수익률)
+**위험도 지표 (MDD):** 160% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 11.5%로 JEPQ의 13.1%보다 -1.7% 낮았습니다. (낮은 수익률)
 
 
 
@@ -95,8 +95,8 @@ JEPI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 
 지난 2년간 거치식으로 투자했다고 가정합니다.
 
-JEPI의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 10.7%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 JEPQ의 12.6%보다 -2.0% 낮았습니다.
+JEPI의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 11.2%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 JEPQ의 13.1%보다 -1.9% 낮았습니다.
 
 ### JEPQ &gt; JEPI
 {: .text-center}
