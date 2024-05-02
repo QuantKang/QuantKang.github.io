@@ -5,7 +5,7 @@ excerpt: KOSPI 농업임업및어업 업종 종목별 시가총액 비중입니�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-04-30
+last_modified_at: 2024-05-02
 ---
 
 
@@ -16,8 +16,8 @@ last_modified_at: 2024-04-30
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| 사조산업 | 2.6 | 0.4 | 0.9<small>%</small> | 52.2<small>%</small> |
-| 신라교역 | 9.7 | 0.2 | 5.7<small>%</small> | 39.8<small>%</small> |
-| 동원수산 | 4.6 | 0.5 | 4.1<small>%</small> | 8.0<small>%</small> |
+| 사조산업 | 9.5 | 0.3 | 0.6<small>%</small> | 51.9<small>%</small> |
+| 신라교역 | 8.2 | 0.2 | 5.6<small>%</small> | 40.1<small>%</small> |
+| 동원수산 | - | 0.7 | - | 8.0<small>%</small> |
 
 {% include commons/footnotes.md %}
