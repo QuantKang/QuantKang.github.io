@@ -1,5 +1,5 @@
 | **종목** | **배율** | **1년** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| SOXQ | 기초 | <span style="color: tomato">55.0<small>%</small></span> | - | - | - |
-| [SOXL](/soxl/) | 3<small>배</small> | <span style="color: tomato">155.1<small>%</small></span> | 22.0<small>%</small> | 12.3<small>%</small> | 31.6<small>%</small> |
-| [SOXS](/soxs/) | -3<small>배</small> | <span style="color: cornflowerblue">-81.1<small>%</small></span> | 40.3<small>%</small> | -17.7<small>%</small> | 29.7<small>%</small> |
+| SOXQ | 기초 | <span style="color: tomato">60.9<small>%</small></span> | - | - | - |
+| [SOXL](/soxl/) | 3<small>배</small> | <span style="color: tomato">182.7<small>%</small></span> | 22.1<small>%</small> | 13.1<small>%</small> | 32.2<small>%</small> |
+| [SOXS](/soxs/) | -3<small>배</small> | <span style="color: cornflowerblue">-83.0<small>%</small></span> | 40.4<small>%</small> | -19.3<small>%</small> | 29.0<small>%</small> |
