@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [MSFO](/msfo-vs-msft/) | <span style="color: tomato">41.6<small>%</small></span> | 16.3<small>%</small> | 2.55 | -7.3<small>%</small> | -1.4<small>%</small> |
-| Microsoft Corp | <span style="color: tomato">36.3<small>%</small></span> | 20.0<small>%</small> | 1.82 | -9.3<small>%</small> | -2.2<small>%</small> |
+| [MSFO](/msfo-vs-msft/) | <span style="color: tomato">44.2<small>%</small></span> | 16.3<small>%</small> | 2.71 | -7.3<small>%</small> | -1.4<small>%</small> |
+| Microsoft Corp | <span style="color: tomato">40.5<small>%</small></span> | 20.1<small>%</small> | 2.02 | -9.3<small>%</small> | -2.3<small>%</small> |
