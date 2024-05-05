@@ -1414,6 +1414,18 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 
 
 
+### [MOAT vs SCHD](/moat-vs-schd/)<a id="moat-vs-schd"></a>
+
+{% include vs/moat-vs-schd_md.inc %}
+
+
+
+### [MOAT vs SPY](/moat-vs-spy/)<a id="moat-vs-spy"></a>
+
+{% include vs/moat-vs-spy_md.inc %}
+
+
+
 ## 기타
 
 
@@ -1435,6 +1447,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/238720-vs-1329_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [KBSTAR 차이나HSCEI(H) vs 2828.HK](/250730-vs-2828/)<a id="250730-vs-2828"></a>
 
@@ -1445,9 +1460,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [iShares 20+ Year US Treasury Bond JPY Hedged ETF vs iShares 20+ Year Treasury Bond ETF](/2621-vs-tlt/)<a id="2621-vs-tlt"></a>
 
 {% include vs/2621-vs-tlt_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
