@@ -5,84 +5,85 @@ excerpt: KOSDAQ 일반전기전자 업종 종목별 시가총액 비중입니다
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-05-03
+last_modified_at: 2024-05-07
 ---
 
 
 ![KOSDAQ 일반전기전자 업종 종목별 시가총액 비중](/stats/sector/images/kosdaq_업종_일반전기전자_종목.png){: .align-center}
 
 
-> **종목 목록 (74)**<a id="list"></a>
+> **종목 목록 (75)**<a id="list"></a>
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [에코프로비엠](/247540/) | - | 16.1 | - | 56.8<small>%</small> |
-| 신성델타테크 | 165.2 | 10.0 | 0.2<small>%</small> | 5.4<small>%</small> |
-| LS머트리얼즈 | 122.0 | 9.8 | 0.1<small>%</small> | 4.5<small>%</small> |
-| [더블유씨피](/393890/) | 23.3 | 1.2 | - | 3.2<small>%</small> |
-| [제이앤티씨](/204270/) | 62.7 | 3.1 | - | 2.9<small>%</small> |
+| [에코프로비엠](/247540/) | - | 15.9 | - | 56.1<small>%</small> |
+| 신성델타테크 | 161.1 | 9.8 | 0.2<small>%</small> | 5.3<small>%</small> |
+| LS머트리얼즈 | 121.3 | 9.7 | 0.1<small>%</small> | 4.5<small>%</small> |
+| [더블유씨피](/393890/) | 22.1 | 1.2 | - | 3.0<small>%</small> |
+| [제이앤티씨](/204270/) | 63.3 | 3.2 | - | 2.9<small>%</small> |
 | [서진시스템](/178320/) | - | 2.0 | - | 2.6<small>%</small> |
-| [인텔리안테크](/189300/) | 113.6 | 2.5 | 0.1<small>%</small> | 1.8<small>%</small> |
-| [강원에너지](/114190/) | 106.5 | 12.0 | - | 1.2<small>%</small> |
-| [탑머티리얼](/360070/) | 26.0 | 2.9 | 0.7<small>%</small> | 1.2<small>%</small> |
-| [RFHIC](/218410/) | 25.6 | 1.6 | 0.6<small>%</small> | 1.2<small>%</small> |
-| 소룩스 | - | 6.2 | - | 1.0<small>%</small> |
-| 세경하이테크 | 10.3 | 2.5 | 2.9<small>%</small> | 0.9<small>%</small> |
-| 덕산하이메탈 | 60.2 | 1.2 | - | 0.9<small>%</small> |
-| 아이쓰리시스템 | 24.2 | 3.4 | 0.8<small>%</small> | 0.8<small>%</small> |
-| 티엘비 | 115.6 | 2.6 | 0.7<small>%</small> | 0.8<small>%</small> |
-| 에브리봇 | 93.9 | 4.1 | - | 0.7<small>%</small> |
-| 우리기술 | 44.0 | 2.2 | - | 0.6<small>%</small> |
-| 그린리소스 | 69.6 | 4.3 | - | 0.6<small>%</small> |
-| 대아티아이 | 19.5 | 1.8 | - | 0.6<small>%</small> |
-| 이랜시스 | 40.3 | 4.3 | 0.7<small>%</small> | 0.5<small>%</small> |
-| 제일전기공업 | 25.0 | 1.6 | 1.1<small>%</small> | 0.5<small>%</small> |
-| 슈프리마 | 8.0 | 0.9 | - | 0.5<small>%</small> |
-| 파세코 | 240.0 | 1.8 | 1.6<small>%</small> | 0.5<small>%</small> |
-| 지투파워 | 243.5 | 5.2 | - | 0.4<small>%</small> |
+| [인텔리안테크](/189300/) | 114.2 | 2.5 | 0.1<small>%</small> | 1.8<small>%</small> |
+| [강원에너지](/114190/) | 104.9 | 11.8 | - | 1.2<small>%</small> |
+| [탑머티리얼](/360070/) | 25.9 | 2.9 | 0.7<small>%</small> | 1.2<small>%</small> |
+| [RFHIC](/218410/) | 25.6 | 1.5 | 0.6<small>%</small> | 1.2<small>%</small> |
+| 소룩스 | - | 6.4 | - | 1.0<small>%</small> |
+| 세경하이테크 | 10.4 | 2.5 | 2.9<small>%</small> | 0.9<small>%</small> |
+| 덕산하이메탈 | 59.4 | 1.2 | - | 0.9<small>%</small> |
+| 아이쓰리시스템 | 24.9 | 3.5 | 0.8<small>%</small> | 0.8<small>%</small> |
+| 티엘비 | 114.4 | 2.6 | 0.7<small>%</small> | 0.7<small>%</small> |
+| 에브리봇 | 94.4 | 4.1 | - | 0.7<small>%</small> |
+| 제일전기공업 | 32.5 | 2.1 | 0.8<small>%</small> | 0.7<small>%</small> |
+| 코칩 | 39.6 | 8.3 | - | 0.6<small>%</small> |
+| 그린리소스 | 71.0 | 4.4 | - | 0.6<small>%</small> |
+| 우리기술 | 44.6 | 2.2 | - | 0.6<small>%</small> |
+| 대아티아이 | 19.7 | 1.8 | - | 0.6<small>%</small> |
+| 이랜시스 | 40.9 | 4.4 | 0.7<small>%</small> | 0.5<small>%</small> |
+| 슈프리마 | 8.1 | 0.9 | - | 0.5<small>%</small> |
+| 파세코 | 240.5 | 1.8 | 1.6<small>%</small> | 0.5<small>%</small> |
+| 지투파워 | 253.0 | 5.4 | - | 0.5<small>%</small> |
+| 범한퓨얼셀 | - | 1.6 | - | 0.4<small>%</small> |
 | 에이프로 | 13.3 | 2.3 | 1.7<small>%</small> | 0.4<small>%</small> |
 | 위닉스 | 14.5 | 0.7 | 3.3<small>%</small> | 0.4<small>%</small> |
-| 범한퓨얼셀 | - | 1.5 | - | 0.4<small>%</small> |
 | 아비코전자 | - | 1.4 | 0.4<small>%</small> | 0.4<small>%</small> |
-| 지오엘리먼트 | 69.7 | 3.1 | - | 0.4<small>%</small> |
+| 지오엘리먼트 | 70.0 | 3.1 | - | 0.4<small>%</small> |
 | 덕우전자 | - | 1.4 | - | 0.4<small>%</small> |
+| 지엔씨에너지 | 11.2 | 1.0 | 0.8<small>%</small> | 0.4<small>%</small> |
 | 와이엠텍 | 20.2 | 2.2 | 1.5<small>%</small> | 0.3<small>%</small> |
-| 지엔씨에너지 | 10.4 | 0.9 | 0.9<small>%</small> | 0.3<small>%</small> |
 | 트루윈 | - | 1.8 | - | 0.3<small>%</small> |
-| 서남 | - | 10.9 | - | 0.3<small>%</small> |
+| 서남 | - | 11.0 | - | 0.3<small>%</small> |
 | 엑스페릭스 | - | 2.1 | - | 0.3<small>%</small> |
+| 서호전기 | 6.5 | 1.1 | 7.4<small>%</small> | 0.3<small>%</small> |
 | 자이글 | - | 3.2 | - | 0.3<small>%</small> |
-| 서호전기 | 6.2 | 1.0 | 7.7<small>%</small> | 0.3<small>%</small> |
-| 에스퓨얼셀 | - | 1.4 | 0.4<small>%</small> | 0.3<small>%</small> |
-| 포인트모바일 | 19.1 | 2.0 | - | 0.2<small>%</small> |
+| 에스퓨얼셀 | - | 1.4 | 0.3<small>%</small> | 0.3<small>%</small> |
 | 에스텍 | 3.3 | 0.5 | 5.8<small>%</small> | 0.2<small>%</small> |
 | 대한광통신 | - | 1.2 | - | 0.2<small>%</small> |
 | 유라테크 | 5.2 | 0.7 | 2.4<small>%</small> | 0.2<small>%</small> |
+| 포인트모바일 | 18.2 | 1.9 | - | 0.2<small>%</small> |
 | 엔시스 | 37.8 | 1.5 | 0.5<small>%</small> | 0.2<small>%</small> |
-| TJ미디어 | 17.1 | 0.9 | 5.5<small>%</small> | 0.2<small>%</small> |
-| 에이텀 | - | 29.6 | - | 0.2<small>%</small> |
-| 머큐리 | 22.9 | 0.8 | - | 0.2<small>%</small> |
-| 프로이천 | 22.7 | 2.1 | 0.7<small>%</small> | 0.2<small>%</small> |
-| 아이엘사이언스 | - | 12.5 | - | 0.2<small>%</small> |
-| 에스씨디 | 15.0 | 0.6 | 2.0<small>%</small> | 0.2<small>%</small> |
-| DH오토웨어 | 92.0 | 1.0 | - | 0.2<small>%</small> |
-| 프리엠스 | 77.7 | 1.0 | 0.5<small>%</small> | 0.2<small>%</small> |
+| 에이텀 | - | 30.7 | - | 0.2<small>%</small> |
+| TJ미디어 | 17.0 | 0.9 | 5.6<small>%</small> | 0.2<small>%</small> |
+| 프로이천 | 22.8 | 2.1 | 0.7<small>%</small> | 0.2<small>%</small> |
+| 머큐리 | 22.8 | 0.8 | - | 0.2<small>%</small> |
+| 아이엘사이언스 | - | 12.8 | - | 0.2<small>%</small> |
+| 에스씨디 | 14.9 | 0.6 | 2.0<small>%</small> | 0.2<small>%</small> |
+| DH오토웨어 | 88.8 | 1.0 | - | 0.2<small>%</small> |
 | 하츠 | 9.9 | 0.6 | 1.8<small>%</small> | 0.2<small>%</small> |
+| 프리엠스 | 75.8 | 0.9 | 0.5<small>%</small> | 0.2<small>%</small> |
 | 이지트로닉스 | - | 1.0 | 1.7<small>%</small> | 0.1<small>%</small> |
-| 상신전자 | 25.6 | 1.3 | - | 0.1<small>%</small> |
+| 상신전자 | 25.7 | 1.3 | - | 0.1<small>%</small> |
 | 파워넷 | - | 0.6 | - | 0.1<small>%</small> |
+| 서전기전 | - | 1.8 | - | 0.1<small>%</small> |
+| 라닉스 | - | 5.0 | - | 0.1<small>%</small> |
 | 한국테크놀로지 | - | - | - | 0.1<small>%</small> |
-| 라닉스 | - | 4.8 | - | 0.1<small>%</small> |
-| 서전기전 | - | 1.6 | - | 0.1<small>%</small> |
 | 파버나인 | 288.3 | 0.6 | 2.0<small>%</small> | 0.1<small>%</small> |
-| 유니온커뮤니티 | 13.7 | 1.1 | 2.1<small>%</small> | 0.1<small>%</small> |
+| 피앤씨테크 | 12.8 | 0.7 | - | 0.1<small>%</small> |
+| 유니온커뮤니티 | 13.8 | 1.1 | 2.1<small>%</small> | 0.1<small>%</small> |
 | 윌링스 | - | 3.4 | - | 0.1<small>%</small> |
-| 피앤씨테크 | 12.2 | 0.6 | - | 0.1<small>%</small> |
-| 삼진 | 373.5 | 0.5 | 1.4<small>%</small> | 0.1<small>%</small> |
+| 삼진 | 374.6 | 0.5 | 1.4<small>%</small> | 0.1<small>%</small> |
 | KH 전자 | 1.8 | 0.4 | - | 0.1<small>%</small> |
 | 나노씨엠에스 | - | 1.5 | - | 0.1<small>%</small> |
 | 에이에프더블류 | - | 0.7 | - | 0.1<small>%</small> |
-| 포커스에이치엔에스 | 16.1 | 1.8 | 1.4<small>%</small> | 0.1<small>%</small> |
+| 포커스에이치엔에스 | 16.2 | 1.8 | 1.4<small>%</small> | 0.1<small>%</small> |
 | MIT | - | 2.4 | - | 0.1<small>%</small> |
 | 인터엠 | 3.0 | 0.6 | - | 0.1<small>%</small> |
 | 삼영에스앤씨 | - | 1.0 | - | 0.1<small>%</small> |
