@@ -5,7 +5,7 @@ excerpt: KOSDAQ 방송서비스 업종 종목별 시가총액 비중입니다. �
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-05-07
+last_modified_at: 2024-05-08
 ---
 
 
@@ -17,13 +17,13 @@ last_modified_at: 2024-05-07
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
 | [CJ ENM](/035760/) | - | 0.5 | - | 56.1<small>%</small> |
-| KX | 11.6 | 0.8 | 4.1<small>%</small> | 7.2<small>%</small> |
-| 씨씨에스 | 63.5 | 5.8 | - | 6.6<small>%</small> |
-| SM C&C | - | 2.0 | - | 6.5<small>%</small> |
-| YTN | - | 0.7 | - | 5.4<small>%</small> |
-| 스튜디오미르 | 64.1 | 4.4 | - | 5.3<small>%</small> |
+| KX | 11.5 | 0.8 | 4.1<small>%</small> | 7.1<small>%</small> |
+| 씨씨에스 | 64.2 | 5.9 | - | 6.7<small>%</small> |
+| SM C&C | - | 2.0 | - | 6.4<small>%</small> |
+| YTN | - | 0.7 | - | 5.5<small>%</small> |
+| 스튜디오미르 | 63.4 | 4.3 | - | 5.2<small>%</small> |
 | 한국경제TV | 11.9 | 0.7 | 2.7<small>%</small> | 4.5<small>%</small> |
-| KNN | 14.3 | 0.6 | 2.2<small>%</small> | 3.9<small>%</small> |
+| KNN | 14.2 | 0.6 | 2.2<small>%</small> | 3.9<small>%</small> |
 | 티비씨 | 13.7 | 0.7 | 2.0<small>%</small> | 2.9<small>%</small> |
 | 티엔엔터테인먼트 | - | 0.8 | - | 1.7<small>%</small> |
 
