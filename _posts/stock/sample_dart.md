@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [한일시멘트](/300720/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240510000927){:target="_blank"} |
-| [제이시스메디칼](/287410/#dart) | | [기업설명회(IR)개최              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240510900668){:target="_blank"} |
-| [녹십자홀딩스](/005250/#dart) | | [최대주주등소유주식변동신고서              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240510800707){:target="_blank"} |
-| [NH투자증권](/005940/#dart) | | [일괄신고추가서류(파생결합사채-주가연계파생결합사채)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240510000911){:target="_blank"} |
-| [대우건설](/047040/#dart) | | [[기재정정]단일판매ㆍ공급계약체결              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240510800681){:target="_blank"} |
+| [종근당](/185750/#dart) | | [투자판단관련주요경영사항              (탈모 치료제로 개발중인 CKD-843의 식약처(MFDS) 제3상 임상시험 계획 승인 신청)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240510800916){:target="_blank"} |
+| [더네이쳐홀딩스](/298540/#dart) | | [타법인주식및출자증권취득결정              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240510900881){:target="_blank"} |
+| [DGB금융지주](/139130/#dart) | | [주요사항보고서(상각형조건부자본증권발행결정)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240510001065){:target="_blank"} |
+| [LS](/006260/#dart) | | [[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240510800868){:target="_blank"} |
+| [큐렉소](/060280/#dart) | | [분기보고서 (2024.03)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240510001063){:target="_blank"} |
