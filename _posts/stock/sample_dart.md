@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [종근당](/185750/#dart) | | [투자판단관련주요경영사항              (탈모 치료제로 개발중인 CKD-843의 식약처(MFDS) 제3상 임상시험 계획 승인 신청)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240510800916){:target="_blank"} |
-| [더네이쳐홀딩스](/298540/#dart) | | [타법인주식및출자증권취득결정              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240510900881){:target="_blank"} |
-| [DGB금융지주](/139130/#dart) | | [주요사항보고서(상각형조건부자본증권발행결정)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240510001065){:target="_blank"} |
-| [LS](/006260/#dart) | | [[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240510800868){:target="_blank"} |
-| [큐렉소](/060280/#dart) | | [분기보고서 (2024.03)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240510001063){:target="_blank"} |
+| [HLB생명과학](/067630/#dart) | | [[기재정정]증권신고서(지분증권) (2024.06)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240513000779){:target="_blank"} |
+| [동원시스템즈](/014820/#dart) | | [분기보고서 (2024.03)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240513000776){:target="_blank"} |
+| [한올바이오파마](/009420/#dart) | | [최대주주등소유주식변동신고서              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240513800572){:target="_blank"} |
+| [효성티앤씨](/298020/#dart) | | [동일인등출자계열회사와의상품ㆍ용역거래변경](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240513000754){:target="_blank"} |
+| [에스디바이오센서](/137310/#dart) | | [분기보고서 (2024.03)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240513000748){:target="_blank"} |
