@@ -5,57 +5,57 @@ excerpt: KOSPI 서비스업 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-05-10
+last_modified_at: 2024-05-13
 ---
 
 
 ![KOSPI 서비스업 업종 종목별 시가총액 비중](/stats/sector/images/kospi_업종_서비스업_종목.png){: .align-center}
 
 
-> **종목 목록 (102)**<a id="list"></a>
+> **종목 목록 (101)**<a id="list"></a>
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [NAVER](/035420/) | 28.3 | 1.2 | 0.6<small>%</small> | 18.1<small>%</small> |
-| [카카오](/035720/) | - | 2.1 | 0.1<small>%</small> | 12.6<small>%</small> |
-| [크래프톤](/259960/) | 20.2 | 2.1 | - | 7.4<small>%</small> |
-| [삼성에스디에스](/018260/) | 17.5 | 1.4 | 1.7<small>%</small> | 7.2<small>%</small> |
-| [하이브](/352820/) | 44.5 | 2.9 | 0.3<small>%</small> | 4.9<small>%</small> |
-| HD현대마린솔루션 | 47.8 | 30.1 | 1.4<small>%</small> | 4.7<small>%</small> |
-| [SK바이오팜](/326030/) | - | 24.8 | - | 4.2<small>%</small> |
-| 포스코DX | 67.9 | 13.6 | 0.2<small>%</small> | 3.7<small>%</small> |
-| [넷마블](/251270/) | - | 1.1 | - | 3.5<small>%</small> |
+| [NAVER](/035420/) | 27.7 | 1.2 | 0.7<small>%</small> | 17.8<small>%</small> |
+| [카카오](/035720/) | - | 2.1 | 0.1<small>%</small> | 12.4<small>%</small> |
+| [크래프톤](/259960/) | 20.2 | 2.2 | - | 7.5<small>%</small> |
+| [삼성에스디에스](/018260/) | 17.4 | 1.4 | 1.7<small>%</small> | 7.2<small>%</small> |
+| HD현대마린솔루션 | 51.2 | 32.2 | 1.3<small>%</small> | 5.1<small>%</small> |
+| [하이브](/352820/) | 42.8 | 2.8 | 0.4<small>%</small> | 4.8<small>%</small> |
+| [SK바이오팜](/326030/) | - | 24.5 | - | 4.1<small>%</small> |
+| 포스코DX | 67.0 | 13.4 | 0.2<small>%</small> | 3.7<small>%</small> |
+| [넷마블](/251270/) | - | 1.1 | - | 3.3<small>%</small> |
 | [삼성E&A](/028050/) | 6.6 | 1.4 | - | 3.0<small>%</small> |
-| [엔씨소프트](/036570/) | 19.5 | 1.3 | 1.5<small>%</small> | 2.6<small>%</small> |
-| [코웨이](/021240/) | 9.2 | 1.6 | 2.3<small>%</small> | 2.6<small>%</small> |
-| 현대오토에버 | 29.0 | 2.5 | 1.0<small>%</small> | 2.4<small>%</small> |
+| [엔씨소프트](/036570/) | 20.1 | 1.3 | 1.5<small>%</small> | 2.7<small>%</small> |
+| [코웨이](/021240/) | 9.2 | 1.6 | 2.2<small>%</small> | 2.6<small>%</small> |
+| 현대오토에버 | 29.5 | 2.6 | 1.0<small>%</small> | 2.4<small>%</small> |
 | [강원랜드](/035250/) | 9.3 | 0.9 | 6.0<small>%</small> | 2.0<small>%</small> |
-| [한전기술](/052690/) | 77.7 | 4.6 | 0.8<small>%</small> | 1.5<small>%</small> |
-| [에스원](/012750/) | 11.1 | 1.3 | 4.3<small>%</small> | 1.4<small>%</small> |
+| [한전기술](/052690/) | 79.4 | 4.7 | 0.8<small>%</small> | 1.5<small>%</small> |
+| [에스원](/012750/) | 11.0 | 1.3 | 4.4<small>%</small> | 1.4<small>%</small> |
 | [제일기획](/030000/) | 10.4 | 1.5 | 5.8<small>%</small> | 1.3<small>%</small> |
-| 더존비즈온 | 47.8 | 3.5 | 0.4<small>%</small> | 0.9<small>%</small> |
+| 더존비즈온 | 48.4 | 3.5 | 0.4<small>%</small> | 0.9<small>%</small> |
 | SK리츠 | - | - | - | 0.7<small>%</small> |
 | ESR켄달스퀘어리츠 | - | - | - | 0.6<small>%</small> |
-| 롯데렌탈 | 8.2 | 0.7 | 4.4<small>%</small> | 0.6<small>%</small> |
-| [더블유게임즈](/192080/) | 6.0 | 1.0 | 2.2<small>%</small> | 0.6<small>%</small> |
-| [하나투어](/039130/) | 19.9 | 5.5 | 8.3<small>%</small> | 0.6<small>%</small> |
+| [더블유게임즈](/192080/) | 6.3 | 1.1 | 2.1<small>%</small> | 0.6<small>%</small> |
+| 롯데렌탈 | 8.3 | 0.7 | 4.4<small>%</small> | 0.6<small>%</small> |
+| [하나투어](/039130/) | 19.8 | 5.5 | 8.3<small>%</small> | 0.6<small>%</small> |
 | 이노션 | 8.9 | 1.0 | 5.2<small>%</small> | 0.5<small>%</small> |
 | 다우기술 | 3.7 | 0.3 | 3.6<small>%</small> | 0.5<small>%</small> |
-| [GKL](/114090/) | 19.5 | 2.1 | 2.5<small>%</small> | 0.5<small>%</small> |
+| [GKL](/114090/) | 19.8 | 2.1 | 2.5<small>%</small> | 0.5<small>%</small> |
+| 제이알글로벌리츠 | - | - | - | 0.5<small>%</small> |
 | NHN | - | 0.5 | 2.0<small>%</small> | 0.5<small>%</small> |
 | 롯데리츠 | - | - | - | 0.5<small>%</small> |
-| 제이알글로벌리츠 | - | - | - | 0.5<small>%</small> |
-| [롯데관광개발](/032350/) | - | 10.9 | - | 0.4<small>%</small> |
+| [롯데관광개발](/032350/) | - | 10.8 | - | 0.4<small>%</small> |
 | [녹십자홀딩스](/005250/) | - | 0.7 | 1.9<small>%</small> | 0.4<small>%</small> |
-| CJ CGV | - | 1.8 | - | 0.4<small>%</small> |
-| NICE평가정보 | 12.1 | 1.8 | 3.6<small>%</small> | 0.4<small>%</small> |
+| CJ CGV | - | 1.7 | - | 0.4<small>%</small> |
+| NICE평가정보 | 12.2 | 1.9 | 3.5<small>%</small> | 0.4<small>%</small> |
 | 쏘카 | - | 3.2 | - | 0.4<small>%</small> |
 | 신한알파리츠 | - | - | - | 0.3<small>%</small> |
-| 쿠쿠홈시스 | 4.7 | 0.7 | 3.4<small>%</small> | 0.3<small>%</small> |
-| 아세아 | 4.5 | 0.4 | 2.0<small>%</small> | 0.3<small>%</small> |
+| 쿠쿠홈시스 | 4.8 | 0.7 | 3.3<small>%</small> | 0.3<small>%</small> |
+| 아세아 | 4.6 | 0.4 | 2.0<small>%</small> | 0.3<small>%</small> |
 | 프레스티지바이오파마 | - | - | - | 0.3<small>%</small> |
-| 롯데이노베이트 | 11.2 | 1.1 | 3.2<small>%</small> | 0.3<small>%</small> |
-| NICE | 110.5 | 0.6 | 3.7<small>%</small> | 0.3<small>%</small> |
+| 롯데이노베이트 | 10.9 | 1.1 | 3.3<small>%</small> | 0.3<small>%</small> |
+| NICE | 110.0 | 0.6 | 3.7<small>%</small> | 0.3<small>%</small> |
 | KB스타리츠 | - | - | - | 0.3<small>%</small> |
 | 코람코라이프인프라리츠 | - | - | - | 0.3<small>%</small> |
 | SBS | 8.6 | 0.5 | 2.2<small>%</small> | 0.2<small>%</small> |
@@ -63,51 +63,51 @@ last_modified_at: 2024-05-10
 | 한화리츠 | - | - | - | 0.2<small>%</small> |
 | 이리츠코크렙 | - | - | - | 0.2<small>%</small> |
 | DB | 13.3 | 0.7 | - | 0.2<small>%</small> |
-| 스카이라이프 | - | 0.4 | 6.3<small>%</small> | 0.2<small>%</small> |
-| LG헬로비전 | - | 0.5 | 3.6<small>%</small> | 0.2<small>%</small> |
+| 스카이라이프 | - | 0.4 | 6.4<small>%</small> | 0.2<small>%</small> |
 | 이지스밸류리츠 | - | - | - | 0.2<small>%</small> |
-| 콘텐트리중앙 | - | 5.2 | - | 0.2<small>%</small> |
-| 한전산업 | 16.5 | 2.5 | 3.8<small>%</small> | 0.2<small>%</small> |
-| YG PLUS | 11.8 | 1.6 | - | 0.2<small>%</small> |
+| 한전산업 | 16.7 | 2.5 | 3.7<small>%</small> | 0.2<small>%</small> |
+| LG헬로비전 | - | 0.5 | 3.6<small>%</small> | 0.2<small>%</small> |
 | 도화엔지니어링 | 12.1 | 0.9 | 3.7<small>%</small> | 0.2<small>%</small> |
-| 예스코홀딩스 | 7.6 | 0.4 | 20.8<small>%</small> | 0.1<small>%</small> |
+| 콘텐트리중앙 | - | 5.0 | - | 0.1<small>%</small> |
+| YG PLUS | 11.4 | 1.5 | - | 0.1<small>%</small> |
+| 예스코홀딩스 | 7.4 | 0.4 | 21.3<small>%</small> | 0.1<small>%</small> |
 | 웅진씽크빅 | - | 0.8 | - | 0.1<small>%</small> |
 | 신한서부티엔디리츠 | - | - | - | 0.1<small>%</small> |
-| 동성케미컬 | 6.8 | 0.6 | 4.3<small>%</small> | 0.1<small>%</small> |
+| 동성케미컬 | 6.7 | 0.6 | 4.3<small>%</small> | 0.1<small>%</small> |
+| AJ네트웍스 | 13.7 | 0.5 | 5.4<small>%</small> | 0.1<small>%</small> |
 | 디앤디플랫폼리츠 | - | - | - | 0.1<small>%</small> |
-| AJ네트웍스 | 13.5 | 0.5 | 5.5<small>%</small> | 0.1<small>%</small> |
 | 대교 | - | 0.7 | - | 0.1<small>%</small> |
-| SK디앤디 | 2.9 | 0.4 | 6.7<small>%</small> | 0.1<small>%</small> |
+| SK디앤디 | 2.8 | 0.4 | 6.7<small>%</small> | 0.1<small>%</small> |
 | 코람코더원리츠 | - | - | - | 0.1<small>%</small> |
 | 신세계 I&C | 4.8 | 0.4 | 3.1<small>%</small> | 0.1<small>%</small> |
-| 삼성출판사 | 21.3 | 1.1 | 1.1<small>%</small> | 0.1<small>%</small> |
-| 아시아나IDT | 16.8 | 1.1 | 3.0<small>%</small> | 0.1<small>%</small> |
-| 제일파마홀딩스 | - | 0.5 | 0.4<small>%</small> | 0.1<small>%</small> |
-| 한미글로벌 | 11.7 | 0.9 | 2.5<small>%</small> | 0.1<small>%</small> |
+| 삼성출판사 | 21.4 | 1.1 | 1.1<small>%</small> | 0.1<small>%</small> |
+| 아시아나IDT | 17.0 | 1.1 | 3.0<small>%</small> | 0.1<small>%</small> |
+| 한미글로벌 | 11.5 | 0.9 | 2.5<small>%</small> | 0.1<small>%</small> |
+| 제일파마홀딩스 | - | 0.5 | 0.5<small>%</small> | 0.1<small>%</small> |
 | 키다리스튜디오 | - | 0.8 | - | 0.1<small>%</small> |
-| 자이에스앤디 | 4.0 | 0.4 | 3.7<small>%</small> | 0.1<small>%</small> |
+| 자이에스앤디 | 4.2 | 0.4 | 3.6<small>%</small> | 0.1<small>%</small> |
 | NH올원리츠 | - | - | - | 0.1<small>%</small> |
 | 효성ITX | 10.5 | 2.2 | 5.8<small>%</small> | 0.1<small>%</small> |
-| 유수홀딩스 | 13.7 | 0.4 | 6.1<small>%</small> | 0.1<small>%</small> |
-| 대성홀딩스 | 0.9 | 0.3 | 2.7<small>%</small> | 0.1<small>%</small> |
+| 유수홀딩스 | 13.6 | 0.4 | 6.2<small>%</small> | 0.1<small>%</small> |
+| 대성홀딩스 | 0.9 | 0.3 | 2.8<small>%</small> | 0.1<small>%</small> |
 | KTcs | 8.5 | 0.7 | 3.0<small>%</small> | 0.1<small>%</small> |
 | 신세계푸드 | 13.2 | 0.5 | 2.1<small>%</small> | 0.1<small>%</small> |
-| 용평리조트 | 13.7 | 0.4 | - | 0.1<small>%</small> |
+| 용평리조트 | 13.8 | 0.4 | - | 0.1<small>%</small> |
 | 성창기업지주 | - | 0.2 | - | 0.1<small>%</small> |
 | 미래에셋글로벌리츠 | - | - | - | 0.1<small>%</small> |
 | 이지스레지던스리츠 | - | - | - | 0.1<small>%</small> |
-| HS애드 | 6.4 | 0.6 | 7.0<small>%</small> | 0.1<small>%</small> |
+| HS애드 | 6.5 | 0.6 | 6.9<small>%</small> | 0.1<small>%</small> |
 | 아센디오 | - | 4.0 | - | 0.1<small>%</small> |
+| 텔코웨어 | 11.0 | 0.5 | 6.1<small>%</small> | 0.1<small>%</small> |
 | KTis | 6.4 | 0.4 | 4.1<small>%</small> | 0.1<small>%</small> |
-| 텔코웨어 | 10.9 | 0.5 | 6.2<small>%</small> | 0.1<small>%</small> |
-| 웅진 | - | 1.4 | - | 0.1<small>%</small> |
-| 콤텍시스템 | 21.1 | 0.5 | - | 0.0<small>%</small> |
+| 웅진 | - | 1.3 | - | 0.1<small>%</small> |
+| 콤텍시스템 | 21.0 | 0.5 | - | 0.0<small>%</small> |
 | NH프라임리츠 | - | - | - | 0.0<small>%</small> |
 | 미래에셋맵스리츠 | - | - | - | 0.0<small>%</small> |
 | 마스턴프리미어리츠 | - | - | - | 0.0<small>%</small> |
 | 비상교육 | - | 0.3 | - | 0.0<small>%</small> |
 | 한국종합기술 | 4.3 | 0.4 | 1.8<small>%</small> | 0.0<small>%</small> |
-| 갤럭시아에스엠 | 22.7 | 0.8 | - | 0.0<small>%</small> |
+| 갤럭시아에스엠 | 22.3 | 0.8 | - | 0.0<small>%</small> |
 | IHQ | 1.6 | 1.7 | - | 0.0<small>%</small> |
 | 케이탑리츠 | - | - | - | 0.0<small>%</small> |
 | 유엔젤 | 29.2 | 0.8 | - | 0.0<small>%</small> |
@@ -117,6 +117,5 @@ last_modified_at: 2024-05-10
 | 스타리츠 | - | - | - | 0.0<small>%</small> |
 | 녹십자홀딩스2우 | - | - | 1.1<small>%</small> | 0.0<small>%</small> |
 | 에이리츠 | - | - | - | 0.0<small>%</small> |
-| 비케이탑스 | - | 0.0 | - | 0.0<small>%</small> |
 
 {% include commons/footnotes.md %}
