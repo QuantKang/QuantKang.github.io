@@ -5,7 +5,7 @@ excerpt: KOSDAQ 통신서비스 업종 종목별 시가총액 비중입니다. �
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-05-13
+last_modified_at: 2024-05-14
 ---
 
 
@@ -16,15 +16,15 @@ last_modified_at: 2024-05-13
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [한국정보통신](/025770/) | 10.6 | 1.2 | - | 23.0<small>%</small> |
-| 컨텍 | - | 2.5 | - | 19.8<small>%</small> |
-| 나이스정보통신 | 6.7 | 0.6 | 3.3<small>%</small> | 15.4<small>%</small> |
+| [한국정보통신](/025770/) | 10.4 | 1.1 | - | 22.6<small>%</small> |
+| 컨텍 | - | 2.6 | - | 20.2<small>%</small> |
+| 나이스정보통신 | 6.6 | 0.6 | 3.3<small>%</small> | 15.2<small>%</small> |
 | 세종텔레콤 | 3.6 | 0.4 | - | 9.7<small>%</small> |
-| 와이어블 | 38.6 | 1.2 | 2.6<small>%</small> | 6.9<small>%</small> |
+| 와이어블 | 39.1 | 1.2 | 2.6<small>%</small> | 7.0<small>%</small> |
 | 버킷스튜디오 | 18.3 | 0.6 | - | 6.7<small>%</small> |
-| 인포뱅크 | 12.8 | 1.0 | 0.5<small>%</small> | 5.7<small>%</small> |
+| 인포뱅크 | 13.1 | 1.1 | 0.5<small>%</small> | 5.8<small>%</small> |
 | 인포바인 | 6.4 | 0.4 | 4.2<small>%</small> | 4.7<small>%</small> |
 | 케이엘넷 | 7.7 | 1.1 | 3.0<small>%</small> | 4.4<small>%</small> |
-| 한네트 | 21.4 | 1.4 | 3.3<small>%</small> | 3.6<small>%</small> |
+| 한네트 | 21.6 | 1.4 | 3.3<small>%</small> | 3.7<small>%</small> |
 
 {% include commons/footnotes.md %}
