@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [MRNY](/mrny-vs-mrna/) | <span style="color: tomato">91.8<small>%</small></span> | 39.8<small>%</small> | 2.31 | -20.8<small>%</small> | -4.6<small>%</small> |
-| Moderna Inc | <span style="color: tomato">153.2<small>%</small></span> | 56.6<small>%</small> | 2.71 | -26.0<small>%</small> | -7.8<small>%</small> |
+| [MRNY](/mrny-vs-mrna/) | <span style="color: tomato">91.9<small>%</small></span> | 39.6<small>%</small> | 2.32 | -20.8<small>%</small> | -4.5<small>%</small> |
+| Moderna Inc | <span style="color: tomato">154.7<small>%</small></span> | 56.4<small>%</small> | 2.74 | -26.0<small>%</small> | -7.7<small>%</small> |
