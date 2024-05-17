@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [HD현대](/267250/#dart) | | [[기재정정]타법인주식및출자증권처분결정(자회사의 주요경영사항)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240517800009){:target="_blank"} |
-| [HD한국조선해양](/009540/#dart) | | [[기재정정]타법인주식및출자증권처분결정              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240517800007){:target="_blank"} |
-| [강원랜드](/035250/#dart) | | [주주명부폐쇄기간또는기준일설정              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240517800003){:target="_blank"} |
-| [HD현대일렉트릭](/267260/#dart) | | [[첨부추가]분기보고서 (2024.03)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240516001738){:target="_blank"} |
-| [콜마비앤에이치](/200130/#dart) | | [[기재정정]분기보고서 (2024.03)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240516002340){:target="_blank"} |
+| [삼성중공업](/010140/#dart) | | [[기재정정]단일판매ㆍ공급계약체결              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240517800335){:target="_blank"} |
+| [SK바이오사이언스](/302440/#dart) | | [투자판단관련주요경영사항              (COVID-19 백신 스카이코비온(GBP510)의 영국 MHRA 품목허가(Marketing Authorisation) 취하 결정)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240517800333){:target="_blank"} |
+| [BNK금융지주](/138930/#dart) | | [신탁계약에의한취득상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240517000314){:target="_blank"} |
+| [한글과컴퓨터](/030520/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240517000308){:target="_blank"} |
+| [GS건설](/006360/#dart) | | [[기재정정]단일판매ㆍ공급계약체결              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240517800323){:target="_blank"} |
