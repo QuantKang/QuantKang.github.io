@@ -514,9 +514,9 @@ ARIRANG 스마트베타4종결합 vs KODEX 200
 
 
 
-### [KODEX 200미국채혼합 vs KODEX 200](/284430-vs-292190/)<a id="284430-vs-292190"></a>
+### [KODEX 200미국채혼합 vs KODEX 200](/284430-vs-069500/)<a id="284430-vs-069500"></a>
 
-{% include vs/284430-vs-292190_md.inc %}
+{% include vs/284430-vs-069500_md.inc %}
 
 
 
