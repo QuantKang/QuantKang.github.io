@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [삼성중공업](/010140/#dart) | | [[기재정정]단일판매ㆍ공급계약체결              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240517800335){:target="_blank"} |
-| [SK바이오사이언스](/302440/#dart) | | [투자판단관련주요경영사항              (COVID-19 백신 스카이코비온(GBP510)의 영국 MHRA 품목허가(Marketing Authorisation) 취하 결정)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240517800333){:target="_blank"} |
-| [BNK금융지주](/138930/#dart) | | [신탁계약에의한취득상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240517000314){:target="_blank"} |
-| [한글과컴퓨터](/030520/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240517000308){:target="_blank"} |
-| [GS건설](/006360/#dart) | | [[기재정정]단일판매ㆍ공급계약체결              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240517800323){:target="_blank"} |
+| [아이티엠반도체](/084850/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240520000195){:target="_blank"} |
+| [더네이쳐홀딩스](/298540/#dart) | | [기업설명회(IR)개최              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240520900246){:target="_blank"} |
+| [BGF리테일](/282330/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240520800265){:target="_blank"} |
+| [바이오니아](/064550/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240520000191){:target="_blank"} |
+| [크래프톤](/259960/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240520800258){:target="_blank"} |
