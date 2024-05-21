@@ -27,7 +27,7 @@ Invesco사의 SPHD는 S&P500 종목 중에서 고배당을 주면서 변동성�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SPHD | <span style="color: tomato">9.4<small>%</small></span> | 16.7<small>%</small> | 0.56 | -41.4<small>%</small> | -5.0<small>%</small> |
+| SPHD | <span style="color: tomato">9.4<small>%</small></span> | 16.7<small>%</small> | 0.57 | -41.4<small>%</small> | -5.0<small>%</small> |
 | SPY | <span style="color: tomato">14.2<small>%</small></span> | 16.8<small>%</small> | 0.85 | -33.7<small>%</small> | -3.9<small>%</small> |
 
 <!-- more -->
@@ -70,7 +70,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SPHD | <span style="color: tomato">9.4<small>%</small></span> | 16.7<small>%</small> | 0.56 | -41.4<small>%</small> | -5.0<small>%</small> |
+| SPHD | <span style="color: tomato">9.4<small>%</small></span> | 16.7<small>%</small> | 0.57 | -41.4<small>%</small> | -5.0<small>%</small> |
 | SPY | <span style="color: tomato">14.2<small>%</small></span> | 16.8<small>%</small> | 0.85 | -33.7<small>%</small> | -3.9<small>%</small> |
 | SPY<sub>STD</sub> <small>(100%)</small> | <span style="color: tomato">14.1<small>%</small></span> | 16.7<small>%</small> | 0.85 | -33.6<small>%</small> | -3.9<small>%</small> |
 | SPY<sub>MDD</sub> <small>(123%)</small> | <span style="color: tomato">17.2<small>%</small></span> | 20.6<small>%</small> | 0.84 | -40.2<small>%</small> | -4.9<small>%</small> |
@@ -94,7 +94,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 지난 11년 7개월간 거치식으로 투자했다고 가정합니다.
 
 SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 15.7%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 SPHD의 9.4%보다 6.3% 높았습니다.
+이 포트폴리오는 SPHD의 9.4%보다 6.2% 높았습니다.
 
 ### SPHD	&lt; SPY
 {: .text-center}
