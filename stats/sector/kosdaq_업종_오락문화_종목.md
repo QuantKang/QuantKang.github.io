@@ -5,7 +5,7 @@ excerpt: KOSDAQ 오락문화 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-05-20
+last_modified_at: 2024-05-21
 ---
 
 
@@ -16,31 +16,31 @@ last_modified_at: 2024-05-20
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [JYP Ent.](/035900/) | 18.6 | 5.0 | 1.0<small>%</small> | 20.4<small>%</small> |
-| [에스엠](/041510/) | 22.0 | 2.6 | 1.5<small>%</small> | 18.7<small>%</small> |
-| [파라다이스](/034230/) | 20.6 | 0.9 | 0.7<small>%</small> | 13.3<small>%</small> |
-| [스튜디오드래곤](/253450/) | 44.6 | 1.9 | - | 13.0<small>%</small> |
-| [와이지엔터테인먼트](/122870/) | 13.0 | 1.7 | 0.7<small>%</small> | 7.8<small>%</small> |
-| 위지윅스튜디오 | 8.0 | 1.8 | - | 4.0<small>%</small> |
-| 쇼박스 | - | 2.1 | - | 2.1<small>%</small> |
+| [JYP Ent.](/035900/) | 18.2 | 4.9 | 1.0<small>%</small> | 20.3<small>%</small> |
+| [에스엠](/041510/) | 22.0 | 2.7 | 1.5<small>%</small> | 19.0<small>%</small> |
+| [파라다이스](/034230/) | 20.1 | 0.9 | 0.7<small>%</small> | 13.2<small>%</small> |
+| [스튜디오드래곤](/253450/) | 44.2 | 1.9 | - | 13.1<small>%</small> |
+| [와이지엔터테인먼트](/122870/) | 12.7 | 1.7 | 0.7<small>%</small> | 7.7<small>%</small> |
+| 위지윅스튜디오 | 7.9 | 1.8 | - | 4.0<small>%</small> |
+| 쇼박스 | - | 2.1 | - | 2.2<small>%</small> |
 | 자이언트스텝 | - | 2.1 | - | 2.0<small>%</small> |
 | 큐브엔터 | 17.6 | 2.5 | - | 1.9<small>%</small> |
-| 덱스터 | - | 3.4 | - | 1.7<small>%</small> |
-| 래몽래인 | - | 2.6 | - | 1.4<small>%</small> |
+| 덱스터 | - | 3.3 | - | 1.8<small>%</small> |
+| 래몽래인 | - | 2.5 | - | 1.4<small>%</small> |
 | 초록뱀미디어 | - | 0.5 | - | 1.3<small>%</small> |
-| 키이스트 | - | 2.2 | - | 1.2<small>%</small> |
-| 애니플러스 | 13.5 | 1.3 | - | 1.2<small>%</small> |
+| 애니플러스 | 13.6 | 1.3 | - | 1.2<small>%</small> |
+| 키이스트 | - | 2.1 | - | 1.2<small>%</small> |
 | 남화산업 | 6.4 | 0.6 | 3.6<small>%</small> | 1.1<small>%</small> |
-| 에이스토리 | 22.2 | 1.7 | - | 1.1<small>%</small> |
-| 알비더블유 | - | 1.4 | - | 1.0<small>%</small> |
+| 알비더블유 | - | 1.5 | - | 1.1<small>%</small> |
+| 에이스토리 | 21.7 | 1.7 | - | 1.1<small>%</small> |
 | SAMG엔터 | - | 2.1 | - | 1.0<small>%</small> |
 | NEW | - | 0.8 | - | 0.9<small>%</small> |
 | 팬엔터테인먼트 | 9.7 | 0.9 | - | 0.7<small>%</small> |
 | 삼화네트웍스 | - | 1.2 | - | 0.7<small>%</small> |
 | 에프엔씨엔터 | - | 1.6 | - | 0.6<small>%</small> |
-| 코퍼스코리아 | 16.6 | 1.0 | 0.7<small>%</small> | 0.5<small>%</small> |
+| 코퍼스코리아 | 16.1 | 0.9 | 0.7<small>%</small> | 0.5<small>%</small> |
 | 판타지오 | - | 0.7 | - | 0.5<small>%</small> |
-| 빅텐츠 | - | 2.1 | - | 0.5<small>%</small> |
+| 빅텐츠 | - | 2.0 | - | 0.5<small>%</small> |
 | 바른손이앤에이 | - | 0.6 | - | 0.4<small>%</small> |
 | 캐리소프트 | - | 5.2 | - | 0.3<small>%</small> |
 | 아이오케이 | - | 0.3 | - | 0.2<small>%</small> |

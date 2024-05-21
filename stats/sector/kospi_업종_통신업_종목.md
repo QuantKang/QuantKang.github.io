@@ -5,7 +5,7 @@ excerpt: KOSPI 통신업 업종 종목별 시가총액 비중입니다. 종목�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-05-20
+last_modified_at: 2024-05-21
 ---
 
 
@@ -16,10 +16,10 @@ last_modified_at: 2024-05-20
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [SK텔레콤](/017670/) | 10.5 | 1.0 | 6.8<small>%</small> | 43.6<small>%</small> |
-| [KT](/030200/) | 9.2 | 0.6 | 5.3<small>%</small> | 37.3<small>%</small> |
-| [LG유플러스](/032640/) | 6.8 | 0.5 | 6.6<small>%</small> | 16.9<small>%</small> |
-| 현대퓨처넷 | - | 0.6 | 2.6<small>%</small> | 1.6<small>%</small> |
+| [SK텔레콤](/017670/) | 10.5 | 1.0 | 6.8<small>%</small> | 43.8<small>%</small> |
+| [KT](/030200/) | 9.1 | 0.5 | 5.3<small>%</small> | 37.2<small>%</small> |
+| [LG유플러스](/032640/) | 6.8 | 0.5 | 6.6<small>%</small> | 16.8<small>%</small> |
+| 현대퓨처넷 | - | 0.6 | 2.6<small>%</small> | 1.7<small>%</small> |
 | 인스코비 | - | 3.5 | - | 0.5<small>%</small> |
 
 {% include commons/footnotes.md %}
