@@ -505,9 +505,9 @@ ARIRANG 스마트베타4종결합 vs KODEX 200
 
 
 
-### [KBSTAR KRX300미국달러선물혼합 vs KODEX 미국달러선물](/319870-vs-261240/)<a id="319870-vs-261240"></a>
+### [KBSTAR KRX300미국달러선물혼합 vs KOSEF 미국달러선물](/319870-vs-138230/)<a id="319870-vs-138230"></a>
 
-{% include vs/319870-vs-261240_md.inc %}
+{% include vs/319870-vs-138230_md.inc %}
 
 
 {% include /commons/ads/adsense.html %}
