@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [AMOM](/amom-vs-spy/) | <span style="color: tomato">15.8<small>%</small></span> | 24.3<small>%</small> | 0.65 | -40.0<small>%</small> | -12.9<small>%</small> |
-| SPY | <span style="color: tomato">15.1<small>%</small></span> | 20.8<small>%</small> | 0.72 | -33.7<small>%</small> | -6.2<small>%</small> |
+| [AMOM](/amom-vs-spy/) | <span style="color: tomato">15.7<small>%</small></span> | 24.3<small>%</small> | 0.65 | -40.0<small>%</small> | -12.9<small>%</small> |
+| SPY | <span style="color: tomato">15.0<small>%</small></span> | 20.8<small>%</small> | 0.72 | -33.7<small>%</small> | -6.2<small>%</small> |
