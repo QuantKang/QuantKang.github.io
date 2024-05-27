@@ -5,7 +5,7 @@ excerpt: KOSDAQ 인터넷 업종 종목별 시가총액 비중입니다. 종목�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-05-24
+last_modified_at: 2024-05-27
 ---
 
 
@@ -16,12 +16,12 @@ last_modified_at: 2024-05-24
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [커넥트웨이브](/119860/) | 423.1 | 1.2 | - | 30.6<small>%</small> |
-| 카페24 | 52.9 | 3.0 | - | 21.0<small>%</small> |
-| 케이아이엔엑스 | 16.6 | 2.4 | 0.7<small>%</small> | 15.7<small>%</small> |
+| [커넥트웨이브](/119860/) | 425.9 | 1.2 | - | 30.9<small>%</small> |
+| 카페24 | 53.5 | 3.0 | - | 21.2<small>%</small> |
+| 케이아이엔엑스 | 16.1 | 2.4 | 0.7<small>%</small> | 15.3<small>%</small> |
 | 가비아 | 12.7 | 1.4 | 0.5<small>%</small> | 8.1<small>%</small> |
 | 사람인 | 10.3 | 1.1 | 2.8<small>%</small> | 8.0<small>%</small> |
-| 브랜드엑스코퍼레이션 | 13.1 | 1.6 | 1.6<small>%</small> | 5.6<small>%</small> |
+| 브랜드엑스코퍼레이션 | 13.0 | 1.6 | 1.6<small>%</small> | 5.6<small>%</small> |
 | 예스24 | - | 0.5 | 4.2<small>%</small> | 4.5<small>%</small> |
 | 이스트에이드 | - | 2.9 | - | 2.8<small>%</small> |
 | 이상네트웍스 | 9.1 | 0.5 | 13.7<small>%</small> | 2.1<small>%</small> |
