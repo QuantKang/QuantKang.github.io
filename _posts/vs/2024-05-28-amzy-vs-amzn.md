@@ -1,7 +1,7 @@
 ---
 layout: single
 title: AMZY vs Amazon.com Inc
-excerpt: AMZY의 최근 9개월 CAGR은 59.7%로 Amazon.com Inc의 51.9%보다 7.7% 높았습니다.
+excerpt: AMZY의 최근 9개월 CAGR은 58.3%로 Amazon.com Inc의 50.4%보다 7.9% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -29,15 +29,15 @@ Amazon.com Inc 상품과 AMZY 상품의 성과를 수익률과 위험도로 비�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| AMZY | <span style="color: tomato">59.7<small>%</small></span> | 24.5<small>%</small> | 2.43 | -12.3<small>%</small> | -2.2<small>%</small> |
-| Amazon.com Inc | <span style="color: tomato">51.9<small>%</small></span> | 28.3<small>%</small> | 1.83 | -17.5<small>%</small> | -3.3<small>%</small> |
+| AMZY | <span style="color: tomato">58.3<small>%</small></span> | 24.5<small>%</small> | 2.38 | -12.3<small>%</small> | -2.2<small>%</small> |
+| Amazon.com Inc | <span style="color: tomato">50.4<small>%</small></span> | 28.3<small>%</small> | 1.78 | -17.5<small>%</small> | -3.3<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** AMZY의 CAGR은 59.7%로 Amazon.com Inc의 51.9%보다 7.7% 높았습니다. (높은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** AMZY의 CAGR은 58.3%로 Amazon.com Inc의 50.4%보다 7.9% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** AMZY의 표준편차는 24.5%로 Amazon.com Inc의 28.3%보다 -3.8% 낮았습니다. (낮은 위험도)
 
@@ -72,18 +72,18 @@ Amazon.com Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| AMZY | <span style="color: tomato">59.7<small>%</small></span> | 24.5<small>%</small> | 2.43 | -12.3<small>%</small> | -2.2<small>%</small> |
-| Amazon.com Inc | <span style="color: tomato">51.9<small>%</small></span> | 28.3<small>%</small> | 1.83 | -17.5<small>%</small> | -3.3<small>%</small> |
-| Amazon.com Inc<sub>STD</sub> <small>(87%)</small> | <span style="color: tomato">44.4<small>%</small></span> | 24.5<small>%</small> | 1.81 | -15.2<small>%</small> | -2.9<small>%</small> |
-| Amazon.com Inc<sub>MDD</sub> <small>(70%)</small> | <span style="color: tomato">35.3<small>%</small></span> | 19.9<small>%</small> | 1.77 | -12.5<small>%</small> | -2.3<small>%</small> |
+| AMZY | <span style="color: tomato">58.3<small>%</small></span> | 24.5<small>%</small> | 2.38 | -12.3<small>%</small> | -2.2<small>%</small> |
+| Amazon.com Inc | <span style="color: tomato">50.4<small>%</small></span> | 28.3<small>%</small> | 1.78 | -17.5<small>%</small> | -3.3<small>%</small> |
+| Amazon.com Inc<sub>STD</sub> <small>(87%)</small> | <span style="color: tomato">43.1<small>%</small></span> | 24.5<small>%</small> | 1.76 | -15.2<small>%</small> | -2.9<small>%</small> |
+| Amazon.com Inc<sub>MDD</sub> <small>(70%)</small> | <span style="color: tomato">34.3<small>%</small></span> | 19.9<small>%</small> | 1.73 | -12.5<small>%</small> | -2.3<small>%</small> |
 
 
 
 각각의 경우를 AMZY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 87% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 44.4%로 AMZY의 59.7%보다 -15.3% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 87% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 43.1%로 AMZY의 58.3%보다 -15.2% 낮았습니다. (낮은 수익률)
 
-**위험도 지표 (MDD):** 70% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 35.3%로 AMZY의 59.7%보다 -24.4% 낮았습니다. (낮은 수익률)
+**위험도 지표 (MDD):** 70% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 34.3%로 AMZY의 58.3%보다 -24.0% 낮았습니다. (낮은 수익률)
 
 
 
@@ -95,8 +95,8 @@ Amazon.com Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우�
 
 지난 9개월간 거치식으로 투자했다고 가정합니다.
 
-Amazon.com Inc의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 39.8%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 AMZY의 59.7%보다 -19.9% 낮았습니다.
+Amazon.com Inc의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 38.7%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 AMZY의 58.3%보다 -19.6% 낮았습니다.
 
 ### AMZY &gt; Amazon.com Inc
 {: .text-center}

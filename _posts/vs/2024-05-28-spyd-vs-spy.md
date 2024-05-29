@@ -1,7 +1,7 @@
 ---
 layout: single
 title: SPYD vs SPY
-excerpt: SPYD의 최근 8년 7개월 CAGR은 8.1%로 SPY의 13.5%보다 -5.4% 낮았습니다.
+excerpt: SPYD의 최근 8년 7개월 CAGR은 8.0%로 SPY의 13.6%보다 -5.6% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -27,15 +27,15 @@ keywords: SPY, SPYD, SPYD SPY 비교
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SPYD | <span style="color: tomato">8.1<small>%</small></span> | 20.6<small>%</small> | 0.39 | -46.4<small>%</small> | -6.8<small>%</small> |
-| SPY | <span style="color: tomato">13.5<small>%</small></span> | 18.0<small>%</small> | 0.75 | -33.7<small>%</small> | -4.7<small>%</small> |
+| SPYD | <span style="color: tomato">8.0<small>%</small></span> | 20.6<small>%</small> | 0.39 | -46.4<small>%</small> | -6.8<small>%</small> |
+| SPY | <span style="color: tomato">13.6<small>%</small></span> | 18.0<small>%</small> | 0.76 | -33.7<small>%</small> | -4.7<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** SPYD의 CAGR은 8.1%로 SPY의 13.5%보다 -5.4% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** SPYD의 CAGR은 8.0%로 SPY의 13.6%보다 -5.6% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** SPYD의 표준편차는 20.6%로 SPY의 18.0%보다 2.6% 높았습니다. (높은 위험도)
 
@@ -70,18 +70,18 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SPYD | <span style="color: tomato">8.1<small>%</small></span> | 20.6<small>%</small> | 0.39 | -46.4<small>%</small> | -6.8<small>%</small> |
-| SPY | <span style="color: tomato">13.5<small>%</small></span> | 18.0<small>%</small> | 0.75 | -33.7<small>%</small> | -4.7<small>%</small> |
-| SPY<sub>STD</sub> <small>(115%)</small> | <span style="color: tomato">15.3<small>%</small></span> | 20.6<small>%</small> | 0.74 | -37.9<small>%</small> | -5.5<small>%</small> |
-| SPY<sub>MDD</sub> <small>(138%)</small> | <span style="color: tomato">18.0<small>%</small></span> | 24.8<small>%</small> | 0.73 | -44.1<small>%</small> | -6.8<small>%</small> |
+| SPYD | <span style="color: tomato">8.0<small>%</small></span> | 20.6<small>%</small> | 0.39 | -46.4<small>%</small> | -6.8<small>%</small> |
+| SPY | <span style="color: tomato">13.6<small>%</small></span> | 18.0<small>%</small> | 0.76 | -33.7<small>%</small> | -4.7<small>%</small> |
+| SPY<sub>STD</sub> <small>(115%)</small> | <span style="color: tomato">15.4<small>%</small></span> | 20.6<small>%</small> | 0.75 | -37.9<small>%</small> | -5.5<small>%</small> |
+| SPY<sub>MDD</sub> <small>(138%)</small> | <span style="color: tomato">18.2<small>%</small></span> | 24.8<small>%</small> | 0.74 | -44.1<small>%</small> | -6.8<small>%</small> |
 
 
 
 각각의 경우를 SPYD의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 115% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 15.3%로 SPYD의 8.1%보다 7.2% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 115% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 15.4%로 SPYD의 8.0%보다 7.5% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 138% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 18.0%로 SPYD의 8.1%보다 10.0% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 138% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 18.2%로 SPYD의 8.0%보다 10.2% 높았습니다. (높은 수익률)
 
 
 
@@ -93,8 +93,8 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 지난 8년 7개월간 거치식으로 투자했다고 가정합니다.
 
-SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 16.6%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 SPYD의 8.1%보다 8.6% 높았습니다.
+SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 16.8%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 SPYD의 8.0%보다 8.8% 높았습니다.
 
 ### SPYD	&lt; SPY
 {: .text-center}
