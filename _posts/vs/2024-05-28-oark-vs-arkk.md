@@ -1,7 +1,7 @@
 ---
 layout: single
 title: OARK vs ARKK
-excerpt: OARK의 최근 1년 6개월 CAGR은 1.5%로 ARKK의 17.2%보다 -15.7% 낮았습니다.
+excerpt: OARK의 최근 1년 6개월 CAGR은 0.1%로 ARKK의 14.9%보다 -14.8% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -29,17 +29,17 @@ ARKK 상품과 OARK 상품의 성과를 수익률과 위험도로 비교합니�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| OARK | <span style="color: tomato">1.5<small>%</small></span> | 29.6<small>%</small> | 0.05 | -27.2<small>%</small> | -11.3<small>%</small> |
-| ARKK | <span style="color: tomato">17.2<small>%</small></span> | 39.4<small>%</small> | 0.44 | -32.1<small>%</small> | -11.9<small>%</small> |
+| OARK | <span style="color: tomato">0.1<small>%</small></span> | 29.6<small>%</small> | 0.00 | -27.2<small>%</small> | -11.3<small>%</small> |
+| ARKK | <span style="color: tomato">14.9<small>%</small></span> | 39.4<small>%</small> | 0.38 | -32.1<small>%</small> | -11.9<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** OARK의 CAGR은 1.5%로 ARKK의 17.2%보다 -15.7% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** OARK의 CAGR은 0.1%로 ARKK의 14.9%보다 -14.8% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** OARK의 표준편차는 29.6%로 ARKK의 39.4%보다 -9.7% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** OARK의 표준편차는 29.6%로 ARKK의 39.4%보다 -9.8% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** OARK의 27.2%의 MDD는 ARKK의 32.1%보다 -4.9% 낮았습니다. (낮은 위험도)
 
@@ -72,18 +72,18 @@ ARKK<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, ARK
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| OARK | <span style="color: tomato">1.5<small>%</small></span> | 29.6<small>%</small> | 0.05 | -27.2<small>%</small> | -11.3<small>%</small> |
-| ARKK | <span style="color: tomato">17.2<small>%</small></span> | 39.4<small>%</small> | 0.44 | -32.1<small>%</small> | -11.9<small>%</small> |
-| ARKK<sub>STD</sub> <small>(75%)</small> | <span style="color: tomato">14.3<small>%</small></span> | 29.6<small>%</small> | 0.48 | -25.0<small>%</small> | -8.9<small>%</small> |
-| ARKK<sub>MDD</sub> <small>(85%)</small> | <span style="color: tomato">15.6<small>%</small></span> | 33.4<small>%</small> | 0.47 | -27.8<small>%</small> | -10.1<small>%</small> |
+| OARK | <span style="color: tomato">0.1<small>%</small></span> | 29.6<small>%</small> | 0.00 | -27.2<small>%</small> | -11.3<small>%</small> |
+| ARKK | <span style="color: tomato">14.9<small>%</small></span> | 39.4<small>%</small> | 0.38 | -32.1<small>%</small> | -11.9<small>%</small> |
+| ARKK<sub>STD</sub> <small>(75%)</small> | <span style="color: tomato">12.6<small>%</small></span> | 29.6<small>%</small> | 0.43 | -25.0<small>%</small> | -8.9<small>%</small> |
+| ARKK<sub>MDD</sub> <small>(85%)</small> | <span style="color: tomato">13.7<small>%</small></span> | 33.4<small>%</small> | 0.41 | -27.8<small>%</small> | -10.1<small>%</small> |
 
 
 
 각각의 경우를 OARK의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 75% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 14.3%로 OARK의 1.5%보다 12.8% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 75% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 12.6%로 OARK의 0.1%보다 12.5% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 85% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 15.6%로 OARK의 1.5%보다 14.1% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 85% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 13.7%로 OARK의 0.1%보다 13.5% 높았습니다. (높은 수익률)
 
 
 
@@ -95,8 +95,8 @@ ARKK<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, ARK
 
 지난 1년 6개월간 거치식으로 투자했다고 가정합니다.
 
-ARKK의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 15.0%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 OARK의 1.5%보다 13.5% 높았습니다.
+ARKK의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 13.1%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 OARK의 0.1%보다 13.0% 높았습니다.
 
 ### OARK	&lt; ARKK
 {: .text-center}

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: ARKK vs QLD
-excerpt: ARKK의 최근 9년 7개월 CAGR은 9.6%로 QLD의 28.9%보다 -19.3% 낮았습니다.
+excerpt: ARKK의 최근 9년 7개월 CAGR은 9.5%로 QLD의 28.9%보다 -19.4% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -29,7 +29,7 @@ QLD 상품과 ARKK 상품의 성과를 수익률과 위험도로 비교합니다
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| ARKK | <span style="color: tomato">9.6<small>%</small></span> | 37.6<small>%</small> | 0.25 | -80.9<small>%</small> | -24.1<small>%</small> |
+| ARKK | <span style="color: tomato">9.5<small>%</small></span> | 37.6<small>%</small> | 0.25 | -80.9<small>%</small> | -24.1<small>%</small> |
 | QLD | <span style="color: tomato">28.9<small>%</small></span> | 43.5<small>%</small> | 0.66 | -63.7<small>%</small> | -14.4<small>%</small> |
 
 <!-- more -->
@@ -37,7 +37,7 @@ QLD 상품과 ARKK 상품의 성과를 수익률과 위험도로 비교합니다
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** ARKK의 CAGR은 9.6%로 QLD의 28.9%보다 -19.3% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** ARKK의 CAGR은 9.5%로 QLD의 28.9%보다 -19.4% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** ARKK의 표준편차는 37.6%로 QLD의 43.5%보다 -5.9% 낮았습니다. (낮은 위험도)
 
@@ -72,18 +72,18 @@ QLD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QLD<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| ARKK | <span style="color: tomato">9.6<small>%</small></span> | 37.6<small>%</small> | 0.25 | -80.9<small>%</small> | -24.1<small>%</small> |
+| ARKK | <span style="color: tomato">9.5<small>%</small></span> | 37.6<small>%</small> | 0.25 | -80.9<small>%</small> | -24.1<small>%</small> |
 | QLD | <span style="color: tomato">28.9<small>%</small></span> | 43.5<small>%</small> | 0.66 | -63.7<small>%</small> | -14.4<small>%</small> |
-| QLD<sub>STD</sub> <small>(86%)</small> | <span style="color: tomato">25.9<small>%</small></span> | 37.6<small>%</small> | 0.69 | -57.2<small>%</small> | -12.3<small>%</small> |
+| QLD<sub>STD</sub> <small>(86%)</small> | <span style="color: tomato">26.0<small>%</small></span> | 37.6<small>%</small> | 0.69 | -57.2<small>%</small> | -12.2<small>%</small> |
 | QLD<sub>MDD</sub> <small>(127%)</small> | <span style="color: tomato">33.5<small>%</small></span> | 55.3<small>%</small> | 0.61 | -74.4<small>%</small> | -18.9<small>%</small> |
 
 
 
 각각의 경우를 ARKK의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 86% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 25.9%로 ARKK의 9.6%보다 16.4% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 86% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 26.0%로 ARKK의 9.5%보다 16.4% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 127% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 33.5%로 ARKK의 9.6%보다 23.9% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 127% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 33.5%로 ARKK의 9.5%보다 24.0% 높았습니다. (높은 수익률)
 
 
 
@@ -96,7 +96,7 @@ QLD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QLD<
 지난 9년 7개월간 거치식으로 투자했다고 가정합니다.
 
 QLD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 29.7%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 ARKK의 9.6%보다 20.1% 높았습니다.
+이 포트폴리오는 ARKK의 9.5%보다 20.2% 높았습니다.
 
 ### ARKK	&lt; QLD
 {: .text-center}

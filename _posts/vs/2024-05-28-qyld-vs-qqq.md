@@ -1,7 +1,7 @@
 ---
 layout: single
 title: QYLD vs QQQ
-excerpt: QYLD의 최근 10년 6개월 CAGR은 7.2%로 QQQ의 18.6%보다 -11.4% 낮았습니다.
+excerpt: QYLD의 최근 10년 6개월 CAGR은 7.2%로 QQQ의 18.5%보다 -11.4% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -28,14 +28,14 @@ keywords: QQQ, QYLD, QYLD QQQ 비교
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | QYLD | <span style="color: tomato">7.2<small>%</small></span> | 14.7<small>%</small> | 0.49 | -24.8<small>%</small> | -4.2<small>%</small> |
-| QQQ | <span style="color: tomato">18.6<small>%</small></span> | 21.2<small>%</small> | 0.88 | -35.1<small>%</small> | -6.0<small>%</small> |
+| QQQ | <span style="color: tomato">18.5<small>%</small></span> | 21.2<small>%</small> | 0.88 | -35.1<small>%</small> | -6.0<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** QYLD의 CAGR은 7.2%로 QQQ의 18.6%보다 -11.4% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** QYLD의 CAGR은 7.2%로 QQQ의 18.5%보다 -11.4% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** QYLD의 표준편차는 14.7%로 QQQ의 21.2%보다 -6.5% 낮았습니다. (낮은 위험도)
 
@@ -71,7 +71,7 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | QYLD | <span style="color: tomato">7.2<small>%</small></span> | 14.7<small>%</small> | 0.49 | -24.8<small>%</small> | -4.2<small>%</small> |
-| QQQ | <span style="color: tomato">18.6<small>%</small></span> | 21.2<small>%</small> | 0.88 | -35.1<small>%</small> | -6.0<small>%</small> |
+| QQQ | <span style="color: tomato">18.5<small>%</small></span> | 21.2<small>%</small> | 0.88 | -35.1<small>%</small> | -6.0<small>%</small> |
 | QQQ<sub>STD</sub> <small>(69%)</small> | <span style="color: tomato">13.1<small>%</small></span> | 14.7<small>%</small> | 0.89 | -25.2<small>%</small> | -4.0<small>%</small> |
 | QQQ<sub>MDD</sub> <small>(70%)</small> | <span style="color: tomato">13.3<small>%</small></span> | 14.9<small>%</small> | 0.89 | -25.6<small>%</small> | -4.1<small>%</small> |
 

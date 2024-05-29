@@ -1157,7 +1157,7 @@ JEPIX는 JEPII와 동일한 전략을 사용한다고 알려진 JP모건사 뮤�
 
 
 
-### [GYIX vs JEPI](/gpix-vs-jepi/)<a id="gpix-vs-jepi"></a>
+### [GPIX vs JEPI](/gpix-vs-jepi/)<a id="gpix-vs-jepi"></a>
 
 {% include vs/gpix-vs-jepi_md.inc %}
 
