@@ -1,7 +1,7 @@
 ---
 layout: single
 title: BRK-B vs BRK-A
-excerpt: BRK-B의 최근 28년 1개월 CAGR은 10.6%로 BRK-A의 10.7%와 비슷했습니다.
+excerpt: BRK-B의 최근 28년 CAGR은 10.6%로 BRK-A의 10.7%와 비슷했습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -20,7 +20,7 @@ keywords: BRK-A, BRK-B, BRK-B BRK-A 비교
 
 ## 지난 성과
 
-두 상품의 성과를 비교할 수 있는 가장 긴 기간은 최근 28년 1개월입니다. 아래는 이 기간의 성과[^fn_vs_perf]를 그래프와 표로 나타낸 것입니다.
+두 상품의 성과를 비교할 수 있는 가장 긴 기간은 최근 28년입니다. 아래는 이 기간의 성과[^fn_vs_perf]를 그래프와 표로 나타낸 것입니다.
 그래프 범례에서 괄호안의 퍼센트 수치는 CAGR[^fn_vs_cagr_metric]입니다.
 
 ![BRK-B](/vs/images/brk-b-vs-brk-a_dual.png){: .align-center}
@@ -91,7 +91,7 @@ BRK-A<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, BR
 **주의** 투자 시점과 기간, 그리고 전략에 따라 다른 결과가 나올 수 있습니다. 백테스트 기간이 짧은 경우 통계적 신뢰성이 떨어질 수 있습니다. 미래에도 동일한 경향이 지속된다고 보장할 수 없습니다.
 {: .notice--warning}
 
-지난 28년 1개월간 거치식으로 투자했다고 가정합니다.
+지난 28년간 거치식으로 투자했다고 가정합니다.
 
 BRK-A의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 10.8%인 포트폴리오를 만들 수 있습니다.
 이 포트폴리오는 BRK-B의 10.6%와 비슷했습니다.
