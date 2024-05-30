@@ -1,7 +1,7 @@
 ---
 layout: single
 title: YMAG vs JEPI
-excerpt: YMAG의 최근 3개월 CAGR은 52.6%로 JEPI의 7.2%보다 45.4% 높았습니다.
+excerpt: YMAG의 최근 3개월 CAGR은 52.6%로 JEPI의 7.2%보다 45.5% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -37,7 +37,7 @@ JEPI 상품과 YMAG 상품의 성과를 수익률과 위험도로 비교합니�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** YMAG의 CAGR은 52.6%로 JEPI의 7.2%보다 45.4% 높았습니다. (높은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** YMAG의 CAGR은 52.6%로 JEPI의 7.2%보다 45.5% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** YMAG의 표준편차는 17.6%로 JEPI의 6.5%보다 11.1% 높았습니다. (높은 위험도)
 

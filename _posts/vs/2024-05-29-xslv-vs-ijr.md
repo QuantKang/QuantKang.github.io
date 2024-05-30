@@ -1,7 +1,7 @@
 ---
 layout: single
 title: XSLV vs IJR
-excerpt: XSLV의 최근 11년 3개월 CAGR은 7.1%로 IJR의 10.1%보다 -2.9% 낮았습니다.
+excerpt: XSLV의 최근 11년 3개월 CAGR은 7.1%로 IJR의 10.1%보다 -3.0% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -35,7 +35,7 @@ IJR은 S&P 600 소형주 지수를 추종하는 ETF입니다. XSLV는 지수 편
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** XSLV의 CAGR은 7.1%로 IJR의 10.1%보다 -2.9% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** XSLV의 CAGR은 7.1%로 IJR의 10.1%보다 -3.0% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** XSLV의 표준편차는 18.8%로 IJR의 21.3%보다 -2.5% 낮았습니다. (낮은 위험도)
 
