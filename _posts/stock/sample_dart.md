@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [기아](/000270/#dart) | | [기업지배구조보고서공시              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240531800028){:target="_blank"} |
-| [POSCO홀딩스](/005490/#dart) | | [대규모기업집단현황공시[연1회(동일인용)]](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240531000007){:target="_blank"} |
-| [메가스터디교육](/215200/#dart) | | [주주명부폐쇄기간또는기준일설정              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240531900029){:target="_blank"} |
-| [한화오션](/042660/#dart) | | [기업지배구조보고서공시              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240531800025){:target="_blank"} |
-| [NAVER](/035420/#dart) | | [기업지배구조보고서공시              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240531800007){:target="_blank"} |
+| [DB손해보험](/005830/#dart) | | [대규모기업집단현황공시[연1회공시및1/4분기용(개별회사)]](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240531002569){:target="_blank"} |
+| [LG에너지솔루션](/373220/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240531002565){:target="_blank"} |
+| [CJ대한통운](/000120/#dart) | | [기업지배구조보고서공시              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240531801075){:target="_blank"} |
+| [호텔신라](/008770/#dart) | | [기업지배구조보고서공시              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240531801106){:target="_blank"} |
+| [HD현대일렉트릭](/267260/#dart) | | [[기재정정]단일판매ㆍ공급계약체결              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240531801074){:target="_blank"} |
