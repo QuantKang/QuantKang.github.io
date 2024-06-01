@@ -1071,15 +1071,15 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 
 
 
-### [EWJ vs IDVO](/ewj -vs-idvo/)<a id="ewj -vs-idvo"></a>
+### [EWJ vs IDVO](/ewj-vs-idvo/)<a id="ewj-vs-idvo"></a>
 
-{% include vs/ewj -vs-idvo_md.inc %}
+{% include vs/ewj-vs-idvo_md.inc %}
 
 
 
-### [EWJV vs IDVO](/ewjv -vs-idvo/)<a id="ewjv -vs-idvo"></a>
+### [EWJV vs IDVO](/ewjv-vs-idvo/)<a id="ewjv-vs-idvo"></a>
 
-{% include vs/ewjv -vs-idvo_md.inc %}
+{% include vs/ewjv-vs-idvo_md.inc %}
 
 
 
