@@ -1,9 +1,11 @@
 <!-- start custom head snippets -->
 
+{% comment %}
 {% if site.github.url == site.prod_url__ %}
 {% include head/adblock.html %}
 {% include head/adblock_add.html %}
 {% endif %}
+{% endcomment %}
 
 <!-- 커스텀: 구글 애드센스 -->
 {% if site.github.url == site.prod_url__ %}
