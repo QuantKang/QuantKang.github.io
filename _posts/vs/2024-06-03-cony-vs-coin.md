@@ -75,7 +75,7 @@ Coinbase Global Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] �
 | CONY | <span style="color: tomato">173.4<small>%</small></span> | 53.2<small>%</small> | 3.26 | -29.1<small>%</small> | -7.1<small>%</small> |
 | Coinbase Global Inc | <span style="color: tomato">280.7<small>%</small></span> | 75.1<small>%</small> | 3.74 | -37.1<small>%</small> | -11.4<small>%</small> |
 | Coinbase Global Inc<sub>STD</sub> <small>(71%)</small> | <span style="color: tomato">173.0<small>%</small></span> | 53.2<small>%</small> | 3.25 | -27.6<small>%</small> | -8.1<small>%</small> |
-| Coinbase Global Inc<sub>MDD</sub> <small>(78%)</small> | <span style="color: tomato">199.0<small>%</small></span> | 58.9<small>%</small> | 3.38 | -30.1<small>%</small> | -8.9<small>%</small> |
+| Coinbase Global Inc<sub>MDD</sub> <small>(78%)</small> | <span style="color: tomato">198.9<small>%</small></span> | 58.9<small>%</small> | 3.38 | -30.1<small>%</small> | -8.9<small>%</small> |
 
 
 
@@ -83,7 +83,7 @@ Coinbase Global Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] �
 
 **위험도 지표 (표준편차):** 71% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 173.0%로 CONY의 173.4%와 비슷했습니다. (비슷한 수익률)
 
-**위험도 지표 (MDD):** 78% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 199.0%로 CONY의 173.4%보다 25.6% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 78% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 198.9%로 CONY의 173.4%보다 25.6% 높았습니다. (높은 수익률)
 
 
 
