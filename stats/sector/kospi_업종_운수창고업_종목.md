@@ -5,7 +5,7 @@ excerpt: KOSPI 운수창고업 업종 종목별 시가총액 비중입니다. �
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-06-03
+last_modified_at: 2024-06-04
 ---
 
 
@@ -16,26 +16,26 @@ last_modified_at: 2024-06-03
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [HMM](/011200/) | 11.5 | 0.6 | 3.7<small>%</small> | 33.6<small>%</small> |
-| [대한항공](/003490/) | 7.5 | 0.8 | 3.5<small>%</small> | 20.1<small>%</small> |
-| [현대글로비스](/086280/) | 6.7 | 0.9 | 3.4<small>%</small> | 18.0<small>%</small> |
-| [팬오션](/028670/) | 9.7 | 0.5 | 1.9<small>%</small> | 6.1<small>%</small> |
-| [CJ대한통운](/000120/) | 10.0 | 0.6 | 0.5<small>%</small> | 6.0<small>%</small> |
-| 제주항공 | 6.6 | 2.8 | - | 2.2<small>%</small> |
-| [아시아나항공](/020560/) | 28.3 | 1.2 | - | 2.1<small>%</small> |
-| 대한해운 | 11.1 | 0.5 | - | 2.0<small>%</small> |
-| 진에어 | 5.2 | 4.6 | - | 1.7<small>%</small> |
-| 티웨이항공 | 5.5 | 3.8 | - | 1.5<small>%</small> |
-| 흥아해운 | 17.1 | 3.5 | - | 1.5<small>%</small> |
+| [HMM](/011200/) | 11.4 | 0.6 | 3.7<small>%</small> | 33.6<small>%</small> |
+| [대한항공](/003490/) | 7.6 | 0.8 | 3.4<small>%</small> | 20.6<small>%</small> |
+| [현대글로비스](/086280/) | 6.4 | 0.9 | 3.5<small>%</small> | 17.5<small>%</small> |
+| [팬오션](/028670/) | 9.6 | 0.5 | 1.9<small>%</small> | 6.0<small>%</small> |
+| [CJ대한통운](/000120/) | 9.8 | 0.6 | 0.5<small>%</small> | 6.0<small>%</small> |
+| 제주항공 | 6.7 | 2.9 | - | 2.3<small>%</small> |
+| [아시아나항공](/020560/) | 28.7 | 1.2 | - | 2.1<small>%</small> |
+| 대한해운 | 10.8 | 0.5 | - | 1.9<small>%</small> |
+| 진에어 | 5.3 | 4.8 | - | 1.8<small>%</small> |
+| 티웨이항공 | 5.5 | 3.7 | - | 1.5<small>%</small> |
+| 흥아해운 | 16.9 | 3.5 | - | 1.5<small>%</small> |
 | 에어부산 | 3.4 | 1.7 | - | 0.8<small>%</small> |
-| 한진 | 10.9 | 0.2 | 3.1<small>%</small> | 0.7<small>%</small> |
-| 세방 | 3.9 | 0.2 | 2.4<small>%</small> | 0.6<small>%</small> |
-| 한국공항 | 6.7 | 0.6 | 1.4<small>%</small> | 0.6<small>%</small> |
-| KSS해운 | 11.3 | 0.5 | 4.1<small>%</small> | 0.5<small>%</small> |
-| 동방 | 9.7 | 1.0 | 0.7<small>%</small> | 0.4<small>%</small> |
-| KCTC | 5.2 | 0.5 | 1.5<small>%</small> | 0.4<small>%</small> |
-| 한솔로지스틱스 | 4.2 | 0.7 | 3.6<small>%</small> | 0.2<small>%</small> |
-| STX그린로지스 | 54.2 | 2.6 | - | 0.2<small>%</small> |
+| 한진 | 10.8 | 0.2 | 3.1<small>%</small> | 0.7<small>%</small> |
+| 세방 | 3.8 | 0.2 | 2.5<small>%</small> | 0.6<small>%</small> |
+| 한국공항 | 6.7 | 0.6 | 1.5<small>%</small> | 0.6<small>%</small> |
+| KSS해운 | 11.0 | 0.5 | 4.2<small>%</small> | 0.5<small>%</small> |
+| 동방 | 9.9 | 1.0 | 0.7<small>%</small> | 0.4<small>%</small> |
+| KCTC | 5.1 | 0.5 | 1.5<small>%</small> | 0.4<small>%</small> |
+| 한솔로지스틱스 | 4.1 | 0.7 | 3.6<small>%</small> | 0.2<small>%</small> |
+| STX그린로지스 | 52.7 | 2.5 | - | 0.2<small>%</small> |
 | 인터지스 | 4.9 | 0.2 | 4.3<small>%</small> | 0.2<small>%</small> |
 | 천일고속 | - | 3.3 | - | 0.2<small>%</small> |
 | 한익스프레스 | - | 0.7 | - | 0.1<small>%</small> |
