@@ -5,7 +5,7 @@ excerpt: KOSDAQ 비금속 업종 종목별 시가총액 비중입니다. 종목�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-06-04
+last_modified_at: 2024-06-05
 ---
 
 
@@ -16,19 +16,19 @@ last_modified_at: 2024-06-04
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [원익QnC](/074600/) | 23.4 | 2.2 | 0.2<small>%</small> | 40.1<small>%</small> |
-| 삼표시멘트 | 9.2 | 0.4 | 3.4<small>%</small> | 14.1<small>%</small> |
-| 유진기업 | 3.6 | 0.2 | 4.9<small>%</small> | 12.1<small>%</small> |
-| 보광산업 | 11.1 | 1.9 | 5.9<small>%</small> | 8.3<small>%</small> |
-| 앤디포스 | - | 0.8 | - | 4.2<small>%</small> |
-| SG | - | 1.3 | - | 3.6<small>%</small> |
-| 자연과환경 | 17.6 | 1.1 | - | 3.4<small>%</small> |
-| 동국알앤에스 | 92.0 | 0.8 | 2.4<small>%</small> | 2.8<small>%</small> |
-| 고려시멘트 | - | 0.6 | - | 2.4<small>%</small> |
-| 동양파일 | 8.8 | 0.4 | - | 2.0<small>%</small> |
-| 쎄노텍 | - | 1.2 | - | 2.0<small>%</small> |
-| 국영지앤엠 | 51.0 | 0.8 | 0.8<small>%</small> | 1.8<small>%</small> |
-| 모헨즈 | 4.5 | 1.1 | - | 1.7<small>%</small> |
-| 서산 | 18.8 | 0.4 | - | 1.3<small>%</small> |
+| [원익QnC](/074600/) | 24.4 | 2.3 | 0.2<small>%</small> | 39.6<small>%</small> |
+| 삼표시멘트 | 10.9 | 0.5 | 2.9<small>%</small> | 15.7<small>%</small> |
+| 유진기업 | 3.7 | 0.2 | 4.8<small>%</small> | 11.8<small>%</small> |
+| 보광산업 | 11.5 | 2.0 | 5.7<small>%</small> | 8.2<small>%</small> |
+| 앤디포스 | - | 0.8 | - | 4.0<small>%</small> |
+| SG | - | 1.3 | - | 3.4<small>%</small> |
+| 자연과환경 | 17.4 | 1.0 | - | 3.2<small>%</small> |
+| 고려시멘트 | - | 0.8 | - | 2.9<small>%</small> |
+| 동국알앤에스 | 92.2 | 0.8 | 2.4<small>%</small> | 2.7<small>%</small> |
+| 동양파일 | 8.9 | 0.4 | - | 1.9<small>%</small> |
+| 쎄노텍 | - | 1.2 | - | 1.9<small>%</small> |
+| 국영지앤엠 | 50.7 | 0.8 | 0.9<small>%</small> | 1.7<small>%</small> |
+| 모헨즈 | 4.6 | 1.1 | - | 1.6<small>%</small> |
+| 서산 | 18.6 | 0.4 | - | 1.2<small>%</small> |
 
 {% include commons/footnotes.md %}
