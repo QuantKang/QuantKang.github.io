@@ -1,7 +1,7 @@
 ---
 layout: single
 title: GPIQ vs JEPQ
-excerpt: GPIQ의 최근 7개월 CAGR은 45.8%로 JEPQ의 45.8%와 비슷했습니다.
+excerpt: GPIQ의 최근 7개월 CAGR은 48.0%로 JEPQ의 45.8%보다 2.2% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -29,7 +29,7 @@ JEPQ 상품과 GPIQ 상품의 성과를 수익률과 위험도로 비교합니�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| GPIQ | <span style="color: tomato">45.8<small>%</small></span> | 12.4<small>%</small> | 3.70 | -6.3<small>%</small> | -0.8<small>%</small> |
+| GPIQ | <span style="color: tomato">48.0<small>%</small></span> | 12.3<small>%</small> | 3.89 | -6.3<small>%</small> | -0.8<small>%</small> |
 | JEPQ | <span style="color: tomato">45.8<small>%</small></span> | 10.2<small>%</small> | 4.49 | -6.0<small>%</small> | -0.6<small>%</small> |
 
 <!-- more -->
@@ -37,9 +37,9 @@ JEPQ 상품과 GPIQ 상품의 성과를 수익률과 위험도로 비교합니�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** GPIQ의 CAGR은 45.8%로 JEPQ의 45.8%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** GPIQ의 CAGR은 48.0%로 JEPQ의 45.8%보다 2.2% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** GPIQ의 표준편차는 12.4%로 JEPQ의 10.2%보다 2.2% 높았습니다. (높은 위험도)
+**위험도 지표 (표준편차):** GPIQ의 표준편차는 12.3%로 JEPQ의 10.2%보다 2.1% 높았습니다. (높은 위험도)
 
 **위험도 지표 (MDD):** GPIQ의 6.3%의 MDD는 JEPQ의 6.0%와 비슷했습니다. (비슷한 위험도)
 
@@ -50,7 +50,7 @@ JEPQ 상품과 GPIQ 상품의 성과를 수익률과 위험도로 비교합니�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 JEPQ의 투자 비중[^fn_vs_weight]을 조절하여 GPIQ의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 10.2% / 12.4% = 121% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 10.2% / 12.3% = 121% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 6.0% / 6.3% = 104% 비중으로 투자하면 됩니다.
 
@@ -72,18 +72,18 @@ JEPQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| GPIQ | <span style="color: tomato">45.8<small>%</small></span> | 12.4<small>%</small> | 3.70 | -6.3<small>%</small> | -0.8<small>%</small> |
+| GPIQ | <span style="color: tomato">48.0<small>%</small></span> | 12.3<small>%</small> | 3.89 | -6.3<small>%</small> | -0.8<small>%</small> |
 | JEPQ | <span style="color: tomato">45.8<small>%</small></span> | 10.2<small>%</small> | 4.49 | -6.0<small>%</small> | -0.6<small>%</small> |
-| JEPQ<sub>STD</sub> <small>(121%)</small> | <span style="color: tomato">57.8<small>%</small></span> | 12.4<small>%</small> | 4.67 | -7.3<small>%</small> | -0.8<small>%</small> |
+| JEPQ<sub>STD</sub> <small>(121%)</small> | <span style="color: tomato">57.6<small>%</small></span> | 12.3<small>%</small> | 4.67 | -7.3<small>%</small> | -0.7<small>%</small> |
 | JEPQ<sub>MDD</sub> <small>(104%)</small> | <span style="color: tomato">47.9<small>%</small></span> | 10.6<small>%</small> | 4.52 | -6.3<small>%</small> | -0.6<small>%</small> |
 
 
 
 각각의 경우를 GPIQ의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 121% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 57.8%로 GPIQ의 45.8%보다 12.0% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 121% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 57.6%로 GPIQ의 48.0%보다 9.6% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 104% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 47.9%로 GPIQ의 45.8%보다 2.1% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 104% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 47.9%로 GPIQ의 48.0%와 비슷했습니다. (비슷한 수익률)
 
 
 
@@ -95,8 +95,8 @@ JEPQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 
 지난 7개월간 거치식으로 투자했다고 가정합니다.
 
-JEPQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 52.9%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 GPIQ의 45.8%보다 7.0% 높았습니다.
+JEPQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 52.7%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 GPIQ의 48.0%보다 4.8% 높았습니다.
 
 ### GPIQ	&lt; JEPQ
 {: .text-center}
