@@ -1,7 +1,7 @@
 ---
 layout: single
 title: GPIX vs SPY
-excerpt: GPIX의 최근 7개월 CAGR은 42.2%로 SPY의 53.5%보다 -11.3% 낮았습니다.
+excerpt: GPIX의 최근 7개월 CAGR은 43.9%로 SPY의 53.5%보다 -9.6% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -29,7 +29,7 @@ SPY 상품과 GPIX 상품의 성과를 수익률과 위험도로 비교합니다
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| GPIX | <span style="color: tomato">42.2<small>%</small></span> | 9.5<small>%</small> | 4.46 | -5.0<small>%</small> | -0.6<small>%</small> |
+| GPIX | <span style="color: tomato">43.9<small>%</small></span> | 9.4<small>%</small> | 4.67 | -5.0<small>%</small> | -0.6<small>%</small> |
 | SPY | <span style="color: tomato">53.5<small>%</small></span> | 11.0<small>%</small> | 4.84 | -5.4<small>%</small> | -0.7<small>%</small> |
 
 <!-- more -->
@@ -37,9 +37,9 @@ SPY 상품과 GPIX 상품의 성과를 수익률과 위험도로 비교합니다
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** GPIX의 CAGR은 42.2%로 SPY의 53.5%보다 -11.3% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** GPIX의 CAGR은 43.9%로 SPY의 53.5%보다 -9.6% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** GPIX의 표준편차는 9.5%로 SPY의 11.0%보다 -1.6% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** GPIX의 표준편차는 9.4%로 SPY의 11.0%보다 -1.6% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** GPIX의 5.0%의 MDD는 SPY의 5.4%와 비슷했습니다. (비슷한 위험도)
 
@@ -50,7 +50,7 @@ SPY 상품과 GPIX 상품의 성과를 수익률과 위험도로 비교합니다
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 SPY의 투자 비중[^fn_vs_weight]을 조절하여 GPIX의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 11.0% / 9.5% = 86% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 11.0% / 9.4% = 85% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 5.4% / 5.0% = 93% 비중으로 투자하면 됩니다.
 
@@ -72,18 +72,18 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| GPIX | <span style="color: tomato">42.2<small>%</small></span> | 9.5<small>%</small> | 4.46 | -5.0<small>%</small> | -0.6<small>%</small> |
+| GPIX | <span style="color: tomato">43.9<small>%</small></span> | 9.4<small>%</small> | 4.67 | -5.0<small>%</small> | -0.6<small>%</small> |
 | SPY | <span style="color: tomato">53.5<small>%</small></span> | 11.0<small>%</small> | 4.84 | -5.4<small>%</small> | -0.7<small>%</small> |
-| SPY<sub>STD</sub> <small>(86%)</small> | <span style="color: tomato">44.5<small>%</small></span> | 9.5<small>%</small> | 4.70 | -4.6<small>%</small> | -0.6<small>%</small> |
+| SPY<sub>STD</sub> <small>(85%)</small> | <span style="color: tomato">44.1<small>%</small></span> | 9.4<small>%</small> | 4.69 | -4.6<small>%</small> | -0.6<small>%</small> |
 | SPY<sub>MDD</sub> <small>(93%)</small> | <span style="color: tomato">48.8<small>%</small></span> | 10.2<small>%</small> | 4.77 | -5.0<small>%</small> | -0.7<small>%</small> |
 
 
 
 각각의 경우를 GPIX의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 86% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 44.5%로 GPIX의 42.2%보다 2.3% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 85% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 44.1%로 GPIX의 43.9%와 비슷했습니다. (비슷한 수익률)
 
-**위험도 지표 (MDD):** 93% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 48.8%로 GPIX의 42.2%보다 6.6% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 93% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 48.8%로 GPIX의 43.9%보다 4.9% 높았습니다. (높은 수익률)
 
 
 
@@ -95,8 +95,8 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 지난 7개월간 거치식으로 투자했다고 가정합니다.
 
-SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 46.6%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 GPIX의 42.2%보다 4.4% 높았습니다.
+SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 46.4%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 GPIX의 43.9%보다 2.6% 높았습니다.
 
 ### GPIX	&lt; SPY
 {: .text-center}
