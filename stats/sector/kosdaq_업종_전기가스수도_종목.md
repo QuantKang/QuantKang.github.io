@@ -5,7 +5,7 @@ excerpt: KOSDAQ 전기가스수도 업종 종목별 시가총액 비중입니다
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-06-04
+last_modified_at: 2024-06-05
 ---
 
 
@@ -16,8 +16,8 @@ last_modified_at: 2024-06-04
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| 코엔텍 | 9.6 | 1.9 | 7.3<small>%</small> | 67.8<small>%</small> |
-| 지에스이 | 23.1 | 1.4 | 0.9<small>%</small> | 25.4<small>%</small> |
+| 코엔텍 | 9.6 | 1.9 | 7.3<small>%</small> | 67.2<small>%</small> |
+| 지에스이 | 24.0 | 1.4 | 0.9<small>%</small> | 26.1<small>%</small> |
 | DGP | - | 0.6 | - | 6.8<small>%</small> |
 
 {% include commons/footnotes.md %}
