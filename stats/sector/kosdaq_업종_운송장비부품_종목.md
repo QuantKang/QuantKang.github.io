@@ -5,7 +5,7 @@ excerpt: KOSDAQ 운송장비부품 업종 종목별 시가총액 비중입니다
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-06-05
+last_modified_at: 2024-06-07
 ---
 
 
@@ -16,56 +16,56 @@ last_modified_at: 2024-06-05
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [성우하이텍](/015750/) | 4.0 | 0.5 | 1.8<small>%</small> | 8.7<small>%</small> |
-| 현대힘스 | 25.7 | 2.5 | - | 6.6<small>%</small> |
-| [모트렉스](/118990/) | 10.2 | 1.6 | - | 4.3<small>%</small> |
-| 삼현 | 26.3 | 5.1 | - | 3.9<small>%</small> |
-| 신성에스티 | 26.6 | 3.0 | 0.6<small>%</small> | 3.8<small>%</small> |
-| 피에이치에이 | 4.2 | 0.3 | 2.0<small>%</small> | 3.4<small>%</small> |
-| 엠에스오토텍 | 16.8 | 1.0 | 1.7<small>%</small> | 2.6<small>%</small> |
+| [성우하이텍](/015750/) | 4.0 | 0.5 | 1.8<small>%</small> | 8.5<small>%</small> |
+| 현대힘스 | 25.8 | 2.5 | - | 6.5<small>%</small> |
+| 신성에스티 | 32.6 | 3.7 | 0.5<small>%</small> | 4.6<small>%</small> |
+| [모트렉스](/118990/) | 10.1 | 1.6 | - | 4.2<small>%</small> |
+| 삼현 | 26.8 | 5.2 | - | 4.0<small>%</small> |
+| 피에이치에이 | 4.4 | 0.4 | 1.9<small>%</small> | 3.5<small>%</small> |
+| 엠에스오토텍 | 16.6 | 1.0 | 1.7<small>%</small> | 2.6<small>%</small> |
 | 이녹스 | - | 1.0 | - | 2.4<small>%</small> |
 | 아스트 | - | 0.9 | - | 2.4<small>%</small> |
 | 에코플라스틱 | 3.3 | 0.8 | 1.4<small>%</small> | 2.2<small>%</small> |
-| 코리아에프티 | 5.6 | 1.0 | 1.9<small>%</small> | 2.2<small>%</small> |
-| 케이프 | 6.5 | 0.7 | 5.5<small>%</small> | 2.1<small>%</small> |
-| 삼기이브이 | 33.2 | 2.2 | - | 2.0<small>%</small> |
-| 대양전기공업 | 17.4 | 0.7 | - | 1.9<small>%</small> |
-| 모베이스전자 | 15.0 | 0.7 | - | 1.8<small>%</small> |
+| 코리아에프티 | 5.5 | 1.0 | 2.0<small>%</small> | 2.1<small>%</small> |
+| 케이프 | 6.4 | 0.7 | 5.6<small>%</small> | 2.1<small>%</small> |
+| 삼기이브이 | 33.1 | 2.2 | - | 2.0<small>%</small> |
+| 대양전기공업 | 17.7 | 0.7 | - | 1.9<small>%</small> |
+| 모베이스전자 | 15.1 | 0.7 | - | 1.8<small>%</small> |
 | 켄코아에어로스페이스 | - | 2.4 | - | 1.8<small>%</small> |
-| 우리산업 | 7.8 | 1.4 | 1.1<small>%</small> | 1.8<small>%</small> |
-| 아진산업 | 2.6 | 0.5 | 2.9<small>%</small> | 1.7<small>%</small> |
-| 이닉스 | 7.9 | 1.1 | 2.9<small>%</small> | 1.7<small>%</small> |
-| 케이엔더블유 | 52.5 | 1.0 | - | 1.7<small>%</small> |
+| 이닉스 | 8.3 | 1.1 | 2.7<small>%</small> | 1.8<small>%</small> |
+| 우리산업 | 7.8 | 1.4 | 1.1<small>%</small> | 1.7<small>%</small> |
+| 케이엔더블유 | 54.9 | 1.1 | - | 1.7<small>%</small> |
+| 아진산업 | 2.6 | 0.5 | 3.0<small>%</small> | 1.7<small>%</small> |
 | 대원산업 | 3.6 | 0.3 | 2.8<small>%</small> | 1.6<small>%</small> |
-| 삼보모터스 | 3.7 | 0.4 | 0.9<small>%</small> | 1.6<small>%</small> |
-| 인화정공 | 47.3 | 0.7 | 17.6<small>%</small> | 1.5<small>%</small> |
+| 삼보모터스 | 3.7 | 0.4 | 0.9<small>%</small> | 1.5<small>%</small> |
+| 인화정공 | 46.9 | 0.7 | 17.8<small>%</small> | 1.5<small>%</small> |
 | 한라IMS | 1.6 | 0.7 | 4.5<small>%</small> | 1.4<small>%</small> |
+| 우수AMS | 11.0 | 1.4 | - | 1.4<small>%</small> |
 | 현대공업 | 8.4 | 0.8 | 2.8<small>%</small> | 1.4<small>%</small> |
-| 엔브이에이치코리아 | 19.2 | 0.5 | 5.7<small>%</small> | 1.4<small>%</small> |
-| 우수AMS | 10.8 | 1.3 | - | 1.4<small>%</small> |
-| 일승 | 26.1 | 2.6 | - | 1.3<small>%</small> |
-| 폴라리스세원 | 21.7 | 0.6 | - | 1.3<small>%</small> |
-| 영화테크 | 15.6 | 1.5 | 0.9<small>%</small> | 1.2<small>%</small> |
+| 엔브이에이치코리아 | 19.1 | 0.5 | 5.8<small>%</small> | 1.4<small>%</small> |
+| 폴라리스세원 | 21.7 | 0.6 | - | 1.2<small>%</small> |
+| 영화테크 | 15.7 | 1.5 | 0.9<small>%</small> | 1.2<small>%</small> |
+| 일승 | 24.1 | 2.4 | - | 1.2<small>%</small> |
 | 광림 | 5.0 | 0.6 | - | 1.2<small>%</small> |
 | 유니크 | 14.2 | 0.8 | 1.0<small>%</small> | 1.2<small>%</small> |
-| 경창산업 | 9.8 | 0.7 | 2.0<small>%</small> | 1.2<small>%</small> |
-| 유니테크노 | 9.3 | 0.7 | - | 1.1<small>%</small> |
+| 경창산업 | 9.8 | 0.7 | 2.0<small>%</small> | 1.1<small>%</small> |
 | 어스앤에어로스페이스 | - | - | - | 1.1<small>%</small> |
-| 네오오토 | 6.9 | 0.8 | 1.4<small>%</small> | 1.1<small>%</small> |
-| 한일단조 | 9.9 | 0.6 | - | 1.0<small>%</small> |
+| 유니테크노 | 9.1 | 0.7 | - | 1.1<small>%</small> |
+| 네오오토 | 6.9 | 0.8 | 1.4<small>%</small> | 1.0<small>%</small> |
+| 한일단조 | 9.9 | 0.6 | - | 0.9<small>%</small> |
 | 구영테크 | 3.7 | 0.7 | 1.9<small>%</small> | 0.9<small>%</small> |
 | 서진오토모티브 | 7.9 | 0.8 | - | 0.9<small>%</small> |
 | 삼기 | 11.2 | 0.6 | - | 0.9<small>%</small> |
-| 일지테크 | 2.2 | 0.6 | 1.9<small>%</small> | 0.9<small>%</small> |
+| 일지테크 | 2.1 | 0.6 | 2.0<small>%</small> | 0.9<small>%</small> |
 | 우리산업홀딩스 | 8.8 | 0.5 | 1.4<small>%</small> | 0.9<small>%</small> |
 | 오텍 | - | 0.5 | 2.3<small>%</small> | 0.9<small>%</small> |
-| 에코볼트 | 3.9 | 0.2 | - | 0.9<small>%</small> |
-| 에코캡 | 29.3 | 0.7 | - | 0.8<small>%</small> |
+| 에코볼트 | 3.8 | 0.2 | - | 0.9<small>%</small> |
+| 에코캡 | 29.4 | 0.7 | - | 0.8<small>%</small> |
+| 세원물산 | 4.8 | 0.2 | 1.4<small>%</small> | 0.8<small>%</small> |
 | CBI | - | 1.2 | - | 0.8<small>%</small> |
-| 세원물산 | 4.7 | 0.2 | 1.4<small>%</small> | 0.8<small>%</small> |
 | 화신정공 | 5.7 | 0.4 | 3.4<small>%</small> | 0.7<small>%</small> |
-| 오리엔트정공 | - | 1.4 | - | 0.7<small>%</small> |
-| KB오토시스 | 48.5 | 0.5 | 3.4<small>%</small> | 0.7<small>%</small> |
+| 오리엔트정공 | - | 1.4 | - | 0.6<small>%</small> |
+| KB오토시스 | 47.7 | 0.5 | 3.4<small>%</small> | 0.6<small>%</small> |
 | 아이윈 | - | 1.2 | - | 0.6<small>%</small> |
 | 휴림에이텍 | 5.8 | 1.1 | - | 0.6<small>%</small> |
 | 네오티스 | - | 0.9 | 5.9<small>%</small> | 0.6<small>%</small> |
@@ -74,16 +74,16 @@ last_modified_at: 2024-06-05
 | 하이즈항공 | - | 0.9 | - | 0.6<small>%</small> |
 | 오스템 | 4.4 | 0.4 | 3.5<small>%</small> | 0.5<small>%</small> |
 | 뉴인텍 | - | 1.2 | - | 0.5<small>%</small> |
-| 대성파인텍 | - | 0.6 | - | 0.5<small>%</small> |
 | 동방선기 | 7.2 | 1.0 | - | 0.5<small>%</small> |
-| 성창오토텍 | 6.0 | 0.7 | 1.1<small>%</small> | 0.4<small>%</small> |
-| 디젠스 | 11.2 | 1.9 | - | 0.4<small>%</small> |
+| 대성파인텍 | - | 0.6 | - | 0.5<small>%</small> |
+| 성창오토텍 | 6.1 | 0.7 | 1.1<small>%</small> | 0.4<small>%</small> |
+| 디젠스 | 11.1 | 1.9 | - | 0.4<small>%</small> |
 | 메디콕스 | - | 0.5 | - | 0.4<small>%</small> |
-| 디와이씨 | 6.6 | 0.6 | 1.8<small>%</small> | 0.4<small>%</small> |
+| 디와이씨 | 6.7 | 0.6 | 1.8<small>%</small> | 0.4<small>%</small> |
 | 티피씨글로벌 | - | 0.5 | - | 0.3<small>%</small> |
 | 세동 | 2.7 | 0.7 | - | 0.3<small>%</small> |
-| 캐스텍코리아 | - | 0.4 | - | 0.3<small>%</small> |
 | 알톤 | - | 0.9 | - | 0.3<small>%</small> |
+| 캐스텍코리아 | - | 0.3 | - | 0.3<small>%</small> |
 | 코다코 | - | - | - | 0.1<small>%</small> |
 
 {% include commons/footnotes.md %}
