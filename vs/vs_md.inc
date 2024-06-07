@@ -1609,6 +1609,21 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 
 
 
+### [MSTY vs MSTR](/msty-vs-mstr/)<a id="msty-vs-mstr"></a>
+
+{% include vs/msty-vs-mstr_md.inc %}
+
+
+
+### [GDXY vs GDX](/gdxy-vs-gdx/)<a id="gdxy-vs-gdx"></a>
+
+{% include vs/gdxy-vs-gdx_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
 ### [YMAX vs JEPI](/ymax-vs-jepi/)<a id="ymax-vs-jepi"></a>
 
 {% include vs/ymax-vs-jepi_md.inc %}
@@ -1618,9 +1633,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [YMAG vs JEPI](/ymag-vs-jepi/)<a id="ymag-vs-jepi"></a>
 
 {% include vs/ymag-vs-jepi_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1645,6 +1657,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/qrft-vs-spy_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [AMOM vs SPY](/amom-vs-spy/)<a id="amom-vs-spy"></a>
 
@@ -1655,9 +1670,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [AIIQ vs SPY](/aiiq-vs-spy/)<a id="aiiq-vs-spy"></a>
 
 {% include vs/aiiq-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1682,6 +1694,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/arkk-vs-qqq_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [ARKK vs QLD](/arkk-vs-qld/)<a id="arkk-vs-qld"></a>
 
@@ -1698,9 +1713,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 워런 버핏이 CEO로 있는 버크셔 해서웨이(BRK.A)와 미국 대표 지수인 S&P 500(배당 미고려)의 성과를 비교해 봅니다.
 
 {% include vs/brk-a-vs-us500_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1727,6 +1739,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/brk-b-vs-brk-a_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [MOAT vs SCHD](/moat-vs-schd/)<a id="moat-vs-schd"></a>
 
@@ -1737,9 +1752,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [MOAT vs SPY](/moat-vs-spy/)<a id="moat-vs-spy"></a>
 
 {% include vs/moat-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1764,6 +1776,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/238720-vs-1329_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [KBSTAR 차이나HSCEI(H) vs 2828.HK](/250730-vs-2828/)<a id="250730-vs-2828"></a>
 
@@ -1774,9 +1789,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [iShares 20+ Year US Treasury Bond JPY Hedged ETF vs iShares 20+ Year Treasury Bond ETF](/2621-vs-tlt/)<a id="2621-vs-tlt"></a>
 
 {% include vs/2621-vs-tlt_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
