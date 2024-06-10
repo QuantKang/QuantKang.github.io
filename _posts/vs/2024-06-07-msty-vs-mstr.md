@@ -1,7 +1,7 @@
 ---
 layout: single
 title: MSTY vs Microstrategy Inc
-excerpt: MSTY의 최근 3개월 CAGR은 865.4%로 Microstrategy Inc의 1505.8%보다 -640.4% 낮았습니다.
+excerpt: MSTY의 최근 3개월 CAGR은 625.4%로 Microstrategy Inc의 1505.8%보다 -880.4% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -29,7 +29,7 @@ Microstrategy Inc 상품과 MSTY 상품의 성과를 수익률과 위험도로 �
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| MSTY | <span style="color: tomato">865.4<small>%</small></span> | 92.0<small>%</small> | 9.40 | -33.2<small>%</small> | -10.6<small>%</small> |
+| MSTY | <span style="color: tomato">625.4<small>%</small></span> | 92.5<small>%</small> | 6.76 | -33.2<small>%</small> | -12.9<small>%</small> |
 | Microstrategy Inc | <span style="color: tomato">1505.8<small>%</small></span> | 132.0<small>%</small> | 11.41 | -46.4<small>%</small> | -18.4<small>%</small> |
 
 <!-- more -->
@@ -37,9 +37,9 @@ Microstrategy Inc 상품과 MSTY 상품의 성과를 수익률과 위험도로 �
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** MSTY의 CAGR은 865.4%로 Microstrategy Inc의 1505.8%보다 -640.4% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** MSTY의 CAGR은 625.4%로 Microstrategy Inc의 1505.8%보다 -880.4% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** MSTY의 표준편차는 92.0%로 Microstrategy Inc의 132.0%보다 -40.0% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** MSTY의 표준편차는 92.5%로 Microstrategy Inc의 132.0%보다 -39.5% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** MSTY의 33.2%의 MDD는 Microstrategy Inc의 46.4%보다 -13.3% 낮았습니다. (낮은 위험도)
 
@@ -50,7 +50,7 @@ Microstrategy Inc 상품과 MSTY 상품의 성과를 수익률과 위험도로 �
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 Microstrategy Inc의 투자 비중[^fn_vs_weight]을 조절하여 MSTY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 132.0% / 92.0% = 70% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 132.0% / 92.5% = 70% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 46.4% / 33.2% = 71% 비중으로 투자하면 됩니다.
 
@@ -72,18 +72,18 @@ Microstrategy Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| MSTY | <span style="color: tomato">865.4<small>%</small></span> | 92.0<small>%</small> | 9.40 | -33.2<small>%</small> | -10.6<small>%</small> |
+| MSTY | <span style="color: tomato">625.4<small>%</small></span> | 92.5<small>%</small> | 6.76 | -33.2<small>%</small> | -12.9<small>%</small> |
 | Microstrategy Inc | <span style="color: tomato">1505.8<small>%</small></span> | 132.0<small>%</small> | 11.41 | -46.4<small>%</small> | -18.4<small>%</small> |
-| Microstrategy Inc<sub>STD</sub> <small>(70%)</small> | <span style="color: tomato">733.2<small>%</small></span> | 92.0<small>%</small> | 7.97 | -34.4<small>%</small> | -12.7<small>%</small> |
+| Microstrategy Inc<sub>STD</sub> <small>(70%)</small> | <span style="color: tomato">740.4<small>%</small></span> | 92.5<small>%</small> | 8.00 | -34.6<small>%</small> | -12.8<small>%</small> |
 | Microstrategy Inc<sub>MDD</sub> <small>(71%)</small> | <span style="color: tomato">768.5<small>%</small></span> | 94.3<small>%</small> | 8.15 | -35.2<small>%</small> | -13.1<small>%</small> |
 
 
 
 각각의 경우를 MSTY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 70% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 733.2%로 MSTY의 865.4%보다 -132.2% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 70% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 740.4%로 MSTY의 625.4%보다 115.0% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 71% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 768.5%로 MSTY의 865.4%보다 -97.0% 낮았습니다. (낮은 수익률)
+**위험도 지표 (MDD):** 71% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 768.5%로 MSTY의 625.4%보다 143.1% 높았습니다. (높은 수익률)
 
 
 
@@ -95,10 +95,10 @@ Microstrategy Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경�
 
 지난 3개월간 거치식으로 투자했다고 가정합니다.
 
-Microstrategy Inc의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 750.8%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 MSTY의 865.4%보다 -114.6% 낮았습니다.
+Microstrategy Inc의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 754.4%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 MSTY의 625.4%보다 129.0% 높았습니다.
 
-### MSTY &gt; Microstrategy Inc
+### MSTY	&lt; Microstrategy Inc
 {: .text-center}
 
 
