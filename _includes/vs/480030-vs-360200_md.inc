@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [ACE 미국500 15%프리미엄분배(합성)](/480030-vs-360200/) | - | 10.3<small>%</small> | nan | -1.9<small>%</small> | -0.3<small>%</small> |
-| ACE 미국S&P500 | - | 10.0<small>%</small> | nan | -2.0<small>%</small> | -0.3<small>%</small> |
+| [ACE 미국500 15%프리미엄분배(합성)](/480030-vs-360200/) | - | 10.1<small>%</small> | nan | -1.9<small>%</small> | -0.3<small>%</small> |
+| ACE 미국S&P500 | - | 9.8<small>%</small> | nan | -2.0<small>%</small> | -0.3<small>%</small> |
