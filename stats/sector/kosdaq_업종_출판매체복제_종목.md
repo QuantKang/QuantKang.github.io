@@ -5,7 +5,7 @@ excerpt: KOSDAQ 출판매체복제 업종 종목별 시가총액 비중입니다
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-06-10
+last_modified_at: 2024-06-11
 ---
 
 
@@ -19,27 +19,27 @@ last_modified_at: 2024-06-10
 | 넵튠 | - | 0.7 | - | 12.3<small>%</small> |
 | 녹원씨엔아이 | - | 4.8 | - | 8.3<small>%</small> |
 | 아티스트유나이티드 | - | 6.5 | - | 8.1<small>%</small> |
-| 드림시큐리티 | 7.2 | 1.5 | - | 7.1<small>%</small> |
-| 양지사 | 109.5 | 0.7 | 0.5<small>%</small> | 6.9<small>%</small> |
-| 고스트스튜디오 | - | - | - | 6.4<small>%</small> |
-| 신테카바이오 | - | 4.3 | - | 6.0<small>%</small> |
+| 드림시큐리티 | 7.3 | 1.6 | - | 7.2<small>%</small> |
+| 양지사 | 109.1 | 0.7 | 0.5<small>%</small> | 6.8<small>%</small> |
+| 고스트스튜디오 | - | - | - | 6.3<small>%</small> |
 | 메가스터디 | 6.0 | 0.4 | 7.5<small>%</small> | 5.9<small>%</small> |
+| 신테카바이오 | - | 4.3 | - | 5.9<small>%</small> |
+| 웨이버스 | 12.5 | 2.5 | - | 3.9<small>%</small> |
 | SM Life Design | 16.4 | 1.4 | - | 3.4<small>%</small> |
 | SBI핀테크솔루션즈 | - | - | - | 3.4<small>%</small> |
-| 웨이버스 | 10.5 | 2.1 | - | 3.3<small>%</small> |
-| 수산아이앤티 | 13.0 | 0.9 | 1.2<small>%</small> | 3.2<small>%</small> |
-| NE능률 | 65.5 | 0.8 | - | 3.1<small>%</small> |
-| 나무기술 | - | 1.6 | - | 3.1<small>%</small> |
-| FSN | - | 0.9 | - | 3.0<small>%</small> |
-| 디지캡 | - | 0.9 | - | 2.4<small>%</small> |
-| 위세아이텍 | - | 1.4 | 2.2<small>%</small> | 2.2<small>%</small> |
+| 수산아이앤티 | 13.1 | 0.9 | 1.2<small>%</small> | 3.2<small>%</small> |
+| NE능률 | 65.3 | 0.8 | - | 3.1<small>%</small> |
+| 나무기술 | - | 1.6 | - | 3.0<small>%</small> |
+| FSN | - | 0.9 | - | 2.9<small>%</small> |
+| 디지캡 | - | 0.9 | - | 2.3<small>%</small> |
+| 위세아이텍 | - | 1.4 | 2.3<small>%</small> | 2.1<small>%</small> |
 | 아이스크림에듀 | - | 1.0 | - | 2.0<small>%</small> |
-| 썸에이지 | - | 1.7 | - | 1.9<small>%</small> |
 | 예림당 | 4.9 | 0.3 | - | 1.9<small>%</small> |
-| 지란지교시큐리티 | 2.8 | 0.6 | - | 1.4<small>%</small> |
+| 썸에이지 | - | 1.7 | - | 1.9<small>%</small> |
+| 지란지교시큐리티 | 2.7 | 0.6 | - | 1.4<small>%</small> |
 | 소프트캠프 | - | 2.5 | - | 1.3<small>%</small> |
 | 골드앤에스 | - | 2.4 | - | 1.3<small>%</small> |
-| 이퓨쳐 | 15.4 | 0.9 | - | 1.1<small>%</small> |
+| 이퓨쳐 | 15.6 | 1.0 | - | 1.1<small>%</small> |
 | 비유테크놀러지 | - | 1.3 | - | 0.9<small>%</small> |
 
 {% include commons/footnotes.md %}
