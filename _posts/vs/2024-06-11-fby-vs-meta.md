@@ -96,7 +96,7 @@ Meta Platforms Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경
 지난 10개월간 거치식으로 투자했다고 가정합니다.
 
 Meta Platforms Inc의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 49.1%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 FBY의 34.6%보다 14.4% 높았습니다.
+이 포트폴리오는 FBY의 34.6%보다 14.5% 높았습니다.
 
 ### FBY	&lt; Meta Platforms Inc
 {: .text-center}
