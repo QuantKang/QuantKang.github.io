@@ -29,8 +29,8 @@ Meta Platforms Inc 상품과 FBY 상품의 성과를 수익률과 위험도로 �
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| FBY | <span style="color: tomato">35.1<small>%</small></span> | 26.2<small>%</small> | 1.34 | -14.8<small>%</small> | -4.1<small>%</small> |
-| Meta Platforms Inc | <span style="color: tomato">66.7<small>%</small></span> | 36.3<small>%</small> | 1.84 | -18.4<small>%</small> | -4.8<small>%</small> |
+| FBY | <span style="color: tomato">35.1<small>%</small></span> | 26.1<small>%</small> | 1.35 | -14.8<small>%</small> | -4.1<small>%</small> |
+| Meta Platforms Inc | <span style="color: tomato">66.7<small>%</small></span> | 36.2<small>%</small> | 1.84 | -18.4<small>%</small> | -4.8<small>%</small> |
 
 <!-- more -->
 
@@ -39,7 +39,7 @@ Meta Platforms Inc 상품과 FBY 상품의 성과를 수익률과 위험도로 �
 
 **수익률 지표 (CAGR):** FBY의 CAGR은 35.1%로 Meta Platforms Inc의 66.7%보다 -31.6% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** FBY의 표준편차는 26.2%로 Meta Platforms Inc의 36.3%보다 -10.2% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** FBY의 표준편차는 26.1%로 Meta Platforms Inc의 36.2%보다 -10.1% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** FBY의 14.8%의 MDD는 Meta Platforms Inc의 18.4%보다 -3.7% 낮았습니다. (낮은 위험도)
 
@@ -50,7 +50,7 @@ Meta Platforms Inc 상품과 FBY 상품의 성과를 수익률과 위험도로 �
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 Meta Platforms Inc의 투자 비중[^fn_vs_weight]을 조절하여 FBY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 36.3% / 26.2% = 72% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 36.2% / 26.1% = 72% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 18.4% / 14.8% = 80% 비중으로 투자하면 됩니다.
 
@@ -72,10 +72,10 @@ Meta Platforms Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| FBY | <span style="color: tomato">35.1<small>%</small></span> | 26.2<small>%</small> | 1.34 | -14.8<small>%</small> | -4.1<small>%</small> |
-| Meta Platforms Inc | <span style="color: tomato">66.7<small>%</small></span> | 36.3<small>%</small> | 1.84 | -18.4<small>%</small> | -4.8<small>%</small> |
-| Meta Platforms Inc<sub>STD</sub> <small>(72%)</small> | <span style="color: tomato">46.3<small>%</small></span> | 26.2<small>%</small> | 1.77 | -13.5<small>%</small> | -3.4<small>%</small> |
-| Meta Platforms Inc<sub>MDD</sub> <small>(80%)</small> | <span style="color: tomato">52.2<small>%</small></span> | 29.1<small>%</small> | 1.79 | -14.9<small>%</small> | -3.8<small>%</small> |
+| FBY | <span style="color: tomato">35.1<small>%</small></span> | 26.1<small>%</small> | 1.35 | -14.8<small>%</small> | -4.1<small>%</small> |
+| Meta Platforms Inc | <span style="color: tomato">66.7<small>%</small></span> | 36.2<small>%</small> | 1.84 | -18.4<small>%</small> | -4.8<small>%</small> |
+| Meta Platforms Inc<sub>STD</sub> <small>(72%)</small> | <span style="color: tomato">46.3<small>%</small></span> | 26.1<small>%</small> | 1.78 | -13.5<small>%</small> | -3.4<small>%</small> |
+| Meta Platforms Inc<sub>MDD</sub> <small>(80%)</small> | <span style="color: tomato">52.2<small>%</small></span> | 29.0<small>%</small> | 1.80 | -14.9<small>%</small> | -3.8<small>%</small> |
 
 
 

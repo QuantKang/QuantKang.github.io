@@ -29,8 +29,8 @@ Walt Disney Co 상품과 DISO 상품의 성과를 수익률과 위험도로 비�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| DISO | <span style="color: tomato">11.2<small>%</small></span> | 19.8<small>%</small> | 0.56 | -17.0<small>%</small> | -3.9<small>%</small> |
-| Walt Disney Co | <span style="color: tomato">27.3<small>%</small></span> | 27.5<small>%</small> | 1.00 | -18.0<small>%</small> | -4.8<small>%</small> |
+| DISO | <span style="color: tomato">11.2<small>%</small></span> | 19.8<small>%</small> | 0.57 | -17.0<small>%</small> | -4.0<small>%</small> |
+| Walt Disney Co | <span style="color: tomato">27.3<small>%</small></span> | 27.4<small>%</small> | 1.00 | -18.0<small>%</small> | -4.9<small>%</small> |
 
 <!-- more -->
 
@@ -39,7 +39,7 @@ Walt Disney Co 상품과 DISO 상품의 성과를 수익률과 위험도로 비�
 
 **수익률 지표 (CAGR):** DISO의 CAGR은 11.2%로 Walt Disney Co의 27.3%보다 -16.1% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** DISO의 표준편차는 19.8%로 Walt Disney Co의 27.5%보다 -7.6% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** DISO의 표준편차는 19.8%로 Walt Disney Co의 27.4%보다 -7.6% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** DISO의 17.0%의 MDD는 Walt Disney Co의 18.0%보다 -1.0% 낮았습니다. (낮은 위험도)
 
@@ -50,7 +50,7 @@ Walt Disney Co 상품과 DISO 상품의 성과를 수익률과 위험도로 비�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 Walt Disney Co의 투자 비중[^fn_vs_weight]을 조절하여 DISO의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 27.5% / 19.8% = 72% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 27.4% / 19.8% = 72% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 18.0% / 17.0% = 94% 비중으로 투자하면 됩니다.
 
@@ -72,10 +72,10 @@ Walt Disney Co<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| DISO | <span style="color: tomato">11.2<small>%</small></span> | 19.8<small>%</small> | 0.56 | -17.0<small>%</small> | -3.9<small>%</small> |
-| Walt Disney Co | <span style="color: tomato">27.3<small>%</small></span> | 27.5<small>%</small> | 1.00 | -18.0<small>%</small> | -4.8<small>%</small> |
+| DISO | <span style="color: tomato">11.2<small>%</small></span> | 19.8<small>%</small> | 0.57 | -17.0<small>%</small> | -4.0<small>%</small> |
+| Walt Disney Co | <span style="color: tomato">27.3<small>%</small></span> | 27.4<small>%</small> | 1.00 | -18.0<small>%</small> | -4.9<small>%</small> |
 | Walt Disney Co<sub>STD</sub> <small>(72%)</small> | <span style="color: tomato">20.0<small>%</small></span> | 19.8<small>%</small> | 1.01 | -13.3<small>%</small> | -3.5<small>%</small> |
-| Walt Disney Co<sub>MDD</sub> <small>(94%)</small> | <span style="color: tomato">25.9<small>%</small></span> | 25.9<small>%</small> | 1.00 | -17.1<small>%</small> | -4.5<small>%</small> |
+| Walt Disney Co<sub>MDD</sub> <small>(94%)</small> | <span style="color: tomato">25.9<small>%</small></span> | 25.9<small>%</small> | 1.00 | -17.1<small>%</small> | -4.6<small>%</small> |
 
 
 

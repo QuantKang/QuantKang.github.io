@@ -27,8 +27,8 @@ keywords: IWM, IWMY, IWMY IWM 비교
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| IWMY | <span style="color: tomato">19.9<small>%</small></span> | 12.9<small>%</small> | 1.54 | -5.3<small>%</small> | -1.8<small>%</small> |
-| IWM | <span style="color: tomato">42.5<small>%</small></span> | 20.9<small>%</small> | 2.03 | -8.3<small>%</small> | -2.6<small>%</small> |
+| IWMY | <span style="color: tomato">19.9<small>%</small></span> | 12.9<small>%</small> | 1.55 | -5.3<small>%</small> | -1.8<small>%</small> |
+| IWM | <span style="color: tomato">42.5<small>%</small></span> | 20.9<small>%</small> | 2.03 | -8.3<small>%</small> | -2.7<small>%</small> |
 
 <!-- more -->
 
@@ -70,10 +70,10 @@ IWM<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IWM<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| IWMY | <span style="color: tomato">19.9<small>%</small></span> | 12.9<small>%</small> | 1.54 | -5.3<small>%</small> | -1.8<small>%</small> |
-| IWM | <span style="color: tomato">42.5<small>%</small></span> | 20.9<small>%</small> | 2.03 | -8.3<small>%</small> | -2.6<small>%</small> |
+| IWMY | <span style="color: tomato">19.9<small>%</small></span> | 12.9<small>%</small> | 1.55 | -5.3<small>%</small> | -1.8<small>%</small> |
+| IWM | <span style="color: tomato">42.5<small>%</small></span> | 20.9<small>%</small> | 2.03 | -8.3<small>%</small> | -2.7<small>%</small> |
 | IWM<sub>STD</sub> <small>(62%)</small> | <span style="color: tomato">25.0<small>%</small></span> | 12.9<small>%</small> | 1.94 | -5.2<small>%</small> | -1.6<small>%</small> |
-| IWM<sub>MDD</sub> <small>(63%)</small> | <span style="color: tomato">25.8<small>%</small></span> | 13.3<small>%</small> | 1.94 | -5.3<small>%</small> | -1.7<small>%</small> |
+| IWM<sub>MDD</sub> <small>(63%)</small> | <span style="color: tomato">25.8<small>%</small></span> | 13.2<small>%</small> | 1.95 | -5.3<small>%</small> | -1.7<small>%</small> |
 
 
 

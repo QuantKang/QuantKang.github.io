@@ -30,7 +30,7 @@ JEPI 상품과 JEPQ 상품의 성과를 수익률과 위험도로 비교합니�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | JEPQ | <span style="color: tomato">15.3<small>%</small></span> | 16.5<small>%</small> | 0.93 | -16.8<small>%</small> | -4.1<small>%</small> |
-| JEPI | <span style="color: tomato">7.1<small>%</small></span> | 11.0<small>%</small> | 0.64 | -10.5<small>%</small> | -2.0<small>%</small> |
+| JEPI | <span style="color: tomato">7.1<small>%</small></span> | 11.0<small>%</small> | 0.65 | -10.5<small>%</small> | -2.0<small>%</small> |
 
 <!-- more -->
 
@@ -39,7 +39,7 @@ JEPI 상품과 JEPQ 상품의 성과를 수익률과 위험도로 비교합니�
 
 **수익률 지표 (CAGR):** JEPQ의 CAGR은 15.3%로 JEPI의 7.1%보다 8.2% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** JEPQ의 표준편차는 16.5%로 JEPI의 11.0%보다 5.6% 높았습니다. (높은 위험도)
+**위험도 지표 (표준편차):** JEPQ의 표준편차는 16.5%로 JEPI의 11.0%보다 5.5% 높았습니다. (높은 위험도)
 
 **위험도 지표 (MDD):** JEPQ의 16.8%의 MDD는 JEPI의 10.5%보다 6.3% 높았습니다. (높은 위험도)
 
@@ -73,9 +73,9 @@ JEPI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | JEPQ | <span style="color: tomato">15.3<small>%</small></span> | 16.5<small>%</small> | 0.93 | -16.8<small>%</small> | -4.1<small>%</small> |
-| JEPI | <span style="color: tomato">7.1<small>%</small></span> | 11.0<small>%</small> | 0.64 | -10.5<small>%</small> | -2.0<small>%</small> |
-| JEPI<sub>STD</sub> <small>(151%)</small> | <span style="color: tomato">10.3<small>%</small></span> | 16.5<small>%</small> | 0.62 | -15.5<small>%</small> | -3.0<small>%</small> |
-| JEPI<sub>MDD</sub> <small>(160%)</small> | <span style="color: tomato">10.9<small>%</small></span> | 17.6<small>%</small> | 0.62 | -16.4<small>%</small> | -3.2<small>%</small> |
+| JEPI | <span style="color: tomato">7.1<small>%</small></span> | 11.0<small>%</small> | 0.65 | -10.5<small>%</small> | -2.0<small>%</small> |
+| JEPI<sub>STD</sub> <small>(151%)</small> | <span style="color: tomato">10.3<small>%</small></span> | 16.5<small>%</small> | 0.63 | -15.5<small>%</small> | -3.0<small>%</small> |
+| JEPI<sub>MDD</sub> <small>(160%)</small> | <span style="color: tomato">10.9<small>%</small></span> | 17.5<small>%</small> | 0.62 | -16.4<small>%</small> | -3.2<small>%</small> |
 
 
 

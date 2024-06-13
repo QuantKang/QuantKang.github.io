@@ -73,7 +73,7 @@ IJH<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IJH<
 | XMLV | <span style="color: tomato">9.2<small>%</small></span> | 16.2<small>%</small> | 0.57 | -39.9<small>%</small> | -4.5<small>%</small> |
 | IJH | <span style="color: tomato">10.6<small>%</small></span> | 19.7<small>%</small> | 0.54 | -42.2<small>%</small> | -5.4<small>%</small> |
 | IJH<sub>STD</sub> <small>(82%)</small> | <span style="color: tomato">9.0<small>%</small></span> | 16.2<small>%</small> | 0.55 | -35.8<small>%</small> | -4.3<small>%</small> |
-| IJH<sub>MDD</sub> <small>(94%)</small> | <span style="color: tomato">10.1<small>%</small></span> | 18.7<small>%</small> | 0.54 | -40.3<small>%</small> | -5.0<small>%</small> |
+| IJH<sub>MDD</sub> <small>(94%)</small> | <span style="color: tomato">10.1<small>%</small></span> | 18.6<small>%</small> | 0.54 | -40.3<small>%</small> | -5.0<small>%</small> |
 
 
 

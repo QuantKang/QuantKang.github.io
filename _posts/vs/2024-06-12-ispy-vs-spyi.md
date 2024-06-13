@@ -29,8 +29,8 @@ SPYI 상품과 ISPY 상품의 성과를 수익률과 위험도로 비교합니�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| ISPY | <span style="color: tomato">29.7<small>%</small></span> | 9.9<small>%</small> | 3.00 | -4.9<small>%</small> | -0.8<small>%</small> |
-| SPYI | <span style="color: tomato">23.2<small>%</small></span> | 7.8<small>%</small> | 2.97 | -4.6<small>%</small> | -0.6<small>%</small> |
+| ISPY | <span style="color: tomato">29.7<small>%</small></span> | 9.8<small>%</small> | 3.02 | -4.9<small>%</small> | -0.8<small>%</small> |
+| SPYI | <span style="color: tomato">23.2<small>%</small></span> | 7.8<small>%</small> | 2.98 | -4.6<small>%</small> | -0.6<small>%</small> |
 
 <!-- more -->
 
@@ -39,7 +39,7 @@ SPYI 상품과 ISPY 상품의 성과를 수익률과 위험도로 비교합니�
 
 **수익률 지표 (CAGR):** ISPY의 CAGR은 29.7%로 SPYI의 23.2%보다 6.5% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** ISPY의 표준편차는 9.9%로 SPYI의 7.8%보다 2.1% 높았습니다. (높은 위험도)
+**위험도 지표 (표준편차):** ISPY의 표준편차는 9.8%로 SPYI의 7.8%보다 2.1% 높았습니다. (높은 위험도)
 
 **위험도 지표 (MDD):** ISPY의 4.9%의 MDD는 SPYI의 4.6%와 비슷했습니다. (비슷한 위험도)
 
@@ -50,7 +50,7 @@ SPYI 상품과 ISPY 상품의 성과를 수익률과 위험도로 비교합니�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 SPYI의 투자 비중[^fn_vs_weight]을 조절하여 ISPY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 7.8% / 9.9% = 127% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 7.8% / 9.8% = 127% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 4.6% / 4.9% = 105% 비중으로 투자하면 됩니다.
 
@@ -72,10 +72,10 @@ SPYI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| ISPY | <span style="color: tomato">29.7<small>%</small></span> | 9.9<small>%</small> | 3.00 | -4.9<small>%</small> | -0.8<small>%</small> |
-| SPYI | <span style="color: tomato">23.2<small>%</small></span> | 7.8<small>%</small> | 2.97 | -4.6<small>%</small> | -0.6<small>%</small> |
-| SPYI<sub>STD</sub> <small>(127%)</small> | <span style="color: tomato">30.1<small>%</small></span> | 9.9<small>%</small> | 3.04 | -5.9<small>%</small> | -0.8<small>%</small> |
-| SPYI<sub>MDD</sub> <small>(105%)</small> | <span style="color: tomato">24.6<small>%</small></span> | 8.2<small>%</small> | 2.98 | -4.9<small>%</small> | -0.6<small>%</small> |
+| ISPY | <span style="color: tomato">29.7<small>%</small></span> | 9.8<small>%</small> | 3.02 | -4.9<small>%</small> | -0.8<small>%</small> |
+| SPYI | <span style="color: tomato">23.2<small>%</small></span> | 7.8<small>%</small> | 2.98 | -4.6<small>%</small> | -0.6<small>%</small> |
+| SPYI<sub>STD</sub> <small>(127%)</small> | <span style="color: tomato">30.1<small>%</small></span> | 9.8<small>%</small> | 3.06 | -5.9<small>%</small> | -0.8<small>%</small> |
+| SPYI<sub>MDD</sub> <small>(105%)</small> | <span style="color: tomato">24.6<small>%</small></span> | 8.2<small>%</small> | 3.00 | -4.9<small>%</small> | -0.6<small>%</small> |
 
 
 

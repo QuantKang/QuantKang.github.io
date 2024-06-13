@@ -29,8 +29,8 @@ XYLD 상품과 ISPY 상품의 성과를 수익률과 위험도로 비교합니�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| ISPY | <span style="color: tomato">29.7<small>%</small></span> | 9.9<small>%</small> | 3.00 | -4.9<small>%</small> | -0.8<small>%</small> |
-| XYLD | <span style="color: tomato">17.0<small>%</small></span> | 4.3<small>%</small> | 4.00 | -2.7<small>%</small> | -0.3<small>%</small> |
+| ISPY | <span style="color: tomato">29.7<small>%</small></span> | 9.8<small>%</small> | 3.02 | -4.9<small>%</small> | -0.8<small>%</small> |
+| XYLD | <span style="color: tomato">17.0<small>%</small></span> | 4.2<small>%</small> | 4.03 | -2.7<small>%</small> | -0.3<small>%</small> |
 
 <!-- more -->
 
@@ -39,7 +39,7 @@ XYLD 상품과 ISPY 상품의 성과를 수익률과 위험도로 비교합니�
 
 **수익률 지표 (CAGR):** ISPY의 CAGR은 29.7%로 XYLD의 17.0%보다 12.7% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** ISPY의 표준편차는 9.9%로 XYLD의 4.3%보다 5.6% 높았습니다. (높은 위험도)
+**위험도 지표 (표준편차):** ISPY의 표준편차는 9.8%로 XYLD의 4.2%보다 5.6% 높았습니다. (높은 위험도)
 
 **위험도 지표 (MDD):** ISPY의 4.9%의 MDD는 XYLD의 2.7%보다 2.2% 높았습니다. (높은 위험도)
 
@@ -50,7 +50,7 @@ XYLD 상품과 ISPY 상품의 성과를 수익률과 위험도로 비교합니�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 XYLD의 투자 비중[^fn_vs_weight]을 조절하여 ISPY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 4.3% / 9.9% = 232% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 4.2% / 9.8% = 233% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 2.7% / 4.9% = 183% 비중으로 투자하면 됩니다.
 
@@ -72,16 +72,16 @@ XYLD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, XYL
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| ISPY | <span style="color: tomato">29.7<small>%</small></span> | 9.9<small>%</small> | 3.00 | -4.9<small>%</small> | -0.8<small>%</small> |
-| XYLD | <span style="color: tomato">17.0<small>%</small></span> | 4.3<small>%</small> | 4.00 | -2.7<small>%</small> | -0.3<small>%</small> |
-| XYLD<sub>STD</sub> <small>(232%)</small> | <span style="color: tomato">43.8<small>%</small></span> | 9.9<small>%</small> | 4.42 | -6.1<small>%</small> | -0.7<small>%</small> |
-| XYLD<sub>MDD</sub> <small>(183%)</small> | <span style="color: tomato">33.3<small>%</small></span> | 7.8<small>%</small> | 4.26 | -4.9<small>%</small> | -0.6<small>%</small> |
+| ISPY | <span style="color: tomato">29.7<small>%</small></span> | 9.8<small>%</small> | 3.02 | -4.9<small>%</small> | -0.8<small>%</small> |
+| XYLD | <span style="color: tomato">17.0<small>%</small></span> | 4.2<small>%</small> | 4.03 | -2.7<small>%</small> | -0.3<small>%</small> |
+| XYLD<sub>STD</sub> <small>(233%)</small> | <span style="color: tomato">43.8<small>%</small></span> | 9.8<small>%</small> | 4.45 | -6.1<small>%</small> | -0.7<small>%</small> |
+| XYLD<sub>MDD</sub> <small>(183%)</small> | <span style="color: tomato">33.3<small>%</small></span> | 7.8<small>%</small> | 4.29 | -4.9<small>%</small> | -0.6<small>%</small> |
 
 
 
 각각의 경우를 ISPY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 232% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 43.8%로 ISPY의 29.7%보다 14.1% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 233% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 43.8%로 ISPY의 29.7%보다 14.1% 높았습니다. (높은 수익률)
 
 **위험도 지표 (MDD):** 183% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 33.3%로 ISPY의 29.7%보다 3.6% 높았습니다. (높은 수익률)
 
@@ -95,8 +95,8 @@ XYLD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, XYL
 
 지난 6개월간 거치식으로 투자했다고 가정합니다.
 
-XYLD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 38.5%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 ISPY의 29.7%보다 8.8% 높았습니다.
+XYLD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 38.6%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 ISPY의 29.7%보다 8.9% 높았습니다.
 
 ### ISPY	&lt; XYLD
 {: .text-center}

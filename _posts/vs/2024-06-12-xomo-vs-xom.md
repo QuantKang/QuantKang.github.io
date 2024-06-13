@@ -30,7 +30,7 @@ Exxon Mobil Corp 상품과 XOMO 상품의 성과를 수익률과 위험도로 �
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | XOMO | <span style="color: cornflowerblue">-5.5<small>%</small></span> | 15.2<small>%</small> | -0.36 | -13.5<small>%</small> | -6.6<small>%</small> |
-| Exxon Mobil Corp | <span style="color: tomato">3.1<small>%</small></span> | 20.5<small>%</small> | 0.15 | -18.7<small>%</small> | -8.5<small>%</small> |
+| Exxon Mobil Corp | <span style="color: tomato">3.1<small>%</small></span> | 20.3<small>%</small> | 0.15 | -18.7<small>%</small> | -8.5<small>%</small> |
 
 <!-- more -->
 
@@ -39,7 +39,7 @@ Exxon Mobil Corp 상품과 XOMO 상품의 성과를 수익률과 위험도로 �
 
 **수익률 지표 (CAGR):** XOMO의 CAGR은 -5.5%로 Exxon Mobil Corp의 3.1%보다 -8.6% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** XOMO의 표준편차는 15.2%로 Exxon Mobil Corp의 20.5%보다 -5.2% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** XOMO의 표준편차는 15.2%로 Exxon Mobil Corp의 20.3%보다 -5.2% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** XOMO의 13.5%의 MDD는 Exxon Mobil Corp의 18.7%보다 -5.2% 낮았습니다. (낮은 위험도)
 
@@ -50,7 +50,7 @@ Exxon Mobil Corp 상품과 XOMO 상품의 성과를 수익률과 위험도로 �
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 Exxon Mobil Corp의 투자 비중[^fn_vs_weight]을 조절하여 XOMO의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 20.5% / 15.2% = 74% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 20.3% / 15.2% = 74% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 18.7% / 13.5% = 72% 비중으로 투자하면 됩니다.
 
@@ -73,9 +73,9 @@ Exxon Mobil Corp<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | XOMO | <span style="color: cornflowerblue">-5.5<small>%</small></span> | 15.2<small>%</small> | -0.36 | -13.5<small>%</small> | -6.6<small>%</small> |
-| Exxon Mobil Corp | <span style="color: tomato">3.1<small>%</small></span> | 20.5<small>%</small> | 0.15 | -18.7<small>%</small> | -8.5<small>%</small> |
+| Exxon Mobil Corp | <span style="color: tomato">3.1<small>%</small></span> | 20.3<small>%</small> | 0.15 | -18.7<small>%</small> | -8.5<small>%</small> |
 | Exxon Mobil Corp<sub>STD</sub> <small>(74%)</small> | <span style="color: tomato">2.7<small>%</small></span> | 15.2<small>%</small> | 0.18 | -14.2<small>%</small> | -6.4<small>%</small> |
-| Exxon Mobil Corp<sub>MDD</sub> <small>(72%)</small> | <span style="color: tomato">2.7<small>%</small></span> | 14.8<small>%</small> | 0.18 | -13.8<small>%</small> | -6.2<small>%</small> |
+| Exxon Mobil Corp<sub>MDD</sub> <small>(72%)</small> | <span style="color: tomato">2.7<small>%</small></span> | 14.7<small>%</small> | 0.18 | -13.8<small>%</small> | -6.2<small>%</small> |
 
 
 

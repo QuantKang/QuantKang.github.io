@@ -29,8 +29,8 @@ JEPI 상품과 BALI 상품의 성과를 수익률과 위험도로 비교합니�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| BALI | <span style="color: tomato">35.5<small>%</small></span> | 9.4<small>%</small> | 3.77 | -5.3<small>%</small> | -0.8<small>%</small> |
-| JEPI | <span style="color: tomato">16.2<small>%</small></span> | 7.2<small>%</small> | 2.25 | -4.7<small>%</small> | -0.7<small>%</small> |
+| BALI | <span style="color: tomato">35.5<small>%</small></span> | 9.4<small>%</small> | 3.79 | -5.3<small>%</small> | -0.8<small>%</small> |
+| JEPI | <span style="color: tomato">16.2<small>%</small></span> | 7.2<small>%</small> | 2.26 | -4.7<small>%</small> | -0.7<small>%</small> |
 
 <!-- more -->
 
@@ -72,10 +72,10 @@ JEPI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| BALI | <span style="color: tomato">35.5<small>%</small></span> | 9.4<small>%</small> | 3.77 | -5.3<small>%</small> | -0.8<small>%</small> |
-| JEPI | <span style="color: tomato">16.2<small>%</small></span> | 7.2<small>%</small> | 2.25 | -4.7<small>%</small> | -0.7<small>%</small> |
+| BALI | <span style="color: tomato">35.5<small>%</small></span> | 9.4<small>%</small> | 3.79 | -5.3<small>%</small> | -0.8<small>%</small> |
+| JEPI | <span style="color: tomato">16.2<small>%</small></span> | 7.2<small>%</small> | 2.26 | -4.7<small>%</small> | -0.7<small>%</small> |
 | JEPI<sub>STD</sub> <small>(131%)</small> | <span style="color: tomato">21.6<small>%</small></span> | 9.4<small>%</small> | 2.30 | -6.1<small>%</small> | -0.9<small>%</small> |
-| JEPI<sub>MDD</sub> <small>(111%)</small> | <span style="color: tomato">18.2<small>%</small></span> | 8.0<small>%</small> | 2.27 | -5.2<small>%</small> | -0.8<small>%</small> |
+| JEPI<sub>MDD</sub> <small>(111%)</small> | <span style="color: tomato">18.2<small>%</small></span> | 8.0<small>%</small> | 2.28 | -5.2<small>%</small> | -0.8<small>%</small> |
 
 
 

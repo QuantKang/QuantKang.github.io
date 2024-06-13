@@ -2,7 +2,7 @@
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | IWM | 기초 | <span style="color: tomato">11.1<small>%</small></span> | - | - | - |
 | [UWM](/uwm/) | 2<small>배</small> | <span style="color: tomato">11.7<small>%</small></span> | 3.6<small>%</small> | 6.3<small>%</small> | 9.6<small>%</small> |
-| [TNA](/tna/) | 3<small>배</small> | <span style="color: tomato">8.8<small>%</small></span> | 10.3<small>%</small> | 11.7<small>%</small> | 20.7<small>%</small> |
+| [TNA](/tna/) | 3<small>배</small> | <span style="color: tomato">8.8<small>%</small></span> | 10.3<small>%</small> | 11.6<small>%</small> | 20.7<small>%</small> |
 | [RWM](/rwm/) | -1<small>배</small> | <span style="color: cornflowerblue">-4.9<small>%</small></span> | 3.6<small>%</small> | -9.6<small>%</small> | -5.7<small>%</small> |
-| [TWM](/twm/) | -2<small>배</small> | <span style="color: cornflowerblue">-17.6<small>%</small></span> | 10.4<small>%</small> | -13.6<small>%</small> | -1.8<small>%</small> |
-| [TZA](/tza/) | -3<small>배</small> | <span style="color: cornflowerblue">-29.4<small>%</small></span> | 19.8<small>%</small> | -20.8<small>%</small> | 3.1<small>%</small> |
+| [TWM](/twm/) | -2<small>배</small> | <span style="color: cornflowerblue">-17.6<small>%</small></span> | 10.4<small>%</small> | -13.7<small>%</small> | -1.8<small>%</small> |
+| [TZA](/tza/) | -3<small>배</small> | <span style="color: cornflowerblue">-29.4<small>%</small></span> | 19.9<small>%</small> | -20.9<small>%</small> | 3.1<small>%</small> |

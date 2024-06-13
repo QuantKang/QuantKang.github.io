@@ -29,8 +29,8 @@ QQQ 상품과 BALI 상품의 성과를 수익률과 위험도로 비교합니다
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| BALI | <span style="color: tomato">35.5<small>%</small></span> | 9.4<small>%</small> | 3.77 | -5.3<small>%</small> | -0.8<small>%</small> |
-| QQQ | <span style="color: tomato">49.7<small>%</small></span> | 15.6<small>%</small> | 3.19 | -7.4<small>%</small> | -1.3<small>%</small> |
+| BALI | <span style="color: tomato">35.5<small>%</small></span> | 9.4<small>%</small> | 3.79 | -5.3<small>%</small> | -0.8<small>%</small> |
+| QQQ | <span style="color: tomato">49.7<small>%</small></span> | 15.5<small>%</small> | 3.21 | -7.4<small>%</small> | -1.2<small>%</small> |
 
 <!-- more -->
 
@@ -39,7 +39,7 @@ QQQ 상품과 BALI 상품의 성과를 수익률과 위험도로 비교합니다
 
 **수익률 지표 (CAGR):** BALI의 CAGR은 35.5%로 QQQ의 49.7%보다 -14.2% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** BALI의 표준편차는 9.4%로 QQQ의 15.6%보다 -6.2% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** BALI의 표준편차는 9.4%로 QQQ의 15.5%보다 -6.1% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** BALI의 5.3%의 MDD는 QQQ의 7.4%보다 -2.2% 낮았습니다. (낮은 위험도)
 
@@ -50,7 +50,7 @@ QQQ 상품과 BALI 상품의 성과를 수익률과 위험도로 비교합니다
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 QQQ의 투자 비중[^fn_vs_weight]을 조절하여 BALI의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 15.6% / 9.4% = 60% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 15.5% / 9.4% = 61% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 7.4% / 5.3% = 71% 비중으로 투자하면 됩니다.
 
@@ -72,16 +72,16 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| BALI | <span style="color: tomato">35.5<small>%</small></span> | 9.4<small>%</small> | 3.77 | -5.3<small>%</small> | -0.8<small>%</small> |
-| QQQ | <span style="color: tomato">49.7<small>%</small></span> | 15.6<small>%</small> | 3.19 | -7.4<small>%</small> | -1.3<small>%</small> |
-| QQQ<sub>STD</sub> <small>(60%)</small> | <span style="color: tomato">28.0<small>%</small></span> | 9.4<small>%</small> | 2.97 | -4.5<small>%</small> | -0.8<small>%</small> |
-| QQQ<sub>MDD</sub> <small>(71%)</small> | <span style="color: tomato">33.4<small>%</small></span> | 11.0<small>%</small> | 3.02 | -5.3<small>%</small> | -0.9<small>%</small> |
+| BALI | <span style="color: tomato">35.5<small>%</small></span> | 9.4<small>%</small> | 3.79 | -5.3<small>%</small> | -0.8<small>%</small> |
+| QQQ | <span style="color: tomato">49.7<small>%</small></span> | 15.5<small>%</small> | 3.21 | -7.4<small>%</small> | -1.2<small>%</small> |
+| QQQ<sub>STD</sub> <small>(61%)</small> | <span style="color: tomato">28.1<small>%</small></span> | 9.4<small>%</small> | 2.99 | -4.5<small>%</small> | -0.8<small>%</small> |
+| QQQ<sub>MDD</sub> <small>(71%)</small> | <span style="color: tomato">33.4<small>%</small></span> | 11.0<small>%</small> | 3.05 | -5.3<small>%</small> | -0.9<small>%</small> |
 
 
 
 각각의 경우를 BALI의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 60% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 28.0%로 BALI의 35.5%보다 -7.5% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 61% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 28.1%로 BALI의 35.5%보다 -7.4% 낮았습니다. (낮은 수익률)
 
 **위험도 지표 (MDD):** 71% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 33.4%로 BALI의 35.5%보다 -2.1% 낮았습니다. (낮은 수익률)
 

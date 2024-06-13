@@ -30,7 +30,7 @@ Netflix Inc 상품과 NFLY 상품의 성과를 수익률과 위험도로 비교�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | NFLY | <span style="color: tomato">26.0<small>%</small></span> | 30.2<small>%</small> | 0.86 | -21.4<small>%</small> | -4.6<small>%</small> |
-| Netflix Inc | <span style="color: tomato">59.3<small>%</small></span> | 34.7<small>%</small> | 1.71 | -22.8<small>%</small> | -4.6<small>%</small> |
+| Netflix Inc | <span style="color: tomato">59.3<small>%</small></span> | 34.6<small>%</small> | 1.72 | -22.8<small>%</small> | -4.6<small>%</small> |
 
 <!-- more -->
 
@@ -39,7 +39,7 @@ Netflix Inc 상품과 NFLY 상품의 성과를 수익률과 위험도로 비교�
 
 **수익률 지표 (CAGR):** NFLY의 CAGR은 26.0%로 Netflix Inc의 59.3%보다 -33.4% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** NFLY의 표준편차는 30.2%로 Netflix Inc의 34.7%보다 -4.4% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** NFLY의 표준편차는 30.2%로 Netflix Inc의 34.6%보다 -4.4% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** NFLY의 21.4%의 MDD는 Netflix Inc의 22.8%보다 -1.4% 낮았습니다. (낮은 위험도)
 
@@ -50,7 +50,7 @@ Netflix Inc 상품과 NFLY 상품의 성과를 수익률과 위험도로 비교�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 Netflix Inc의 투자 비중[^fn_vs_weight]을 조절하여 NFLY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 34.7% / 30.2% = 87% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 34.6% / 30.2% = 87% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 22.8% / 21.4% = 94% 비중으로 투자하면 됩니다.
 
@@ -73,9 +73,9 @@ Netflix Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | NFLY | <span style="color: tomato">26.0<small>%</small></span> | 30.2<small>%</small> | 0.86 | -21.4<small>%</small> | -4.6<small>%</small> |
-| Netflix Inc | <span style="color: tomato">59.3<small>%</small></span> | 34.7<small>%</small> | 1.71 | -22.8<small>%</small> | -4.6<small>%</small> |
+| Netflix Inc | <span style="color: tomato">59.3<small>%</small></span> | 34.6<small>%</small> | 1.72 | -22.8<small>%</small> | -4.6<small>%</small> |
 | Netflix Inc<sub>STD</sub> <small>(87%)</small> | <span style="color: tomato">51.1<small>%</small></span> | 30.2<small>%</small> | 1.69 | -20.2<small>%</small> | -4.0<small>%</small> |
-| Netflix Inc<sub>MDD</sub> <small>(94%)</small> | <span style="color: tomato">55.4<small>%</small></span> | 32.5<small>%</small> | 1.70 | -21.6<small>%</small> | -4.3<small>%</small> |
+| Netflix Inc<sub>MDD</sub> <small>(94%)</small> | <span style="color: tomato">55.4<small>%</small></span> | 32.5<small>%</small> | 1.71 | -21.6<small>%</small> | -4.3<small>%</small> |
 
 
 

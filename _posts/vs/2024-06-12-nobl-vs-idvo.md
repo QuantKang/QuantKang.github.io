@@ -74,8 +74,8 @@ IDVO<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IDV
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | NOBL | <span style="color: tomato">6.6<small>%</small></span> | 14.3<small>%</small> | 0.46 | -12.9<small>%</small> | -3.7<small>%</small> |
 | IDVO | <span style="color: tomato">19.5<small>%</small></span> | 15.6<small>%</small> | 1.25 | -11.0<small>%</small> | -2.6<small>%</small> |
-| IDVO<sub>STD</sub> <small>(92%)</small> | <span style="color: tomato">17.9<small>%</small></span> | 14.3<small>%</small> | 1.25 | -10.2<small>%</small> | -2.4<small>%</small> |
-| IDVO<sub>MDD</sub> <small>(117%)</small> | <span style="color: tomato">23.0<small>%</small></span> | 18.3<small>%</small> | 1.26 | -12.8<small>%</small> | -3.1<small>%</small> |
+| IDVO<sub>STD</sub> <small>(92%)</small> | <span style="color: tomato">17.9<small>%</small></span> | 14.3<small>%</small> | 1.25 | -10.1<small>%</small> | -2.4<small>%</small> |
+| IDVO<sub>MDD</sub> <small>(117%)</small> | <span style="color: tomato">23.0<small>%</small></span> | 18.3<small>%</small> | 1.25 | -12.8<small>%</small> | -3.1<small>%</small> |
 
 
 

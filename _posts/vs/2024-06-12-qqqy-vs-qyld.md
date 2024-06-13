@@ -29,8 +29,8 @@ QYLD 상품과 QQQY 상품의 성과를 수익률과 위험도로 비교합니�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| QQQY | <span style="color: tomato">22.3<small>%</small></span> | 10.3<small>%</small> | 2.16 | -5.5<small>%</small> | -1.2<small>%</small> |
-| QYLD | <span style="color: tomato">15.1<small>%</small></span> | 8.1<small>%</small> | 1.86 | -5.0<small>%</small> | -0.9<small>%</small> |
+| QQQY | <span style="color: tomato">22.3<small>%</small></span> | 10.3<small>%</small> | 2.18 | -5.5<small>%</small> | -1.2<small>%</small> |
+| QYLD | <span style="color: tomato">15.1<small>%</small></span> | 8.1<small>%</small> | 1.87 | -5.0<small>%</small> | -0.9<small>%</small> |
 
 <!-- more -->
 
@@ -72,16 +72,16 @@ QYLD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QYL
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| QQQY | <span style="color: tomato">22.3<small>%</small></span> | 10.3<small>%</small> | 2.16 | -5.5<small>%</small> | -1.2<small>%</small> |
-| QYLD | <span style="color: tomato">15.1<small>%</small></span> | 8.1<small>%</small> | 1.86 | -5.0<small>%</small> | -0.9<small>%</small> |
-| QYLD<sub>STD</sub> <small>(127%)</small> | <span style="color: tomato">19.5<small>%</small></span> | 10.3<small>%</small> | 1.88 | -6.4<small>%</small> | -1.2<small>%</small> |
+| QQQY | <span style="color: tomato">22.3<small>%</small></span> | 10.3<small>%</small> | 2.18 | -5.5<small>%</small> | -1.2<small>%</small> |
+| QYLD | <span style="color: tomato">15.1<small>%</small></span> | 8.1<small>%</small> | 1.87 | -5.0<small>%</small> | -0.9<small>%</small> |
+| QYLD<sub>STD</sub> <small>(127%)</small> | <span style="color: tomato">19.4<small>%</small></span> | 10.3<small>%</small> | 1.89 | -6.4<small>%</small> | -1.2<small>%</small> |
 | QYLD<sub>MDD</sub> <small>(109%)</small> | <span style="color: tomato">16.5<small>%</small></span> | 8.8<small>%</small> | 1.87 | -5.5<small>%</small> | -1.0<small>%</small> |
 
 
 
 각각의 경우를 QQQY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 127% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 19.5%로 QQQY의 22.3%보다 -2.9% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 127% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 19.4%로 QQQY의 22.3%보다 -2.9% 낮았습니다. (낮은 수익률)
 
 **위험도 지표 (MDD):** 109% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 16.5%로 QQQY의 22.3%보다 -5.8% 낮았습니다. (낮은 수익률)
 
