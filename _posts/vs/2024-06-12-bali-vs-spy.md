@@ -29,8 +29,8 @@ SPY 상품과 BALI 상품의 성과를 수익률과 위험도로 비교합니다
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| BALI | <span style="color: tomato">35.5<small>%</small></span> | 9.4<small>%</small> | 3.77 | -5.3<small>%</small> | -0.8<small>%</small> |
-| SPY | <span style="color: tomato">40.6<small>%</small></span> | 11.4<small>%</small> | 3.56 | -5.9<small>%</small> | -0.9<small>%</small> |
+| BALI | <span style="color: tomato">35.5<small>%</small></span> | 9.4<small>%</small> | 3.79 | -5.3<small>%</small> | -0.8<small>%</small> |
+| SPY | <span style="color: tomato">40.6<small>%</small></span> | 11.4<small>%</small> | 3.58 | -5.9<small>%</small> | -0.9<small>%</small> |
 
 <!-- more -->
 
@@ -72,10 +72,10 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| BALI | <span style="color: tomato">35.5<small>%</small></span> | 9.4<small>%</small> | 3.77 | -5.3<small>%</small> | -0.8<small>%</small> |
-| SPY | <span style="color: tomato">40.6<small>%</small></span> | 11.4<small>%</small> | 3.56 | -5.9<small>%</small> | -0.9<small>%</small> |
-| SPY<sub>STD</sub> <small>(83%)</small> | <span style="color: tomato">32.6<small>%</small></span> | 9.4<small>%</small> | 3.46 | -4.9<small>%</small> | -0.7<small>%</small> |
-| SPY<sub>MDD</sub> <small>(89%)</small> | <span style="color: tomato">35.8<small>%</small></span> | 10.2<small>%</small> | 3.50 | -5.3<small>%</small> | -0.8<small>%</small> |
+| BALI | <span style="color: tomato">35.5<small>%</small></span> | 9.4<small>%</small> | 3.79 | -5.3<small>%</small> | -0.8<small>%</small> |
+| SPY | <span style="color: tomato">40.6<small>%</small></span> | 11.4<small>%</small> | 3.58 | -5.9<small>%</small> | -0.9<small>%</small> |
+| SPY<sub>STD</sub> <small>(83%)</small> | <span style="color: tomato">32.6<small>%</small></span> | 9.4<small>%</small> | 3.48 | -4.9<small>%</small> | -0.7<small>%</small> |
+| SPY<sub>MDD</sub> <small>(89%)</small> | <span style="color: tomato">35.8<small>%</small></span> | 10.2<small>%</small> | 3.52 | -5.3<small>%</small> | -0.8<small>%</small> |
 
 
 

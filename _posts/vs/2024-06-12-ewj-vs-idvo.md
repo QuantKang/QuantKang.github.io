@@ -75,7 +75,7 @@ IDVO<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IDV
 | EWJ | <span style="color: tomato">18.8<small>%</small></span> | 16.1<small>%</small> | 1.17 | -10.1<small>%</small> | -2.8<small>%</small> |
 | IDVO | <span style="color: tomato">19.5<small>%</small></span> | 15.6<small>%</small> | 1.25 | -11.0<small>%</small> | -2.6<small>%</small> |
 | IDVO<sub>STD</sub> <small>(103%)</small> | <span style="color: tomato">20.1<small>%</small></span> | 16.1<small>%</small> | 1.25 | -11.3<small>%</small> | -2.7<small>%</small> |
-| IDVO<sub>MDD</sub> <small>(92%)</small> | <span style="color: tomato">17.9<small>%</small></span> | 14.4<small>%</small> | 1.25 | -10.2<small>%</small> | -2.4<small>%</small> |
+| IDVO<sub>MDD</sub> <small>(92%)</small> | <span style="color: tomato">18.0<small>%</small></span> | 14.4<small>%</small> | 1.25 | -10.2<small>%</small> | -2.4<small>%</small> |
 
 
 
@@ -83,7 +83,7 @@ IDVO<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IDV
 
 **위험도 지표 (표준편차):** 103% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 20.1%로 EWJ의 18.8%보다 1.4% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 92% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 17.9%로 EWJ의 18.8%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (MDD):** 92% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 18.0%로 EWJ의 18.8%와 비슷했습니다. (비슷한 수익률)
 
 
 

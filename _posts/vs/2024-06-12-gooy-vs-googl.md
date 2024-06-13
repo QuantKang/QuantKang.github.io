@@ -29,8 +29,8 @@ Alphabet Inc Class A 상품과 GOOY 상품의 성과를 수익률과 위험도�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| GOOY | <span style="color: tomato">5.6<small>%</small></span> | 20.4<small>%</small> | 0.27 | -17.0<small>%</small> | -5.3<small>%</small> |
-| Alphabet Inc Class A | <span style="color: tomato">40.0<small>%</small></span> | 27.6<small>%</small> | 1.45 | -14.4<small>%</small> | -3.4<small>%</small> |
+| GOOY | <span style="color: tomato">5.6<small>%</small></span> | 20.3<small>%</small> | 0.28 | -17.0<small>%</small> | -5.3<small>%</small> |
+| Alphabet Inc Class A | <span style="color: tomato">40.0<small>%</small></span> | 27.5<small>%</small> | 1.46 | -14.4<small>%</small> | -3.4<small>%</small> |
 
 <!-- more -->
 
@@ -39,7 +39,7 @@ Alphabet Inc Class A 상품과 GOOY 상품의 성과를 수익률과 위험도�
 
 **수익률 지표 (CAGR):** GOOY의 CAGR은 5.6%로 Alphabet Inc Class A의 40.0%보다 -34.4% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** GOOY의 표준편차는 20.4%로 Alphabet Inc Class A의 27.6%보다 -7.2% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** GOOY의 표준편차는 20.3%로 Alphabet Inc Class A의 27.5%보다 -7.1% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** GOOY의 17.0%의 MDD는 Alphabet Inc Class A의 14.4%보다 2.6% 높았습니다. (높은 위험도)
 
@@ -50,7 +50,7 @@ Alphabet Inc Class A 상품과 GOOY 상품의 성과를 수익률과 위험도�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 Alphabet Inc Class A의 투자 비중[^fn_vs_weight]을 조절하여 GOOY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 27.6% / 20.4% = 74% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 27.5% / 20.3% = 74% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 14.4% / 17.0% = 118% 비중으로 투자하면 됩니다.
 
@@ -72,10 +72,10 @@ Alphabet Inc Class A<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] �
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| GOOY | <span style="color: tomato">5.6<small>%</small></span> | 20.4<small>%</small> | 0.27 | -17.0<small>%</small> | -5.3<small>%</small> |
-| Alphabet Inc Class A | <span style="color: tomato">40.0<small>%</small></span> | 27.6<small>%</small> | 1.45 | -14.4<small>%</small> | -3.4<small>%</small> |
-| Alphabet Inc Class A<sub>STD</sub> <small>(74%)</small> | <span style="color: tomato">29.2<small>%</small></span> | 20.4<small>%</small> | 1.43 | -10.8<small>%</small> | -2.5<small>%</small> |
-| Alphabet Inc Class A<sub>MDD</sub> <small>(118%)</small> | <span style="color: tomato">47.6<small>%</small></span> | 32.6<small>%</small> | 1.46 | -16.9<small>%</small> | -4.1<small>%</small> |
+| GOOY | <span style="color: tomato">5.6<small>%</small></span> | 20.3<small>%</small> | 0.28 | -17.0<small>%</small> | -5.3<small>%</small> |
+| Alphabet Inc Class A | <span style="color: tomato">40.0<small>%</small></span> | 27.5<small>%</small> | 1.46 | -14.4<small>%</small> | -3.4<small>%</small> |
+| Alphabet Inc Class A<sub>STD</sub> <small>(74%)</small> | <span style="color: tomato">29.2<small>%</small></span> | 20.3<small>%</small> | 1.44 | -10.8<small>%</small> | -2.5<small>%</small> |
+| Alphabet Inc Class A<sub>MDD</sub> <small>(118%)</small> | <span style="color: tomato">47.6<small>%</small></span> | 32.5<small>%</small> | 1.47 | -16.9<small>%</small> | -4.0<small>%</small> |
 
 
 

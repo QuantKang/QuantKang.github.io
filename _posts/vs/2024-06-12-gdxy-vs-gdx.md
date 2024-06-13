@@ -29,8 +29,8 @@ GDX 상품과 GDXY 상품의 성과를 수익률과 위험도로 비교합니다
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| GDXY | - | 38.9<small>%</small> | nan | -8.0<small>%</small> | -4.4<small>%</small> |
-| GDX | - | 46.1<small>%</small> | nan | -9.2<small>%</small> | -4.9<small>%</small> |
+| GDXY | - | 37.9<small>%</small> | nan | -8.0<small>%</small> | -4.5<small>%</small> |
+| GDX | - | 44.7<small>%</small> | nan | -9.2<small>%</small> | -5.2<small>%</small> |
 
 <!-- more -->
 
@@ -39,7 +39,7 @@ GDX 상품과 GDXY 상품의 성과를 수익률과 위험도로 비교합니다
 
 **수익률 지표 (CAGR):** GDXY의 CAGR은 -로 GDX의 -와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** GDXY의 표준편차는 38.9%로 GDX의 46.1%보다 -7.2% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** GDXY의 표준편차는 37.9%로 GDX의 44.7%보다 -6.8% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** GDXY의 8.0%의 MDD는 GDX의 9.2%보다 -1.2% 낮았습니다. (낮은 위험도)
 
@@ -50,7 +50,7 @@ GDX 상품과 GDXY 상품의 성과를 수익률과 위험도로 비교합니다
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 GDX의 투자 비중[^fn_vs_weight]을 조절하여 GDXY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 46.1% / 38.9% = 84% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 44.7% / 37.9% = 85% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 9.2% / 8.0% = 87% 비중으로 투자하면 됩니다.
 
@@ -72,16 +72,16 @@ GDX<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, GDX<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| GDXY | - | 38.9<small>%</small> | nan | -8.0<small>%</small> | -4.4<small>%</small> |
-| GDX | - | 46.1<small>%</small> | nan | -9.2<small>%</small> | -4.9<small>%</small> |
-| GDX<sub>STD</sub> <small>(84%)</small> | - | 38.9<small>%</small> | nan | -7.7<small>%</small> | -4.2<small>%</small> |
-| GDX<sub>MDD</sub> <small>(87%)</small> | - | 40.3<small>%</small> | nan | -8.0<small>%</small> | -4.3<small>%</small> |
+| GDXY | - | 37.9<small>%</small> | nan | -8.0<small>%</small> | -4.5<small>%</small> |
+| GDX | - | 44.7<small>%</small> | nan | -9.2<small>%</small> | -5.2<small>%</small> |
+| GDX<sub>STD</sub> <small>(85%)</small> | - | 37.9<small>%</small> | nan | -7.8<small>%</small> | -4.4<small>%</small> |
+| GDX<sub>MDD</sub> <small>(87%)</small> | - | 39.1<small>%</small> | nan | -8.0<small>%</small> | -4.5<small>%</small> |
 
 
 
 각각의 경우를 GDXY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 84% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 -로 GDXY의 -와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 85% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 -로 GDXY의 -와 비슷했습니다. (비슷한 수익률)
 
 **위험도 지표 (MDD):** 87% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 -로 GDXY의 -와 비슷했습니다. (비슷한 수익률)
 

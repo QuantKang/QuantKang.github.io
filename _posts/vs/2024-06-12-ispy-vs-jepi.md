@@ -29,8 +29,8 @@ JEPI 상품과 ISPY 상품의 성과를 수익률과 위험도로 비교합니�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| ISPY | <span style="color: tomato">29.7<small>%</small></span> | 9.9<small>%</small> | 3.00 | -4.9<small>%</small> | -0.8<small>%</small> |
-| JEPI | <span style="color: tomato">14.6<small>%</small></span> | 6.2<small>%</small> | 2.36 | -3.6<small>%</small> | -0.7<small>%</small> |
+| ISPY | <span style="color: tomato">29.7<small>%</small></span> | 9.8<small>%</small> | 3.02 | -4.9<small>%</small> | -0.8<small>%</small> |
+| JEPI | <span style="color: tomato">14.6<small>%</small></span> | 6.2<small>%</small> | 2.37 | -3.6<small>%</small> | -0.7<small>%</small> |
 
 <!-- more -->
 
@@ -39,7 +39,7 @@ JEPI 상품과 ISPY 상품의 성과를 수익률과 위험도로 비교합니�
 
 **수익률 지표 (CAGR):** ISPY의 CAGR은 29.7%로 JEPI의 14.6%보다 15.1% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** ISPY의 표준편차는 9.9%로 JEPI의 6.2%보다 3.7% 높았습니다. (높은 위험도)
+**위험도 지표 (표준편차):** ISPY의 표준편차는 9.8%로 JEPI의 6.2%보다 3.7% 높았습니다. (높은 위험도)
 
 **위험도 지표 (MDD):** ISPY의 4.9%의 MDD는 JEPI의 3.6%보다 1.3% 높았습니다. (높은 위험도)
 
@@ -50,7 +50,7 @@ JEPI 상품과 ISPY 상품의 성과를 수익률과 위험도로 비교합니�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 JEPI의 투자 비중[^fn_vs_weight]을 조절하여 ISPY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 6.2% / 9.9% = 160% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 6.2% / 9.8% = 160% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 3.6% / 4.9% = 136% 비중으로 투자하면 됩니다.
 
@@ -72,10 +72,10 @@ JEPI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| ISPY | <span style="color: tomato">29.7<small>%</small></span> | 9.9<small>%</small> | 3.00 | -4.9<small>%</small> | -0.8<small>%</small> |
-| JEPI | <span style="color: tomato">14.6<small>%</small></span> | 6.2<small>%</small> | 2.36 | -3.6<small>%</small> | -0.7<small>%</small> |
-| JEPI<sub>STD</sub> <small>(160%)</small> | <span style="color: tomato">24.1<small>%</small></span> | 9.9<small>%</small> | 2.43 | -5.7<small>%</small> | -1.1<small>%</small> |
-| JEPI<sub>MDD</sub> <small>(136%)</small> | <span style="color: tomato">20.3<small>%</small></span> | 8.4<small>%</small> | 2.40 | -4.9<small>%</small> | -0.9<small>%</small> |
+| ISPY | <span style="color: tomato">29.7<small>%</small></span> | 9.8<small>%</small> | 3.02 | -4.9<small>%</small> | -0.8<small>%</small> |
+| JEPI | <span style="color: tomato">14.6<small>%</small></span> | 6.2<small>%</small> | 2.37 | -3.6<small>%</small> | -0.7<small>%</small> |
+| JEPI<sub>STD</sub> <small>(160%)</small> | <span style="color: tomato">24.1<small>%</small></span> | 9.8<small>%</small> | 2.45 | -5.7<small>%</small> | -1.1<small>%</small> |
+| JEPI<sub>MDD</sub> <small>(136%)</small> | <span style="color: tomato">20.3<small>%</small></span> | 8.4<small>%</small> | 2.42 | -4.9<small>%</small> | -0.9<small>%</small> |
 
 
 

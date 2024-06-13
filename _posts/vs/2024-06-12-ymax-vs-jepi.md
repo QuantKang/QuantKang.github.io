@@ -30,7 +30,7 @@ JEPI 상품과 YMAX 상품의 성과를 수익률과 위험도로 비교합니�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | YMAX | <span style="color: tomato">46.9<small>%</small></span> | 16.3<small>%</small> | 2.88 | -7.8<small>%</small> | -1.3<small>%</small> |
-| JEPI | <span style="color: tomato">14.7<small>%</small></span> | 6.4<small>%</small> | 2.28 | -3.6<small>%</small> | -0.7<small>%</small> |
+| JEPI | <span style="color: tomato">14.7<small>%</small></span> | 6.4<small>%</small> | 2.30 | -3.6<small>%</small> | -0.7<small>%</small> |
 
 <!-- more -->
 
@@ -50,7 +50,7 @@ JEPI 상품과 YMAX 상품의 성과를 수익률과 위험도로 비교합니�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 JEPI의 투자 비중[^fn_vs_weight]을 조절하여 YMAX의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 6.4% / 16.3% = 253% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 6.4% / 16.3% = 255% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 3.6% / 7.8% = 217% 비중으로 투자하면 됩니다.
 
@@ -73,15 +73,15 @@ JEPI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | YMAX | <span style="color: tomato">46.9<small>%</small></span> | 16.3<small>%</small> | 2.88 | -7.8<small>%</small> | -1.3<small>%</small> |
-| JEPI | <span style="color: tomato">14.7<small>%</small></span> | 6.4<small>%</small> | 2.28 | -3.6<small>%</small> | -0.7<small>%</small> |
-| JEPI<sub>STD</sub> <small>(253%)</small> | <span style="color: tomato">40.3<small>%</small></span> | 16.3<small>%</small> | 2.47 | -8.9<small>%</small> | -1.9<small>%</small> |
-| JEPI<sub>MDD</sub> <small>(217%)</small> | <span style="color: tomato">33.9<small>%</small></span> | 14.0<small>%</small> | 2.43 | -7.7<small>%</small> | -1.6<small>%</small> |
+| JEPI | <span style="color: tomato">14.7<small>%</small></span> | 6.4<small>%</small> | 2.30 | -3.6<small>%</small> | -0.7<small>%</small> |
+| JEPI<sub>STD</sub> <small>(255%)</small> | <span style="color: tomato">40.6<small>%</small></span> | 16.3<small>%</small> | 2.49 | -9.0<small>%</small> | -1.9<small>%</small> |
+| JEPI<sub>MDD</sub> <small>(217%)</small> | <span style="color: tomato">33.9<small>%</small></span> | 13.9<small>%</small> | 2.44 | -7.7<small>%</small> | -1.6<small>%</small> |
 
 
 
 각각의 경우를 YMAX의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 253% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 40.3%로 YMAX의 46.9%보다 -6.6% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 255% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 40.6%로 YMAX의 46.9%보다 -6.3% 낮았습니다. (낮은 수익률)
 
 **위험도 지표 (MDD):** 217% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 33.9%로 YMAX의 46.9%보다 -13.0% 낮았습니다. (낮은 수익률)
 
@@ -95,8 +95,8 @@ JEPI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 
 지난 4개월간 거치식으로 투자했다고 가정합니다.
 
-JEPI의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 37.1%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 YMAX의 46.9%보다 -9.8% 낮았습니다.
+JEPI의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 37.2%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 YMAX의 46.9%보다 -9.7% 낮았습니다.
 
 ### YMAX &gt; JEPI
 {: .text-center}

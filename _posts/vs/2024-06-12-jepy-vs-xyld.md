@@ -29,8 +29,8 @@ XYLD 상품과 JEPY 상품의 성과를 수익률과 위험도로 비교합니�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| JEPY | <span style="color: tomato">19.1<small>%</small></span> | 7.6<small>%</small> | 2.51 | -3.9<small>%</small> | -0.8<small>%</small> |
-| XYLD | <span style="color: tomato">11.7<small>%</small></span> | 6.1<small>%</small> | 1.91 | -4.6<small>%</small> | -0.7<small>%</small> |
+| JEPY | <span style="color: tomato">19.1<small>%</small></span> | 7.6<small>%</small> | 2.53 | -3.9<small>%</small> | -0.8<small>%</small> |
+| XYLD | <span style="color: tomato">11.7<small>%</small></span> | 6.1<small>%</small> | 1.92 | -4.6<small>%</small> | -0.7<small>%</small> |
 
 <!-- more -->
 
@@ -72,16 +72,16 @@ XYLD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, XYL
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| JEPY | <span style="color: tomato">19.1<small>%</small></span> | 7.6<small>%</small> | 2.51 | -3.9<small>%</small> | -0.8<small>%</small> |
-| XYLD | <span style="color: tomato">11.7<small>%</small></span> | 6.1<small>%</small> | 1.91 | -4.6<small>%</small> | -0.7<small>%</small> |
-| XYLD<sub>STD</sub> <small>(124%)</small> | <span style="color: tomato">14.7<small>%</small></span> | 7.6<small>%</small> | 1.93 | -5.7<small>%</small> | -0.9<small>%</small> |
-| XYLD<sub>MDD</sub> <small>(85%)</small> | <span style="color: tomato">9.9<small>%</small></span> | 5.2<small>%</small> | 1.90 | -3.9<small>%</small> | -0.6<small>%</small> |
+| JEPY | <span style="color: tomato">19.1<small>%</small></span> | 7.6<small>%</small> | 2.53 | -3.9<small>%</small> | -0.8<small>%</small> |
+| XYLD | <span style="color: tomato">11.7<small>%</small></span> | 6.1<small>%</small> | 1.92 | -4.6<small>%</small> | -0.7<small>%</small> |
+| XYLD<sub>STD</sub> <small>(124%)</small> | <span style="color: tomato">14.6<small>%</small></span> | 7.6<small>%</small> | 1.94 | -5.7<small>%</small> | -0.9<small>%</small> |
+| XYLD<sub>MDD</sub> <small>(85%)</small> | <span style="color: tomato">9.9<small>%</small></span> | 5.2<small>%</small> | 1.91 | -3.9<small>%</small> | -0.6<small>%</small> |
 
 
 
 각각의 경우를 JEPY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 124% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 14.7%로 JEPY의 19.1%보다 -4.4% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 124% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 14.6%로 JEPY의 19.1%보다 -4.5% 낮았습니다. (낮은 수익률)
 
 **위험도 지표 (MDD):** 85% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 9.9%로 JEPY의 19.1%보다 -9.2% 낮았습니다. (낮은 수익률)
 

@@ -30,7 +30,7 @@ XYLD 상품과 SPYI 상품의 성과를 수익률과 위험도로 비교합니�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SPYI | <span style="color: tomato">13.4<small>%</small></span> | 11.6<small>%</small> | 1.16 | -10.2<small>%</small> | -2.1<small>%</small> |
-| XYLD | <span style="color: tomato">9.1<small>%</small></span> | 9.3<small>%</small> | 0.98 | -10.2<small>%</small> | -1.9<small>%</small> |
+| XYLD | <span style="color: tomato">9.1<small>%</small></span> | 9.3<small>%</small> | 0.99 | -10.2<small>%</small> | -1.9<small>%</small> |
 
 <!-- more -->
 
@@ -73,9 +73,9 @@ XYLD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, XYL
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SPYI | <span style="color: tomato">13.4<small>%</small></span> | 11.6<small>%</small> | 1.16 | -10.2<small>%</small> | -2.1<small>%</small> |
-| XYLD | <span style="color: tomato">9.1<small>%</small></span> | 9.3<small>%</small> | 0.98 | -10.2<small>%</small> | -1.9<small>%</small> |
-| XYLD<sub>STD</sub> <small>(125%)</small> | <span style="color: tomato">11.4<small>%</small></span> | 11.6<small>%</small> | 0.98 | -12.7<small>%</small> | -2.4<small>%</small> |
-| XYLD<sub>MDD</sub> <small>(99%)</small> | <span style="color: tomato">9.1<small>%</small></span> | 9.2<small>%</small> | 0.98 | -10.2<small>%</small> | -1.9<small>%</small> |
+| XYLD | <span style="color: tomato">9.1<small>%</small></span> | 9.3<small>%</small> | 0.99 | -10.2<small>%</small> | -1.9<small>%</small> |
+| XYLD<sub>STD</sub> <small>(125%)</small> | <span style="color: tomato">11.4<small>%</small></span> | 11.6<small>%</small> | 0.98 | -12.7<small>%</small> | -2.3<small>%</small> |
+| XYLD<sub>MDD</sub> <small>(99%)</small> | <span style="color: tomato">9.1<small>%</small></span> | 9.2<small>%</small> | 0.99 | -10.2<small>%</small> | -1.9<small>%</small> |
 
 
 

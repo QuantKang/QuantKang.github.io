@@ -29,7 +29,7 @@ IDVO 상품과 DIVO 상품의 성과를 수익률과 위험도로 비교합니�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| DIVO | <span style="color: tomato">10.8<small>%</small></span> | 10.8<small>%</small> | 1.00 | -8.9<small>%</small> | -2.2<small>%</small> |
+| DIVO | <span style="color: tomato">10.8<small>%</small></span> | 10.8<small>%</small> | 1.01 | -8.9<small>%</small> | -2.2<small>%</small> |
 | IDVO | <span style="color: tomato">19.5<small>%</small></span> | 15.6<small>%</small> | 1.25 | -11.0<small>%</small> | -2.6<small>%</small> |
 
 <!-- more -->
@@ -39,7 +39,7 @@ IDVO 상품과 DIVO 상품의 성과를 수익률과 위험도로 비교합니�
 
 **수익률 지표 (CAGR):** DIVO의 CAGR은 10.8%로 IDVO의 19.5%보다 -8.7% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** DIVO의 표준편차는 10.8%로 IDVO의 15.6%보다 -4.8% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** DIVO의 표준편차는 10.8%로 IDVO의 15.6%보다 -4.9% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** DIVO의 8.9%의 MDD는 IDVO의 11.0%보다 -2.1% 낮았습니다. (낮은 위험도)
 
@@ -72,7 +72,7 @@ IDVO<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IDV
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| DIVO | <span style="color: tomato">10.8<small>%</small></span> | 10.8<small>%</small> | 1.00 | -8.9<small>%</small> | -2.2<small>%</small> |
+| DIVO | <span style="color: tomato">10.8<small>%</small></span> | 10.8<small>%</small> | 1.01 | -8.9<small>%</small> | -2.2<small>%</small> |
 | IDVO | <span style="color: tomato">19.5<small>%</small></span> | 15.6<small>%</small> | 1.25 | -11.0<small>%</small> | -2.6<small>%</small> |
 | IDVO<sub>STD</sub> <small>(69%)</small> | <span style="color: tomato">13.4<small>%</small></span> | 10.8<small>%</small> | 1.24 | -7.7<small>%</small> | -1.8<small>%</small> |
 | IDVO<sub>MDD</sub> <small>(81%)</small> | <span style="color: tomato">15.8<small>%</small></span> | 12.7<small>%</small> | 1.25 | -9.0<small>%</small> | -2.1<small>%</small> |

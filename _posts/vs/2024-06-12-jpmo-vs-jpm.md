@@ -29,8 +29,8 @@ JPMorgan Chase & Co 상품과 JPMO 상품의 성과를 수익률과 위험도로
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| JPMO | <span style="color: tomato">11.6<small>%</small></span> | 15.0<small>%</small> | 0.77 | -10.1<small>%</small> | -2.8<small>%</small> |
-| JPMorgan Chase & Co | <span style="color: tomato">46.9<small>%</small></span> | 17.8<small>%</small> | 2.63 | -9.6<small>%</small> | -1.7<small>%</small> |
+| JPMO | <span style="color: tomato">11.6<small>%</small></span> | 14.6<small>%</small> | 0.79 | -10.1<small>%</small> | -2.8<small>%</small> |
+| JPMorgan Chase & Co | <span style="color: tomato">46.9<small>%</small></span> | 17.5<small>%</small> | 2.68 | -9.6<small>%</small> | -1.7<small>%</small> |
 
 <!-- more -->
 
@@ -39,7 +39,7 @@ JPMorgan Chase & Co 상품과 JPMO 상품의 성과를 수익률과 위험도로
 
 **수익률 지표 (CAGR):** JPMO의 CAGR은 11.6%로 JPMorgan Chase & Co의 46.9%보다 -35.3% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** JPMO의 표준편차는 15.0%로 JPMorgan Chase & Co의 17.8%보다 -2.9% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** JPMO의 표준편차는 14.6%로 JPMorgan Chase & Co의 17.5%보다 -2.9% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** JPMO의 10.1%의 MDD는 JPMorgan Chase & Co의 9.6%와 비슷했습니다. (비슷한 위험도)
 
@@ -50,7 +50,7 @@ JPMorgan Chase & Co 상품과 JPMO 상품의 성과를 수익률과 위험도로
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 JPMorgan Chase & Co의 투자 비중[^fn_vs_weight]을 조절하여 JPMO의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 17.8% / 15.0% = 84% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 17.5% / 14.6% = 83% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 9.6% / 10.1% = 106% 비중으로 투자하면 됩니다.
 
@@ -72,16 +72,16 @@ JPMorgan Chase & Co<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] �
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| JPMO | <span style="color: tomato">11.6<small>%</small></span> | 15.0<small>%</small> | 0.77 | -10.1<small>%</small> | -2.8<small>%</small> |
-| JPMorgan Chase & Co | <span style="color: tomato">46.9<small>%</small></span> | 17.8<small>%</small> | 2.63 | -9.6<small>%</small> | -1.7<small>%</small> |
-| JPMorgan Chase & Co<sub>STD</sub> <small>(84%)</small> | <span style="color: tomato">38.4<small>%</small></span> | 15.0<small>%</small> | 2.57 | -8.1<small>%</small> | -1.4<small>%</small> |
-| JPMorgan Chase & Co<sub>MDD</sub> <small>(106%)</small> | <span style="color: tomato">50.2<small>%</small></span> | 18.9<small>%</small> | 2.65 | -10.1<small>%</small> | -1.8<small>%</small> |
+| JPMO | <span style="color: tomato">11.6<small>%</small></span> | 14.6<small>%</small> | 0.79 | -10.1<small>%</small> | -2.8<small>%</small> |
+| JPMorgan Chase & Co | <span style="color: tomato">46.9<small>%</small></span> | 17.5<small>%</small> | 2.68 | -9.6<small>%</small> | -1.7<small>%</small> |
+| JPMorgan Chase & Co<sub>STD</sub> <small>(83%)</small> | <span style="color: tomato">38.0<small>%</small></span> | 14.6<small>%</small> | 2.61 | -8.0<small>%</small> | -1.4<small>%</small> |
+| JPMorgan Chase & Co<sub>MDD</sub> <small>(106%)</small> | <span style="color: tomato">50.2<small>%</small></span> | 18.6<small>%</small> | 2.70 | -10.1<small>%</small> | -1.8<small>%</small> |
 
 
 
 각각의 경우를 JPMO의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 84% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 38.4%로 JPMO의 11.6%보다 26.8% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 83% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 38.0%로 JPMO의 11.6%보다 26.5% 높았습니다. (높은 수익률)
 
 **위험도 지표 (MDD):** 106% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 50.2%로 JPMO의 11.6%보다 38.6% 높았습니다. (높은 수익률)
 
@@ -95,8 +95,8 @@ JPMorgan Chase & Co<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] �
 
 지난 9개월간 거치식으로 투자했다고 가정합니다.
 
-JPMorgan Chase & Co의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 44.3%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 JPMO의 11.6%보다 32.7% 높았습니다.
+JPMorgan Chase & Co의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 44.1%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 JPMO의 11.6%보다 32.6% 높았습니다.
 
 ### JPMO	&lt; JPMorgan Chase & Co
 {: .text-center}

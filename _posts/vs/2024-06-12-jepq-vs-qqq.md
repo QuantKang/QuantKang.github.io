@@ -30,7 +30,7 @@ QQQ 상품과 JEPQ 상품의 성과를 수익률과 위험도로 비교합니다
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | JEPQ | <span style="color: tomato">15.3<small>%</small></span> | 16.5<small>%</small> | 0.93 | -16.8<small>%</small> | -4.1<small>%</small> |
-| QQQ | <span style="color: tomato">19.6<small>%</small></span> | 23.0<small>%</small> | 0.85 | -21.6<small>%</small> | -6.4<small>%</small> |
+| QQQ | <span style="color: tomato">19.6<small>%</small></span> | 22.9<small>%</small> | 0.86 | -21.6<small>%</small> | -6.4<small>%</small> |
 
 <!-- more -->
 
@@ -39,7 +39,7 @@ QQQ 상품과 JEPQ 상품의 성과를 수익률과 위험도로 비교합니다
 
 **수익률 지표 (CAGR):** JEPQ의 CAGR은 15.3%로 QQQ의 19.6%보다 -4.4% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** JEPQ의 표준편차는 16.5%로 QQQ의 23.0%보다 -6.5% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** JEPQ의 표준편차는 16.5%로 QQQ의 22.9%보다 -6.4% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** JEPQ의 16.8%의 MDD는 QQQ의 21.6%보다 -4.8% 낮았습니다. (낮은 위험도)
 
@@ -50,7 +50,7 @@ QQQ 상품과 JEPQ 상품의 성과를 수익률과 위험도로 비교합니다
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 QQQ의 투자 비중[^fn_vs_weight]을 조절하여 JEPQ의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 23.0% / 16.5% = 72% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 22.9% / 16.5% = 72% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 21.6% / 16.8% = 78% 비중으로 투자하면 됩니다.
 
@@ -73,9 +73,9 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | JEPQ | <span style="color: tomato">15.3<small>%</small></span> | 16.5<small>%</small> | 0.93 | -16.8<small>%</small> | -4.1<small>%</small> |
-| QQQ | <span style="color: tomato">19.6<small>%</small></span> | 23.0<small>%</small> | 0.85 | -21.6<small>%</small> | -6.4<small>%</small> |
+| QQQ | <span style="color: tomato">19.6<small>%</small></span> | 22.9<small>%</small> | 0.86 | -21.6<small>%</small> | -6.4<small>%</small> |
 | QQQ<sub>STD</sub> <small>(72%)</small> | <span style="color: tomato">14.4<small>%</small></span> | 16.5<small>%</small> | 0.87 | -15.9<small>%</small> | -4.6<small>%</small> |
-| QQQ<sub>MDD</sub> <small>(78%)</small> | <span style="color: tomato">15.5<small>%</small></span> | 17.9<small>%</small> | 0.87 | -17.1<small>%</small> | -5.0<small>%</small> |
+| QQQ<sub>MDD</sub> <small>(78%)</small> | <span style="color: tomato">15.5<small>%</small></span> | 17.8<small>%</small> | 0.87 | -17.1<small>%</small> | -5.0<small>%</small> |
 
 
 

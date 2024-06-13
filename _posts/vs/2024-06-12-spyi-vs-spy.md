@@ -28,7 +28,7 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 SPYI와 S&P 500 지수�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SPYI | <span style="color: tomato">13.4<small>%</small></span> | 11.6<small>%</small> | 1.16 | -10.2<small>%</small> | -2.1<small>%</small> |
-| SPY | <span style="color: tomato">20.6<small>%</small></span> | 15.5<small>%</small> | 1.32 | -12.9<small>%</small> | -2.7<small>%</small> |
+| SPY | <span style="color: tomato">20.6<small>%</small></span> | 15.5<small>%</small> | 1.33 | -12.9<small>%</small> | -2.7<small>%</small> |
 
 <!-- more -->
 
@@ -71,8 +71,8 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SPYI | <span style="color: tomato">13.4<small>%</small></span> | 11.6<small>%</small> | 1.16 | -10.2<small>%</small> | -2.1<small>%</small> |
-| SPY | <span style="color: tomato">20.6<small>%</small></span> | 15.5<small>%</small> | 1.32 | -12.9<small>%</small> | -2.7<small>%</small> |
-| SPY<sub>STD</sub> <small>(74%)</small> | <span style="color: tomato">15.2<small>%</small></span> | 11.6<small>%</small> | 1.31 | -9.7<small>%</small> | -2.0<small>%</small> |
+| SPY | <span style="color: tomato">20.6<small>%</small></span> | 15.5<small>%</small> | 1.33 | -12.9<small>%</small> | -2.7<small>%</small> |
+| SPY<sub>STD</sub> <small>(74%)</small> | <span style="color: tomato">15.2<small>%</small></span> | 11.6<small>%</small> | 1.32 | -9.7<small>%</small> | -2.0<small>%</small> |
 | SPY<sub>MDD</sub> <small>(79%)</small> | <span style="color: tomato">16.2<small>%</small></span> | 12.3<small>%</small> | 1.32 | -10.3<small>%</small> | -2.1<small>%</small> |
 
 

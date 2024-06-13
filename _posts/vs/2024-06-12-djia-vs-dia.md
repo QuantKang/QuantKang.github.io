@@ -27,8 +27,8 @@ keywords: DIA, DJIA, DJIA DIA 비교
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| DJIA | <span style="color: tomato">3.8<small>%</small></span> | 11.1<small>%</small> | 0.34 | -16.9<small>%</small> | -5.1<small>%</small> |
-| DIA | <span style="color: tomato">9.0<small>%</small></span> | 15.2<small>%</small> | 0.59 | -17.8<small>%</small> | -4.1<small>%</small> |
+| DJIA | <span style="color: tomato">3.8<small>%</small></span> | 11.1<small>%</small> | 0.34 | -16.9<small>%</small> | -5.0<small>%</small> |
+| DIA | <span style="color: tomato">9.0<small>%</small></span> | 15.1<small>%</small> | 0.59 | -17.8<small>%</small> | -4.1<small>%</small> |
 
 <!-- more -->
 
@@ -37,7 +37,7 @@ keywords: DIA, DJIA, DJIA DIA 비교
 
 **수익률 지표 (CAGR):** DJIA의 CAGR은 3.8%로 DIA의 9.0%보다 -5.2% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** DJIA의 표준편차는 11.1%로 DIA의 15.2%보다 -4.1% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** DJIA의 표준편차는 11.1%로 DIA의 15.1%보다 -4.1% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** DJIA의 16.9%의 MDD는 DIA의 17.8%와 비슷했습니다. (비슷한 위험도)
 
@@ -48,7 +48,7 @@ keywords: DIA, DJIA, DJIA DIA 비교
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 DIA의 투자 비중[^fn_vs_weight]을 조절하여 DJIA의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 15.2% / 11.1% = 73% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 15.1% / 11.1% = 73% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 17.8% / 16.9% = 95% 비중으로 투자하면 됩니다.
 
@@ -70,9 +70,9 @@ DIA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, DIA<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| DJIA | <span style="color: tomato">3.8<small>%</small></span> | 11.1<small>%</small> | 0.34 | -16.9<small>%</small> | -5.1<small>%</small> |
-| DIA | <span style="color: tomato">9.0<small>%</small></span> | 15.2<small>%</small> | 0.59 | -17.8<small>%</small> | -4.1<small>%</small> |
-| DIA<sub>STD</sub> <small>(73%)</small> | <span style="color: tomato">6.7<small>%</small></span> | 11.1<small>%</small> | 0.61 | -13.1<small>%</small> | -2.9<small>%</small> |
+| DJIA | <span style="color: tomato">3.8<small>%</small></span> | 11.1<small>%</small> | 0.34 | -16.9<small>%</small> | -5.0<small>%</small> |
+| DIA | <span style="color: tomato">9.0<small>%</small></span> | 15.1<small>%</small> | 0.59 | -17.8<small>%</small> | -4.1<small>%</small> |
+| DIA<sub>STD</sub> <small>(73%)</small> | <span style="color: tomato">6.7<small>%</small></span> | 11.1<small>%</small> | 0.61 | -13.2<small>%</small> | -2.9<small>%</small> |
 | DIA<sub>MDD</sub> <small>(95%)</small> | <span style="color: tomato">8.6<small>%</small></span> | 14.4<small>%</small> | 0.60 | -16.9<small>%</small> | -3.9<small>%</small> |
 
 

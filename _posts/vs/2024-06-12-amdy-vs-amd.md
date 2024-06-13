@@ -29,8 +29,8 @@ Advanced Micro Devices Inc 상품과 AMDY 상품의 성과를 수익률과 위�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| AMDY | <span style="color: tomato">32.4<small>%</small></span> | 36.8<small>%</small> | 0.88 | -26.2<small>%</small> | -7.8<small>%</small> |
-| Advanced Micro Devices Inc | <span style="color: tomato">86.5<small>%</small></span> | 47.2<small>%</small> | 1.83 | -31.7<small>%</small> | -9.1<small>%</small> |
+| AMDY | <span style="color: tomato">32.4<small>%</small></span> | 36.7<small>%</small> | 0.88 | -26.2<small>%</small> | -7.8<small>%</small> |
+| Advanced Micro Devices Inc | <span style="color: tomato">86.5<small>%</small></span> | 47.1<small>%</small> | 1.84 | -31.7<small>%</small> | -9.2<small>%</small> |
 
 <!-- more -->
 
@@ -39,7 +39,7 @@ Advanced Micro Devices Inc 상품과 AMDY 상품의 성과를 수익률과 위�
 
 **수익률 지표 (CAGR):** AMDY의 CAGR은 32.4%로 Advanced Micro Devices Inc의 86.5%보다 -54.1% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** AMDY의 표준편차는 36.8%로 Advanced Micro Devices Inc의 47.2%보다 -10.4% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** AMDY의 표준편차는 36.7%로 Advanced Micro Devices Inc의 47.1%보다 -10.4% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** AMDY의 26.2%의 MDD는 Advanced Micro Devices Inc의 31.7%보다 -5.5% 낮았습니다. (낮은 위험도)
 
@@ -50,7 +50,7 @@ Advanced Micro Devices Inc 상품과 AMDY 상품의 성과를 수익률과 위�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 Advanced Micro Devices Inc의 투자 비중[^fn_vs_weight]을 조절하여 AMDY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 47.2% / 36.8% = 78% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 47.1% / 36.7% = 78% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 31.7% / 26.2% = 83% 비중으로 투자하면 됩니다.
 
@@ -72,10 +72,10 @@ Advanced Micro Devices Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weight
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| AMDY | <span style="color: tomato">32.4<small>%</small></span> | 36.8<small>%</small> | 0.88 | -26.2<small>%</small> | -7.8<small>%</small> |
-| Advanced Micro Devices Inc | <span style="color: tomato">86.5<small>%</small></span> | 47.2<small>%</small> | 1.83 | -31.7<small>%</small> | -9.1<small>%</small> |
-| Advanced Micro Devices Inc<sub>STD</sub> <small>(78%)</small> | <span style="color: tomato">65.7<small>%</small></span> | 36.8<small>%</small> | 1.78 | -25.5<small>%</small> | -7.2<small>%</small> |
-| Advanced Micro Devices Inc<sub>MDD</sub> <small>(83%)</small> | <span style="color: tomato">70.0<small>%</small></span> | 39.0<small>%</small> | 1.79 | -26.9<small>%</small> | -7.6<small>%</small> |
+| AMDY | <span style="color: tomato">32.4<small>%</small></span> | 36.7<small>%</small> | 0.88 | -26.2<small>%</small> | -7.8<small>%</small> |
+| Advanced Micro Devices Inc | <span style="color: tomato">86.5<small>%</small></span> | 47.1<small>%</small> | 1.84 | -31.7<small>%</small> | -9.2<small>%</small> |
+| Advanced Micro Devices Inc<sub>STD</sub> <small>(78%)</small> | <span style="color: tomato">65.7<small>%</small></span> | 36.7<small>%</small> | 1.79 | -25.5<small>%</small> | -7.3<small>%</small> |
+| Advanced Micro Devices Inc<sub>MDD</sub> <small>(83%)</small> | <span style="color: tomato">70.0<small>%</small></span> | 38.9<small>%</small> | 1.80 | -26.9<small>%</small> | -7.7<small>%</small> |
 
 
 

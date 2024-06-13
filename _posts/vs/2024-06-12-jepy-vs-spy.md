@@ -27,8 +27,8 @@ S&P 500 지수에 대해 데일리 커버드 콜 전략을 쓰는 JEPY와 S&P 50
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| JEPY | <span style="color: tomato">19.1<small>%</small></span> | 7.6<small>%</small> | 2.51 | -3.9<small>%</small> | -0.8<small>%</small> |
-| SPY | <span style="color: tomato">33.0<small>%</small></span> | 11.6<small>%</small> | 2.83 | -7.2<small>%</small> | -1.3<small>%</small> |
+| JEPY | <span style="color: tomato">19.1<small>%</small></span> | 7.6<small>%</small> | 2.53 | -3.9<small>%</small> | -0.8<small>%</small> |
+| SPY | <span style="color: tomato">33.0<small>%</small></span> | 11.6<small>%</small> | 2.85 | -7.2<small>%</small> | -1.3<small>%</small> |
 
 <!-- more -->
 
@@ -48,7 +48,7 @@ S&P 500 지수에 대해 데일리 커버드 콜 전략을 쓰는 JEPY와 S&P 50
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 SPY의 투자 비중[^fn_vs_weight]을 조절하여 JEPY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 11.6% / 7.6% = 66% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 11.6% / 7.6% = 65% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 7.2% / 3.9% = 54% 비중으로 투자하면 됩니다.
 
@@ -70,16 +70,16 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| JEPY | <span style="color: tomato">19.1<small>%</small></span> | 7.6<small>%</small> | 2.51 | -3.9<small>%</small> | -0.8<small>%</small> |
-| SPY | <span style="color: tomato">33.0<small>%</small></span> | 11.6<small>%</small> | 2.83 | -7.2<small>%</small> | -1.3<small>%</small> |
-| SPY<sub>STD</sub> <small>(66%)</small> | <span style="color: tomato">20.7<small>%</small></span> | 7.6<small>%</small> | 2.72 | -4.8<small>%</small> | -0.8<small>%</small> |
-| SPY<sub>MDD</sub> <small>(54%)</small> | <span style="color: tomato">16.9<small>%</small></span> | 6.3<small>%</small> | 2.68 | -4.0<small>%</small> | -0.7<small>%</small> |
+| JEPY | <span style="color: tomato">19.1<small>%</small></span> | 7.6<small>%</small> | 2.53 | -3.9<small>%</small> | -0.8<small>%</small> |
+| SPY | <span style="color: tomato">33.0<small>%</small></span> | 11.6<small>%</small> | 2.85 | -7.2<small>%</small> | -1.3<small>%</small> |
+| SPY<sub>STD</sub> <small>(65%)</small> | <span style="color: tomato">20.6<small>%</small></span> | 7.6<small>%</small> | 2.73 | -4.8<small>%</small> | -0.8<small>%</small> |
+| SPY<sub>MDD</sub> <small>(54%)</small> | <span style="color: tomato">16.9<small>%</small></span> | 6.3<small>%</small> | 2.69 | -4.0<small>%</small> | -0.7<small>%</small> |
 
 
 
 각각의 경우를 JEPY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 66% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 20.7%로 JEPY의 19.1%보다 1.6% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 65% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 20.6%로 JEPY의 19.1%보다 1.5% 높았습니다. (높은 수익률)
 
 **위험도 지표 (MDD):** 54% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 16.9%로 JEPY의 19.1%보다 -2.2% 낮았습니다. (낮은 수익률)
 

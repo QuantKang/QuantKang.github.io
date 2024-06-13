@@ -29,8 +29,8 @@ QQQ 상품과 GPIQ 상품의 성과를 수익률과 위험도로 비교합니다
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| GPIQ | <span style="color: tomato">53.2<small>%</small></span> | 12.3<small>%</small> | 4.31 | -6.3<small>%</small> | -0.8<small>%</small> |
-| QQQ | <span style="color: tomato">66.8<small>%</small></span> | 15.1<small>%</small> | 4.44 | -7.1<small>%</small> | -1.0<small>%</small> |
+| GPIQ | <span style="color: tomato">53.2<small>%</small></span> | 12.3<small>%</small> | 4.34 | -6.3<small>%</small> | -0.8<small>%</small> |
+| QQQ | <span style="color: tomato">66.8<small>%</small></span> | 14.9<small>%</small> | 4.48 | -7.1<small>%</small> | -1.0<small>%</small> |
 
 <!-- more -->
 
@@ -39,7 +39,7 @@ QQQ 상품과 GPIQ 상품의 성과를 수익률과 위험도로 비교합니다
 
 **수익률 지표 (CAGR):** GPIQ의 CAGR은 53.2%로 QQQ의 66.8%보다 -13.7% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** GPIQ의 표준편차는 12.3%로 QQQ의 15.1%보다 -2.7% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** GPIQ의 표준편차는 12.3%로 QQQ의 14.9%보다 -2.7% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** GPIQ의 6.3%의 MDD는 QQQ의 7.1%와 비슷했습니다. (비슷한 위험도)
 
@@ -50,7 +50,7 @@ QQQ 상품과 GPIQ 상품의 성과를 수익률과 위험도로 비교합니다
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 QQQ의 투자 비중[^fn_vs_weight]을 조절하여 GPIQ의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 15.1% / 12.3% = 82% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 14.9% / 12.3% = 82% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 7.1% / 6.3% = 88% 비중으로 투자하면 됩니다.
 
@@ -72,16 +72,16 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| GPIQ | <span style="color: tomato">53.2<small>%</small></span> | 12.3<small>%</small> | 4.31 | -6.3<small>%</small> | -0.8<small>%</small> |
-| QQQ | <span style="color: tomato">66.8<small>%</small></span> | 15.1<small>%</small> | 4.44 | -7.1<small>%</small> | -1.0<small>%</small> |
-| QQQ<sub>STD</sub> <small>(82%)</small> | <span style="color: tomato">52.4<small>%</small></span> | 12.3<small>%</small> | 4.24 | -5.9<small>%</small> | -0.8<small>%</small> |
-| QQQ<sub>MDD</sub> <small>(88%)</small> | <span style="color: tomato">57.4<small>%</small></span> | 13.3<small>%</small> | 4.31 | -6.3<small>%</small> | -0.9<small>%</small> |
+| GPIQ | <span style="color: tomato">53.2<small>%</small></span> | 12.3<small>%</small> | 4.34 | -6.3<small>%</small> | -0.8<small>%</small> |
+| QQQ | <span style="color: tomato">66.8<small>%</small></span> | 14.9<small>%</small> | 4.48 | -7.1<small>%</small> | -1.0<small>%</small> |
+| QQQ<sub>STD</sub> <small>(82%)</small> | <span style="color: tomato">52.6<small>%</small></span> | 12.3<small>%</small> | 4.29 | -5.9<small>%</small> | -0.8<small>%</small> |
+| QQQ<sub>MDD</sub> <small>(88%)</small> | <span style="color: tomato">57.4<small>%</small></span> | 13.2<small>%</small> | 4.35 | -6.3<small>%</small> | -0.9<small>%</small> |
 
 
 
 각각의 경우를 GPIQ의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 82% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 52.4%로 GPIQ의 53.2%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 82% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 52.6%로 GPIQ의 53.2%와 비슷했습니다. (비슷한 수익률)
 
 **위험도 지표 (MDD):** 88% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 57.4%로 GPIQ의 53.2%보다 4.2% 높았습니다. (높은 수익률)
 
@@ -95,8 +95,8 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 
 지난 7개월간 거치식으로 투자했다고 가정합니다.
 
-QQQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 54.9%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 GPIQ의 53.2%보다 1.7% 높았습니다.
+QQQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 55.0%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 GPIQ의 53.2%보다 1.8% 높았습니다.
 
 ### GPIQ	&lt; QQQ
 {: .text-center}

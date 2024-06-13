@@ -29,8 +29,8 @@ GPIX 상품과 BALI 상품의 성과를 수익률과 위험도로 비교합니�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| BALI | <span style="color: tomato">48.7<small>%</small></span> | 8.9<small>%</small> | 5.47 | -4.8<small>%</small> | -0.6<small>%</small> |
-| GPIX | <span style="color: tomato">46.6<small>%</small></span> | 9.4<small>%</small> | 4.98 | -5.0<small>%</small> | -0.6<small>%</small> |
+| BALI | <span style="color: tomato">48.7<small>%</small></span> | 8.8<small>%</small> | 5.51 | -4.8<small>%</small> | -0.6<small>%</small> |
+| GPIX | <span style="color: tomato">46.6<small>%</small></span> | 9.3<small>%</small> | 5.01 | -5.0<small>%</small> | -0.6<small>%</small> |
 
 <!-- more -->
 
@@ -39,7 +39,7 @@ GPIX 상품과 BALI 상품의 성과를 수익률과 위험도로 비교합니�
 
 **수익률 지표 (CAGR):** BALI의 CAGR은 48.7%로 GPIX의 46.6%보다 2.1% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** BALI의 표준편차는 8.9%로 GPIX의 9.4%와 비슷했습니다. (비슷한 위험도)
+**위험도 지표 (표준편차):** BALI의 표준편차는 8.8%로 GPIX의 9.3%와 비슷했습니다. (비슷한 위험도)
 
 **위험도 지표 (MDD):** BALI의 4.8%의 MDD는 GPIX의 5.0%와 비슷했습니다. (비슷한 위험도)
 
@@ -50,7 +50,7 @@ GPIX 상품과 BALI 상품의 성과를 수익률과 위험도로 비교합니�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 GPIX의 투자 비중[^fn_vs_weight]을 조절하여 BALI의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 9.4% / 8.9% = 95% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 9.3% / 8.8% = 95% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 5.0% / 4.8% = 96% 비중으로 투자하면 됩니다.
 
@@ -72,10 +72,10 @@ GPIX<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, GPI
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| BALI | <span style="color: tomato">48.7<small>%</small></span> | 8.9<small>%</small> | 5.47 | -4.8<small>%</small> | -0.6<small>%</small> |
-| GPIX | <span style="color: tomato">46.6<small>%</small></span> | 9.4<small>%</small> | 4.98 | -5.0<small>%</small> | -0.6<small>%</small> |
-| GPIX<sub>STD</sub> <small>(95%)</small> | <span style="color: tomato">43.8<small>%</small></span> | 8.9<small>%</small> | 4.93 | -4.7<small>%</small> | -0.5<small>%</small> |
-| GPIX<sub>MDD</sub> <small>(96%)</small> | <span style="color: tomato">44.7<small>%</small></span> | 9.0<small>%</small> | 4.94 | -4.8<small>%</small> | -0.6<small>%</small> |
+| BALI | <span style="color: tomato">48.7<small>%</small></span> | 8.8<small>%</small> | 5.51 | -4.8<small>%</small> | -0.6<small>%</small> |
+| GPIX | <span style="color: tomato">46.6<small>%</small></span> | 9.3<small>%</small> | 5.01 | -5.0<small>%</small> | -0.6<small>%</small> |
+| GPIX<sub>STD</sub> <small>(95%)</small> | <span style="color: tomato">43.8<small>%</small></span> | 8.8<small>%</small> | 4.96 | -4.7<small>%</small> | -0.5<small>%</small> |
+| GPIX<sub>MDD</sub> <small>(96%)</small> | <span style="color: tomato">44.7<small>%</small></span> | 9.0<small>%</small> | 4.97 | -4.8<small>%</small> | -0.5<small>%</small> |
 
 
 

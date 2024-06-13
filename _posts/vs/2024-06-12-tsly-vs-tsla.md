@@ -29,7 +29,7 @@ Tesla Inc 상품과 TSLY 상품의 성과를 수익률과 위험도로 비교합
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| TSLY | <span style="color: cornflowerblue">-9.0<small>%</small></span> | 42.0<small>%</small> | -0.22 | -45.6<small>%</small> | -20.9<small>%</small> |
+| TSLY | <span style="color: cornflowerblue">-9.0<small>%</small></span> | 42.0<small>%</small> | -0.22 | -45.6<small>%</small> | -21.0<small>%</small> |
 | Tesla Inc | <span style="color: cornflowerblue">-2.1<small>%</small></span> | 55.5<small>%</small> | -0.04 | -51.6<small>%</small> | -21.4<small>%</small> |
 
 <!-- more -->
@@ -72,9 +72,9 @@ Tesla Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| TSLY | <span style="color: cornflowerblue">-9.0<small>%</small></span> | 42.0<small>%</small> | -0.22 | -45.6<small>%</small> | -20.9<small>%</small> |
+| TSLY | <span style="color: cornflowerblue">-9.0<small>%</small></span> | 42.0<small>%</small> | -0.22 | -45.6<small>%</small> | -21.0<small>%</small> |
 | Tesla Inc | <span style="color: cornflowerblue">-2.1<small>%</small></span> | 55.5<small>%</small> | -0.04 | -51.6<small>%</small> | -21.4<small>%</small> |
-| Tesla Inc<sub>STD</sub> <small>(76%)</small> | <span style="color: tomato">1.2<small>%</small></span> | 42.0<small>%</small> | 0.03 | -41.3<small>%</small> | -16.3<small>%</small> |
+| Tesla Inc<sub>STD</sub> <small>(76%)</small> | <span style="color: tomato">1.2<small>%</small></span> | 42.0<small>%</small> | 0.03 | -41.3<small>%</small> | -16.4<small>%</small> |
 | Tesla Inc<sub>MDD</sub> <small>(88%)</small> | <span style="color: cornflowerblue">-0.3<small>%</small></span> | 49.1<small>%</small> | -0.01 | -46.9<small>%</small> | -19.0<small>%</small> |
 
 

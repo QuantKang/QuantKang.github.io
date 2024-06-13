@@ -30,7 +30,7 @@ Microsoft Corp 상품과 MSFO 상품의 성과를 수익률과 위험도로 비�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | MSFO | <span style="color: tomato">41.9<small>%</small></span> | 15.8<small>%</small> | 2.65 | -7.3<small>%</small> | -1.6<small>%</small> |
-| Microsoft Corp | <span style="color: tomato">48.7<small>%</small></span> | 19.8<small>%</small> | 2.46 | -9.3<small>%</small> | -2.2<small>%</small> |
+| Microsoft Corp | <span style="color: tomato">48.7<small>%</small></span> | 19.6<small>%</small> | 2.48 | -9.3<small>%</small> | -2.2<small>%</small> |
 
 <!-- more -->
 
@@ -39,7 +39,7 @@ Microsoft Corp 상품과 MSFO 상품의 성과를 수익률과 위험도로 비�
 
 **수익률 지표 (CAGR):** MSFO의 CAGR은 41.9%로 Microsoft Corp의 48.7%보다 -6.9% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** MSFO의 표준편차는 15.8%로 Microsoft Corp의 19.8%보다 -4.0% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** MSFO의 표준편차는 15.8%로 Microsoft Corp의 19.6%보다 -3.9% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** MSFO의 7.3%의 MDD는 Microsoft Corp의 9.3%보다 -2.0% 낮았습니다. (낮은 위험도)
 
@@ -50,7 +50,7 @@ Microsoft Corp 상품과 MSFO 상품의 성과를 수익률과 위험도로 비�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 Microsoft Corp의 투자 비중[^fn_vs_weight]을 조절하여 MSFO의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 19.8% / 15.8% = 80% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 19.6% / 15.8% = 80% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 9.3% / 7.3% = 78% 비중으로 투자하면 됩니다.
 
@@ -73,15 +73,15 @@ Microsoft Corp<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | MSFO | <span style="color: tomato">41.9<small>%</small></span> | 15.8<small>%</small> | 2.65 | -7.3<small>%</small> | -1.6<small>%</small> |
-| Microsoft Corp | <span style="color: tomato">48.7<small>%</small></span> | 19.8<small>%</small> | 2.46 | -9.3<small>%</small> | -2.2<small>%</small> |
-| Microsoft Corp<sub>STD</sub> <small>(80%)</small> | <span style="color: tomato">37.7<small>%</small></span> | 15.8<small>%</small> | 2.38 | -7.5<small>%</small> | -1.8<small>%</small> |
-| Microsoft Corp<sub>MDD</sub> <small>(78%)</small> | <span style="color: tomato">36.9<small>%</small></span> | 15.5<small>%</small> | 2.38 | -7.3<small>%</small> | -1.7<small>%</small> |
+| Microsoft Corp | <span style="color: tomato">48.7<small>%</small></span> | 19.6<small>%</small> | 2.48 | -9.3<small>%</small> | -2.2<small>%</small> |
+| Microsoft Corp<sub>STD</sub> <small>(80%)</small> | <span style="color: tomato">37.9<small>%</small></span> | 15.8<small>%</small> | 2.41 | -7.5<small>%</small> | -1.8<small>%</small> |
+| Microsoft Corp<sub>MDD</sub> <small>(78%)</small> | <span style="color: tomato">36.9<small>%</small></span> | 15.4<small>%</small> | 2.40 | -7.3<small>%</small> | -1.7<small>%</small> |
 
 
 
 각각의 경우를 MSFO의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 80% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 37.7%로 MSFO의 41.9%보다 -4.2% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 80% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 37.9%로 MSFO의 41.9%보다 -3.9% 낮았습니다. (낮은 수익률)
 
 **위험도 지표 (MDD):** 78% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 36.9%로 MSFO의 41.9%보다 -5.0% 낮았습니다. (낮은 수익률)
 
@@ -95,8 +95,8 @@ Microsoft Corp<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우�
 
 지난 9개월간 거치식으로 투자했다고 가정합니다.
 
-Microsoft Corp의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 37.3%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 MSFO의 41.9%보다 -4.6% 낮았습니다.
+Microsoft Corp의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 37.4%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 MSFO의 41.9%보다 -4.5% 낮았습니다.
 
 ### MSFO &gt; Microsoft Corp
 {: .text-center}

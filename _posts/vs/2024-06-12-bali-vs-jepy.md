@@ -29,8 +29,8 @@ JEPY 상품과 BALI 상품의 성과를 수익률과 위험도로 비교합니�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| BALI | <span style="color: tomato">35.5<small>%</small></span> | 9.4<small>%</small> | 3.77 | -5.3<small>%</small> | -0.8<small>%</small> |
-| JEPY | <span style="color: tomato">23.3<small>%</small></span> | 7.2<small>%</small> | 3.21 | -3.9<small>%</small> | -0.7<small>%</small> |
+| BALI | <span style="color: tomato">35.5<small>%</small></span> | 9.4<small>%</small> | 3.79 | -5.3<small>%</small> | -0.8<small>%</small> |
+| JEPY | <span style="color: tomato">23.3<small>%</small></span> | 7.2<small>%</small> | 3.25 | -3.9<small>%</small> | -0.7<small>%</small> |
 
 <!-- more -->
 
@@ -50,7 +50,7 @@ JEPY 상품과 BALI 상품의 성과를 수익률과 위험도로 비교합니�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 JEPY의 투자 비중[^fn_vs_weight]을 조절하여 BALI의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 7.2% / 9.4% = 130% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 7.2% / 9.4% = 131% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 3.9% / 5.3% = 134% 비중으로 투자하면 됩니다.
 
@@ -72,16 +72,16 @@ JEPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| BALI | <span style="color: tomato">35.5<small>%</small></span> | 9.4<small>%</small> | 3.77 | -5.3<small>%</small> | -0.8<small>%</small> |
-| JEPY | <span style="color: tomato">23.3<small>%</small></span> | 7.2<small>%</small> | 3.21 | -3.9<small>%</small> | -0.7<small>%</small> |
-| JEPY<sub>STD</sub> <small>(130%)</small> | <span style="color: tomato">31.2<small>%</small></span> | 9.4<small>%</small> | 3.31 | -5.1<small>%</small> | -0.9<small>%</small> |
-| JEPY<sub>MDD</sub> <small>(134%)</small> | <span style="color: tomato">32.2<small>%</small></span> | 9.7<small>%</small> | 3.32 | -5.2<small>%</small> | -0.9<small>%</small> |
+| BALI | <span style="color: tomato">35.5<small>%</small></span> | 9.4<small>%</small> | 3.79 | -5.3<small>%</small> | -0.8<small>%</small> |
+| JEPY | <span style="color: tomato">23.3<small>%</small></span> | 7.2<small>%</small> | 3.25 | -3.9<small>%</small> | -0.7<small>%</small> |
+| JEPY<sub>STD</sub> <small>(131%)</small> | <span style="color: tomato">31.3<small>%</small></span> | 9.4<small>%</small> | 3.34 | -5.1<small>%</small> | -0.9<small>%</small> |
+| JEPY<sub>MDD</sub> <small>(134%)</small> | <span style="color: tomato">32.2<small>%</small></span> | 9.6<small>%</small> | 3.35 | -5.2<small>%</small> | -0.9<small>%</small> |
 
 
 
 각각의 경우를 BALI의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 130% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 31.2%로 BALI의 35.5%보다 -4.3% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 131% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 31.3%로 BALI의 35.5%보다 -4.2% 낮았습니다. (낮은 수익률)
 
 **위험도 지표 (MDD):** 134% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 32.2%로 BALI의 35.5%보다 -3.3% 낮았습니다. (낮은 수익률)
 

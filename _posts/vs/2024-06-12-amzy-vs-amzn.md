@@ -29,8 +29,8 @@ Amazon.com Inc 상품과 AMZY 상품의 성과를 수익률과 위험도로 비�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| AMZY | <span style="color: tomato">48.2<small>%</small></span> | 24.5<small>%</small> | 1.97 | -12.3<small>%</small> | -2.5<small>%</small> |
-| Amazon.com Inc | <span style="color: tomato">51.9<small>%</small></span> | 27.9<small>%</small> | 1.86 | -17.5<small>%</small> | -3.3<small>%</small> |
+| AMZY | <span style="color: tomato">48.2<small>%</small></span> | 24.4<small>%</small> | 1.97 | -12.3<small>%</small> | -2.5<small>%</small> |
+| Amazon.com Inc | <span style="color: tomato">51.9<small>%</small></span> | 27.8<small>%</small> | 1.86 | -17.5<small>%</small> | -3.3<small>%</small> |
 
 <!-- more -->
 
@@ -39,7 +39,7 @@ Amazon.com Inc 상품과 AMZY 상품의 성과를 수익률과 위험도로 비�
 
 **수익률 지표 (CAGR):** AMZY의 CAGR은 48.2%로 Amazon.com Inc의 51.9%보다 -3.7% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** AMZY의 표준편차는 24.5%로 Amazon.com Inc의 27.9%보다 -3.4% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** AMZY의 표준편차는 24.4%로 Amazon.com Inc의 27.8%보다 -3.4% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** AMZY의 12.3%의 MDD는 Amazon.com Inc의 17.5%보다 -5.2% 낮았습니다. (낮은 위험도)
 
@@ -50,7 +50,7 @@ Amazon.com Inc 상품과 AMZY 상품의 성과를 수익률과 위험도로 비�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 Amazon.com Inc의 투자 비중[^fn_vs_weight]을 조절하여 AMZY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 27.9% / 24.5% = 88% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 27.8% / 24.4% = 88% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 17.5% / 12.3% = 70% 비중으로 투자하면 됩니다.
 
@@ -72,10 +72,10 @@ Amazon.com Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| AMZY | <span style="color: tomato">48.2<small>%</small></span> | 24.5<small>%</small> | 1.97 | -12.3<small>%</small> | -2.5<small>%</small> |
-| Amazon.com Inc | <span style="color: tomato">51.9<small>%</small></span> | 27.9<small>%</small> | 1.86 | -17.5<small>%</small> | -3.3<small>%</small> |
-| Amazon.com Inc<sub>STD</sub> <small>(88%)</small> | <span style="color: tomato">44.9<small>%</small></span> | 24.5<small>%</small> | 1.83 | -15.4<small>%</small> | -2.9<small>%</small> |
-| Amazon.com Inc<sub>MDD</sub> <small>(70%)</small> | <span style="color: tomato">35.2<small>%</small></span> | 19.6<small>%</small> | 1.80 | -12.5<small>%</small> | -2.3<small>%</small> |
+| AMZY | <span style="color: tomato">48.2<small>%</small></span> | 24.4<small>%</small> | 1.97 | -12.3<small>%</small> | -2.5<small>%</small> |
+| Amazon.com Inc | <span style="color: tomato">51.9<small>%</small></span> | 27.8<small>%</small> | 1.86 | -17.5<small>%</small> | -3.3<small>%</small> |
+| Amazon.com Inc<sub>STD</sub> <small>(88%)</small> | <span style="color: tomato">44.9<small>%</small></span> | 24.4<small>%</small> | 1.84 | -15.4<small>%</small> | -2.9<small>%</small> |
+| Amazon.com Inc<sub>MDD</sub> <small>(70%)</small> | <span style="color: tomato">35.2<small>%</small></span> | 19.5<small>%</small> | 1.80 | -12.5<small>%</small> | -2.3<small>%</small> |
 
 
 
