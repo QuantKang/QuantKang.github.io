@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KBSTAR KRX300미국달러선물혼합](/319870-vs-138230/) | <span style="color: tomato">13.0<small>%</small></span> | 17.1<small>%</small> | 0.76 | -28.3<small>%</small> | -6.6<small>%</small> |
-| KOSEF 미국달러선물 | <span style="color: tomato">5.8<small>%</small></span> | 8.8<small>%</small> | 0.66 | -15.6<small>%</small> | -5.7<small>%</small> |
+| [KBSTAR KRX300미국달러선물혼합](/319870-vs-138230/) | <span style="color: tomato">13.2<small>%</small></span> | 17.1<small>%</small> | 0.77 | -28.3<small>%</small> | -6.6<small>%</small> |
+| KOSEF 미국달러선물 | <span style="color: tomato">5.9<small>%</small></span> | 8.8<small>%</small> | 0.67 | -15.6<small>%</small> | -5.7<small>%</small> |
