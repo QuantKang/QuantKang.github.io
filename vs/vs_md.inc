@@ -454,6 +454,39 @@ ARIRANG 스마트베타4종결합 vs KODEX 200
 
 
 
+### [ARIRANG KS로우사이즈가중TR vs KODEX 200](/333950-vs-069500/)<a id="333950-vs-069500"></a>
+
+{% include vs/333950-vs-069500_md.inc %}
+
+
+
+### [ARIRANG KS로우볼가중TR vs KODEX 200](/333940-vs-069500/)<a id="333940-vs-069500"></a>
+
+{% include vs/333940-vs-069500_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
+### [ARIRANG KS퀄리티가중TR vs KODEX 200](/333980-vs-069500/)<a id="333980-vs-069500"></a>
+
+{% include vs/333980-vs-069500_md.inc %}
+
+
+
+### [ARIRANG KS모멘텀가중TR vs KODEX 200](/333960-vs-069500/)<a id="333960-vs-069500"></a>
+
+{% include vs/333960-vs-069500_md.inc %}
+
+
+
+### [ARIRANG KS밸류가중 vs KODEX 200](/333970-vs-069500/)<a id="333970-vs-069500"></a>
+
+{% include vs/333970-vs-069500_md.inc %}
+
+
+
 ## 액티브 ETF
 
 

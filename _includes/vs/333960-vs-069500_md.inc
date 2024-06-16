@@ -1,0 +1,4 @@
+| **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
+| :------- | -------: | ------: | --------------: | ------------: | ------------: |
+| [ARIRANG KS모멘텀가중TR](/333960-vs-069500/) | <span style="color: tomato">9.7<small>%</small></span> | 20.8<small>%</small> | 0.47 | -35.0<small>%</small> | -13.8<small>%</small> |
+| KODEX 200 | <span style="color: tomato">10.0<small>%</small></span> | 20.2<small>%</small> | 0.50 | -34.6<small>%</small> | -13.1<small>%</small> |
