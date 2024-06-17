@@ -30,7 +30,7 @@ XYLG 상품과 ISPY 상품의 성과를 수익률과 위험도로 비교합니�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | ISPY | <span style="color: tomato">30.4<small>%</small></span> | 9.8<small>%</small> | 3.12 | -4.9<small>%</small> | -0.8<small>%</small> |
-| XYLG | <span style="color: tomato">26.0<small>%</small></span> | 7.0<small>%</small> | 3.74 | -4.3<small>%</small> | -0.6<small>%</small> |
+| XYLG | <span style="color: tomato">26.0<small>%</small></span> | 7.0<small>%</small> | 3.73 | -4.3<small>%</small> | -0.6<small>%</small> |
 
 <!-- more -->
 
@@ -73,7 +73,7 @@ XYLG<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, XYL
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | ISPY | <span style="color: tomato">30.4<small>%</small></span> | 9.8<small>%</small> | 3.12 | -4.9<small>%</small> | -0.8<small>%</small> |
-| XYLG | <span style="color: tomato">26.0<small>%</small></span> | 7.0<small>%</small> | 3.74 | -4.3<small>%</small> | -0.6<small>%</small> |
+| XYLG | <span style="color: tomato">26.0<small>%</small></span> | 7.0<small>%</small> | 3.73 | -4.3<small>%</small> | -0.6<small>%</small> |
 | XYLG<sub>STD</sub> <small>(140%)</small> | <span style="color: tomato">38.0<small>%</small></span> | 9.8<small>%</small> | 3.90 | -6.0<small>%</small> | -0.9<small>%</small> |
 | XYLG<sub>MDD</sub> <small>(114%)</small> | <span style="color: tomato">30.0<small>%</small></span> | 7.9<small>%</small> | 3.79 | -4.9<small>%</small> | -0.7<small>%</small> |
 

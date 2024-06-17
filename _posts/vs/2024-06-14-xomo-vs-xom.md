@@ -1,7 +1,7 @@
 ---
 layout: single
 title: XOMO vs Exxon Mobil Corp
-excerpt: XOMO의 최근 9개월 CAGR은 -7.4%로 Exxon Mobil Corp의 1.0%보다 -8.4% 낮았습니다.
+excerpt: XOMO의 최근 9개월 CAGR은 -7.4%로 Exxon Mobil Corp의 -0.1%보다 -7.3% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -30,14 +30,14 @@ Exxon Mobil Corp 상품과 XOMO 상품의 성과를 수익률과 위험도로 �
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | XOMO | <span style="color: cornflowerblue">-7.4<small>%</small></span> | 15.1<small>%</small> | -0.49 | -13.5<small>%</small> | -6.6<small>%</small> |
-| Exxon Mobil Corp | <span style="color: tomato">1.0<small>%</small></span> | 20.3<small>%</small> | 0.05 | -18.7<small>%</small> | -8.5<small>%</small> |
+| Exxon Mobil Corp | <span style="color: cornflowerblue">-0.1<small>%</small></span> | 20.3<small>%</small> | -0.00 | -18.7<small>%</small> | -8.6<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** XOMO의 CAGR은 -7.4%로 Exxon Mobil Corp의 1.0%보다 -8.4% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** XOMO의 CAGR은 -7.4%로 Exxon Mobil Corp의 -0.1%보다 -7.3% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** XOMO의 표준편차는 15.1%로 Exxon Mobil Corp의 20.3%보다 -5.2% 낮았습니다. (낮은 위험도)
 
@@ -73,17 +73,17 @@ Exxon Mobil Corp<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | XOMO | <span style="color: cornflowerblue">-7.4<small>%</small></span> | 15.1<small>%</small> | -0.49 | -13.5<small>%</small> | -6.6<small>%</small> |
-| Exxon Mobil Corp | <span style="color: tomato">1.0<small>%</small></span> | 20.3<small>%</small> | 0.05 | -18.7<small>%</small> | -8.5<small>%</small> |
-| Exxon Mobil Corp<sub>STD</sub> <small>(75%)</small> | <span style="color: tomato">1.1<small>%</small></span> | 15.1<small>%</small> | 0.07 | -14.2<small>%</small> | -6.4<small>%</small> |
-| Exxon Mobil Corp<sub>MDD</sub> <small>(72%)</small> | <span style="color: tomato">1.1<small>%</small></span> | 14.7<small>%</small> | 0.08 | -13.8<small>%</small> | -6.2<small>%</small> |
+| Exxon Mobil Corp | <span style="color: cornflowerblue">-0.1<small>%</small></span> | 20.3<small>%</small> | -0.00 | -18.7<small>%</small> | -8.6<small>%</small> |
+| Exxon Mobil Corp<sub>STD</sub> <small>(75%)</small> | <span style="color: tomato">0.3<small>%</small></span> | 15.1<small>%</small> | 0.02 | -14.2<small>%</small> | -6.5<small>%</small> |
+| Exxon Mobil Corp<sub>MDD</sub> <small>(72%)</small> | <span style="color: tomato">0.4<small>%</small></span> | 14.6<small>%</small> | 0.02 | -13.8<small>%</small> | -6.2<small>%</small> |
 
 
 
 각각의 경우를 XOMO의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 75% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 1.1%로 XOMO의 -7.4%보다 8.5% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 75% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 0.3%로 XOMO의 -7.4%보다 7.7% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 72% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 1.1%로 XOMO의 -7.4%보다 8.5% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 72% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 0.4%로 XOMO의 -7.4%보다 7.8% 높았습니다. (높은 수익률)
 
 
 
@@ -95,8 +95,8 @@ Exxon Mobil Corp<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경�
 
 지난 9개월간 거치식으로 투자했다고 가정합니다.
 
-Exxon Mobil Corp의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 1.1%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 XOMO의 -7.4%보다 8.5% 높았습니다.
+Exxon Mobil Corp의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 0.4%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 XOMO의 -7.4%보다 7.7% 높았습니다.
 
 ### XOMO	&lt; Exxon Mobil Corp
 {: .text-center}
