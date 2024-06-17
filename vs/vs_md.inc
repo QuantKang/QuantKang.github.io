@@ -270,8 +270,6 @@ KOSPI 200Top10 (동일가중) vs FnGuide TOP 10 동일가중 지수
 
 ### [TIGER 모멘텀 vs KODEX 200](/147970-vs-069500/)<a id="147970-vs-069500"></a>
 
-TIGER 모멘텀 vs KODEX 200
-
 {% include vs/147970-vs-069500_md.inc %}
 
 
@@ -484,6 +482,43 @@ ARIRANG 스마트베타4종결합 vs KODEX 200
 ### [ARIRANG KS밸류가중 vs KODEX 200](/333970-vs-069500/)<a id="333970-vs-069500"></a>
 
 {% include vs/333970-vs-069500_md.inc %}
+
+
+
+## 모멘텀 ETF
+
+
+
+### [KODEX 모멘텀Plus vs KODEX 200](/244620-vs-069500/)<a id="244620-vs-069500"></a>
+
+{% include vs/244620-vs-069500_md.inc %}
+
+
+
+### [KBSTAR 모멘텀밸류 vs KODEX 200](/252720-vs-069500/)<a id="252720-vs-069500"></a>
+
+{% include vs/252720-vs-069500_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
+### [KBSTAR 모멘텀로우볼 vs KODEX 200](/252730-vs-069500/)<a id="252730-vs-069500"></a>
+
+{% include vs/252730-vs-069500_md.inc %}
+
+
+
+### [ACE 스마트모멘텀 vs KODEX 200](/272220-vs-069500/)<a id="272220-vs-069500"></a>
+
+{% include vs/272220-vs-069500_md.inc %}
+
+
+
+### [KODEX MSCI모멘텀 vs KODEX 200](/275280-vs-069500/)<a id="275280-vs-069500"></a>
+
+{% include vs/275280-vs-069500_md.inc %}
 
 
 
