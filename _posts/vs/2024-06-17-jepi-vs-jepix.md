@@ -73,7 +73,7 @@ JEPIX<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JE
 | JEPI | <span style="color: tomato">12.4<small>%</small></span> | 10.5<small>%</small> | 1.18 | -13.7<small>%</small> | -2.2<small>%</small> |
 | JEPIX | <span style="color: tomato">11.9<small>%</small></span> | 10.9<small>%</small> | 1.09 | -13.7<small>%</small> | -2.4<small>%</small> |
 | JEPIX<sub>STD</sub> <small>(96%)</small> | <span style="color: tomato">11.5<small>%</small></span> | 10.5<small>%</small> | 1.09 | -13.2<small>%</small> | -2.3<small>%</small> |
-| JEPIX<sub>MDD</sub> <small>(100%)</small> | <span style="color: tomato">12.0<small>%</small></span> | 11.0<small>%</small> | 1.09 | -13.7<small>%</small> | -2.4<small>%</small> |
+| JEPIX<sub>MDD</sub> <small>(100%)</small> | <span style="color: tomato">12.0<small>%</small></span> | 10.9<small>%</small> | 1.09 | -13.7<small>%</small> | -2.4<small>%</small> |
 
 
 
