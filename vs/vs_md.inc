@@ -1561,6 +1561,22 @@ TLT는 미국 장기 국채에 투자하는 ETF입니다. TLTW는 미국 장기 
 
 
 
+## 레버리지
+
+
+
+### [QLD vs QQQ](/qld-vs-qqq/)<a id="qld-vs-qqq"></a>
+
+{% include vs/qld-vs-qqq_md.inc %}
+
+
+
+### [TQQQ vs QQQ](/tqqq-vs-qqq/)<a id="tqqq-vs-qqq"></a>
+
+{% include vs/tqqq-vs-qqq_md.inc %}
+
+
+
 ## 해외 상장 해외 ETF (동일 비중)
 
 
@@ -1578,6 +1594,9 @@ TLT는 미국 장기 국채에 투자하는 ETF입니다. TLTW는 미국 장기 
 S&P 500 Equal Weight Index vs. S&P 500
 
 {% include vs/rsp-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -1598,9 +1617,6 @@ Nasdaq 100 Equal Weight Index vs. Nasdaq 100
 Invesco사의 SPLV는 S&P500 종목 중에서 변동성이 낮은 종목에 투자하는 상품입니다. S&P5 500 지수를 추종하는 SPY와 비교해서 저변동성 종목 편입의 효과를 확인해 봅니다.
 
 {% include vs/splv-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1627,6 +1643,9 @@ IJH는 S&P 400 중형주 지수를 추종하는 ETF입니다. XMLV는 지수 편
 {% include vs/xmlv-vs-ijh_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [XSLV vs IJR](/xslv-vs-ijr/)<a id="xslv-vs-ijr"></a>
 
@@ -1641,9 +1660,6 @@ IJR은 S&P 600 소형주 지수를 추종하는 ETF입니다. XSLV는 지수 편
 러셀 1000 지수 편입 종목 중에서 저변동성 종목을 선별하는 ONEV와 러셀 100 지수를 추종하는 IWB을 비교합니다.
 
 {% include vs/onev-vs-iwb_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1676,6 +1692,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/tsly-vs-tsla_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [OARK vs ARKK](/oark-vs-arkk/)<a id="oark-vs-arkk"></a>
 
@@ -1686,9 +1705,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [APLY vs AAPL](/aply-vs-aapl/)<a id="aply-vs-aapl"></a>
 
 {% include vs/aply-vs-aapl_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1709,6 +1725,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/fby-vs-meta_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [GOOY vs GOOGL](/gooy-vs-googl/)<a id="gooy-vs-googl"></a>
 
@@ -1719,9 +1738,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [CONY vs COIN](/cony-vs-coin/)<a id="cony-vs-coin"></a>
 
 {% include vs/cony-vs-coin_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1742,6 +1758,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/msfo-vs-msft_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [XOMO vs XOM](/xomo-vs-xom/)<a id="xomo-vs-xom"></a>
 
@@ -1752,9 +1771,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [JPMO vs JPM](/jpmo-vs-jpm/)<a id="jpmo-vs-jpm"></a>
 
 {% include vs/jpmo-vs-jpm_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1775,6 +1791,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/sqy-vs-sq_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [MRNY vs MRNA](/mrny-vs-mrna/)<a id="mrny-vs-mrna"></a>
 
@@ -1785,9 +1804,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [AIYY vs AI](/aiyy-vs-ai/)<a id="aiyy-vs-ai"></a>
 
 {% include vs/aiyy-vs-ai_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1808,6 +1824,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/ymax-vs-jepi_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [YMAG vs JEPI](/ymag-vs-jepi/)<a id="ymag-vs-jepi"></a>
 
@@ -1822,9 +1841,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [AIEQ vs SPY](/aieq-vs-spy/)<a id="aieq-vs-spy"></a>
 
 {% include vs/aieq-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1845,6 +1861,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/amom-vs-spy_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [AIIQ vs SPY](/aiiq-vs-spy/)<a id="aiiq-vs-spy"></a>
 
@@ -1855,9 +1874,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [HDIV vs SPY](/hdiv-vs-spy/)<a id="hdiv-vs-spy"></a>
 
 {% include vs/hdiv-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1882,6 +1898,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/arkk-vs-qld_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ## 해외 종목
 
@@ -1900,9 +1919,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 워런 버핏이 CEO로 있는 버크셔 해서웨이(BRK.A)와 미국 대표 지수를 추종하는 SPY의 성과를 비교해 봅니다.
 
 {% include vs/brk-a-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1927,6 +1943,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/moat-vs-schd_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [MOAT vs SPY](/moat-vs-spy/)<a id="moat-vs-spy"></a>
 
@@ -1941,9 +1960,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [ARIRANG 미국S&P500(H) vs SPY](/269540-vs-spy/)<a id="269540-vs-spy"></a>
 
 {% include vs/269540-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1964,6 +1980,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/250730-vs-2828_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [iShares 20+ Year US Treasury Bond JPY Hedged ETF vs iShares 20+ Year Treasury Bond ETF](/2621-vs-tlt/)<a id="2621-vs-tlt"></a>
 
@@ -1974,9 +1993,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [CSHI vs BIL](/cshi-vs-bil/)<a id="cshi-vs-bil"></a>
 
 {% include vs/cshi-vs-bil_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
