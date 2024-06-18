@@ -5,7 +5,7 @@ excerpt: KOSDAQ 기타제조 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-06-14
+last_modified_at: 2024-06-18
 ---
 
 
@@ -16,18 +16,18 @@ last_modified_at: 2024-06-14
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| 에이스침대 | 5.4 | 0.4 | 5.3<small>%</small> | 20.6<small>%</small> |
-| 노바텍 | 6.3 | 1.2 | 2.7<small>%</small> | 13.8<small>%</small> |
-| 엔바이오니아 | - | 3.8 | - | 10.0<small>%</small> |
-| 꿈비 | - | 3.5 | - | 9.2<small>%</small> |
-| [리튬포어스](/073570/) | - | 0.9 | - | 9.0<small>%</small> |
-| 엑스플러스 | - | 21.4 | - | 7.5<small>%</small> |
-| 블리츠웨이스튜디오 | - | 3.1 | - | 6.6<small>%</small> |
+| 에이스침대 | 5.5 | 0.4 | 5.2<small>%</small> | 20.6<small>%</small> |
+| 노바텍 | 6.4 | 1.2 | 2.6<small>%</small> | 13.8<small>%</small> |
+| 꿈비 | - | 3.8 | - | 9.6<small>%</small> |
+| 엔바이오니아 | - | 3.6 | - | 9.5<small>%</small> |
+| [리튬포어스](/073570/) | - | 0.9 | - | 9.2<small>%</small> |
+| 엑스플러스 | - | 23.9 | - | 8.3<small>%</small> |
+| 블리츠웨이스튜디오 | - | 3.0 | - | 6.4<small>%</small> |
 | RF머트리얼즈 | - | 1.8 | - | 5.6<small>%</small> |
-| 피코그램 | 13.9 | 1.7 | - | 4.4<small>%</small> |
-| 휴엠앤씨 | 5.8 | 1.5 | - | 4.2<small>%</small> |
-| 브이씨 | - | 0.9 | - | 2.4<small>%</small> |
-| 제이에스티나 | 34.8 | 0.6 | 5.3<small>%</small> | 2.2<small>%</small> |
+| 피코그램 | 13.6 | 1.7 | - | 4.2<small>%</small> |
+| 휴엠앤씨 | 5.5 | 1.4 | - | 3.9<small>%</small> |
+| 브이씨 | - | 0.9 | - | 2.3<small>%</small> |
+| 제이에스티나 | 35.9 | 0.6 | 5.2<small>%</small> | 2.2<small>%</small> |
 | 듀오백 | - | 1.7 | - | 2.1<small>%</small> |
 | 세니젠 | - | 1.5 | - | 1.6<small>%</small> |
 | 에이디칩스 | - | 0.6 | - | 0.9<small>%</small> |
