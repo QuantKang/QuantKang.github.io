@@ -30,7 +30,7 @@ XYLG 상품과 ISPY 상품의 성과를 수익률과 위험도로 비교합니�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | ISPY | <span style="color: tomato">31.4<small>%</small></span> | 9.7<small>%</small> | 3.22 | -4.9<small>%</small> | -0.8<small>%</small> |
-| XYLG | <span style="color: tomato">26.5<small>%</small></span> | 7.0<small>%</small> | 3.82 | -4.3<small>%</small> | -0.6<small>%</small> |
+| XYLG | <span style="color: tomato">26.5<small>%</small></span> | 7.0<small>%</small> | 3.81 | -4.3<small>%</small> | -0.6<small>%</small> |
 
 <!-- more -->
 
@@ -73,7 +73,7 @@ XYLG<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, XYL
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | ISPY | <span style="color: tomato">31.4<small>%</small></span> | 9.7<small>%</small> | 3.22 | -4.9<small>%</small> | -0.8<small>%</small> |
-| XYLG | <span style="color: tomato">26.5<small>%</small></span> | 7.0<small>%</small> | 3.82 | -4.3<small>%</small> | -0.6<small>%</small> |
+| XYLG | <span style="color: tomato">26.5<small>%</small></span> | 7.0<small>%</small> | 3.81 | -4.3<small>%</small> | -0.6<small>%</small> |
 | XYLG<sub>STD</sub> <small>(140%)</small> | <span style="color: tomato">38.8<small>%</small></span> | 9.7<small>%</small> | 3.99 | -6.0<small>%</small> | -0.9<small>%</small> |
 | XYLG<sub>MDD</sub> <small>(114%)</small> | <span style="color: tomato">30.6<small>%</small></span> | 7.9<small>%</small> | 3.87 | -4.9<small>%</small> | -0.7<small>%</small> |
 
@@ -81,7 +81,7 @@ XYLG<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, XYL
 
 각각의 경우를 ISPY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 140% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 38.8%로 ISPY의 31.4%보다 7.5% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 140% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 38.8%로 ISPY의 31.4%보다 7.4% 높았습니다. (높은 수익률)
 
 **위험도 지표 (MDD):** 114% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 30.6%로 ISPY의 31.4%와 비슷했습니다. (비슷한 수익률)
 
