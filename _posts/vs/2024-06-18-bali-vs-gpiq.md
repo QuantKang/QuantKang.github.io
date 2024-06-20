@@ -74,14 +74,14 @@ GPIQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, GPI
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | BALI | <span style="color: tomato">50.1<small>%</small></span> | 8.8<small>%</small> | 5.72 | -4.8<small>%</small> | -0.6<small>%</small> |
 | GPIQ | <span style="color: tomato">54.3<small>%</small></span> | 12.1<small>%</small> | 4.47 | -6.3<small>%</small> | -0.8<small>%</small> |
-| GPIQ<sub>STD</sub> <small>(72%)</small> | <span style="color: tomato">36.9<small>%</small></span> | 8.8<small>%</small> | 4.22 | -4.6<small>%</small> | -0.6<small>%</small> |
+| GPIQ<sub>STD</sub> <small>(72%)</small> | <span style="color: tomato">37.0<small>%</small></span> | 8.8<small>%</small> | 4.22 | -4.6<small>%</small> | -0.6<small>%</small> |
 | GPIQ<sub>MDD</sub> <small>(76%)</small> | <span style="color: tomato">39.4<small>%</small></span> | 9.3<small>%</small> | 4.26 | -4.8<small>%</small> | -0.6<small>%</small> |
 
 
 
 각각의 경우를 BALI의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 72% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 36.9%로 BALI의 50.1%보다 -13.1% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 72% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 37.0%로 BALI의 50.1%보다 -13.1% 낮았습니다. (낮은 수익률)
 
 **위험도 지표 (MDD):** 76% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 39.4%로 BALI의 50.1%보다 -10.7% 낮았습니다. (낮은 수익률)
 
