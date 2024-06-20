@@ -5,7 +5,7 @@ excerpt: KOSDAQ 전체 업종별 시가총액 비중입니다. 종목별로 주�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-06-19
+last_modified_at: 2024-06-20
 ---
 
 
