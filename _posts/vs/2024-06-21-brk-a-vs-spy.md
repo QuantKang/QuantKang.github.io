@@ -1,7 +1,7 @@
 ---
 layout: single
 title: BRK-A vs SPY
-excerpt: BRK-A의 최근 31년 4개월 CAGR은 13.3%로 SPY의 10.3%보다 3.0% 높았습니다.
+excerpt: BRK-A의 최근 31년 4개월 CAGR은 13.3%로 SPY의 10.4%보다 3.0% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -28,14 +28,14 @@ keywords: SPY, BRK-A, BRK-A SPY 비교
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | BRK-A | <span style="color: tomato">13.3<small>%</small></span> | 22.4<small>%</small> | 0.59 | -51.5<small>%</small> | -10.5<small>%</small> |
-| SPY | <span style="color: tomato">10.3<small>%</small></span> | 18.6<small>%</small> | 0.56 | -55.2<small>%</small> | -9.5<small>%</small> |
+| SPY | <span style="color: tomato">10.4<small>%</small></span> | 18.6<small>%</small> | 0.56 | -55.2<small>%</small> | -9.5<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** BRK-A의 CAGR은 13.3%로 SPY의 10.3%보다 3.0% 높았습니다. (높은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** BRK-A의 CAGR은 13.3%로 SPY의 10.4%보다 3.0% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** BRK-A의 표준편차는 22.4%로 SPY의 18.6%보다 3.8% 높았습니다. (높은 위험도)
 
@@ -71,7 +71,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | BRK-A | <span style="color: tomato">13.3<small>%</small></span> | 22.4<small>%</small> | 0.59 | -51.5<small>%</small> | -10.5<small>%</small> |
-| SPY | <span style="color: tomato">10.3<small>%</small></span> | 18.6<small>%</small> | 0.56 | -55.2<small>%</small> | -9.5<small>%</small> |
+| SPY | <span style="color: tomato">10.4<small>%</small></span> | 18.6<small>%</small> | 0.56 | -55.2<small>%</small> | -9.5<small>%</small> |
 | SPY<sub>STD</sub> <small>(120%)</small> | <span style="color: tomato">12.1<small>%</small></span> | 22.4<small>%</small> | 0.54 | -62.9<small>%</small> | -11.8<small>%</small> |
 | SPY<sub>MDD</sub> <small>(93%)</small> | <span style="color: tomato">9.7<small>%</small></span> | 17.3<small>%</small> | 0.56 | -52.4<small>%</small> | -8.7<small>%</small> |
 

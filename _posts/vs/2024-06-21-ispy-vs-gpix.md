@@ -29,7 +29,7 @@ GPIX 상품과 ISPY 상품의 성과를 수익률과 위험도로 비교합니�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| ISPY | <span style="color: tomato">30.4<small>%</small></span> | 9.6<small>%</small> | 3.15 | -4.9<small>%</small> | -0.8<small>%</small> |
+| ISPY | <span style="color: tomato">30.4<small>%</small></span> | 9.6<small>%</small> | 3.16 | -4.9<small>%</small> | -0.8<small>%</small> |
 | GPIX | <span style="color: tomato">28.2<small>%</small></span> | 9.1<small>%</small> | 3.11 | -5.0<small>%</small> | -0.7<small>%</small> |
 
 <!-- more -->
@@ -72,7 +72,7 @@ GPIX<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, GPI
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| ISPY | <span style="color: tomato">30.4<small>%</small></span> | 9.6<small>%</small> | 3.15 | -4.9<small>%</small> | -0.8<small>%</small> |
+| ISPY | <span style="color: tomato">30.4<small>%</small></span> | 9.6<small>%</small> | 3.16 | -4.9<small>%</small> | -0.8<small>%</small> |
 | GPIX | <span style="color: tomato">28.2<small>%</small></span> | 9.1<small>%</small> | 3.11 | -5.0<small>%</small> | -0.7<small>%</small> |
 | GPIX<sub>STD</sub> <small>(106%)</small> | <span style="color: tomato">30.2<small>%</small></span> | 9.6<small>%</small> | 3.13 | -5.3<small>%</small> | -0.7<small>%</small> |
 | GPIX<sub>MDD</sub> <small>(99%)</small> | <span style="color: tomato">27.8<small>%</small></span> | 8.9<small>%</small> | 3.10 | -4.9<small>%</small> | -0.7<small>%</small> |

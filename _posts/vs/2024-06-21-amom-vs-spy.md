@@ -74,16 +74,16 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | AMOM | <span style="color: tomato">16.8<small>%</small></span> | 24.1<small>%</small> | 0.70 | -40.0<small>%</small> | -12.7<small>%</small> |
 | SPY | <span style="color: tomato">15.3<small>%</small></span> | 20.7<small>%</small> | 0.74 | -33.7<small>%</small> | -6.1<small>%</small> |
-| SPY<sub>STD</sub> <small>(117%)</small> | <span style="color: tomato">17.5<small>%</small></span> | 24.1<small>%</small> | 0.73 | -38.5<small>%</small> | -7.3<small>%</small> |
-| SPY<sub>MDD</sub> <small>(119%)</small> | <span style="color: tomato">17.8<small>%</small></span> | 24.6<small>%</small> | 0.72 | -39.1<small>%</small> | -7.5<small>%</small> |
+| SPY<sub>STD</sub> <small>(117%)</small> | <span style="color: tomato">17.6<small>%</small></span> | 24.1<small>%</small> | 0.73 | -38.5<small>%</small> | -7.3<small>%</small> |
+| SPY<sub>MDD</sub> <small>(119%)</small> | <span style="color: tomato">17.9<small>%</small></span> | 24.6<small>%</small> | 0.73 | -39.1<small>%</small> | -7.5<small>%</small> |
 
 
 
 각각의 경우를 AMOM의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 117% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 17.5%로 AMOM의 16.8%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 117% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 17.6%로 AMOM의 16.8%와 비슷했습니다. (비슷한 수익률)
 
-**위험도 지표 (MDD):** 119% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 17.8%로 AMOM의 16.8%보다 1.0% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 119% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 17.9%로 AMOM의 16.8%보다 1.1% 높았습니다. (높은 수익률)
 
 
 

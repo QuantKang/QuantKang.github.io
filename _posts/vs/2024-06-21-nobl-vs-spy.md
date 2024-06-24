@@ -1,7 +1,7 @@
 ---
 layout: single
 title: NOBL vs SPY
-excerpt: NOBL의 최근 10년 8개월 CAGR은 10.7%로 SPY의 13.5%보다 -2.9% 낮았습니다.
+excerpt: NOBL의 최근 10년 8개월 CAGR은 10.7%로 SPY의 13.6%보다 -2.9% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -28,14 +28,14 @@ ProShares사의 NOBL은 배당금이 꾸준히 증가한 배당귀족주에 투�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | NOBL | <span style="color: tomato">10.7<small>%</small></span> | 16.2<small>%</small> | 0.66 | -35.4<small>%</small> | -3.4<small>%</small> |
-| SPY | <span style="color: tomato">13.5<small>%</small></span> | 17.1<small>%</small> | 0.79 | -33.7<small>%</small> | -4.1<small>%</small> |
+| SPY | <span style="color: tomato">13.6<small>%</small></span> | 17.1<small>%</small> | 0.79 | -33.7<small>%</small> | -4.1<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** NOBL의 CAGR은 10.7%로 SPY의 13.5%보다 -2.9% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** NOBL의 CAGR은 10.7%로 SPY의 13.6%보다 -2.9% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** NOBL의 표준편차는 16.2%로 SPY의 17.1%와 비슷했습니다. (비슷한 위험도)
 
@@ -71,17 +71,17 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | NOBL | <span style="color: tomato">10.7<small>%</small></span> | 16.2<small>%</small> | 0.66 | -35.4<small>%</small> | -3.4<small>%</small> |
-| SPY | <span style="color: tomato">13.5<small>%</small></span> | 17.1<small>%</small> | 0.79 | -33.7<small>%</small> | -4.1<small>%</small> |
-| SPY<sub>STD</sub> <small>(95%)</small> | <span style="color: tomato">12.8<small>%</small></span> | 16.2<small>%</small> | 0.80 | -32.1<small>%</small> | -3.9<small>%</small> |
+| SPY | <span style="color: tomato">13.6<small>%</small></span> | 17.1<small>%</small> | 0.79 | -33.7<small>%</small> | -4.1<small>%</small> |
+| SPY<sub>STD</sub> <small>(95%)</small> | <span style="color: tomato">12.9<small>%</small></span> | 16.2<small>%</small> | 0.80 | -32.1<small>%</small> | -3.9<small>%</small> |
 | SPY<sub>MDD</sub> <small>(105%)</small> | <span style="color: tomato">14.2<small>%</small></span> | 18.0<small>%</small> | 0.79 | -35.2<small>%</small> | -4.4<small>%</small> |
 
 
 
 각각의 경우를 NOBL의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 95% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 12.8%로 NOBL의 10.7%보다 2.2% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 95% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 12.9%로 NOBL의 10.7%보다 2.2% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 105% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 14.2%로 NOBL의 10.7%보다 3.5% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 105% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 14.2%로 NOBL의 10.7%보다 3.6% 높았습니다. (높은 수익률)
 
 
 
