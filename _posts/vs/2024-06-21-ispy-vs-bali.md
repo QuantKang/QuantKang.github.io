@@ -75,7 +75,7 @@ BALI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, BAL
 | ISPY | <span style="color: tomato">30.4<small>%</small></span> | 9.6<small>%</small> | 3.16 | -4.9<small>%</small> | -0.8<small>%</small> |
 | BALI | <span style="color: tomato">34.6<small>%</small></span> | 8.6<small>%</small> | 4.04 | -4.8<small>%</small> | -0.7<small>%</small> |
 | BALI<sub>STD</sub> <small>(113%)</small> | <span style="color: tomato">39.7<small>%</small></span> | 9.6<small>%</small> | 4.12 | -5.4<small>%</small> | -0.8<small>%</small> |
-| BALI<sub>MDD</sub> <small>(102%)</small> | <span style="color: tomato">35.5<small>%</small></span> | 8.7<small>%</small> | 4.05 | -4.9<small>%</small> | -0.8<small>%</small> |
+| BALI<sub>MDD</sub> <small>(102%)</small> | <span style="color: tomato">35.5<small>%</small></span> | 8.7<small>%</small> | 4.06 | -4.9<small>%</small> | -0.8<small>%</small> |
 
 
 

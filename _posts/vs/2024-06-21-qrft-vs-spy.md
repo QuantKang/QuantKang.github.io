@@ -74,16 +74,16 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | QRFT | <span style="color: tomato">16.9<small>%</small></span> | 21.1<small>%</small> | 0.80 | -30.2<small>%</small> | -8.4<small>%</small> |
 | SPY | <span style="color: tomato">15.3<small>%</small></span> | 20.7<small>%</small> | 0.74 | -33.7<small>%</small> | -6.1<small>%</small> |
-| SPY<sub>STD</sub> <small>(102%)</small> | <span style="color: tomato">15.5<small>%</small></span> | 21.1<small>%</small> | 0.74 | -34.3<small>%</small> | -6.3<small>%</small> |
-| SPY<sub>MDD</sub> <small>(90%)</small> | <span style="color: tomato">13.8<small>%</small></span> | 18.5<small>%</small> | 0.74 | -30.6<small>%</small> | -5.4<small>%</small> |
+| SPY<sub>STD</sub> <small>(102%)</small> | <span style="color: tomato">15.6<small>%</small></span> | 21.1<small>%</small> | 0.74 | -34.3<small>%</small> | -6.3<small>%</small> |
+| SPY<sub>MDD</sub> <small>(90%)</small> | <span style="color: tomato">13.9<small>%</small></span> | 18.5<small>%</small> | 0.75 | -30.6<small>%</small> | -5.4<small>%</small> |
 
 
 
 각각의 경우를 QRFT의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 102% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 15.5%로 QRFT의 16.9%보다 -1.3% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 102% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 15.6%로 QRFT의 16.9%보다 -1.3% 낮았습니다. (낮은 수익률)
 
-**위험도 지표 (MDD):** 90% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 13.8%로 QRFT의 16.9%보다 -3.1% 낮았습니다. (낮은 수익률)
+**위험도 지표 (MDD):** 90% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 13.9%로 QRFT의 16.9%보다 -3.0% 낮았습니다. (낮은 수익률)
 
 
 

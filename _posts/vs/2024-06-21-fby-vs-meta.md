@@ -1,7 +1,7 @@
 ---
 layout: single
 title: FBY vs Meta Platforms Inc
-excerpt: FBY의 최근 10개월 CAGR은 31.8%로 Meta Platforms Inc의 59.6%보다 -27.8% 낮았습니다.
+excerpt: FBY의 최근 10개월 CAGR은 38.7%로 Meta Platforms Inc의 59.6%보다 -20.8% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -29,7 +29,7 @@ Meta Platforms Inc 상품과 FBY 상품의 성과를 수익률과 위험도로 �
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| FBY | <span style="color: tomato">31.8<small>%</small></span> | 25.8<small>%</small> | 1.23 | -14.8<small>%</small> | -4.3<small>%</small> |
+| FBY | <span style="color: tomato">38.7<small>%</small></span> | 25.7<small>%</small> | 1.51 | -14.8<small>%</small> | -3.7<small>%</small> |
 | Meta Platforms Inc | <span style="color: tomato">59.6<small>%</small></span> | 35.8<small>%</small> | 1.66 | -18.4<small>%</small> | -4.8<small>%</small> |
 
 <!-- more -->
@@ -37,9 +37,9 @@ Meta Platforms Inc 상품과 FBY 상품의 성과를 수익률과 위험도로 �
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** FBY의 CAGR은 31.8%로 Meta Platforms Inc의 59.6%보다 -27.8% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** FBY의 CAGR은 38.7%로 Meta Platforms Inc의 59.6%보다 -20.8% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** FBY의 표준편차는 25.8%로 Meta Platforms Inc의 35.8%보다 -10.0% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** FBY의 표준편차는 25.7%로 Meta Platforms Inc의 35.8%보다 -10.2% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** FBY의 14.8%의 MDD는 Meta Platforms Inc의 18.4%보다 -3.7% 낮았습니다. (낮은 위험도)
 
@@ -50,7 +50,7 @@ Meta Platforms Inc 상품과 FBY 상품의 성과를 수익률과 위험도로 �
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 Meta Platforms Inc의 투자 비중[^fn_vs_weight]을 조절하여 FBY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 35.8% / 25.8% = 72% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 35.8% / 25.7% = 72% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 18.4% / 14.8% = 80% 비중으로 투자하면 됩니다.
 
@@ -72,18 +72,18 @@ Meta Platforms Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| FBY | <span style="color: tomato">31.8<small>%</small></span> | 25.8<small>%</small> | 1.23 | -14.8<small>%</small> | -4.3<small>%</small> |
+| FBY | <span style="color: tomato">38.7<small>%</small></span> | 25.7<small>%</small> | 1.51 | -14.8<small>%</small> | -3.7<small>%</small> |
 | Meta Platforms Inc | <span style="color: tomato">59.6<small>%</small></span> | 35.8<small>%</small> | 1.66 | -18.4<small>%</small> | -4.8<small>%</small> |
-| Meta Platforms Inc<sub>STD</sub> <small>(72%)</small> | <span style="color: tomato">41.7<small>%</small></span> | 25.8<small>%</small> | 1.62 | -13.5<small>%</small> | -3.4<small>%</small> |
+| Meta Platforms Inc<sub>STD</sub> <small>(72%)</small> | <span style="color: tomato">41.5<small>%</small></span> | 25.7<small>%</small> | 1.62 | -13.4<small>%</small> | -3.4<small>%</small> |
 | Meta Platforms Inc<sub>MDD</sub> <small>(80%)</small> | <span style="color: tomato">46.8<small>%</small></span> | 28.7<small>%</small> | 1.63 | -14.9<small>%</small> | -3.8<small>%</small> |
 
 
 
 각각의 경우를 FBY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 72% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 41.7%로 FBY의 31.8%보다 9.9% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 72% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 41.5%로 FBY의 38.7%보다 2.8% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 80% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 46.8%로 FBY의 31.8%보다 15.1% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 80% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 46.8%로 FBY의 38.7%보다 8.1% 높았습니다. (높은 수익률)
 
 
 
@@ -95,8 +95,8 @@ Meta Platforms Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경
 
 지난 10개월간 거치식으로 투자했다고 가정합니다.
 
-Meta Platforms Inc의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 44.3%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 FBY의 31.8%보다 12.5% 높았습니다.
+Meta Platforms Inc의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 44.2%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 FBY의 38.7%보다 5.4% 높았습니다.
 
 ### FBY	&lt; Meta Platforms Inc
 {: .text-center}

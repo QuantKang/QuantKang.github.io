@@ -72,16 +72,16 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SPLV | <span style="color: tomato">10.3<small>%</small></span> | 14.8<small>%</small> | 0.69 | -36.3<small>%</small> | -3.7<small>%</small> |
 | SPY | <span style="color: tomato">13.4<small>%</small></span> | 17.1<small>%</small> | 0.78 | -33.7<small>%</small> | -4.0<small>%</small> |
-| SPY<sub>STD</sub> <small>(86%)</small> | <span style="color: tomato">11.6<small>%</small></span> | 14.8<small>%</small> | 0.79 | -29.6<small>%</small> | -3.4<small>%</small> |
+| SPY<sub>STD</sub> <small>(86%)</small> | <span style="color: tomato">11.7<small>%</small></span> | 14.8<small>%</small> | 0.79 | -29.6<small>%</small> | -3.4<small>%</small> |
 | SPY<sub>MDD</sub> <small>(108%)</small> | <span style="color: tomato">14.3<small>%</small></span> | 18.4<small>%</small> | 0.78 | -35.9<small>%</small> | -4.4<small>%</small> |
 
 
 
 각각의 경우를 SPLV의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 86% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 11.6%로 SPLV의 10.3%보다 1.4% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 86% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 11.7%로 SPLV의 10.3%보다 1.4% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 108% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 14.3%로 SPLV의 10.3%보다 4.0% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 108% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 14.3%로 SPLV의 10.3%보다 4.1% 높았습니다. (높은 수익률)
 
 
 

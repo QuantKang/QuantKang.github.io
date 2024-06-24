@@ -29,7 +29,7 @@ DIVO 상품과 SPY 상품의 성과를 수익률과 위험도로 비교합니다
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SPY | <span style="color: tomato">14.3<small>%</small></span> | 18.5<small>%</small> | 0.77 | -33.7<small>%</small> | -5.1<small>%</small> |
+| SPY | <span style="color: tomato">14.3<small>%</small></span> | 18.5<small>%</small> | 0.78 | -33.7<small>%</small> | -5.1<small>%</small> |
 | DIVO | <span style="color: tomato">11.7<small>%</small></span> | 15.5<small>%</small> | 0.76 | -30.0<small>%</small> | -2.9<small>%</small> |
 
 <!-- more -->
@@ -72,7 +72,7 @@ DIVO<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, DIV
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SPY | <span style="color: tomato">14.3<small>%</small></span> | 18.5<small>%</small> | 0.77 | -33.7<small>%</small> | -5.1<small>%</small> |
+| SPY | <span style="color: tomato">14.3<small>%</small></span> | 18.5<small>%</small> | 0.78 | -33.7<small>%</small> | -5.1<small>%</small> |
 | DIVO | <span style="color: tomato">11.7<small>%</small></span> | 15.5<small>%</small> | 0.76 | -30.0<small>%</small> | -2.9<small>%</small> |
 | DIVO<sub>STD</sub> <small>(120%)</small> | <span style="color: tomato">13.9<small>%</small></span> | 18.5<small>%</small> | 0.75 | -35.2<small>%</small> | -3.5<small>%</small> |
 | DIVO<sub>MDD</sub> <small>(112%)</small> | <span style="color: tomato">13.0<small>%</small></span> | 17.3<small>%</small> | 0.75 | -33.2<small>%</small> | -3.2<small>%</small> |

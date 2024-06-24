@@ -73,7 +73,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | XYLD | <span style="color: tomato">5.6<small>%</small></span> | 13.9<small>%</small> | 0.40 | -34.7<small>%</small> | -4.7<small>%</small> |
 | SPY | <span style="color: tomato">14.0<small>%</small></span> | 16.9<small>%</small> | 0.83 | -33.7<small>%</small> | -4.1<small>%</small> |
 | SPY<sub>STD</sub> <small>(82%)</small> | <span style="color: tomato">11.6<small>%</small></span> | 13.9<small>%</small> | 0.83 | -28.4<small>%</small> | -3.3<small>%</small> |
-| SPY<sub>MDD</sub> <small>(103%)</small> | <span style="color: tomato">14.4<small>%</small></span> | 17.4<small>%</small> | 0.82 | -34.6<small>%</small> | -4.2<small>%</small> |
+| SPY<sub>MDD</sub> <small>(103%)</small> | <span style="color: tomato">14.4<small>%</small></span> | 17.4<small>%</small> | 0.83 | -34.6<small>%</small> | -4.2<small>%</small> |
 
 
 
