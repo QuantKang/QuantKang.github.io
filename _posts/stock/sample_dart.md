@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [두산](/000150/#dart) | | [증권신고서(채무증권)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240621000684){:target="_blank"} |
-| [카카오](/035720/#dart) | | [[기재정정]분기보고서 (2024.03)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240621000676){:target="_blank"} |
-| [리튬포어스](/073570/#dart) | | [사외이사의선임ㆍ해임또는중도퇴임에관한신고](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240621000640){:target="_blank"} |
-| [HD현대일렉트릭](/267260/#dart) | | [최대주주등소유주식변동신고서              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240621800552){:target="_blank"} |
-| [NH투자증권](/005940/#dart) | | [투자설명서(일괄신고)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240621000611){:target="_blank"} |
+| [쌍용씨앤이](/003410/#dart) | | [최대주주등소유주식변동신고서              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240625800571){:target="_blank"} |
+| [BNK금융지주](/138930/#dart) | | [투자설명서(일괄신고)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240625000438){:target="_blank"} |
+| [서진시스템](/178320/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240625000416){:target="_blank"} |
+| [우리금융지주](/316140/#dart) | | [[기재정정]상각형조건부자본증권발행결정(자회사의 주요경영사항)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240625800494){:target="_blank"} |
+| [기아](/000270/#dart) | | [[기재정정]타법인주식및출자증권취득결정(자율공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240625800518){:target="_blank"} |
