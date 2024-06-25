@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [DISO](/diso-vs-dis/) | <span style="color: cornflowerblue">-11.8<small>%</small></span> | 21.5<small>%</small> | -0.55 | -21.3<small>%</small> | -6.0<small>%</small> |
-| Walt Disney Co | <span style="color: tomato">27.4<small>%</small></span> | 27.0<small>%</small> | 1.02 | -18.6<small>%</small> | -5.3<small>%</small> |
+| [DISO](/diso-vs-dis/) | <span style="color: tomato">17.9<small>%</small></span> | 19.8<small>%</small> | 0.90 | -14.1<small>%</small> | -3.8<small>%</small> |
+| Walt Disney Co | <span style="color: tomato">28.7<small>%</small></span> | 27.1<small>%</small> | 1.06 | -18.6<small>%</small> | -5.2<small>%</small> |
