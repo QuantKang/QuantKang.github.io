@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | [KODEX 모멘텀Plus](/244620-vs-069500/) | <span style="color: tomato">5.4<small>%</small></span> | 21.6<small>%</small> | 0.25 | -49.9<small>%</small> | -14.0<small>%</small> |
-| KODEX 200 | <span style="color: tomato">7.9<small>%</small></span> | 17.5<small>%</small> | 0.45 | -38.1<small>%</small> | -11.6<small>%</small> |
+| KODEX 200 | <span style="color: tomato">8.0<small>%</small></span> | 17.5<small>%</small> | 0.46 | -38.1<small>%</small> | -11.6<small>%</small> |
