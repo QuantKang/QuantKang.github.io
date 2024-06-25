@@ -5,7 +5,7 @@ excerpt: KOSPI 종이목재 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-06-24
+last_modified_at: 2024-06-21
 ---
 
 
@@ -16,25 +16,25 @@ last_modified_at: 2024-06-24
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| 아세아제지 | 4.6 | 0.4 | 5.6<small>%</small> | 14.9<small>%</small> |
-| 한솔제지 | 151.8 | 0.4 | 4.5<small>%</small> | 10.4<small>%</small> |
-| 신대양제지 | 4.3 | 0.3 | 2.6<small>%</small> | 9.1<small>%</small> |
-| 한국제지 | - | 0.5 | - | 8.6<small>%</small> |
-| 무림P&P | - | 0.3 | 3.1<small>%</small> | 7.8<small>%</small> |
-| 태림포장 | 34.7 | 0.5 | 2.0<small>%</small> | 6.9<small>%</small> |
-| 페이퍼코리아 | 5.0 | 0.5 | - | 5.6<small>%</small> |
-| 대영포장 | 14.1 | 0.6 | - | 4.9<small>%</small> |
-| 모나리자 | 13.0 | 1.5 | 4.6<small>%</small> | 4.6<small>%</small> |
-| 한국수출포장 | 5.2 | 0.3 | 3.1<small>%</small> | 4.0<small>%</small> |
-| 깨끗한나라 | - | 0.5 | - | 3.8<small>%</small> |
-| 무림페이퍼 | 27.1 | 0.2 | 3.3<small>%</small> | 3.6<small>%</small> |
-| 영풍제지 | - | 0.6 | 2.6<small>%</small> | 2.7<small>%</small> |
-| 삼정펄프 | 4.8 | 0.3 | 3.8<small>%</small> | 2.6<small>%</small> |
-| 한솔홈데코 | - | 0.4 | - | 2.4<small>%</small> |
+| 아세아제지 | 4.6 | 0.4 | 5.7<small>%</small> | 14.7<small>%</small> |
+| 한솔제지 | 153.0 | 0.4 | 4.4<small>%</small> | 10.4<small>%</small> |
+| 신대양제지 | 4.2 | 0.3 | 2.6<small>%</small> | 8.9<small>%</small> |
+| 한국제지 | - | 0.5 | - | 8.5<small>%</small> |
+| 무림P&P | - | 0.3 | 3.1<small>%</small> | 7.7<small>%</small> |
+| 태림포장 | 35.6 | 0.5 | 1.9<small>%</small> | 7.1<small>%</small> |
+| 페이퍼코리아 | 5.1 | 0.5 | - | 5.6<small>%</small> |
+| 대영포장 | 14.2 | 0.6 | - | 4.9<small>%</small> |
+| 모나리자 | 13.6 | 1.5 | 4.4<small>%</small> | 4.8<small>%</small> |
+| 한국수출포장 | 5.3 | 0.3 | 3.0<small>%</small> | 4.1<small>%</small> |
+| 깨끗한나라 | - | 0.5 | - | 3.9<small>%</small> |
+| 무림페이퍼 | 27.4 | 0.2 | 3.3<small>%</small> | 3.6<small>%</small> |
+| 영풍제지 | - | 0.6 | 2.6<small>%</small> | 2.8<small>%</small> |
+| 삼정펄프 | 4.8 | 0.3 | 3.7<small>%</small> | 2.6<small>%</small> |
+| 한솔홈데코 | - | 0.5 | - | 2.4<small>%</small> |
 | 이건산업 | - | 0.3 | 1.9<small>%</small> | 2.3<small>%</small> |
-| 유니드비티플러스 | 61.1 | 0.3 | - | 2.0<small>%</small> |
+| 유니드비티플러스 | 61.4 | 0.3 | - | 2.0<small>%</small> |
 | 한창제지 | - | 0.5 | - | 1.8<small>%</small> |
-| SUN&L | - | 0.2 | - | 1.7<small>%</small> |
+| SUN&L | - | 0.2 | - | 1.6<small>%</small> |
 | 깨끗한나라우 | - | - | - | 0.2<small>%</small> |
 
 {% include commons/footnotes.md %}

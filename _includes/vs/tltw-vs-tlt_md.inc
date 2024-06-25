@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [TLTW](/tltw-vs-tlt/) | <span style="color: cornflowerblue">-19.8<small>%</small></span> | 14.2<small>%</small> | -1.39 | -37.8<small>%</small> | -22.5<small>%</small> |
-| TLT | <span style="color: cornflowerblue">-8.9<small>%</small></span> | 18.0<small>%</small> | -0.50 | -27.2<small>%</small> | -13.7<small>%</small> |
+| [TLTW](/tltw-vs-tlt/) | <span style="color: cornflowerblue">-5.7<small>%</small></span> | 13.3<small>%</small> | -0.43 | -18.6<small>%</small> | -9.5<small>%</small> |
+| TLT | <span style="color: cornflowerblue">-6.0<small>%</small></span> | 18.1<small>%</small> | -0.33 | -24.5<small>%</small> | -11.2<small>%</small> |
