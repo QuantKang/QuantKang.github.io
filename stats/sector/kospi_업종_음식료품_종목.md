@@ -5,7 +5,7 @@ excerpt: KOSPI 음식료품 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-06-25
+last_modified_at: 2024-06-26
 ---
 
 
@@ -16,49 +16,49 @@ last_modified_at: 2024-06-25
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [CJ제일제당](/097950/) | 16.5 | 0.9 | 1.4<small>%</small> | 18.6<small>%</small> |
-| [삼양식품](/003230/) | 38.6 | 8.6 | 0.3<small>%</small> | 15.3<small>%</small> |
-| [오리온](/271560/) | 9.6 | 1.3 | 1.4<small>%</small> | 11.2<small>%</small> |
-| [농심](/004370/) | 16.9 | 1.2 | 1.0<small>%</small> | 9.5<small>%</small> |
-| [오뚜기](/007310/) | 9.5 | 0.8 | 2.0<small>%</small> | 5.5<small>%</small> |
-| [롯데웰푸드](/280360/) | 22.5 | 0.8 | 1.7<small>%</small> | 5.3<small>%</small> |
-| [하이트진로](/000080/) | 40.0 | 1.3 | 4.6<small>%</small> | 4.5<small>%</small> |
-| [롯데칠성](/005300/) | 8.1 | 0.9 | 2.5<small>%</small> | 3.9<small>%</small> |
+| [CJ제일제당](/097950/) | 16.5 | 0.9 | 1.4<small>%</small> | 18.7<small>%</small> |
+| [삼양식품](/003230/) | 38.5 | 8.6 | 0.3<small>%</small> | 15.3<small>%</small> |
+| [오리온](/271560/) | 9.6 | 1.3 | 1.4<small>%</small> | 11.3<small>%</small> |
+| [농심](/004370/) | 16.6 | 1.2 | 1.0<small>%</small> | 9.4<small>%</small> |
+| [오뚜기](/007310/) | 9.3 | 0.8 | 2.1<small>%</small> | 5.4<small>%</small> |
+| [롯데웰푸드](/280360/) | 22.6 | 0.8 | 1.7<small>%</small> | 5.3<small>%</small> |
+| [하이트진로](/000080/) | 39.6 | 1.3 | 4.7<small>%</small> | 4.4<small>%</small> |
+| [롯데칠성](/005300/) | 7.9 | 0.9 | 2.6<small>%</small> | 3.8<small>%</small> |
 | 빙그레 | 10.2 | 1.4 | 2.6<small>%</small> | 3.1<small>%</small> |
-| [대상](/001680/) | 14.9 | 0.8 | 2.9<small>%</small> | 3.0<small>%</small> |
-| 동원F&B | 7.7 | 0.9 | 1.9<small>%</small> | 2.6<small>%</small> |
-| 사조대림 | 5.8 | 0.9 | 0.5<small>%</small> | 2.0<small>%</small> |
-| 풀무원 | 57.7 | 1.7 | 0.7<small>%</small> | 1.7<small>%</small> |
-| 삼양사 | 5.0 | 0.4 | 3.3<small>%</small> | 1.7<small>%</small> |
-| SPC삼립 | 9.6 | 1.1 | 2.9<small>%</small> | 1.6<small>%</small> |
-| 남양유업 | - | 0.7 | 0.2<small>%</small> | 1.2<small>%</small> |
+| [대상](/001680/) | 14.8 | 0.8 | 2.9<small>%</small> | 3.0<small>%</small> |
+| 동원F&B | 7.6 | 0.8 | 1.9<small>%</small> | 2.6<small>%</small> |
+| 사조대림 | 5.9 | 0.9 | 0.5<small>%</small> | 2.0<small>%</small> |
+| 풀무원 | 56.0 | 1.6 | 0.7<small>%</small> | 1.7<small>%</small> |
+| 삼양사 | 4.9 | 0.3 | 3.3<small>%</small> | 1.7<small>%</small> |
+| SPC삼립 | 9.3 | 1.1 | 2.9<small>%</small> | 1.6<small>%</small> |
+| 남양유업 | - | 0.7 | 0.2<small>%</small> | 1.3<small>%</small> |
 | 대한제당 | 8.8 | 0.5 | 3.7<small>%</small> | 0.9<small>%</small> |
 | 대한제분 | 2.3 | 0.2 | 1.8<small>%</small> | 0.7<small>%</small> |
-| 해태제과식품 | 9.6 | 0.8 | 2.6<small>%</small> | 0.7<small>%</small> |
-| CJ제일제당 우 | - | - | 3.5<small>%</small> | 0.6<small>%</small> |
-| CJ씨푸드 | 43.7 | 2.5 | - | 0.6<small>%</small> |
+| 해태제과식품 | 9.2 | 0.7 | 2.7<small>%</small> | 0.7<small>%</small> |
+| CJ제일제당 우 | - | - | 3.5<small>%</small> | 0.7<small>%</small> |
+| CJ씨푸드 | 42.4 | 2.4 | - | 0.6<small>%</small> |
 | 무학 | 2.5 | 0.3 | 3.7<small>%</small> | 0.6<small>%</small> |
-| 선진 | 12.6 | 0.4 | 1.4<small>%</small> | 0.5<small>%</small> |
-| 샘표식품 | 15.8 | 0.7 | 0.6<small>%</small> | 0.5<small>%</small> |
-| 사조동아원 | 14.7 | 0.7 | 1.3<small>%</small> | 0.5<small>%</small> |
-| 크라운제과 | 5.5 | 0.6 | 2.5<small>%</small> | 0.4<small>%</small> |
+| 선진 | 12.3 | 0.4 | 1.4<small>%</small> | 0.5<small>%</small> |
+| 샘표식품 | 15.5 | 0.7 | 0.6<small>%</small> | 0.5<small>%</small> |
+| 사조동아원 | 14.7 | 0.7 | 1.4<small>%</small> | 0.5<small>%</small> |
+| 크라운제과 | 5.3 | 0.6 | 2.6<small>%</small> | 0.4<small>%</small> |
+| 조흥 | 301.7 | 0.7 | 3.4<small>%</small> | 0.3<small>%</small> |
 | 팜스코 | - | 0.5 | 1.7<small>%</small> | 0.3<small>%</small> |
-| 조흥 | 297.3 | 0.7 | 3.4<small>%</small> | 0.3<small>%</small> |
 | 사조씨푸드 | - | 0.5 | - | 0.3<small>%</small> |
-| 사조오양 | 5.0 | 0.5 | 1.9<small>%</small> | 0.3<small>%</small> |
+| 사조오양 | 4.9 | 0.5 | 1.9<small>%</small> | 0.3<small>%</small> |
 | 남양유업우 | - | - | 0.3<small>%</small> | 0.2<small>%</small> |
-| 고려산업 | 22.9 | 0.7 | 0.8<small>%</small> | 0.2<small>%</small> |
+| 고려산업 | 22.6 | 0.7 | 0.8<small>%</small> | 0.2<small>%</small> |
 | 마니커 | - | 1.6 | - | 0.2<small>%</small> |
-| 보해양조 | - | 0.8 | - | 0.2<small>%</small> |
 | 서울식품 | - | 2.6 | - | 0.2<small>%</small> |
-| 우성 | 4.4 | 0.3 | 1.6<small>%</small> | 0.2<small>%</small> |
-| 한성기업 | 41.2 | 1.0 | - | 0.2<small>%</small> |
+| 보해양조 | - | 0.8 | - | 0.2<small>%</small> |
+| 우성 | 4.3 | 0.3 | 1.6<small>%</small> | 0.2<small>%</small> |
+| 한성기업 | 40.1 | 0.9 | - | 0.2<small>%</small> |
 | 롯데칠성우 | - | - | 5.1<small>%</small> | 0.2<small>%</small> |
 | MH에탄올 | 8.4 | 0.6 | 4.1<small>%</small> | 0.1<small>%</small> |
-| 대상우 | - | - | 4.1<small>%</small> | 0.1<small>%</small> |
+| 대상우 | - | - | 4.2<small>%</small> | 0.1<small>%</small> |
 | 대한제당우 | - | - | 4.2<small>%</small> | 0.1<small>%</small> |
-| 하이트진로2우B | - | - | 6.1<small>%</small> | 0.1<small>%</small> |
-| 삼양사우 | - | - | 5.9<small>%</small> | 0.0<small>%</small> |
+| 하이트진로2우B | - | - | 6.2<small>%</small> | 0.1<small>%</small> |
+| 삼양사우 | - | - | 6.0<small>%</small> | 0.0<small>%</small> |
 | 크라운제과우 | - | - | 2.3<small>%</small> | 0.0<small>%</small> |
 | CJ씨푸드1우 | - | - | - | 0.0<small>%</small> |
 | 서울식품우 | - | - | - | 0.0<small>%</small> |
