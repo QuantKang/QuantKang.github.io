@@ -1,7 +1,7 @@
 ---
 layout: single
 title: GOOY vs Alphabet Inc Class A
-excerpt: GOOY의 최근 10개월 CAGR은 13.3%로 Alphabet Inc Class A의 43.5%보다 -30.1% 낮았습니다.
+excerpt: GOOY의 최근 10개월 CAGR은 13.3%로 Alphabet Inc Class A의 43.5%보다 -30.2% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -37,7 +37,7 @@ Alphabet Inc Class A 상품과 GOOY 상품의 성과를 수익률과 위험도�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** GOOY의 CAGR은 13.3%로 Alphabet Inc Class A의 43.5%보다 -30.1% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** GOOY의 CAGR은 13.3%로 Alphabet Inc Class A의 43.5%보다 -30.2% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** GOOY의 표준편차는 20.0%로 Alphabet Inc Class A의 27.3%보다 -7.3% 낮았습니다. (낮은 위험도)
 
