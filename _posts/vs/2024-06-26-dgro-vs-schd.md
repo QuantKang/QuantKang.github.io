@@ -1,7 +1,7 @@
 ---
 layout: single
 title: DGRO vs SCHD
-excerpt: DGRO의 최근 10년 CAGR은 11.3%로 SCHD의 10.8%와 비슷했습니다.
+excerpt: DGRO의 최근 10년 CAGR은 11.3%로 SCHD의 10.9%와 비슷했습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -30,14 +30,14 @@ SCHD 상품과 DGRO 상품의 성과를 수익률과 위험도로 비교합니�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | DGRO | <span style="color: tomato">11.3<small>%</small></span> | 16.6<small>%</small> | 0.68 | -35.1<small>%</small> | -3.8<small>%</small> |
-| SCHD | <span style="color: tomato">10.8<small>%</small></span> | 16.5<small>%</small> | 0.65 | -33.4<small>%</small> | -3.8<small>%</small> |
+| SCHD | <span style="color: tomato">10.9<small>%</small></span> | 16.5<small>%</small> | 0.66 | -33.4<small>%</small> | -3.8<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** DGRO의 CAGR은 11.3%로 SCHD의 10.8%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** DGRO의 CAGR은 11.3%로 SCHD의 10.9%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** DGRO의 표준편차는 16.6%로 SCHD의 16.5%와 비슷했습니다. (비슷한 위험도)
 
@@ -73,17 +73,17 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | DGRO | <span style="color: tomato">11.3<small>%</small></span> | 16.6<small>%</small> | 0.68 | -35.1<small>%</small> | -3.8<small>%</small> |
-| SCHD | <span style="color: tomato">10.8<small>%</small></span> | 16.5<small>%</small> | 0.65 | -33.4<small>%</small> | -3.8<small>%</small> |
-| SCHD<sub>STD</sub> <small>(101%)</small> | <span style="color: tomato">10.9<small>%</small></span> | 16.6<small>%</small> | 0.65 | -33.6<small>%</small> | -3.8<small>%</small> |
-| SCHD<sub>MDD</sub> <small>(105%)</small> | <span style="color: tomato">11.3<small>%</small></span> | 17.4<small>%</small> | 0.65 | -34.9<small>%</small> | -4.0<small>%</small> |
+| SCHD | <span style="color: tomato">10.9<small>%</small></span> | 16.5<small>%</small> | 0.66 | -33.4<small>%</small> | -3.8<small>%</small> |
+| SCHD<sub>STD</sub> <small>(101%)</small> | <span style="color: tomato">11.0<small>%</small></span> | 16.6<small>%</small> | 0.66 | -33.6<small>%</small> | -3.8<small>%</small> |
+| SCHD<sub>MDD</sub> <small>(105%)</small> | <span style="color: tomato">11.4<small>%</small></span> | 17.4<small>%</small> | 0.66 | -34.9<small>%</small> | -4.0<small>%</small> |
 
 
 
 각각의 경우를 DGRO의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 101% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 10.9%로 DGRO의 11.3%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 101% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 11.0%로 DGRO의 11.3%와 비슷했습니다. (비슷한 수익률)
 
-**위험도 지표 (MDD):** 105% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 11.3%로 DGRO의 11.3%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (MDD):** 105% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 11.4%로 DGRO의 11.3%와 비슷했습니다. (비슷한 수익률)
 
 
 
@@ -95,7 +95,7 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 
 지난 10년간 거치식으로 투자했다고 가정합니다.
 
-SCHD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 11.1%인 포트폴리오를 만들 수 있습니다.
+SCHD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 11.2%인 포트폴리오를 만들 수 있습니다.
 이 포트폴리오는 DGRO의 11.3%와 비슷했습니다.
 
 ### DGRO ≒ SCHD

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: EWJV vs IDVO
-excerpt: EWJV의 최근 1년 9개월 CAGR은 22.5%로 IDVO의 18.1%보다 4.3% 높았습니다.
+excerpt: EWJV의 최근 1년 9개월 CAGR은 22.5%로 IDVO의 18.1%보다 4.4% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -37,7 +37,7 @@ IDVO 상품과 EWJV 상품의 성과를 수익률과 위험도로 비교합니�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** EWJV의 CAGR은 22.5%로 IDVO의 18.1%보다 4.3% 높았습니다. (높은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** EWJV의 CAGR은 22.5%로 IDVO의 18.1%보다 4.4% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** EWJV의 표준편차는 16.3%로 IDVO의 15.5%와 비슷했습니다. (비슷한 위험도)
 
