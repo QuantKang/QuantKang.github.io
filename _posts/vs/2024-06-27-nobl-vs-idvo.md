@@ -1,7 +1,7 @@
 ---
 layout: single
 title: NOBL vs IDVO
-excerpt: NOBL의 최근 1년 9개월 CAGR은 6.3%로 IDVO의 17.8%보다 -11.5% 낮았습니다.
+excerpt: NOBL의 최근 1년 9개월 CAGR은 6.3%로 IDVO의 18.1%보다 -11.8% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -30,14 +30,14 @@ IDVO 상품과 NOBL 상품의 성과를 수익률과 위험도로 비교합니�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | NOBL | <span style="color: tomato">6.3<small>%</small></span> | 14.3<small>%</small> | 0.44 | -12.9<small>%</small> | -3.7<small>%</small> |
-| IDVO | <span style="color: tomato">17.8<small>%</small></span> | 15.5<small>%</small> | 1.15 | -11.0<small>%</small> | -2.7<small>%</small> |
+| IDVO | <span style="color: tomato">18.1<small>%</small></span> | 15.5<small>%</small> | 1.17 | -11.0<small>%</small> | -2.7<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** NOBL의 CAGR은 6.3%로 IDVO의 17.8%보다 -11.5% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** NOBL의 CAGR은 6.3%로 IDVO의 18.1%보다 -11.8% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** NOBL의 표준편차는 14.3%로 IDVO의 15.5%보다 -1.3% 낮았습니다. (낮은 위험도)
 
@@ -73,17 +73,17 @@ IDVO<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IDV
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | NOBL | <span style="color: tomato">6.3<small>%</small></span> | 14.3<small>%</small> | 0.44 | -12.9<small>%</small> | -3.7<small>%</small> |
-| IDVO | <span style="color: tomato">17.8<small>%</small></span> | 15.5<small>%</small> | 1.15 | -11.0<small>%</small> | -2.7<small>%</small> |
-| IDVO<sub>STD</sub> <small>(92%)</small> | <span style="color: tomato">16.3<small>%</small></span> | 14.3<small>%</small> | 1.15 | -10.1<small>%</small> | -2.5<small>%</small> |
-| IDVO<sub>MDD</sub> <small>(117%)</small> | <span style="color: tomato">20.9<small>%</small></span> | 18.2<small>%</small> | 1.15 | -12.8<small>%</small> | -3.2<small>%</small> |
+| IDVO | <span style="color: tomato">18.1<small>%</small></span> | 15.5<small>%</small> | 1.17 | -11.0<small>%</small> | -2.7<small>%</small> |
+| IDVO<sub>STD</sub> <small>(92%)</small> | <span style="color: tomato">16.6<small>%</small></span> | 14.3<small>%</small> | 1.17 | -10.1<small>%</small> | -2.5<small>%</small> |
+| IDVO<sub>MDD</sub> <small>(117%)</small> | <span style="color: tomato">21.3<small>%</small></span> | 18.2<small>%</small> | 1.17 | -12.8<small>%</small> | -3.2<small>%</small> |
 
 
 
 각각의 경우를 NOBL의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 92% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 16.3%로 NOBL의 6.3%보다 10.1% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 92% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 16.6%로 NOBL의 6.3%보다 10.4% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 117% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 20.9%로 NOBL의 6.3%보다 14.6% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 117% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 21.3%로 NOBL의 6.3%보다 15.0% 높았습니다. (높은 수익률)
 
 
 
@@ -95,8 +95,8 @@ IDVO<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IDV
 
 지난 1년 9개월간 거치식으로 투자했다고 가정합니다.
 
-IDVO의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 18.6%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 NOBL의 6.3%보다 12.3% 높았습니다.
+IDVO의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 19.0%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 NOBL의 6.3%보다 12.7% 높았습니다.
 
 ### NOBL	&lt; IDVO
 {: .text-center}
