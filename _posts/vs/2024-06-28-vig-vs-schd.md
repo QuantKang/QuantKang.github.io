@@ -18,6 +18,8 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 
 
 
+{% include commons/vs-notice.md %}
+
 ## 지난 성과
 
 두 상품의 성과를 비교할 수 있는 가장 긴 기간은 최근 12년 8개월입니다. 아래는 이 기간의 성과[^fn_vs_perf]를 그래프와 표로 나타낸 것입니다.
