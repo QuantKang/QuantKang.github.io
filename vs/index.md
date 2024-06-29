@@ -20,7 +20,7 @@ toc_sticky: true
 
 
 주의: 해외 종목은 야후 파이낸스 데이터를 이용합니다. 야후 파이낸스는 종목에 따라 배당 내역 일부가 누락되어 있을 수 있습니다. 이로 인해, 배당 재투자를 가정하여 비교한 분석 결과는 부정확할 수 있습니다.
-{: .warning}
+{: .notice--warning}
 
 
 {% include_relative vs_md.inc %}
