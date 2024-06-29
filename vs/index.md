@@ -18,6 +18,9 @@ toc_sticky: true
 - [KBSTAR 코스닥150선물레버리지 vs KODEX 코스닥150레버리지](/278240-vs-233740/)처럼 높은 선물 비중으로 레버리지를 설계하는 경우.
 - [ARIRANG 고배당주 vs KODEX 200](/161510-vs-069500/)처럼 특화된 요소를 반영하여 선별하는 경우.
 
+해외 종목은 야후 파이낸스 데이터를 이용합니다. 야후 파이낸스는 종목에 따라 [배당 내역 일부가 누락](https://kongdori.tistory.com/283)되어 있을 수 있습니다. 배당 재투자를 가정하여 비교한 분석 결과의 일부는 누락된 배당 내역으로 인해 부정확할 수 있습니다.
+{: .notice}
+
 {% include_relative vs_md.inc %}
 
 {% include commons/footnotes.md %}
