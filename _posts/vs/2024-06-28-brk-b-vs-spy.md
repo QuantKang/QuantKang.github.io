@@ -18,6 +18,8 @@ keywords: SPY, BRK-B, BRK-B SPY 비교
 
 
 
+{% include commons/vs-notice.md %}
+
 ## 지난 성과
 
 두 상품의 성과를 비교할 수 있는 가장 긴 기간은 최근 28년 1개월입니다. 아래는 이 기간의 성과[^fn_vs_perf]를 그래프와 표로 나타낸 것입니다.
