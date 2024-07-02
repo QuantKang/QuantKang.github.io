@@ -1,7 +1,7 @@
 ---
 layout: single
 title: ISPY vs SPY
-excerpt: ISPY의 최근 6개월 CAGR은 26.8%로 SPY의 34.8%보다 -8.0% 낮았습니다.
+excerpt: ISPY의 최근 6개월 CAGR은 29.3%로 SPY의 34.8%보다 -5.5% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -31,7 +31,7 @@ SPY 상품과 ISPY 상품의 성과를 수익률과 위험도로 비교합니다
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| ISPY | <span style="color: tomato">26.8<small>%</small></span> | 9.5<small>%</small> | 2.81 | -4.9<small>%</small> | -0.7<small>%</small> |
+| ISPY | <span style="color: tomato">29.3<small>%</small></span> | 9.5<small>%</small> | 3.10 | -4.9<small>%</small> | -0.7<small>%</small> |
 | SPY | <span style="color: tomato">34.8<small>%</small></span> | 10.5<small>%</small> | 3.33 | -5.4<small>%</small> | -0.8<small>%</small> |
 
 <!-- more -->
@@ -39,7 +39,7 @@ SPY 상품과 ISPY 상품의 성과를 수익률과 위험도로 비교합니다
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** ISPY의 CAGR은 26.8%로 SPY의 34.8%보다 -8.0% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** ISPY의 CAGR은 29.3%로 SPY의 34.8%보다 -5.5% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** ISPY의 표준편차는 9.5%로 SPY의 10.5%와 비슷했습니다. (비슷한 위험도)
 
@@ -74,18 +74,18 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| ISPY | <span style="color: tomato">26.8<small>%</small></span> | 9.5<small>%</small> | 2.81 | -4.9<small>%</small> | -0.7<small>%</small> |
+| ISPY | <span style="color: tomato">29.3<small>%</small></span> | 9.5<small>%</small> | 3.10 | -4.9<small>%</small> | -0.7<small>%</small> |
 | SPY | <span style="color: tomato">34.8<small>%</small></span> | 10.5<small>%</small> | 3.33 | -5.4<small>%</small> | -0.8<small>%</small> |
-| SPY<sub>STD</sub> <small>(91%)</small> | <span style="color: tomato">31.4<small>%</small></span> | 9.5<small>%</small> | 3.29 | -4.9<small>%</small> | -0.7<small>%</small> |
+| SPY<sub>STD</sub> <small>(91%)</small> | <span style="color: tomato">31.1<small>%</small></span> | 9.5<small>%</small> | 3.29 | -4.9<small>%</small> | -0.7<small>%</small> |
 | SPY<sub>MDD</sub> <small>(91%)</small> | <span style="color: tomato">31.5<small>%</small></span> | 9.6<small>%</small> | 3.29 | -4.9<small>%</small> | -0.7<small>%</small> |
 
 
 
 각각의 경우를 ISPY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 91% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 31.4%로 ISPY의 26.8%보다 4.6% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 91% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 31.1%로 ISPY의 29.3%보다 1.8% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 91% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 31.5%로 ISPY의 26.8%보다 4.7% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 91% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 31.5%로 ISPY의 29.3%보다 2.2% 높았습니다. (높은 수익률)
 
 
 
@@ -97,8 +97,8 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 지난 6개월간 거치식으로 투자했다고 가정합니다.
 
-SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 31.4%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 ISPY의 26.8%보다 4.6% 높았습니다.
+SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 31.3%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 ISPY의 29.3%보다 2.0% 높았습니다.
 
 ### ISPY	&lt; SPY
 {: .text-center}

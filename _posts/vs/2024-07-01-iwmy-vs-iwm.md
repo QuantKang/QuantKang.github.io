@@ -1,7 +1,7 @@
 ---
 layout: single
 title: IWMY vs IWM
-excerpt: IWMY의 최근 8개월 CAGR은 9.8%로 IWM의 36.0%보다 -26.1% 낮았습니다.
+excerpt: IWMY의 최근 8개월 CAGR은 18.3%로 IWM의 36.0%보다 -17.7% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -29,7 +29,7 @@ keywords: IWM, IWMY, IWMY IWM 비교
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| IWMY | <span style="color: tomato">9.8<small>%</small></span> | 14.3<small>%</small> | 0.69 | -6.2<small>%</small> | -1.9<small>%</small> |
+| IWMY | <span style="color: tomato">18.3<small>%</small></span> | 12.7<small>%</small> | 1.44 | -5.3<small>%</small> | -1.9<small>%</small> |
 | IWM | <span style="color: tomato">36.0<small>%</small></span> | 20.4<small>%</small> | 1.77 | -8.3<small>%</small> | -2.8<small>%</small> |
 
 <!-- more -->
@@ -37,11 +37,11 @@ keywords: IWM, IWMY, IWMY IWM 비교
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** IWMY의 CAGR은 9.8%로 IWM의 36.0%보다 -26.1% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** IWMY의 CAGR은 18.3%로 IWM의 36.0%보다 -17.7% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** IWMY의 표준편차는 14.3%로 IWM의 20.4%보다 -6.1% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** IWMY의 표준편차는 12.7%로 IWM의 20.4%보다 -7.7% 낮았습니다. (낮은 위험도)
 
-**위험도 지표 (MDD):** IWMY의 6.2%의 MDD는 IWM의 8.3%보다 -2.1% 낮았습니다. (낮은 위험도)
+**위험도 지표 (MDD):** IWMY의 5.3%의 MDD는 IWM의 8.3%보다 -3.0% 낮았습니다. (낮은 위험도)
 
 
 
@@ -50,9 +50,9 @@ keywords: IWM, IWMY, IWMY IWM 비교
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 IWM의 투자 비중[^fn_vs_weight]을 조절하여 IWMY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 20.4% / 14.3% = 70% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 20.4% / 12.7% = 62% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
-**위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 8.3% / 6.2% = 75% 비중으로 투자하면 됩니다.
+**위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 8.3% / 5.3% = 63% 비중으로 투자하면 됩니다.
 
 
 {% include /commons/ads/adsense.html %}
@@ -72,18 +72,18 @@ IWM<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IWM<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| IWMY | <span style="color: tomato">9.8<small>%</small></span> | 14.3<small>%</small> | 0.69 | -6.2<small>%</small> | -1.9<small>%</small> |
+| IWMY | <span style="color: tomato">18.3<small>%</small></span> | 12.7<small>%</small> | 1.44 | -5.3<small>%</small> | -1.9<small>%</small> |
 | IWM | <span style="color: tomato">36.0<small>%</small></span> | 20.4<small>%</small> | 1.77 | -8.3<small>%</small> | -2.8<small>%</small> |
-| IWM<sub>STD</sub> <small>(70%)</small> | <span style="color: tomato">24.6<small>%</small></span> | 14.3<small>%</small> | 1.72 | -5.9<small>%</small> | -1.9<small>%</small> |
-| IWM<sub>MDD</sub> <small>(75%)</small> | <span style="color: tomato">26.5<small>%</small></span> | 15.3<small>%</small> | 1.73 | -6.3<small>%</small> | -2.1<small>%</small> |
+| IWM<sub>STD</sub> <small>(62%)</small> | <span style="color: tomato">21.7<small>%</small></span> | 12.7<small>%</small> | 1.71 | -5.2<small>%</small> | -1.7<small>%</small> |
+| IWM<sub>MDD</sub> <small>(63%)</small> | <span style="color: tomato">22.1<small>%</small></span> | 12.9<small>%</small> | 1.71 | -5.3<small>%</small> | -1.7<small>%</small> |
 
 
 
 각각의 경우를 IWMY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 70% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 24.6%로 IWMY의 9.8%보다 14.8% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 62% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 21.7%로 IWMY의 18.3%보다 3.4% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 75% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 26.5%로 IWMY의 9.8%보다 16.7% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 63% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 22.1%로 IWMY의 18.3%보다 3.8% 높았습니다. (높은 수익률)
 
 
 
@@ -95,8 +95,8 @@ IWM<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IWM<
 
 지난 8개월간 거치식으로 투자했다고 가정합니다.
 
-IWM의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 25.6%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 IWMY의 9.8%보다 15.7% 높았습니다.
+IWM의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 21.9%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 IWMY의 18.3%보다 3.6% 높았습니다.
 
 ### IWMY	&lt; IWM
 {: .text-center}

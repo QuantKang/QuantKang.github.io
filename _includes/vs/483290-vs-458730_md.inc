@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [483290](/483290-vs-458730/) | - | 11.5<small>%</small> | nan | -2.7<small>%</small> | -1.3<small>%</small> |
-| TIGER 미국배당다우존스 | - | 11.2<small>%</small> | nan | -2.2<small>%</small> | -0.9<small>%</small> |
+| [483290](/483290-vs-458730/) | - | 11.2<small>%</small> | nan | -2.7<small>%</small> | -1.3<small>%</small> |
+| TIGER 미국배당다우존스 | - | 11.0<small>%</small> | nan | -2.2<small>%</small> | -0.9<small>%</small> |
