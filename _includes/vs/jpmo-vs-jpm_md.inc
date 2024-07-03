@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [JPMO](/jpmo-vs-jpm/) | <span style="color: tomato">21.6<small>%</small></span> | 14.2<small>%</small> | 1.52 | -9.9<small>%</small> | -2.7<small>%</small> |
-| JPMorgan Chase & Co | <span style="color: tomato">59.3<small>%</small></span> | 17.4<small>%</small> | 3.41 | -9.6<small>%</small> | -1.8<small>%</small> |
+| [JPMO](/jpmo-vs-jpm/) | <span style="color: tomato">21.9<small>%</small></span> | 14.1<small>%</small> | 1.55 | -9.9<small>%</small> | -2.7<small>%</small> |
+| JPMorgan Chase & Co | <span style="color: tomato">58.9<small>%</small></span> | 17.3<small>%</small> | 3.40 | -9.6<small>%</small> | -1.8<small>%</small> |
