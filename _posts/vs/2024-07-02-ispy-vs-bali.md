@@ -32,7 +32,7 @@ BALI 상품과 ISPY 상품의 성과를 수익률과 위험도로 비교합니�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | ISPY | <span style="color: tomato">30.6<small>%</small></span> | 9.5<small>%</small> | 3.24 | -4.9<small>%</small> | -0.7<small>%</small> |
-| BALI | <span style="color: tomato">33.5<small>%</small></span> | 8.4<small>%</small> | 4.01 | -4.8<small>%</small> | -0.7<small>%</small> |
+| BALI | <span style="color: tomato">33.5<small>%</small></span> | 8.4<small>%</small> | 4.00 | -4.8<small>%</small> | -0.7<small>%</small> |
 
 <!-- more -->
 
@@ -75,7 +75,7 @@ BALI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, BAL
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | ISPY | <span style="color: tomato">30.6<small>%</small></span> | 9.5<small>%</small> | 3.24 | -4.9<small>%</small> | -0.7<small>%</small> |
-| BALI | <span style="color: tomato">33.5<small>%</small></span> | 8.4<small>%</small> | 4.01 | -4.8<small>%</small> | -0.7<small>%</small> |
+| BALI | <span style="color: tomato">33.5<small>%</small></span> | 8.4<small>%</small> | 4.00 | -4.8<small>%</small> | -0.7<small>%</small> |
 | BALI<sub>STD</sub> <small>(113%)</small> | <span style="color: tomato">38.5<small>%</small></span> | 9.5<small>%</small> | 4.08 | -5.4<small>%</small> | -0.8<small>%</small> |
 | BALI<sub>MDD</sub> <small>(102%)</small> | <span style="color: tomato">34.4<small>%</small></span> | 8.6<small>%</small> | 4.02 | -4.9<small>%</small> | -0.7<small>%</small> |
 
@@ -97,7 +97,7 @@ BALI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, BAL
 
 지난 6개월간 거치식으로 투자했다고 가정합니다.
 
-BALI의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 36.5%인 포트폴리오를 만들 수 있습니다.
+BALI의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 36.4%인 포트폴리오를 만들 수 있습니다.
 이 포트폴리오는 ISPY의 30.6%보다 5.8% 높았습니다.
 
 ### ISPY	&lt; BALI
