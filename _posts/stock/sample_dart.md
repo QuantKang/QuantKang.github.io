@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [미래에셋증권](/006800/#dart) | | [일괄신고추가서류(파생결합증권-주가연계증권)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240702000395){:target="_blank"} |
-| [엔씨소프트](/036570/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240702000394){:target="_blank"} |
-| [키움증권](/039490/#dart) | | [일괄신고추가서류(파생결합증권-주가연계증권)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240702000388){:target="_blank"} |
-| [위메이드](/112040/#dart) | | [주요사항보고서(자기주식처분결정)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240702000377){:target="_blank"} |
-| [파마리서치](/214450/#dart) | | [주식등의대량보유상황보고서(약식)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240702000380){:target="_blank"} |
+| [롯데지주](/004990/#dart) | | [최대주주등소유주식변동신고서              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240703800409){:target="_blank"} |
+| [삼성중공업](/010140/#dart) | | [최대주주등소유주식변동신고서              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240703800395){:target="_blank"} |
+| [LG이노텍](/011070/#dart) | | [결산실적공시예고(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240703800389){:target="_blank"} |
+| [롯데쇼핑](/023530/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240703000407){:target="_blank"} |
+| [OCI홀딩스](/010060/#dart) | | [투자판단관련주요경영사항(자회사의 주요경영사항)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240703800365){:target="_blank"} |
