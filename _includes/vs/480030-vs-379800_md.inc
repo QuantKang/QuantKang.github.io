@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | [ACE 미국500 15%프리미엄분배(합성)](/480030-vs-379800/) | - | 9.0<small>%</small> | nan | -1.9<small>%</small> | -0.3<small>%</small> |
-| KODEX 미국S&P500TR | - | 8.8<small>%</small> | nan | -2.1<small>%</small> | -0.3<small>%</small> |
+| KODEX 미국S&P500TR | - | 8.7<small>%</small> | nan | -2.1<small>%</small> | -0.3<small>%</small> |
