@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [대웅](/003090/#dart) | | [[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240704800554){:target="_blank"} |
-| [LX인터내셔널](/001120/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240704000326){:target="_blank"} |
-| [젬백스](/082270/#dart) | | [[기재정정]주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240704000323){:target="_blank"} |
-| [카카오뱅크](/323410/#dart) | | [결산실적공시예고(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240704800556){:target="_blank"} |
-| [대웅제약](/069620/#dart) | | [[기재정정]단일판매ㆍ공급계약체결              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240704800512){:target="_blank"} |
+| [네패스](/033640/#dart) | | [채무인수결정              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240705900425){:target="_blank"} |
+| [제이시스메디칼](/287410/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240705000407){:target="_blank"} |
+| [엔씨소프트](/036570/#dart) | | [[첨부정정]지속가능경영보고서등관련사항(자율공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240705800413){:target="_blank"} |
+| [삼성전자](/005930/#dart) | | [최대주주등소유주식변동신고서              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240705800411){:target="_blank"} |
+| [NH투자증권](/005940/#dart) | | [투자설명서(일괄신고)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240705000404){:target="_blank"} |
