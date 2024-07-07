@@ -110,6 +110,7 @@ XYLD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 - [커버드콜 ETF는 왜 장기 투자에 적합하지 않은가? (효율적 투자선과 50% 오렌지 주스)](https://kongdori.tistory.com/244)
 - [커버드콜 ETF는 왜 하락장과 횡보장에서 좋은 성과를 거두지 못하는 것일까? (QYLD의 사례)](https://kongdori.tistory.com/240)
 - [커버드콜은 정말 하락장과 횡보장에 유리할까?](https://kongdori.tistory.com/238)
+- [커버드 콜 전략은 유용한가? (커버드 콜 전략을 쓰는 주요 ETF의 지금까지 수익률과 분석)](https://kongdori.tistory.com/155)
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 
 {% include commons/footnotes.md %}
