@@ -107,5 +107,6 @@ IDVO의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 ## 관련 정보
 
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
+- [TIGER 미국배당+7%프리미엄다우존스의 수익률은 왜 좋지 못했을까? (커버드콜 ETF를 수식으로 표현해 보자!)](https://kongdori.tistory.com/265)
 
 {% include commons/footnotes.md %}

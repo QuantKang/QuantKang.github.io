@@ -108,5 +108,6 @@ QQQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추�
 
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 - [커버드콜 ETF 대신 기초 자산으로 현금 흐름을 만들면? (시장 대표 지수편)](https://kongdori.tistory.com/285)
+- [GPIX와 GPIQ (JEPI, JEPQ보다 분배율이 높은 골드만삭스의 커버드콜 ETF)](https://kongdori.tistory.com/251)
 
 {% include commons/footnotes.md %}

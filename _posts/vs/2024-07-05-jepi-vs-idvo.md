@@ -108,5 +108,6 @@ IDVO의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 - [SPY로 JEPI처럼 분배금을 만들면 얼마나 남을까? (기초 자산에서 커버드콜 ETF의 분배금만큼 꺼내 써 보자!)](https://kongdori.tistory.com/284)
+- [ISPY - ProShares의 초단기 콜옵션 전략 기반 인컴 ETF (넌 누굴 닮았니?)](https://kongdori.tistory.com/267)
 
 {% include commons/footnotes.md %}

@@ -107,5 +107,6 @@ SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추�
 ## 관련 정보
 
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
+- [JEPI - CALL = ? (JEPI/JEPQ의 내부는 어떤 액티브 ETF일까?)](https://kongdori.tistory.com/256)
 
 {% include commons/footnotes.md %}
