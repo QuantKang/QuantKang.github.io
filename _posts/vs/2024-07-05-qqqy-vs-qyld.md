@@ -108,5 +108,6 @@ QYLD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 - [초고배당 커버드콜 ETF는 기초 자산보다 현금 흐름 창출에 유리할까? (TSLY, NVDY, JEPY, QQQY 등 22종의 커버드콜 ETF 분석)](https://kongdori.tistory.com/286)
+- [데일리 커버드콜은 효과적일까? (Defiance의 JEPY, QQQY, IWMY - 분배율 높은 인컴 ETF)](https://kongdori.tistory.com/235)
 
 {% include commons/footnotes.md %}

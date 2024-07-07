@@ -108,5 +108,7 @@ JEPI의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 - [JEPI - CALL = ? (JEPI/JEPQ의 내부는 어떤 액티브 ETF일까?)](https://kongdori.tistory.com/256)
+- [커버드콜 ETF는 왜 장기 투자에 적합하지 않은가? (효율적 투자선과 50% 오렌지 주스)](https://kongdori.tistory.com/244)
+- [JEPI/JEPQ에 장기 배당 재투자하는 것은 좋은 방법일까? (장기투자와 세금)](https://kongdori.tistory.com/216)
 
 {% include commons/footnotes.md %}

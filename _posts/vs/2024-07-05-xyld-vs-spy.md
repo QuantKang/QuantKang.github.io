@@ -111,5 +111,7 @@ SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추�
 - [BALI - 블랙록의 커버드콜 기반 인컴 ETF (발리섬에서 은퇴 생활을 즐길 수 있을까? JEPQ의 S&P500 버전)](https://kongdori.tistory.com/261)
 - [KODEX 미국S&P500배당귀족커버드콜(합성 H) (장기 수익률에 안 좋은 건 다 넣었어요. 맛있게 드세요.)](https://kongdori.tistory.com/258)
 - [JEPI - CALL = ? (JEPI/JEPQ의 내부는 어떤 액티브 ETF일까?)](https://kongdori.tistory.com/256)
+- [커버드콜 ETF는 왜 장기 투자에 적합하지 않은가? (효율적 투자선과 50% 오렌지 주스)](https://kongdori.tistory.com/244)
+- [커버드콜은 정말 하락장과 횡보장에 유리할까?](https://kongdori.tistory.com/238)
 
 {% include commons/footnotes.md %}

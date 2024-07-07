@@ -107,5 +107,6 @@ DIVO의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 ## 관련 정보
 
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
+- [주식 수익률은 어떤 분포일까? (KODEX 200, SPY 환헤지/환노출, 그리고 정규분포, 갑돌이의 은퇴 자금 마련 #1)](https://kongdori.tistory.com/220)
 
 {% include commons/footnotes.md %}
