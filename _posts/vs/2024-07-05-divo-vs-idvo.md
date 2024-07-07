@@ -106,7 +106,7 @@ IDVO의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 
 ## 관련 정보
 
-- [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 - [KODEX 미국배당프리미엄액티브 (왜 날 몰라줄까? 부분적 커버드콜 전략을 국장에 도입한 건 난데, 한국판 DIVO)](https://kongdori.tistory.com/257)
+- [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 
 {% include commons/footnotes.md %}

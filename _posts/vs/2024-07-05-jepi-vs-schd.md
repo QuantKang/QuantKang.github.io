@@ -106,7 +106,6 @@ SCHD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 
 ## 관련 정보
 
-- [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 - [SPY로 JEPI처럼 분배금을 만들면 얼마나 남을까? (기초 자산에서 커버드콜 ETF의 분배금만큼 꺼내 써 보자!)](https://kongdori.tistory.com/284)
 - [ISPY - ProShares의 초단기 콜옵션 전략 기반 인컴 ETF (넌 누굴 닮았니?)](https://kongdori.tistory.com/267)
 - [커버드콜 ETF는 왜 장기 투자에 적합하지 않은가? (효율적 투자선과 50% 오렌지 주스)](https://kongdori.tistory.com/244)
@@ -115,5 +114,6 @@ SCHD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 - [JEPI/JEPQ는 특별한가? (SCHD/QQQ + 현금과의 비교)](https://kongdori.tistory.com/211)
 - [JEPI는 SPY보다 더 좋은 ETF인가? (현금 흐름 창출과 배당 재투자 시)](https://kongdori.tistory.com/183)
 - [JEPI는 매달 현금 흐름이 필요한 경우 현명한 선택이었을까? (SCHD와 비교)](https://kongdori.tistory.com/49)
+- [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 
 {% include commons/footnotes.md %}

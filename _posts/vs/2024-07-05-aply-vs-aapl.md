@@ -106,9 +106,9 @@ Apple Inc의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 �
 
 ## 관련 정보
 
-- [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 - [초고배당 커버드콜 ETF는 기초 자산보다 현금 흐름 창출에 유리할까? (TSLY, NVDY, JEPY, QQQY 등 22종의 커버드콜 ETF 분석)](https://kongdori.tistory.com/286)
 - [원금 찾는데 세금을 내라고? (해외 상장 고배당 인컴 ETF)](https://kongdori.tistory.com/206)
 - [NVDY, TSLY의 성과는 어떠했나? (배당금 높은 개별주 커버드콜 ETF 분석)](https://kongdori.tistory.com/172)
+- [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 
 {% include commons/footnotes.md %}

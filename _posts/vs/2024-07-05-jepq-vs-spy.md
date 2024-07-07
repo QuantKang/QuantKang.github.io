@@ -106,12 +106,12 @@ SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추�
 
 ## 관련 정보
 
-- [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 - [JEPI - CALL = ? (JEPI/JEPQ의 내부는 어떤 액티브 ETF일까?)](https://kongdori.tistory.com/256)
 - [커버드콜 ETF는 왜 장기 투자에 적합하지 않은가? (효율적 투자선과 50% 오렌지 주스)](https://kongdori.tistory.com/244)
 - [JEPI/JEPQ에 장기 배당 재투자하는 것은 좋은 방법일까? (장기투자와 세금)](https://kongdori.tistory.com/216)
 - [당신이 JEPI/JEPQ를 사면 안되는 이유 (해외 상장 인컴 ETF의 배당소득세와 양도소득세)](https://kongdori.tistory.com/213)
 - [JEPI/JEPQ는 특별한가? (SCHD/QQQ + 현금과의 비교)](https://kongdori.tistory.com/211)
 - [JEPQ는 기대하는 수준의 성과를 보였나? (QQQ 대비)](https://kongdori.tistory.com/150)
+- [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 
 {% include commons/footnotes.md %}
