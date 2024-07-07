@@ -106,7 +106,6 @@ QQQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추�
 
 ## 관련 정보
 
-- [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 - [합성 ETF란 무엇일까? (외주로 맡겨야겠다! 수익률은?)](https://kongdori.tistory.com/255)
 - [QQQ가 100% 오르면 TQQQ는 얼마까지 오를 수 있을까?](https://kongdori.tistory.com/188)
 - [QLD가 유리할까? QQQ+TQQQ가 유리할까?](https://kongdori.tistory.com/148)
@@ -114,5 +113,6 @@ QQQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추�
 - [무한매수법과 VR(Value Rebalancing) 수익률에 대한 몇 가지 생각](https://kongdori.tistory.com/109)
 - [SQQQ는 TQQQ보다 왜 더 위험한가? (레버리지 ETF 유지 비용을 추산해 봅니다)](https://kongdori.tistory.com/77)
 - [TQQQ와 SQQQ를 반반씩 장기 투자하면 어떻게 될까?](https://kongdori.tistory.com/69)
+- [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 
 {% include commons/footnotes.md %}

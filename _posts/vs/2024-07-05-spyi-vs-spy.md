@@ -104,8 +104,8 @@ SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추�
 
 ## 관련 정보
 
-- [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 - [커버드콜 ETF 대신 기초 자산으로 현금 흐름을 만들면? (시장 대표 지수편)](https://kongdori.tistory.com/285)
 - [BALI - 블랙록의 커버드콜 기반 인컴 ETF (발리섬에서 은퇴 생활을 즐길 수 있을까? JEPQ의 S&P500 버전)](https://kongdori.tistory.com/261)
+- [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 
 {% include commons/footnotes.md %}

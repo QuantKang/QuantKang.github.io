@@ -104,10 +104,10 @@ QQQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추�
 
 ## 관련 정보
 
-- [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 - [JEPI - CALL = ? (JEPI/JEPQ의 내부는 어떤 액티브 ETF일까?)](https://kongdori.tistory.com/256)
 - [커버드콜 ETF는 왜 장기 투자에 적합하지 않은가? (효율적 투자선과 50% 오렌지 주스)](https://kongdori.tistory.com/244)
 - [커버드콜 ETF는 왜 하락장과 횡보장에서 좋은 성과를 거두지 못하는 것일까? (QYLD의 사례)](https://kongdori.tistory.com/240)
 - [커버드콜은 정말 하락장과 횡보장에 유리할까?](https://kongdori.tistory.com/238)
+- [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 
 {% include commons/footnotes.md %}

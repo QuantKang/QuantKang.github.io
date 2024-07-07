@@ -106,7 +106,7 @@ IDVO의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 
 ## 관련 정보
 
-- [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 - [IDVO - 일본, 인도 주식 시장에서도 커버드콜로 투자하자 (국제판 DIVO와 ADR, 좋은 성과의 원인은 무엇이었을까?)](https://kongdori.tistory.com/259)
+- [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 
 {% include commons/footnotes.md %}

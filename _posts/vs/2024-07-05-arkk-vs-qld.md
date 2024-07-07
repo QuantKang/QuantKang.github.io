@@ -106,8 +106,8 @@ QLD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추�
 
 ## 관련 정보
 
-- [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 - [ARKK는 왜 좋은 투자가 아니었나? #2 (위험 대비 수익률에 대한 이야기)](https://kongdori.tistory.com/71)
 - [ARKK는 왜 좋은 투자가 아니었나? (위험 대비 수익률에 대한 이야기)](https://kongdori.tistory.com/64)
+- [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 
 {% include commons/footnotes.md %}
