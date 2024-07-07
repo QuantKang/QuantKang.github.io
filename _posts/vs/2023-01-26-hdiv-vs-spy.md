@@ -109,5 +109,6 @@ SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추�
 ## 관련 정보
 
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
+- [AI(인공지능)가 ETF를 운용하면 성과가 좋을까? (AI 운용 ETF 성과 분석)](https://kongdori.tistory.com/175)
 
 {% include commons/footnotes.md %}
