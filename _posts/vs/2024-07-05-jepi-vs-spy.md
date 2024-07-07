@@ -111,5 +111,9 @@ SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추�
 - [ISPY - ProShares의 초단기 콜옵션 전략 기반 인컴 ETF (넌 누굴 닮았니?)](https://kongdori.tistory.com/267)
 - [커버드콜 ETF는 왜 장기 투자에 적합하지 않은가? (효율적 투자선과 50% 오렌지 주스)](https://kongdori.tistory.com/244)
 - [JEPI/JEPQ에 장기 배당 재투자하는 것은 좋은 방법일까? (장기투자와 세금)](https://kongdori.tistory.com/216)
+- [당신이 JEPI/JEPQ를 사면 안되는 이유 (해외 상장 인컴 ETF의 배당소득세와 양도소득세)](https://kongdori.tistory.com/213)
+- [JEPI/JEPQ는 특별한가? (SCHD/QQQ + 현금과의 비교)](https://kongdori.tistory.com/211)
+- [JEPI는 SPY보다 더 좋은 ETF인가? (현금 흐름 창출과 배당 재투자 시)](https://kongdori.tistory.com/183)
+- [JEPI는 매달 현금 흐름이 필요한 경우 현명한 선택이었을까? (SCHD와 비교)](https://kongdori.tistory.com/49)
 
 {% include commons/footnotes.md %}

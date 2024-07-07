@@ -112,5 +112,6 @@ XYLD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 - [BALI - 블랙록의 커버드콜 기반 인컴 ETF (발리섬에서 은퇴 생활을 즐길 수 있을까? JEPQ의 S&P500 버전)](https://kongdori.tistory.com/261)
 - [JEPI - CALL = ? (JEPI/JEPQ의 내부는 어떤 액티브 ETF일까?)](https://kongdori.tistory.com/256)
 - [데일리 커버드콜은 효과적일까? (Defiance의 JEPY, QQQY, IWMY - 분배율 높은 인컴 ETF)](https://kongdori.tistory.com/235)
+- [원금 찾는데 세금을 내라고? (해외 상장 고배당 인컴 ETF)](https://kongdori.tistory.com/206)
 
 {% include commons/footnotes.md %}

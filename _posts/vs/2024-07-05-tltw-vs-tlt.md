@@ -105,5 +105,6 @@ TLT의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추�
 ## 관련 정보
 
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
+- [미국 장기 국채에 커버드콜? (KBSTAR 미국채30년커버드콜(합성), SOL 미국30년국채커버드콜(합성), 그리고 TLTW)](https://kongdori.tistory.com/191)
 
 {% include commons/footnotes.md %}
