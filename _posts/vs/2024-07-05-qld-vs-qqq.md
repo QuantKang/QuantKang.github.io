@@ -107,5 +107,6 @@ QQQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추�
 ## 관련 정보
 
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
+- [합성 ETF란 무엇일까? (외주로 맡겨야겠다! 수익률은?)](https://kongdori.tistory.com/255)
 
 {% include commons/footnotes.md %}
