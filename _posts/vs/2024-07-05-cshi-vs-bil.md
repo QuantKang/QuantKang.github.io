@@ -77,7 +77,7 @@ BIL<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, BIL<
 | CSHI | <span style="color: tomato">5.4<small>%</small></span> | 0.9<small>%</small> | 5.75 | -0.4<small>%</small> | -0.0<small>%</small> |
 | BIL | <span style="color: tomato">4.7<small>%</small></span> | 0.3<small>%</small> | 17.02 | -0.0<small>%</small> | -0.0<small>%</small> |
 | BIL<sub>STD</sub> <small>(337%)</small> | <span style="color: tomato">16.9<small>%</small></span> | 0.9<small>%</small> | 17.99 | -0.1<small>%</small> | -0.0<small>%</small> |
-| BIL<sub>MDD</sub> <small>(1457%)</small> | <span style="color: tomato">96.2<small>%</small></span> | 4.1<small>%</small> | 23.67 | -0.4<small>%</small> | -0.0<small>%</small> |
+| BIL<sub>MDD</sub> <small>(1457%)</small> | <span style="color: tomato">96.1<small>%</small></span> | 4.1<small>%</small> | 23.67 | -0.4<small>%</small> | -0.0<small>%</small> |
 
 
 
@@ -85,7 +85,7 @@ BIL<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, BIL<
 
 **위험도 지표 (표준편차):** 337% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 16.9%로 CSHI의 5.4%보다 11.5% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 1457% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 96.2%로 CSHI의 5.4%보다 90.8% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 1457% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 96.1%로 CSHI의 5.4%보다 90.7% 높았습니다. (높은 수익률)
 
 
 
