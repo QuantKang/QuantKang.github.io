@@ -231,6 +231,43 @@ FnGuide 고배당알파 지수 vs FnGuide 고배당주지수
 
 
 
+## 초단기 채권 ETF
+
+
+
+### [KODEX CD금리액티브(합성) vs TIGER CD금리투자KIS(합성)](/459580-vs-357870/)<a id="459580-vs-357870"></a>
+
+{% include vs/459580-vs-357870_md.inc %}
+
+
+
+### [TIGER KOFR금리액티브(합성) vs KODEX KOFR금리액티브(합성)](/449170-vs-423160/)<a id="449170-vs-423160"></a>
+
+{% include vs/449170-vs-423160_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
+### [KODEX KOFR금리액티브(합성) vs TIGER CD금리투자KIS(합성)](/423160-vs-357870/)<a id="423160-vs-357870"></a>
+
+{% include vs/423160-vs-357870_md.inc %}
+
+
+
+### [KIS 시가평가 MMF 지수 vs TIGER CD금리투자KIS(합성)](/455890-vs-357870/)<a id="455890-vs-357870"></a>
+
+{% include vs/455890-vs-357870_md.inc %}
+
+
+
+### [KIS 시가평가 MMF 지수 vs KODEX KOFR금리액티브(합성](/455890-vs-423160/)<a id="455890-vs-423160"></a>
+
+{% include vs/455890-vs-423160_md.inc %}
+
+
+
 ## 동일 가중 ETF
 
 
