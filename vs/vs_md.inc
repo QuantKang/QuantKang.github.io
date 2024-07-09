@@ -256,13 +256,13 @@ FnGuide 고배당알파 지수 vs FnGuide 고배당주지수
 
 
 
-### [KIS 시가평가 MMF 지수 vs TIGER CD금리투자KIS(합성)](/455890-vs-357870/)<a id="455890-vs-357870"></a>
+### [KBSTAR 머니마켓액티브 vs TIGER CD금리투자KIS(합성)](/455890-vs-357870/)<a id="455890-vs-357870"></a>
 
 {% include vs/455890-vs-357870_md.inc %}
 
 
 
-### [KIS 시가평가 MMF 지수 vs KODEX KOFR금리액티브(합성](/455890-vs-423160/)<a id="455890-vs-423160"></a>
+### [KBSTAR 머니마켓액티브 vs KODEX KOFR금리액티브(합성)](/455890-vs-423160/)<a id="455890-vs-423160"></a>
 
 {% include vs/455890-vs-423160_md.inc %}
 
