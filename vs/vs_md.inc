@@ -2023,6 +2023,12 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 
 
 
+### [ARKG vs XBI](/arkg-vs-xbi/)<a id="arkg-vs-xbi"></a>
+
+{% include vs/arkg-vs-xbi_md.inc %}
+
+
+
 ## 해외 종목
 
 
@@ -2034,15 +2040,15 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/brk-a-vs-us500_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [BRK-A vs SPY](/brk-a-vs-spy/)<a id="brk-a-vs-spy"></a>
 
 워런 버핏이 CEO로 있는 버크셔 해서웨이(BRK.A)와 미국 대표 지수를 추종하는 SPY의 성과를 비교해 봅니다.
 
 {% include vs/brk-a-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -2073,6 +2079,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/moat-vs-spy_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ## 기타
 
@@ -2081,9 +2090,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [ARIRANG 미국S&P500(H) vs SPY](/269540-vs-spy/)<a id="269540-vs-spy"></a>
 
 {% include vs/269540-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -2110,13 +2116,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/2621-vs-tlt_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [CSHI vs BIL](/cshi-vs-bil/)<a id="cshi-vs-bil"></a>
 
 {% include vs/cshi-vs-bil_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
