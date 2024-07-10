@@ -7,11 +7,11 @@
 | [![KOSPI 전기전자 업종 종목별 시가총액 비중](images/kospi_업종_전기전자_종목.png)](kospi_업종_전기전자_종목/) | [![KOSPI 기타금융 업종 종목별 시가총액 비중](images/kospi_업종_기타금융_종목.png)](kospi_업종_기타금융_종목/) |
 | 운수장비 <small>(9.0%)</small> | 서비스업 <small>(6.9%)</small> |
 | [![KOSPI 운수장비 업종 종목별 시가총액 비중](images/kospi_업종_운수장비_종목.png)](kospi_업종_운수장비_종목/) | [![KOSPI 서비스업 업종 종목별 시가총액 비중](images/kospi_업종_서비스업_종목.png)](kospi_업종_서비스업_종목/) |
-| 화학 <small>(6.4%)</small> | 의약품 <small>(5.5%)</small> |
+| 화학 <small>(6.3%)</small> | 의약품 <small>(5.6%)</small> |
 | [![KOSPI 화학 업종 종목별 시가총액 비중](images/kospi_업종_화학_종목.png)](kospi_업종_화학_종목/) | [![KOSPI 의약품 업종 종목별 시가총액 비중](images/kospi_업종_의약품_종목.png)](kospi_업종_의약품_종목/) |
 | 유통업 <small>(3.0%)</small> | 철강금속 <small>(2.6%)</small> |
 | [![KOSPI 유통업 업종 종목별 시가총액 비중](images/kospi_업종_유통업_종목.png)](kospi_업종_유통업_종목/) | [![KOSPI 철강금속 업종 종목별 시가총액 비중](images/kospi_업종_철강금속_종목.png)](kospi_업종_철강금속_종목/) |
-| 기계 <small>(2.6%)</small> | 보험 <small>(2.3%)</small> |
+| 기계 <small>(2.5%)</small> | 보험 <small>(2.4%)</small> |
 | [![KOSPI 기계 업종 종목별 시가총액 비중](images/kospi_업종_기계_종목.png)](kospi_업종_기계_종목/) | [![KOSPI 보험 업종 종목별 시가총액 비중](images/kospi_업종_보험_종목.png)](kospi_업종_보험_종목/) |
 | 운수창고업 <small>(1.7%)</small> | 음식료품 <small>(1.3%)</small> |
 | [![KOSPI 운수창고업 업종 종목별 시가총액 비중](images/kospi_업종_운수창고업_종목.png)](kospi_업종_운수창고업_종목/) | [![KOSPI 음식료품 업종 종목별 시가총액 비중](images/kospi_업종_음식료품_종목.png)](kospi_업종_음식료품_종목/) |
@@ -21,8 +21,8 @@
 | [![KOSPI 은행 업종 종목별 시가총액 비중](images/kospi_업종_은행_종목.png)](kospi_업종_은행_종목/) | [![KOSPI 전기가스업 업종 종목별 시가총액 비중](images/kospi_업종_전기가스업_종목.png)](kospi_업종_전기가스업_종목/) |
 | 기타제조업 <small>(0.6%)</small> | 건설업 <small>(0.6%)</small> |
 | [![KOSPI 기타제조업 업종 종목별 시가총액 비중](images/kospi_업종_기타제조업_종목.png)](kospi_업종_기타제조업_종목/) | [![KOSPI 건설업 업종 종목별 시가총액 비중](images/kospi_업종_건설업_종목.png)](kospi_업종_건설업_종목/) |
-| 섬유의복 <small>(0.2%)</small> | 비금속광물 <small>(0.2%)</small> |
-| [![KOSPI 섬유의복 업종 종목별 시가총액 비중](images/kospi_업종_섬유의복_종목.png)](kospi_업종_섬유의복_종목/) | [![KOSPI 비금속광물 업종 종목별 시가총액 비중](images/kospi_업종_비금속광물_종목.png)](kospi_업종_비금속광물_종목/) |
+| 비금속광물 <small>(0.2%)</small> | 섬유의복 <small>(0.2%)</small> |
+| [![KOSPI 비금속광물 업종 종목별 시가총액 비중](images/kospi_업종_비금속광물_종목.png)](kospi_업종_비금속광물_종목/) | [![KOSPI 섬유의복 업종 종목별 시가총액 비중](images/kospi_업종_섬유의복_종목.png)](kospi_업종_섬유의복_종목/) |
 | 의료정밀 <small>(0.2%)</small> | 종이목재 <small>(0.1%)</small> |
 | [![KOSPI 의료정밀 업종 종목별 시가총액 비중](images/kospi_업종_의료정밀_종목.png)](kospi_업종_의료정밀_종목/) | [![KOSPI 종이목재 업종 종목별 시가총액 비중](images/kospi_업종_종이목재_종목.png)](kospi_업종_종이목재_종목/) |
 | 농업임업및어업 <small>(0.0%)</small> |  |
@@ -34,11 +34,11 @@
 | 전체 업종 | 전체 종목 |
 | :---: | :---: |
 | [![KOSDAQ 전체 업종별 시가총액 비중](images/kosdaq_all_all_업종.png)](kosdaq_all_all_업종/) | [![KOSDAQ 전체 종목별 시가총액 비중](images/kosdaq_all_all_종목.png)](kosdaq_all_all_종목/) |
-| 일반전기전자 <small>(20.5%)</small> | 제약 <small>(14.5%)</small> |
+| 일반전기전자 <small>(20.4%)</small> | 제약 <small>(14.5%)</small> |
 | [![KOSDAQ 일반전기전자 업종 종목별 시가총액 비중](images/kosdaq_업종_일반전기전자_종목.png)](kosdaq_업종_일반전기전자_종목/) | [![KOSDAQ 제약 업종 종목별 시가총액 비중](images/kosdaq_업종_제약_종목.png)](kosdaq_업종_제약_종목/) |
-| 기계장비 <small>(13.0%)</small> | 기타서비스 <small>(12.2%)</small> |
+| 기계장비 <small>(12.8%)</small> | 기타서비스 <small>(12.3%)</small> |
 | [![KOSDAQ 기계장비 업종 종목별 시가총액 비중](images/kosdaq_업종_기계장비_종목.png)](kosdaq_업종_기계장비_종목/) | [![KOSDAQ 기타서비스 업종 종목별 시가총액 비중](images/kosdaq_업종_기타서비스_종목.png)](kosdaq_업종_기타서비스_종목/) |
-| 화학 <small>(8.0%)</small> | 출판매체복제 <small>(7.6%)</small> |
+| 화학 <small>(8.0%)</small> | 출판매체복제 <small>(7.7%)</small> |
 | [![KOSDAQ 화학 업종 종목별 시가총액 비중](images/kosdaq_업종_화학_종목.png)](kosdaq_업종_화학_종목/) | [![KOSDAQ 출판매체복제 업종 종목별 시가총액 비중](images/kosdaq_업종_출판매체복제_종목.png)](kosdaq_업종_출판매체복제_종목/) |
 | 금융 <small>(5.1%)</small> | 의료정밀기기 <small>(4.5%)</small> |
 | [![KOSDAQ 금융 업종 종목별 시가총액 비중](images/kosdaq_업종_금융_종목.png)](kosdaq_업종_금융_종목/) | [![KOSDAQ 의료정밀기기 업종 종목별 시가총액 비중](images/kosdaq_업종_의료정밀기기_종목.png)](kosdaq_업종_의료정밀기기_종목/) |
