@@ -92,6 +92,8 @@ TIGER TOP10은 KOSPI와 KOSDAQ 시장의 시총 상위 10 종목을 선별한 Fn
 
 ### [KODEX FnTop10동일가중 vs TIGER Top10](/395170-vs-292150/)<a id="395170-vs-292150"></a>
 
+FnGuide TOP 10 동일가중 지수 vs FnGuide TOP10 지수
+
 {% include vs/395170-vs-292150_md.inc %}
 
 
@@ -328,14 +330,6 @@ FnGuide TOP10 지수 vs KOSPI 200 지수
 
 
 
-### [Kodex FnTop10동일가중 vs TIGER Top10](/395170-vs-292150/)<a id="395170-vs-292150"></a>
-
-FnGuide TOP 10 동일가중 지수 vs FnGuide TOP10 지수
-
-{% include vs/395170-vs-292150_md.inc %}
-
-
-
 ### [SOL 200Top10 vs TIGER Top10](/411540-vs-292150/)<a id="411540-vs-292150"></a>
 
 KOSPI 200Top10 (동일가중) vs FnGuide TOP10 지수
@@ -344,7 +338,7 @@ KOSPI 200Top10 (동일가중) vs FnGuide TOP10 지수
 
 
 
-### [SOL 200Top10 vs Kodex FnTop10동일가중](/411540-vs-395170/)<a id="411540-vs-395170"></a>
+### [SOL 200Top10 vs KODEX FnTop10동일가중](/411540-vs-395170/)<a id="411540-vs-395170"></a>
 
 KOSPI 200Top10 (동일가중) vs FnGuide TOP 10 동일가중 지수
 
@@ -369,15 +363,15 @@ TIGER 베타플러스 vs KODEX 200
 {% include vs/170350-vs-069500_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [TIGER 로우볼 vs KODEX 200](/174350-vs-069500/)<a id="174350-vs-069500"></a>
 
 TIGER 로우볼 vs KODEX 200
 
 {% include vs/174350-vs-069500_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -412,15 +406,15 @@ ARIRANG 스마트베타Value vs KODEX 200
 {% include vs/222180-vs-069500_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [ARIRANG 스마트베타Momentum vs KODEX 200](/222190-vs-069500/)<a id="222190-vs-069500"></a>
 
 ARIRANG 스마트베타Momentum vs KODEX 200
 
 {% include vs/222190-vs-069500_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -455,15 +449,15 @@ TIGER 코스피대형주 vs KODEX 200
 {% include vs/277640-vs-069500_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [TIGER 대형성장 vs KODEX 200](/292100-vs-069500/)<a id="292100-vs-069500"></a>
 
 TIGER 대형성장 vs KODEX 200
 
 {% include vs/292100-vs-069500_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -498,15 +492,15 @@ TIGER 대형가치 vs KODEX 200
 {% include vs/292140-vs-069500_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [ARIRANG 스마트베타4종결합 vs KODEX 200](/244820-vs-069500/)<a id="244820-vs-069500"></a>
 
 ARIRANG 스마트베타4종결합 vs KODEX 200
 
 {% include vs/244820-vs-069500_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -533,13 +527,13 @@ ARIRANG 스마트베타4종결합 vs KODEX 200
 {% include vs/333960-vs-292190_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [ARIRANG KS밸류가중 vs KODEX KRX300](/333970-vs-292190/)<a id="333970-vs-292190"></a>
 
 {% include vs/333970-vs-292190_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -566,13 +560,13 @@ ARIRANG 스마트베타4종결합 vs KODEX 200
 {% include vs/333960-vs-069500_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [ARIRANG KS밸류가중 vs KODEX 200](/333970-vs-069500/)<a id="333970-vs-069500"></a>
 
 {% include vs/333970-vs-069500_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -603,13 +597,13 @@ ARIRANG 스마트베타4종결합 vs KODEX 200
 {% include vs/272220-vs-069500_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [KODEX MSCI모멘텀 vs KODEX 200](/275280-vs-069500/)<a id="275280-vs-069500"></a>
 
 {% include vs/275280-vs-069500_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -640,13 +634,13 @@ ARIRANG 스마트베타4종결합 vs KODEX 200
 {% include vs/426030-vs-133690_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [TIMEFOLIO Kstock액티브 vs KODEX 200](/385720-vs-069500/)<a id="385720-vs-069500"></a>
 
 {% include vs/385720-vs-069500_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -677,13 +671,13 @@ ARIRANG 스마트베타4종결합 vs KODEX 200
 {% include vs/360150-vs-229200_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [KODEX 코스닥150롱코스피200숏선물 vs KODEX 200롱코스닥150숏선물](/360150-vs-360140/)<a id="360150-vs-360140"></a>
 
 {% include vs/360150-vs-360140_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -714,9 +708,6 @@ ARIRANG 스마트베타4종결합 vs KODEX 200
 {% include vs/284430-vs-305080_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ## 퀀트 ETF
 
@@ -725,6 +716,9 @@ ARIRANG 스마트베타4종결합 vs KODEX 200
 ### [마이티 다이나믹퀀트액티브 vs KODEX 200](/442260-vs-069500/)<a id="442260-vs-069500"></a>
 
 {% include vs/442260-vs-069500_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -759,15 +753,15 @@ KBSTAR 200고배당커버드콜ATM은 코스피 고배당 50 지수 편입 50종
 {% include vs/290080-vs-210780_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [KBSTAR 200위클리커버드콜 vs KODEX 200](/475720-vs-069500/)<a id="475720-vs-069500"></a>
 
 KBSTAR 200위클리커버드콜은 KOSPI 200 현물 주식을 보유하면서, KOSPI 200 콜옵션을 매도하는 전형적인 커버드콜 전략을 쓰는 ETF입니다. 다른 커버드콜 ETF와는 다르게 주단위로 커버드콜을 발행합니다.
 
 {% include vs/475720-vs-069500_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -802,15 +796,15 @@ S&P 500 지수를 추종하는 KODEX S&P500TR과 월배당을 위해 배당성�
 {% include vs/441640-vs-446720_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [KODEX 미국배당프리미엄액티브 vs TIGER 미국배당다우존스](/441640-vs-458730/)<a id="441640-vs-458730"></a>
 
 한국판 DIVO인 KODEX 미국배당프리미엄액티브와 한국판 SCHD인 TIGER 미국배당다우존스의 성과를 비교합니다.
 
 {% include vs/441640-vs-458730_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -839,19 +833,25 @@ S&P 500 지수를 추종하는 KODEX S&P500TR과 월배당을 위해 배당성�
 {% include vs/482730-vs-360750_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [TIGER 미국S&P500+10%프리미엄초단기옵션 vs KODEX 미국S&P500TR](/482730-vs-379800/)<a id="482730-vs-379800"></a>
 
 {% include vs/482730-vs-379800_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [TIGER 미국S&P500+10%프리미엄초단기옵션 vs ACE 미국500 15%프리미엄분배(합성)](/482730-vs-480030/)<a id="482730-vs-480030"></a>
 
 {% include vs/482730-vs-480030_md.inc %}
+
+
+
+### [TIGER 미국나스닥100+15%프리미엄초단기 vs KODEX 미국나스닥100TR](/486290-vs-379810/)<a id="486290-vs-379810"></a>
+
+{% include vs/486290-vs-379810_md.inc %}
 
 
 
@@ -877,6 +877,12 @@ S&P 500 지수를 추종하는 KODEX S&P500TR과 월배당을 위해 배당성�
 
 
 {% include /commons/ads/adsense.html %}
+
+
+
+### [KODEX 미국AI테크TOP10+15%프리미엄 vs KODEX 미국AI테크TOP10](/483280-vs-485540/)<a id="483280-vs-485540"></a>
+
+{% include vs/483280-vs-485540_md.inc %}
 
 
 
@@ -907,6 +913,9 @@ S&P 500 지수를 추종하는 KODEX S&P500TR과 월배당을 위해 배당성�
 {% include vs/269420-vs-269530_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ## 국내 상장 레버리지 ETF
 
@@ -917,9 +926,6 @@ S&P 500 지수를 추종하는 KODEX S&P500TR과 월배당을 위해 배당성�
 KODEX 코스닥150레버리지는 현물 100%와 선물 100%로 2배 레버리지를 구성한 상품입니다. KBSTAR 코스닥150선물레버리지는 선물 200%로만 2배 레버리지를 구성한 상품입니다. 이로 인해 현물 지수가 아닌 선물 지수의 일일등락을 2배로 추종합니다. 선물 비중이 높은 레버리지는 상대적으로 어떤 성과를 거두었는지 살펴봅니다.
 
 {% include vs/278240-vs-233740_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -954,13 +960,13 @@ TIGER 미국배당다우존스는 Dow Jones U.S. Dividend 100 지수(원화환�
 {% include vs/458750-vs-458730_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [KODEX 미국배당+10%프리미엄다우존스 vs TIGER 미국배당다우존스](/483290-vs-458730/)<a id="483290-vs-458730"></a>
 
 {% include vs/483290-vs-458730_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -993,6 +999,9 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 {% include vs/441680-vs-133690_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ## 국내 상장 해외 ETF (배당다우존스)
 
@@ -1001,9 +1010,6 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 ### [SOL 미국배당다우존스 vs ACE 미국배당다우존스](/446720-vs-402970/)<a id="446720-vs-402970"></a>
 
 {% include vs/446720-vs-402970_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1034,13 +1040,13 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 {% include vs/379800-vs-360750_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [KBSTAR 미국S&P500 vs TIGER 미국S&P500](/379780-vs-360750/)<a id="379780-vs-360750"></a>
 
 {% include vs/379780-vs-360750_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1067,15 +1073,15 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 {% include vs/368590-vs-133690_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [ARIRANG 미국S&P500(H) vs TIGER 미국S&P500선물(H)](/269540-vs-143850/)<a id="269540-vs-143850"></a>
 
 S&P 500 지수에 대한 현물 환헤지 ETF와 선물 환헤지 ETF의 성과를 비교합니다.
 
 {% include vs/269540-vs-143850_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1108,6 +1114,9 @@ KODEX 최소변동성은 하락장에서 손실폭을 줄이기 위해 주가변
 {% include vs/279540-vs-292190_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ## 우선주와 일반주
 
@@ -1118,9 +1127,6 @@ KODEX 최소변동성은 하락장에서 손실폭을 줄이기 위해 주가변
 의결권이 없는 대신 배당금이 조금 더 높은 우선주와 의결권이 있는 일반주의 성과가 어떠한지 살펴봅니다. TIGER 우선주는 코스피 우선주 지수를 추종하는 상품으로 시총, 유동성, 배당실적 등을 고려한 지수입니다. KODEX 200은 코스피 200에 편입된 종목을 시총가중 방식으로 투자하는 ETF입니다.
 
 {% include vs/261140-vs-069500_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1159,6 +1165,9 @@ KODEX 최소변동성은 하락장에서 손실폭을 줄이기 위해 주가변
 {% include vs/qqq-vs-spy_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ## 해외 상장 해외 ETF (배당)
 
@@ -1169,9 +1178,6 @@ KODEX 최소변동성은 하락장에서 손실폭을 줄이기 위해 주가변
 배당성장주로 유명한 SCHD를 배당은 고려하지 않고 S&P 500 지수를 추종하는 SPY와 비교해 봅니다.
 
 {% include vs/schd-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1206,6 +1212,9 @@ ProShares사의 NOBL은 배당금이 꾸준히 증가한 배당귀족주에 투�
 {% include vs/spyd-vs-spy_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ## 해외 상장 해외 ETF (배당, SCHD 대비)
 
@@ -1216,9 +1225,6 @@ ProShares사의 NOBL은 배당금이 꾸준히 증가한 배당귀족주에 투�
 VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당성장주 ETF입니다. 국내에 널리 알려진 SCHD는 Dow Jones U.S. Dividend 100 지수를 추종하는 대표적인 배당성장주 ETF입니다. 두 상품 모두 비슷한 관점에서 설계했기에, 장기직인 성과는 비슷하리라 예상할 수 있습니다.
 
 {% include vs/vig-vs-schd_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1245,13 +1251,13 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 {% include vs/nobl-vs-schd_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [DIVO vs SCHD](/divo-vs-schd/)<a id="divo-vs-schd"></a>
 
 {% include vs/divo-vs-schd_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1282,13 +1288,13 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 {% include vs/spy-vs-divo_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [SCHD vs DIVO](/schd-vs-divo/)<a id="schd-vs-divo"></a>
 
 {% include vs/schd-vs-divo_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1319,13 +1325,13 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 {% include vs/schd-vs-idvo_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [NOBL vs IDVO](/nobl-vs-idvo/)<a id="nobl-vs-idvo"></a>
 
 {% include vs/nobl-vs-idvo_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1356,13 +1362,13 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 {% include vs/schg-vs-spy_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [SCHG vs QQQ](/schg-vs-qqq/)<a id="schg-vs-qqq"></a>
 
 {% include vs/schg-vs-qqq_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1397,13 +1403,13 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 {% include vs/ispy-vs-xyld_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [ISPY vs XYLG](/ispy-vs-xylg/)<a id="ispy-vs-xylg"></a>
 
 {% include vs/ispy-vs-xylg_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1430,13 +1436,13 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 {% include vs/ispy-vs-gpix_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [ISPY vs BALI](/ispy-vs-bali/)<a id="ispy-vs-bali"></a>
 
 {% include vs/ispy-vs-bali_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1465,13 +1471,13 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 SPYI와 S&P 500 지수�
 {% include vs/jepi-vs-schd_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [JEPIX vs SCHD](/jepix-vs-schd/)<a id="jepix-vs-schd"></a>
 
 {% include vs/jepix-vs-schd_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1502,13 +1508,13 @@ JEPIX는 JEPII와 동일한 전략을 사용한다고 알려진 JP모건사 뮤�
 {% include vs/qdte-vs-qqq_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [JEPQ vs QQQ](/jepq-vs-qqq/)<a id="jepq-vs-qqq"></a>
 
 {% include vs/jepq-vs-qqq_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1535,13 +1541,13 @@ JEPIX는 JEPII와 동일한 전략을 사용한다고 알려진 JP모건사 뮤�
 {% include vs/gpiq-vs-qqq_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [GPIX vs JEPI](/gpix-vs-jepi/)<a id="gpix-vs-jepi"></a>
 
 {% include vs/gpix-vs-jepi_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1572,13 +1578,13 @@ S&P 500 지수에 대해 커버드 콜 전략을 쓰는 XYLD와 S&P 500 지수�
 {% include vs/qyld-vs-xyld_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [RYLD vs IWM](/ryld-vs-iwm/)<a id="ryld-vs-iwm"></a>
 
 {% include vs/ryld-vs-iwm_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1613,13 +1619,13 @@ S&P 500 지수에 대해 데일리 커버드 콜 전략을 쓰는 JEPY와 S&P 50
 {% include vs/iwmy-vs-iwm_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [JEPY vs XYLD](/jepy-vs-xyld/)<a id="jepy-vs-xyld"></a>
 
 {% include vs/jepy-vs-xyld_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1646,13 +1652,13 @@ S&P 500 지수에 대해 데일리 커버드 콜 전략을 쓰는 JEPY와 S&P 50
 {% include vs/bali-vs-qqq_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [BALI vs JEPI](/bali-vs-jepi/)<a id="bali-vs-jepi"></a>
 
 {% include vs/bali-vs-jepi_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1679,13 +1685,13 @@ S&P 500 지수에 대해 데일리 커버드 콜 전략을 쓰는 JEPY와 S&P 50
 {% include vs/bali-vs-gpix_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [BALI vs GPIQ](/bali-vs-gpiq/)<a id="bali-vs-gpiq"></a>
 
 {% include vs/bali-vs-gpiq_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1718,6 +1724,9 @@ TLT는 미국 장기 국채에 투자하는 ETF입니다. TLTW는 미국 장기 
 {% include vs/tqqq-vs-qqq_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ## 해외 상장 해외 ETF (동일 비중)
 
@@ -1728,9 +1737,6 @@ TLT는 미국 장기 국채에 투자하는 ETF입니다. TLTW는 미국 장기 
 다우지수 동일 비중 vs 다우지수
 
 {% include vs/edow-vs-dia_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1769,15 +1775,15 @@ Invesco사의 SPHD는 S&P500 종목 중에서 고배당을 주면서 변동성�
 {% include vs/sphd-vs-spy_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [SPHD vs SPLV](/sphd-vs-splv/)<a id="sphd-vs-splv"></a>
 
 저변동성만 고려하는 SPLV와 고배당까지  고려하는 SPHD를 비교하여, 고배당의 효과를 살펴 봅니다.
 
 {% include vs/sphd-vs-splv_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1816,15 +1822,15 @@ Invesco사의 PGX는 우선주에 투자하는 상품으로 연 평균 5% 이상
 {% include vs/pgx-vs-spy_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [PFF vs SPY](/pff-vs-spy/)<a id="pff-vs-spy"></a>
 
 iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환사채)와 같은 하이브리드 증권에도 투자하는 ETF입니다. 이 상품을 S&P 500 지수를 추종하는 SPY와 비교해 봅니다.
 
 {% include vs/pff-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1855,13 +1861,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/nvdy-vs-nvda_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [AMZY vs AMZN](/amzy-vs-amzn/)<a id="amzy-vs-amzn"></a>
 
 {% include vs/amzy-vs-amzn_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1888,13 +1894,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/diso-vs-dis_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [NFLY vs NFLX](/nfly-vs-nflx/)<a id="nfly-vs-nflx"></a>
 
 {% include vs/nfly-vs-nflx_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1921,13 +1927,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/amdy-vs-amd_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [PYPY vs PYPL](/pypy-vs-pypl/)<a id="pypy-vs-pypl"></a>
 
 {% include vs/pypy-vs-pypl_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1954,13 +1960,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/msty-vs-mstr_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [GDXY vs GDX](/gdxy-vs-gdx/)<a id="gdxy-vs-gdx"></a>
 
 {% include vs/gdxy-vs-gdx_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -1987,13 +1993,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/ymax-vs-jepq_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [YMAX vs QQQ](/ymax-vs-qqq/)<a id="ymax-vs-qqq"></a>
 
 {% include vs/ymax-vs-qqq_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -2020,6 +2026,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/ymag-vs-mags_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ## 해외 상장 ETF (AI 운용)
 
@@ -2028,9 +2037,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [AIEQ vs SPY](/aieq-vs-spy/)<a id="aieq-vs-spy"></a>
 
 {% include vs/aieq-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -2057,13 +2063,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/aiiq-vs-spy_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [HDIV vs SPY](/hdiv-vs-spy/)<a id="hdiv-vs-spy"></a>
 
 {% include vs/hdiv-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -2094,6 +2100,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/arkg-vs-xbi_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ## 해외 종목
 
@@ -2104,9 +2113,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 워런 버핏이 CEO로 있는 버크셔 해서웨이(BRK.A)와 미국 대표 지수인 S&P 500(배당 미고려)의 성과를 비교해 봅니다.
 
 {% include vs/brk-a-vs-us500_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -2139,13 +2145,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/moat-vs-schd_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [MOAT vs SPY](/moat-vs-spy/)<a id="moat-vs-spy"></a>
 
 {% include vs/moat-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -2176,13 +2182,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/250730-vs-2828_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [iShares 20+ Year US Treasury Bond JPY Hedged ETF vs iShares 20+ Year Treasury Bond ETF](/2621-vs-tlt/)<a id="2621-vs-tlt"></a>
 
 {% include vs/2621-vs-tlt_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
