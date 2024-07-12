@@ -14,7 +14,7 @@ keywords: IDVO, EWJ, EWJ IDVO 비교
 ## 비교 상품 소개
 
 
-IDVO 상품과 EWJ 상품의 성과를 수익률과 위험도로 비교합니다.
+EWJ 상품과 IDVO 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 

@@ -14,7 +14,7 @@ keywords: SPY, JEPI, JEPI SPY 비교
 ## 비교 상품 소개
 
 
-SPY 상품과 JEPI 상품의 성과를 수익률과 위험도로 비교합니다.
+JEPI 상품과 SPY 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 

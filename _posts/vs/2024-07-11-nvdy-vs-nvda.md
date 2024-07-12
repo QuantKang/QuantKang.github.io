@@ -14,7 +14,7 @@ keywords: NVIDIA Corp, NVDY, NVDY NVIDIA Corp 비교
 ## 비교 상품 소개
 
 
-NVIDIA Corp 상품과 NVDY 상품의 성과를 수익률과 위험도로 비교합니다.
+NVDY 상품과 NVIDIA Corp 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 

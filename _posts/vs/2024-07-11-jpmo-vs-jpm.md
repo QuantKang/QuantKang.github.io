@@ -14,7 +14,7 @@ keywords: JPMorgan Chase & Co, JPMO, JPMO JPMorgan Chase & Co 비교
 ## 비교 상품 소개
 
 
-JPMorgan Chase & Co 상품과 JPMO 상품의 성과를 수익률과 위험도로 비교합니다.
+JPMO 상품과 JPMorgan Chase & Co 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 

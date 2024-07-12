@@ -14,7 +14,7 @@ keywords: Walt Disney Co, DISO, DISO Walt Disney Co 비교
 ## 비교 상품 소개
 
 
-Walt Disney Co 상품과 DISO 상품의 성과를 수익률과 위험도로 비교합니다.
+DISO 상품과 Walt Disney Co 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 

@@ -14,7 +14,7 @@ keywords: Microsoft Corp, MSFO, MSFO Microsoft Corp 비교
 ## 비교 상품 소개
 
 
-Microsoft Corp 상품과 MSFO 상품의 성과를 수익률과 위험도로 비교합니다.
+MSFO 상품과 Microsoft Corp 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 

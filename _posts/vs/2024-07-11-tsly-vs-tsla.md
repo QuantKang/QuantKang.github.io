@@ -14,7 +14,7 @@ keywords: Tesla Inc, TSLY, TSLY Tesla Inc 비교
 ## 비교 상품 소개
 
 
-Tesla Inc 상품과 TSLY 상품의 성과를 수익률과 위험도로 비교합니다.
+TSLY 상품과 Tesla Inc 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 

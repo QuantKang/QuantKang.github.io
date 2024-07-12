@@ -14,7 +14,7 @@ keywords: SCHD, SDY, SDY SCHD 비교
 ## 비교 상품 소개
 
 
-SCHD 상품과 SDY 상품의 성과를 수익률과 위험도로 비교합니다.
+SDY 상품과 SCHD 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 

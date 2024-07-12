@@ -14,7 +14,7 @@ keywords: Microstrategy Inc, MSTY, MSTY Microstrategy Inc 비교
 ## 비교 상품 소개
 
 
-Microstrategy Inc 상품과 MSTY 상품의 성과를 수익률과 위험도로 비교합니다.
+MSTY 상품과 Microstrategy Inc 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 

@@ -14,7 +14,7 @@ keywords: Advanced Micro Devices Inc, AMDY, AMDY Advanced Micro Devices Inc 비�
 ## 비교 상품 소개
 
 
-Advanced Micro Devices Inc 상품과 AMDY 상품의 성과를 수익률과 위험도로 비교합니다.
+AMDY 상품과 Advanced Micro Devices Inc 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 

@@ -14,7 +14,7 @@ keywords: SPYI, BALI, BALI SPYI 비교
 ## 비교 상품 소개
 
 
-SPYI 상품과 BALI 상품의 성과를 수익률과 위험도로 비교합니다.
+BALI 상품과 SPYI 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 

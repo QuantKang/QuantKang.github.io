@@ -14,7 +14,7 @@ keywords: XYLD, SPYI, SPYI XYLD 비교
 ## 비교 상품 소개
 
 
-XYLD 상품과 SPYI 상품의 성과를 수익률과 위험도로 비교합니다.
+SPYI 상품과 XYLD 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 
