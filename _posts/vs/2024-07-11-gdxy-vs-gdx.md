@@ -14,7 +14,7 @@ keywords: GDX, GDXY, GDXY GDX 비교
 ## 비교 상품 소개
 
 
-GDX 상품과 GDXY 상품의 성과를 수익률과 위험도로 비교합니다.
+GDXY 상품과 GDX 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 

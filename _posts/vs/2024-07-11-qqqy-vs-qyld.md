@@ -14,7 +14,7 @@ keywords: QYLD, QQQY, QQQY QYLD 비교
 ## 비교 상품 소개
 
 
-QYLD 상품과 QQQY 상품의 성과를 수익률과 위험도로 비교합니다.
+QQQY 상품과 QYLD 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 

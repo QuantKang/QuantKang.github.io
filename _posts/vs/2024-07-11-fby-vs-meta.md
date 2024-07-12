@@ -14,7 +14,7 @@ keywords: Meta Platforms Inc, FBY, FBY Meta Platforms Inc 비교
 ## 비교 상품 소개
 
 
-Meta Platforms Inc 상품과 FBY 상품의 성과를 수익률과 위험도로 비교합니다.
+FBY 상품과 Meta Platforms Inc 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 

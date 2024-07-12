@@ -14,7 +14,7 @@ keywords: JEPI, YMAX, YMAX JEPI 비교
 ## 비교 상품 소개
 
 
-JEPI 상품과 YMAX 상품의 성과를 수익률과 위험도로 비교합니다.
+YMAX 상품과 JEPI 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 

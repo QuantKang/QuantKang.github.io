@@ -14,7 +14,7 @@ keywords: Amazon.com Inc, AMZY, AMZY Amazon.com Inc 비교
 ## 비교 상품 소개
 
 
-Amazon.com Inc 상품과 AMZY 상품의 성과를 수익률과 위험도로 비교합니다.
+AMZY 상품과 Amazon.com Inc 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 

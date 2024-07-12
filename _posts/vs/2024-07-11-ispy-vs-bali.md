@@ -14,7 +14,7 @@ keywords: BALI, ISPY, ISPY BALI 비교
 ## 비교 상품 소개
 
 
-BALI 상품과 ISPY 상품의 성과를 수익률과 위험도로 비교합니다.
+ISPY 상품과 BALI 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 

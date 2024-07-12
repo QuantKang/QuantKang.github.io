@@ -14,7 +14,7 @@ keywords: DIVO, SCHD, SCHD DIVO 비교
 ## 비교 상품 소개
 
 
-DIVO 상품과 SCHD 상품의 성과를 수익률과 위험도로 비교합니다.
+SCHD 상품과 DIVO 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 

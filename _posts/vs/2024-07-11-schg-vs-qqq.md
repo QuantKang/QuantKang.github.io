@@ -14,7 +14,7 @@ keywords: QQQ, SCHG, SCHG QQQ 비교
 ## 비교 상품 소개
 
 
-QQQ 상품과 SCHG 상품의 성과를 수익률과 위험도로 비교합니다.
+SCHG 상품과 QQQ 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 

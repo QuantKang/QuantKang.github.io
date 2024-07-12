@@ -14,7 +14,7 @@ keywords: Apple Inc, APLY, APLY Apple Inc 비교
 ## 비교 상품 소개
 
 
-Apple Inc 상품과 APLY 상품의 성과를 수익률과 위험도로 비교합니다.
+APLY 상품과 Apple Inc 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 
