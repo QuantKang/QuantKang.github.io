@@ -1,7 +1,7 @@
 ---
 layout: single
 title: JEPI vs JEPIX
-excerpt: JEPI의 최근 4년 1개월 CAGR은 12.6%로 JEPIX의 12.6%와 비슷했습니다.
+excerpt: JEPI의 최근 4년 1개월 CAGR은 12.6%로 JEPIX의 12.5%와 비슷했습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -30,14 +30,14 @@ JEPIX는 JEPI와 동일한 전략을 사용한다고 알려진 JP모건사의 �
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | JEPI | <span style="color: tomato">12.6<small>%</small></span> | 10.4<small>%</small> | 1.21 | -13.7<small>%</small> | -2.2<small>%</small> |
-| JEPIX | <span style="color: tomato">12.6<small>%</small></span> | 10.9<small>%</small> | 1.16 | -13.7<small>%</small> | -2.3<small>%</small> |
+| JEPIX | <span style="color: tomato">12.5<small>%</small></span> | 10.9<small>%</small> | 1.16 | -13.7<small>%</small> | -2.3<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** JEPI의 CAGR은 12.6%로 JEPIX의 12.6%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** JEPI의 CAGR은 12.6%로 JEPIX의 12.5%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** JEPI의 표준편차는 10.4%로 JEPIX의 10.9%와 비슷했습니다. (비슷한 위험도)
 
@@ -73,7 +73,7 @@ JEPIX<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JE
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | JEPI | <span style="color: tomato">12.6<small>%</small></span> | 10.4<small>%</small> | 1.21 | -13.7<small>%</small> | -2.2<small>%</small> |
-| JEPIX | <span style="color: tomato">12.6<small>%</small></span> | 10.9<small>%</small> | 1.16 | -13.7<small>%</small> | -2.3<small>%</small> |
+| JEPIX | <span style="color: tomato">12.5<small>%</small></span> | 10.9<small>%</small> | 1.16 | -13.7<small>%</small> | -2.3<small>%</small> |
 | JEPIX<sub>STD</sub> <small>(96%)</small> | <span style="color: tomato">12.1<small>%</small></span> | 10.4<small>%</small> | 1.16 | -13.2<small>%</small> | -2.2<small>%</small> |
 | JEPIX<sub>MDD</sub> <small>(100%)</small> | <span style="color: tomato">12.6<small>%</small></span> | 10.9<small>%</small> | 1.16 | -13.7<small>%</small> | -2.3<small>%</small> |
 
