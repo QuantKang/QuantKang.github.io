@@ -3,6 +3,6 @@
 | FXI | 기초 | <span style="color: cornflowerblue">-0.5<small>%</small></span> | - | - | - |
 | [XPP](/xpp/) | 2<small>배</small> | <span style="color: cornflowerblue">-15.9<small>%</small></span> | 6.7<small>%</small> | 8.9<small>%</small> | 15.1<small>%</small> |
 | [YINN](/yinn/) | 3<small>배</small> | <span style="color: cornflowerblue">-30.1<small>%</small></span> | 18.8<small>%</small> | 12.5<small>%</small> | 29.0<small>%</small> |
-| [YXI](/yxi/) | -1<small>배</small> | <span style="color: tomato">0.5<small>%</small></span> | 6.8<small>%</small> | -7.2<small>%</small> | 0.0<small>%</small> |
+| [YXI](/yxi/) | -1<small>배</small> | <span style="color: tomato">0.5<small>%</small></span> | 6.8<small>%</small> | -7.2<small>%</small> | 0.1<small>%</small> |
 | [FXP](/fxp/) | -2<small>배</small> | <span style="color: cornflowerblue">-10.2<small>%</small></span> | 19.1<small>%</small> | -9.9<small>%</small> | 11.1<small>%</small> |
 | [YANG](/yang/) | -3<small>배</small> | <span style="color: cornflowerblue">-19.3<small>%</small></span> | 34.8<small>%</small> | -21.7<small>%</small> | 20.6<small>%</small> |
