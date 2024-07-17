@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [VTI](/vti-vs-spy/) | <span style="color: tomato">9.2<small>%</small></span> | 19.2<small>%</small> | 0.48 | -55.5<small>%</small> | -8.1<small>%</small> |
-| SPY | <span style="color: tomato">8.9<small>%</small></span> | 19.1<small>%</small> | 0.46 | -55.2<small>%</small> | -8.4<small>%</small> |
+| [VTI](/vti-vs-spy/) | <span style="color: tomato">10.5<small>%</small></span> | 20.2<small>%</small> | 0.52 | -52.0<small>%</small> | -7.2<small>%</small> |
+| SPY | <span style="color: tomato">10.6<small>%</small></span> | 20.0<small>%</small> | 0.53 | -51.9<small>%</small> | -7.2<small>%</small> |
