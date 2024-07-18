@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [ACE 미국빅테크7+ 15%프리미엄분배(합성)](/480020-vs-465580/) | - | 22.6<small>%</small> | nan | -4.8<small>%</small> | -0.8<small>%</small> |
-| ACE 미국빅테크TOP7 Plus | - | 23.6<small>%</small> | nan | -4.5<small>%</small> | -0.7<small>%</small> |
+| [ACE 미국빅테크7+ 15%프리미엄분배(합성)](/480020-vs-465580/) | - | 23.6<small>%</small> | nan | -7.8<small>%</small> | -0.9<small>%</small> |
+| ACE 미국빅테크TOP7 Plus | - | 24.0<small>%</small> | nan | -6.6<small>%</small> | -0.8<small>%</small> |

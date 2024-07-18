@@ -1,7 +1,7 @@
 ---
 layout: single
 title: YMAG vs QQQ
-excerpt: YMAG의 최근 6개월 CAGR은 39.4%로 QQQ의 31.7%보다 7.6% 높았습니다.
+excerpt: YMAG의 최근 6개월 CAGR은 48.8%로 QQQ의 31.7%보다 17.1% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -31,7 +31,7 @@ YMAG 상품과 QQQ 상품의 성과를 수익률과 위험도로 비교합니다
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| YMAG | <span style="color: tomato">39.4<small>%</small></span> | 18.7<small>%</small> | 2.10 | -8.3<small>%</small> | -1.2<small>%</small> |
+| YMAG | <span style="color: tomato">48.8<small>%</small></span> | 17.1<small>%</small> | 2.85 | -7.5<small>%</small> | -1.1<small>%</small> |
 | QQQ | <span style="color: tomato">31.7<small>%</small></span> | 15.8<small>%</small> | 2.01 | -7.1<small>%</small> | -1.3<small>%</small> |
 
 <!-- more -->
@@ -39,11 +39,11 @@ YMAG 상품과 QQQ 상품의 성과를 수익률과 위험도로 비교합니다
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** YMAG의 CAGR은 39.4%로 QQQ의 31.7%보다 7.6% 높았습니다. (높은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** YMAG의 CAGR은 48.8%로 QQQ의 31.7%보다 17.1% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** YMAG의 표준편차는 18.7%로 QQQ의 15.8%보다 2.9% 높았습니다. (높은 위험도)
+**위험도 지표 (표준편차):** YMAG의 표준편차는 17.1%로 QQQ의 15.8%보다 1.3% 높았습니다. (높은 위험도)
 
-**위험도 지표 (MDD):** YMAG의 8.3%의 MDD는 QQQ의 7.1%보다 1.2% 높았습니다. (높은 위험도)
+**위험도 지표 (MDD):** YMAG의 7.5%의 MDD는 QQQ의 7.1%와 비슷했습니다. (비슷한 위험도)
 
 
 
@@ -52,9 +52,9 @@ YMAG 상품과 QQQ 상품의 성과를 수익률과 위험도로 비교합니다
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 QQQ의 투자 비중[^fn_vs_weight]을 조절하여 YMAG의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 15.8% / 18.7% = 118% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 15.8% / 17.1% = 108% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
-**위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 7.1% / 8.3% = 117% 비중으로 투자하면 됩니다.
+**위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 7.1% / 7.5% = 106% 비중으로 투자하면 됩니다.
 
 
 {% include /commons/ads/adsense.html %}
@@ -74,18 +74,18 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| YMAG | <span style="color: tomato">39.4<small>%</small></span> | 18.7<small>%</small> | 2.10 | -8.3<small>%</small> | -1.2<small>%</small> |
+| YMAG | <span style="color: tomato">48.8<small>%</small></span> | 17.1<small>%</small> | 2.85 | -7.5<small>%</small> | -1.1<small>%</small> |
 | QQQ | <span style="color: tomato">31.7<small>%</small></span> | 15.8<small>%</small> | 2.01 | -7.1<small>%</small> | -1.3<small>%</small> |
-| QQQ<sub>STD</sub> <small>(118%)</small> | <span style="color: tomato">38.2<small>%</small></span> | 18.7<small>%</small> | 2.04 | -8.4<small>%</small> | -1.5<small>%</small> |
-| QQQ<sub>MDD</sub> <small>(117%)</small> | <span style="color: tomato">37.8<small>%</small></span> | 18.5<small>%</small> | 2.04 | -8.3<small>%</small> | -1.5<small>%</small> |
+| QQQ<sub>STD</sub> <small>(108%)</small> | <span style="color: tomato">34.6<small>%</small></span> | 17.1<small>%</small> | 2.02 | -7.7<small>%</small> | -1.4<small>%</small> |
+| QQQ<sub>MDD</sub> <small>(106%)</small> | <span style="color: tomato">33.7<small>%</small></span> | 16.7<small>%</small> | 2.02 | -7.5<small>%</small> | -1.3<small>%</small> |
 
 
 
 각각의 경우를 YMAG의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 118% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 38.2%로 YMAG의 39.4%보다 -1.1% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 108% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 34.6%로 YMAG의 48.8%보다 -14.2% 낮았습니다. (낮은 수익률)
 
-**위험도 지표 (MDD):** 117% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 37.8%로 YMAG의 39.4%보다 -1.6% 낮았습니다. (낮은 수익률)
+**위험도 지표 (MDD):** 106% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 33.7%로 YMAG의 48.8%보다 -15.2% 낮았습니다. (낮은 수익률)
 
 
 
@@ -97,8 +97,8 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 
 지난 6개월간 거치식으로 투자했다고 가정합니다.
 
-QQQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 38.0%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 YMAG의 39.4%보다 -1.4% 낮았습니다.
+QQQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 34.1%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 YMAG의 48.8%보다 -14.7% 낮았습니다.
 
 ### YMAG &gt; QQQ
 {: .text-center}
