@@ -106,6 +106,7 @@ XYLD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 
 ## 관련 정보
 
+- [한국인도 ROC(Return of Capital) 비과세 적용을 받을 수 있습니다. (배당소득재분류에 따른 현지 배당세 환급 및 국내 배당세 징수)](https://kongdori.tistory.com/299)
 - [초고배당 커버드콜 ETF는 기초 자산보다 현금 흐름 창출에 유리할까? (TSLY, NVDY, JEPY, QQQY 등 22종의 커버드콜 ETF 분석)](https://kongdori.tistory.com/286)
 - [ISPY - ProShares의 초단기 콜옵션 전략 기반 인컴 ETF (넌 누굴 닮았니?)](https://kongdori.tistory.com/267)
 - [BALI - 블랙록의 커버드콜 기반 인컴 ETF (발리섬에서 은퇴 생활을 즐길 수 있을까? JEPQ의 S&P500 버전)](https://kongdori.tistory.com/261)
