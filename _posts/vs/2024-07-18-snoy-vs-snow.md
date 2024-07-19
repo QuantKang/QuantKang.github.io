@@ -77,7 +77,7 @@ Snowflake Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우�
 | SNOY | - | 25.9<small>%</small> | nan | -7.5<small>%</small> | -1.8<small>%</small> |
 | Snowflake Inc | - | 37.1<small>%</small> | nan | -9.2<small>%</small> | -2.6<small>%</small> |
 | Snowflake Inc<sub>STD</sub> <small>(70%)</small> | - | 25.9<small>%</small> | nan | -6.5<small>%</small> | -1.8<small>%</small> |
-| Snowflake Inc<sub>MDD</sub> <small>(81%)</small> | - | 30.3<small>%</small> | nan | -7.5<small>%</small> | -2.1<small>%</small> |
+| Snowflake Inc<sub>MDD</sub> <small>(81%)</small> | - | 30.3<small>%</small> | nan | -7.6<small>%</small> | -2.1<small>%</small> |
 
 
 
