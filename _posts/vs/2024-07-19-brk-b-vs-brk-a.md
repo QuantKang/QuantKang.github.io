@@ -14,7 +14,7 @@ keywords: BRK-A, BRK-B, BRK-B BRK-A 비교
 ## 비교 상품 소개
 
 
-워런 버핏이 CEO로 있는 버크셔 해서웨이의 A주(BRK.A)와 B주(BRK.B)의 성과를 비교해 봅니다.
+워런 버핏이 CEO로 있는 버크셔 해서웨이의 A주(BRK.A)와 B주(BRK-B)의 성과를 비교해 봅니다.
 
 
 
