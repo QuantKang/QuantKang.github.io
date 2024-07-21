@@ -2188,6 +2188,55 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 
 
 
+## vs. 버커셔 해서웨이(BRK.B)
+
+
+
+### [SPY vs BRK-B](/spy-vs-brk-b/)<a id="spy-vs-brk-b"></a>
+
+{% include vs/spy-vs-brk-b_md.inc %}
+
+
+
+### [VTV vs BRK-B](/vtv-vs-brk-b/)<a id="vtv-vs-brk-b"></a>
+
+{% include vs/vtv-vs-brk-b_md.inc %}
+
+
+
+### [VUG vs BRK-B](/vug-vs-brk-b/)<a id="vug-vs-brk-b"></a>
+
+{% include vs/vug-vs-brk-b_md.inc %}
+
+
+
+### [IWF vs BRK-B](/iwf-vs-brk-b/)<a id="iwf-vs-brk-b"></a>
+
+{% include vs/iwf-vs-brk-b_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
+### [SCHD vs BRK-B](/schd-vs-brk-b/)<a id="schd-vs-brk-b"></a>
+
+{% include vs/schd-vs-brk-b_md.inc %}
+
+
+
+### [VIG vs BRK-B](/vig-vs-brk-b/)<a id="vig-vs-brk-b"></a>
+
+{% include vs/vig-vs-brk-b_md.inc %}
+
+
+
+### [MOAT vs BRK-B](/moat-vs-brk-b/)<a id="moat-vs-brk-b"></a>
+
+{% include vs/moat-vs-brk-b_md.inc %}
+
+
+
 ## 기타
 
 
@@ -2203,6 +2252,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/448300-vs-qqq_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [ACE 일본Nikkei225(H) vs 1329.T](/238720-vs-1329/)<a id="238720-vs-1329"></a>
 
@@ -2213,9 +2265,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [RISE 차이나HSCEI(H) vs 2828.HK](/250730-vs-2828/)<a id="250730-vs-2828"></a>
 
 {% include vs/250730-vs-2828_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -2234,3 +2283,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [BNDI  vs BND](/bndi-vs-bnd/)<a id="bndi-vs-bnd"></a>
 
 {% include vs/bndi-vs-bnd_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
