@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [TIGER 미국S&P500+10%프리미엄초단기](/482730-vs-360750/) | - | 6.5<small>%</small> | nan | -1.2<small>%</small> | -0.3<small>%</small> |
-| TIGER 미국S&P500 | - | 6.9<small>%</small> | nan | -1.3<small>%</small> | -0.3<small>%</small> |
+| [TIGER 미국S&P500+10%프리미엄초단기](/482730-vs-360750/) | - | 6.7<small>%</small> | nan | -1.8<small>%</small> | -0.3<small>%</small> |
+| TIGER 미국S&P500 | - | 7.1<small>%</small> | nan | -1.9<small>%</small> | -0.3<small>%</small> |
