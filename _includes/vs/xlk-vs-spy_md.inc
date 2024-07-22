@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [XLK](/xlk-vs-spy/) | <span style="color: tomato">9.0<small>%</small></span> | 25.8<small>%</small> | 0.35 | -82.0<small>%</small> | -37.2<small>%</small> |
-| SPY | <span style="color: tomato">8.0<small>%</small></span> | 19.3<small>%</small> | 0.41 | -55.2<small>%</small> | -11.1<small>%</small> |
+| [XLK](/xlk-vs-spy/) | <span style="color: tomato">9.1<small>%</small></span> | 25.8<small>%</small> | 0.35 | -82.0<small>%</small> | -37.2<small>%</small> |
+| SPY | <span style="color: tomato">8.0<small>%</small></span> | 19.3<small>%</small> | 0.42 | -55.2<small>%</small> | -11.1<small>%</small> |
