@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [RISE 차이나HSCEI(H)](/250730-vs-2828/) | - | 21.2<small>%</small> | nan | -9.4<small>%</small> | -4.9<small>%</small> |
-| 2828.HK | - | 22.0<small>%</small> | nan | -9.5<small>%</small> | -4.8<small>%</small> |
+| [RISE 차이나HSCEI(H)](/250730-vs-2828/) | - | 21.2<small>%</small> | nan | -10.0<small>%</small> | -5.0<small>%</small> |
+| 2828.HK | - | 21.9<small>%</small> | nan | -9.9<small>%</small> | -4.9<small>%</small> |

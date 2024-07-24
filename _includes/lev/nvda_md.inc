@@ -5,4 +5,4 @@
 | [3LNV.L](/3lnv/) | 3<small>배</small> | <span style="color: tomato">18.8<small>%</small></span> | 46.0<small>%</small> | 89.4<small>%</small> | 94.3<small>%</small> |
 | [NVDD](/nvdd/) | -1<small>배</small> | <span style="color: cornflowerblue">-72.5<small>%</small></span> | 17.3<small>%</small> | -7.5<small>%</small> | 11.1<small>%</small> |
 | [NVD](/nvd/) | -2<small>배</small> | <span style="color: cornflowerblue">-92.2<small>%</small></span> | 45.4<small>%</small> | -26.9<small>%</small> | 30.7<small>%</small> |
-| [3SNV.L](/3snv/) | -3<small>배</small> | <span style="color: tomato">719.2<small>%</small></span> | 75.1<small>%</small> | -68112.8<small>%</small> | -16888.9<small>%</small> |
+| [3SNV.L](/3snv/) | -3<small>배</small> | <span style="color: tomato">719.2<small>%</small></span> | 75.1<small>%</small> | -68112.9<small>%</small> | -16888.9<small>%</small> |
