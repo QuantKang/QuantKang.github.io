@@ -24,6 +24,8 @@ IJH는 S&P 400 중형주 지수를 추종하는 ETF입니다. XMLV는 지수 편
 
 두 상품의 성과를 비교할 수 있는 가장 긴 기간은 최근 11년 4개월입니다. 아래는 이 기간의 성과[^fn_vs_perf]를 그래프와 표로 나타낸 것입니다.
 그래프 범례에서 괄호안의 퍼센트 수치는 CAGR[^fn_vs_cagr_metric]입니다.
+하단의 보조 그래프는 IJH 대비 XMLV의 비를 나타냅니다.
+XMLV의 수익률이 IJH보다 지속적으로 우세하면 상승하고, 반대의 경우에는 하락합니다.
 
 ![XMLV](/vs/images/xmlv-vs-ijh_dual.png){: .align-center}
 
