@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [TIGER 미국나스닥100커버드콜(합성)](/441680-vs-133690/) | <span style="color: tomato">15.8<small>%</small></span> | 11.0<small>%</small> | 1.43 | -12.0<small>%</small> | -2.1<small>%</small> |
-| TIGER 미국나스닥100 | <span style="color: tomato">32.1<small>%</small></span> | 17.4<small>%</small> | 1.84 | -17.2<small>%</small> | -2.5<small>%</small> |
+| [TIGER 미국나스닥100커버드콜(합성)](/441680-vs-133690/) | <span style="color: tomato">14.7<small>%</small></span> | 11.1<small>%</small> | 1.33 | -12.0<small>%</small> | -2.1<small>%</small> |
+| TIGER 미국나스닥100 | <span style="color: tomato">30.2<small>%</small></span> | 17.5<small>%</small> | 1.72 | -17.2<small>%</small> | -2.5<small>%</small> |
