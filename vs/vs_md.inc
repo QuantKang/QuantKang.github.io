@@ -315,9 +315,9 @@ FnGuide 고배당알파 지수 vs FnGuide 고배당주지수
 
 
 
-### [TIGER 미국S&P500동일가중 vs KODEX 미국S&P500TR](/488500-vs-423160/)<a id="488500-vs-423160"></a>
+### [TIGER 미국S&P500동일가중 vs KODEX 미국S&P500TR](/488500-vs-379800/)<a id="488500-vs-379800"></a>
 
-{% include vs/488500-vs-423160_md.inc %}
+{% include vs/488500-vs-379800_md.inc %}
 
 
 {% include /commons/ads/adsense.html %}
