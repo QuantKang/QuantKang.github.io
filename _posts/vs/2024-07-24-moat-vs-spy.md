@@ -26,6 +26,8 @@ MOAT 상품과 SPY 상품의 성과를 수익률과 위험도로 비교합니다
 
 두 상품의 성과를 비교할 수 있는 가장 긴 기간은 최근 12년 2개월입니다. 아래는 이 기간의 성과[^fn_vs_perf]를 그래프와 표로 나타낸 것입니다.
 그래프 범례에서 괄호안의 퍼센트 수치는 CAGR[^fn_vs_cagr_metric]입니다.
+하단의 보조 그래프는 SPY 대비 MOAT의 비를 나타냅니다.
+MOAT의 수익률이 SPY보다 지속적으로 우세하면 상승하고, 반대의 경우에는 하락합니다.
 
 ![MOAT](/vs/images/moat-vs-spy_dual.png){: .align-center}
 

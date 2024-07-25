@@ -24,6 +24,8 @@ IJR은 S&P 600 소형주 지수를 추종하는 ETF입니다. XSLV는 지수 편
 
 두 상품의 성과를 비교할 수 있는 가장 긴 기간은 최근 11년 4개월입니다. 아래는 이 기간의 성과[^fn_vs_perf]를 그래프와 표로 나타낸 것입니다.
 그래프 범례에서 괄호안의 퍼센트 수치는 CAGR[^fn_vs_cagr_metric]입니다.
+하단의 보조 그래프는 IJR 대비 XSLV의 비를 나타냅니다.
+XSLV의 수익률이 IJR보다 지속적으로 우세하면 상승하고, 반대의 경우에는 하락합니다.
 
 ![XSLV](/vs/images/xslv-vs-ijr_dual.png){: .align-center}
 

@@ -26,6 +26,8 @@ TSLY 상품과 Tesla Inc 상품의 성과를 수익률과 위험도로 비교합
 
 두 상품의 성과를 비교할 수 있는 가장 긴 기간은 최근 1년 8개월입니다. 아래는 이 기간의 성과[^fn_vs_perf]를 그래프와 표로 나타낸 것입니다.
 그래프 범례에서 괄호안의 퍼센트 수치는 CAGR[^fn_vs_cagr_metric]입니다.
+하단의 보조 그래프는 Tesla Inc 대비 TSLY의 비를 나타냅니다.
+TSLY의 수익률이 Tesla Inc보다 지속적으로 우세하면 상승하고, 반대의 경우에는 하락합니다.
 
 ![TSLY](/vs/images/tsly-vs-tsla_dual.png){: .align-center}
 
