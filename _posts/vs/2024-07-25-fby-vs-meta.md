@@ -1,7 +1,7 @@
 ---
 layout: single
-title: FBY vs Meta Platforms Inc(META)
-excerpt: FBY의 최근 1년 CAGR은 23.8%로 Meta Platforms Inc(META)의 39.9%보다 -16.1% 낮았습니다.
+title: FBY vs Meta Platforms Inc (META)
+excerpt: FBY의 최근 1년 CAGR은 23.8%로 Meta Platforms Inc (META)의 39.9%보다 -16.1% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -14,7 +14,7 @@ keywords: Meta Platforms Inc, FBY, FBY Meta Platforms Inc 비교, META, FBY FBY 
 ## 비교 상품 소개
 
 
-FBY 상품과 Meta Platforms Inc(META) 상품의 성과를 수익률과 위험도로 비교합니다.
+FBY 상품과 Meta Platforms Inc (META) 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 

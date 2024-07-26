@@ -1,7 +1,7 @@
 ---
 layout: single
-title: SNOY vs Snowflake Inc(SNOW)
-excerpt: SNOY의 최근 1개월 CAGR은 -로 Snowflake Inc(SNOW)의 -와 비슷했습니다.
+title: SNOY vs Snowflake Inc (SNOW)
+excerpt: SNOY의 최근 1개월 CAGR은 -로 Snowflake Inc (SNOW)의 -와 비슷했습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -14,7 +14,7 @@ keywords: Snowflake Inc, SNOY, SNOY Snowflake Inc 비교, SNOW, SNOY SNOY 비교
 ## 비교 상품 소개
 
 
-SNOY 상품과 Snowflake Inc(SNOW) 상품의 성과를 수익률과 위험도로 비교합니다.
+SNOY 상품과 Snowflake Inc (SNOW) 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 

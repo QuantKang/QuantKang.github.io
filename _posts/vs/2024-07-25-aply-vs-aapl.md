@@ -1,7 +1,7 @@
 ---
 layout: single
-title: APLY vs Apple Inc(AAPL)
-excerpt: APLY의 최근 1년 3개월 CAGR은 12.9%로 Apple Inc(AAPL)의 24.1%보다 -11.2% 낮았습니다.
+title: APLY vs Apple Inc (AAPL)
+excerpt: APLY의 최근 1년 3개월 CAGR은 12.9%로 Apple Inc (AAPL)의 24.1%보다 -11.2% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -14,7 +14,7 @@ keywords: Apple Inc, APLY, APLY Apple Inc 비교, AAPL, APLY APLY 비교
 ## 비교 상품 소개
 
 
-APLY 상품과 Apple Inc(AAPL) 상품의 성과를 수익률과 위험도로 비교합니다.
+APLY 상품과 Apple Inc (AAPL) 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 

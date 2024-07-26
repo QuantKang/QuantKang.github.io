@@ -1,7 +1,7 @@
 ---
 layout: single
-title: AMZY vs Amazon.com Inc(AMZN)
-excerpt: AMZY의 최근 1년 CAGR은 40.2%로 Amazon.com Inc(AMZN)의 39.2%보다 1.1% 높았습니다.
+title: AMZY vs Amazon.com Inc (AMZN)
+excerpt: AMZY의 최근 1년 CAGR은 40.2%로 Amazon.com Inc (AMZN)의 39.2%보다 1.1% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -14,7 +14,7 @@ keywords: Amazon.com Inc, AMZY, AMZY Amazon.com Inc 비교, AMZN, AMZY AMZY 비�
 ## 비교 상품 소개
 
 
-AMZY 상품과 Amazon.com Inc(AMZN) 상품의 성과를 수익률과 위험도로 비교합니다.
+AMZY 상품과 Amazon.com Inc (AMZN) 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 

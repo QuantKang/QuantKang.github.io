@@ -1,7 +1,7 @@
 ---
 layout: single
-title: GOOY vs Alphabet Inc Class A(GOOGL)
-excerpt: GOOY의 최근 1년 CAGR은 1.3%로 Alphabet Inc Class A(GOOGL)의 26.5%보다 -25.2% 낮았습니다.
+title: GOOY vs Alphabet Inc Class A (GOOGL)
+excerpt: GOOY의 최근 1년 CAGR은 1.3%로 Alphabet Inc Class A (GOOGL)의 26.5%보다 -25.2% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -14,7 +14,7 @@ keywords: Alphabet Inc Class A, GOOY, GOOY Alphabet Inc Class A 비교, GOOGL, G
 ## 비교 상품 소개
 
 
-GOOY 상품과 Alphabet Inc Class A(GOOGL) 상품의 성과를 수익률과 위험도로 비교합니다.
+GOOY 상품과 Alphabet Inc Class A (GOOGL) 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 

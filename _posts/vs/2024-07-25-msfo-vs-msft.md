@@ -1,7 +1,7 @@
 ---
 layout: single
-title: MSFO vs Microsoft Corp(MSFT)
-excerpt: MSFO의 최근 10개월 CAGR은 32.0%로 Microsoft Corp(MSFT)의 33.4%보다 -1.4% 낮았습니다.
+title: MSFO vs Microsoft Corp (MSFT)
+excerpt: MSFO의 최근 10개월 CAGR은 32.0%로 Microsoft Corp (MSFT)의 33.4%보다 -1.4% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -14,7 +14,7 @@ keywords: Microsoft Corp, MSFO, MSFO Microsoft Corp 비교, MSFT, MSFO MSFO 비�
 ## 비교 상품 소개
 
 
-MSFO 상품과 Microsoft Corp(MSFT) 상품의 성과를 수익률과 위험도로 비교합니다.
+MSFO 상품과 Microsoft Corp (MSFT) 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 

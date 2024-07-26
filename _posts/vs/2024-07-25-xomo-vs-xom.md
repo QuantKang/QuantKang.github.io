@@ -1,7 +1,7 @@
 ---
 layout: single
-title: XOMO vs Exxon Mobil Corp(XOM)
-excerpt: XOMO의 최근 10개월 CAGR은 0.3%로 Exxon Mobil Corp(XOM)의 9.4%보다 -9.1% 낮았습니다.
+title: XOMO vs Exxon Mobil Corp (XOM)
+excerpt: XOMO의 최근 10개월 CAGR은 0.3%로 Exxon Mobil Corp (XOM)의 9.4%보다 -9.1% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -14,7 +14,7 @@ keywords: Exxon Mobil Corp, XOMO, XOMO Exxon Mobil Corp 비교, XOM, XOMO XOMO �
 ## 비교 상품 소개
 
 
-XOMO 상품과 Exxon Mobil Corp(XOM) 상품의 성과를 수익률과 위험도로 비교합니다.
+XOMO 상품과 Exxon Mobil Corp (XOM) 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 

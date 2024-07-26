@@ -1,7 +1,7 @@
 ---
 layout: single
-title: TSLY vs Tesla Inc(TSLA)
-excerpt: TSLY의 최근 1년 8개월 CAGR은 -1.6%로 Tesla Inc(TSLA)의 11.7%보다 -13.3% 낮았습니다.
+title: TSLY vs Tesla Inc (TSLA)
+excerpt: TSLY의 최근 1년 8개월 CAGR은 -1.6%로 Tesla Inc (TSLA)의 11.7%보다 -13.3% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -14,7 +14,7 @@ keywords: Tesla Inc, TSLY, TSLY Tesla Inc 비교, TSLA, TSLY TSLY 비교
 ## 비교 상품 소개
 
 
-TSLY 상품과 Tesla Inc(TSLA) 상품의 성과를 수익률과 위험도로 비교합니다.
+TSLY 상품과 Tesla Inc (TSLA) 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 

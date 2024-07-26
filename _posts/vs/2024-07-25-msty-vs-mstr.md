@@ -1,7 +1,7 @@
 ---
 layout: single
-title: MSTY vs Microstrategy Inc(MSTR)
-excerpt: MSTY의 최근 4개월 CAGR은 413.6%로 Microstrategy Inc(MSTR)의 586.3%보다 -172.7% 낮았습니다.
+title: MSTY vs Microstrategy Inc (MSTR)
+excerpt: MSTY의 최근 4개월 CAGR은 413.6%로 Microstrategy Inc (MSTR)의 586.3%보다 -172.7% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -14,7 +14,7 @@ keywords: Microstrategy Inc, MSTY, MSTY Microstrategy Inc 비교, MSTR, MSTY MST
 ## 비교 상품 소개
 
 
-MSTY 상품과 Microstrategy Inc(MSTR) 상품의 성과를 수익률과 위험도로 비교합니다.
+MSTY 상품과 Microstrategy Inc (MSTR) 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 

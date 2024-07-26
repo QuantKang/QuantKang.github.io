@@ -1,7 +1,7 @@
 ---
 layout: single
-title: ABNY vs Airbnb Inc(ABNB)
-excerpt: ABNY의 최근 1개월 CAGR은 -로 Airbnb Inc(ABNB)의 -와 비슷했습니다.
+title: ABNY vs Airbnb Inc (ABNB)
+excerpt: ABNY의 최근 1개월 CAGR은 -로 Airbnb Inc (ABNB)의 -와 비슷했습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -14,7 +14,7 @@ keywords: Airbnb Inc, ABNY, ABNY Airbnb Inc 비교, ABNB, ABNY ABNY 비교
 ## 비교 상품 소개
 
 
-ABNY 상품과 Airbnb Inc(ABNB) 상품의 성과를 수익률과 위험도로 비교합니다.
+ABNY 상품과 Airbnb Inc (ABNB) 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 
