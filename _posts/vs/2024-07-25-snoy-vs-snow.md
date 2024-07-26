@@ -1,20 +1,20 @@
 ---
 layout: single
 title: SNOY vs Snowflake Inc(SNOW)
-excerpt: SNOY의 최근 1개월 CAGR은 -로 Snowflake Inc의 -와 비슷했습니다.
+excerpt: SNOY의 최근 1개월 CAGR은 -로 Snowflake Inc(SNOW)의 -와 비슷했습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
 toc: true
 categories:
 - vs
-keywords: Snowflake Inc, SNOY, SNOY Snowflake Inc 비교
+keywords: Snowflake Inc, SNOY, SNOY Snowflake Inc 비교, {self.base_code}{self.lev_code} {self.lev_code} 비교
 ---
 
 ## 비교 상품 소개
 
 
-SNOY 상품과 Snowflake Inc 상품의 성과를 수익률과 위험도로 비교합니다.
+SNOY 상품과 Snowflake Inc(SNOW) 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 
@@ -26,33 +26,33 @@ SNOY 상품과 Snowflake Inc 상품의 성과를 수익률과 위험도로 비�
 
 두 상품의 성과를 비교할 수 있는 가장 긴 기간은 최근 1개월입니다. 아래는 이 기간의 성과[^fn_vs_perf]를 그래프와 표로 나타낸 것입니다.
 그래프 범례에서 괄호안의 퍼센트 수치는 CAGR[^fn_vs_cagr_metric]입니다.
-하단의 보조 그래프는 Snowflake Inc 대비 SNOY의 비를 나타냅니다.
-SNOY의 수익률이 Snowflake Inc보다 지속적으로 우세하면 상승하고, 반대의 경우에는 하락합니다.
+하단의 보조 그래프는 SNOW 대비 SNOY의 비를 나타냅니다.
+SNOY의 수익률이 SNOW보다 지속적으로 우세하면 상승하고, 반대의 경우에는 하락합니다.
 
 ![SNOY](/vs/images/snoy-vs-snow_dual.png){: .align-center}
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SNOY | - | 28.5<small>%</small> | nan | -9.6<small>%</small> | -2.6<small>%</small> |
-| Snowflake Inc | - | 38.6<small>%</small> | nan | -12.2<small>%</small> | -3.7<small>%</small> |
+| SNOW | - | 38.6<small>%</small> | nan | -12.2<small>%</small> | -3.7<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** SNOY의 CAGR은 -로 Snowflake Inc의 -와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** SNOY의 CAGR은 -로 SNOW의 -와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** SNOY의 표준편차는 28.5%로 Snowflake Inc의 38.6%보다 -10.0% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** SNOY의 표준편차는 28.5%로 SNOW의 38.6%보다 -10.0% 낮았습니다. (낮은 위험도)
 
-**위험도 지표 (MDD):** SNOY의 9.6%의 MDD는 Snowflake Inc의 12.2%보다 -2.6% 낮았습니다. (낮은 위험도)
+**위험도 지표 (MDD):** SNOY의 9.6%의 MDD는 SNOW의 12.2%보다 -2.6% 낮았습니다. (낮은 위험도)
 
 
 
 ## 동일 수준 위험 노출을 위한 비중 조절
 
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
-여기서는 Snowflake Inc의 투자 비중[^fn_vs_weight]을 조절하여 SNOY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
+여기서는 SNOW의 투자 비중[^fn_vs_weight]을 조절하여 SNOY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
 **위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 38.6% / 28.5% = 74% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
@@ -66,7 +66,7 @@ SNOY의 수익률이 Snowflake Inc보다 지속적으로 우세하면 상승하�
 ## 동일 수준 위험하에서의 추정 성과
 
 아래는 비중을 조절한 경우를 추가하여, 그래프와 표에 성과를 기록한 것입니다.
-Snowflake Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, Snowflake Inc<sub>MDD</sub>는 MDD를 맞춘 경우입니다.
+SNOW<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SNOW<sub>MDD</sub>는 MDD를 맞춘 경우입니다.
 앞에서와 같이 그래프 범례에서 괄호안의 퍼센트 수치는 CAGR입니다.
 
 
@@ -102,7 +102,7 @@ Snowflake Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우�
 Snowflake Inc의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 nan%인 포트폴리오를 만들 수 있습니다.
 이 포트폴리오는 SNOY의 -와 비슷했습니다.
 
-### SNOY ≒ Snowflake Inc
+### SNOY ≒ SNOW
 {: .text-center}
 **참고** 위험 대비 수익률이 비슷한 경우라면, 적은 비중으로 동일한 투자 효과를 낼 수 있는 상품을 선택하는 것이, 투자 전략 유연성 측면에서는 보다 유리할 수 있습니다.
 {: .notice--info}

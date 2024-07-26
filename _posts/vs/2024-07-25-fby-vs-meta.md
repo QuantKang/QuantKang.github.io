@@ -1,20 +1,20 @@
 ---
 layout: single
 title: FBY vs Meta Platforms Inc(META)
-excerpt: FBY의 최근 1년 CAGR은 23.8%로 Meta Platforms Inc의 39.9%보다 -16.1% 낮았습니다.
+excerpt: FBY의 최근 1년 CAGR은 23.8%로 Meta Platforms Inc(META)의 39.9%보다 -16.1% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
 toc: true
 categories:
 - vs
-keywords: Meta Platforms Inc, FBY, FBY Meta Platforms Inc 비교
+keywords: Meta Platforms Inc, FBY, FBY Meta Platforms Inc 비교, {self.base_code}{self.lev_code} {self.lev_code} 비교
 ---
 
 ## 비교 상품 소개
 
 
-FBY 상품과 Meta Platforms Inc 상품의 성과를 수익률과 위험도로 비교합니다.
+FBY 상품과 Meta Platforms Inc(META) 상품의 성과를 수익률과 위험도로 비교합니다.
 
 
 
@@ -26,33 +26,33 @@ FBY 상품과 Meta Platforms Inc 상품의 성과를 수익률과 위험도로 �
 
 두 상품의 성과를 비교할 수 있는 가장 긴 기간은 최근 1년입니다. 아래는 이 기간의 성과[^fn_vs_perf]를 그래프와 표로 나타낸 것입니다.
 그래프 범례에서 괄호안의 퍼센트 수치는 CAGR[^fn_vs_cagr_metric]입니다.
-하단의 보조 그래프는 Meta Platforms Inc 대비 FBY의 비를 나타냅니다.
-FBY의 수익률이 Meta Platforms Inc보다 지속적으로 우세하면 상승하고, 반대의 경우에는 하락합니다.
+하단의 보조 그래프는 META 대비 FBY의 비를 나타냅니다.
+FBY의 수익률이 META보다 지속적으로 우세하면 상승하고, 반대의 경우에는 하락합니다.
 
 ![FBY](/vs/images/fby-vs-meta_dual.png){: .align-center}
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | FBY | <span style="color: tomato">23.8<small>%</small></span> | 26.7<small>%</small> | 0.89 | -15.1<small>%</small> | -4.0<small>%</small> |
-| Meta Platforms Inc | <span style="color: tomato">39.9<small>%</small></span> | 36.5<small>%</small> | 1.09 | -18.4<small>%</small> | -4.9<small>%</small> |
+| META | <span style="color: tomato">39.9<small>%</small></span> | 36.5<small>%</small> | 1.09 | -18.4<small>%</small> | -4.9<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** FBY의 CAGR은 23.8%로 Meta Platforms Inc의 39.9%보다 -16.1% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** FBY의 CAGR은 23.8%로 META의 39.9%보다 -16.1% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** FBY의 표준편차는 26.7%로 Meta Platforms Inc의 36.5%보다 -9.8% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** FBY의 표준편차는 26.7%로 META의 36.5%보다 -9.8% 낮았습니다. (낮은 위험도)
 
-**위험도 지표 (MDD):** FBY의 15.1%의 MDD는 Meta Platforms Inc의 18.4%보다 -3.3% 낮았습니다. (낮은 위험도)
+**위험도 지표 (MDD):** FBY의 15.1%의 MDD는 META의 18.4%보다 -3.3% 낮았습니다. (낮은 위험도)
 
 
 
 ## 동일 수준 위험 노출을 위한 비중 조절
 
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
-여기서는 Meta Platforms Inc의 투자 비중[^fn_vs_weight]을 조절하여 FBY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
+여기서는 META의 투자 비중[^fn_vs_weight]을 조절하여 FBY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
 **위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 36.5% / 26.7% = 73% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
@@ -66,7 +66,7 @@ FBY의 수익률이 Meta Platforms Inc보다 지속적으로 우세하면 상승
 ## 동일 수준 위험하에서의 추정 성과
 
 아래는 비중을 조절한 경우를 추가하여, 그래프와 표에 성과를 기록한 것입니다.
-Meta Platforms Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, Meta Platforms Inc<sub>MDD</sub>는 MDD를 맞춘 경우입니다.
+META<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, META<sub>MDD</sub>는 MDD를 맞춘 경우입니다.
 앞에서와 같이 그래프 범례에서 괄호안의 퍼센트 수치는 CAGR입니다.
 
 
@@ -102,7 +102,7 @@ Meta Platforms Inc<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경
 Meta Platforms Inc의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 31.2%인 포트폴리오를 만들 수 있습니다.
 이 포트폴리오는 FBY의 23.8%보다 7.4% 높았습니다.
 
-### FBY	&lt; Meta Platforms Inc
+### FBY	&lt; META
 {: .text-center}
 
 
