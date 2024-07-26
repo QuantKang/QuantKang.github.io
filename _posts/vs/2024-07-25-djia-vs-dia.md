@@ -77,7 +77,7 @@ DIA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, DIA<
 | DJIA | <span style="color: tomato">4.5<small>%</small></span> | 10.9<small>%</small> | 0.42 | -16.9<small>%</small> | -4.9<small>%</small> |
 | DIA | <span style="color: tomato">10.0<small>%</small></span> | 14.9<small>%</small> | 0.67 | -17.8<small>%</small> | -4.0<small>%</small> |
 | DIA<sub>STD</sub> <small>(73%)</small> | <span style="color: tomato">7.4<small>%</small></span> | 10.9<small>%</small> | 0.68 | -13.1<small>%</small> | -2.8<small>%</small> |
-| DIA<sub>MDD</sub> <small>(95%)</small> | <span style="color: tomato">9.6<small>%</small></span> | 14.2<small>%</small> | 0.67 | -16.9<small>%</small> | -3.8<small>%</small> |
+| DIA<sub>MDD</sub> <small>(95%)</small> | <span style="color: tomato">9.5<small>%</small></span> | 14.2<small>%</small> | 0.67 | -16.9<small>%</small> | -3.8<small>%</small> |
 
 
 
@@ -85,7 +85,7 @@ DIA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, DIA<
 
 **위험도 지표 (표준편차):** 73% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 7.4%로 DJIA의 4.5%보다 2.9% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 95% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 9.6%로 DJIA의 4.5%보다 5.0% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 95% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 9.5%로 DJIA의 4.5%보다 5.0% 높았습니다. (높은 수익률)
 
 
 
