@@ -2523,6 +2523,10 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 
 
 
+## 미국 상장 채권 ETF
+
+
+
 ### [iShares 20+ Year US Treasury Bond JPY Hedged ETF vs iShares 20+ Year Treasury Bond ETF](/2621-vs-tlt/)<a id="2621-vs-tlt"></a>
 
 {% include vs/2621-vs-tlt_md.inc %}
@@ -2538,3 +2542,36 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [BNDI  vs BND](/bndi-vs-bnd/)<a id="bndi-vs-bnd"></a>
 
 {% include vs/bndi-vs-bnd_md.inc %}
+
+
+
+### [SHY vs TLT](/shy-vs-tlt/)<a id="shy-vs-tlt"></a>
+
+{% include vs/shy-vs-tlt_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
+### [IEF vs TLT](/ief-vs-tlt/)<a id="ief-vs-tlt"></a>
+
+{% include vs/ief-vs-tlt_md.inc %}
+
+
+
+### [PDI vs SHY](/pdi-vs-shy/)<a id="pdi-vs-shy"></a>
+
+{% include vs/pdi-vs-shy_md.inc %}
+
+
+
+### [HYT vs SHY](/hyt-vs-shy/)<a id="hyt-vs-shy"></a>
+
+{% include vs/hyt-vs-shy_md.inc %}
+
+
+
+### [GOF vs SHY](/gof-vs-shy/)<a id="gof-vs-shy"></a>
+
+{% include vs/gof-vs-shy_md.inc %}
