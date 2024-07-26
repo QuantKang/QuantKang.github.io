@@ -77,9 +77,9 @@ AMD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, AMD<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | AMDY | <span style="color: tomato">12.1<small>%</small></span> | 38.2<small>%</small> | 0.32 | -28.6<small>%</small> | -8.6<small>%</small> |
-| Advanced Micro Devices Inc | <span style="color: tomato">43.8<small>%</small></span> | 47.8<small>%</small> | 0.92 | -34.6<small>%</small> | -11.1<small>%</small> |
-| Advanced Micro Devices Inc<sub>STD</sub> <small>(80%)</small> | <span style="color: tomato">36.2<small>%</small></span> | 38.2<small>%</small> | 0.95 | -28.3<small>%</small> | -8.9<small>%</small> |
-| Advanced Micro Devices Inc<sub>MDD</sub> <small>(83%)</small> | <span style="color: tomato">37.3<small>%</small></span> | 39.5<small>%</small> | 0.94 | -29.2<small>%</small> | -9.2<small>%</small> |
+| AMD | <span style="color: tomato">43.8<small>%</small></span> | 47.8<small>%</small> | 0.92 | -34.6<small>%</small> | -11.1<small>%</small> |
+| AMD<sub>STD</sub> <small>(80%)</small> | <span style="color: tomato">36.2<small>%</small></span> | 38.2<small>%</small> | 0.95 | -28.3<small>%</small> | -8.9<small>%</small> |
+| AMD<sub>MDD</sub> <small>(83%)</small> | <span style="color: tomato">37.3<small>%</small></span> | 39.5<small>%</small> | 0.94 | -29.2<small>%</small> | -9.2<small>%</small> |
 
 
 

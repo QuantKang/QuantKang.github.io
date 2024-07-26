@@ -77,9 +77,9 @@ ABNB<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, ABN
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | ABNY | - | 23.2<small>%</small> | nan | -6.2<small>%</small> | -1.3<small>%</small> |
-| Airbnb Inc | - | 25.7<small>%</small> | nan | -9.3<small>%</small> | -2.7<small>%</small> |
-| Airbnb Inc<sub>STD</sub> <small>(90%)</small> | - | 23.2<small>%</small> | nan | -8.4<small>%</small> | -2.4<small>%</small> |
-| Airbnb Inc<sub>MDD</sub> <small>(67%)</small> | - | 17.1<small>%</small> | nan | -6.2<small>%</small> | -1.8<small>%</small> |
+| ABNB | - | 25.7<small>%</small> | nan | -9.3<small>%</small> | -2.7<small>%</small> |
+| ABNB<sub>STD</sub> <small>(90%)</small> | - | 23.2<small>%</small> | nan | -8.4<small>%</small> | -2.4<small>%</small> |
+| ABNB<sub>MDD</sub> <small>(67%)</small> | - | 17.1<small>%</small> | nan | -6.2<small>%</small> | -1.8<small>%</small> |
 
 
 

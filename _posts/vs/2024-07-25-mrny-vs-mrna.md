@@ -77,9 +77,9 @@ MRNA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, MRN
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | MRNY | <span style="color: tomato">17.5<small>%</small></span> | 40.0<small>%</small> | 0.44 | -28.4<small>%</small> | -8.1<small>%</small> |
-| Moderna Inc | <span style="color: tomato">72.8<small>%</small></span> | 57.0<small>%</small> | 1.28 | -30.4<small>%</small> | -10.5<small>%</small> |
-| Moderna Inc<sub>STD</sub> <small>(70%)</small> | <span style="color: tomato">51.7<small>%</small></span> | 40.0<small>%</small> | 1.29 | -22.2<small>%</small> | -7.4<small>%</small> |
-| Moderna Inc<sub>MDD</sub> <small>(93%)</small> | <span style="color: tomato">68.3<small>%</small></span> | 53.3<small>%</small> | 1.28 | -28.6<small>%</small> | -9.8<small>%</small> |
+| MRNA | <span style="color: tomato">72.8<small>%</small></span> | 57.0<small>%</small> | 1.28 | -30.4<small>%</small> | -10.5<small>%</small> |
+| MRNA<sub>STD</sub> <small>(70%)</small> | <span style="color: tomato">51.7<small>%</small></span> | 40.0<small>%</small> | 1.29 | -22.2<small>%</small> | -7.4<small>%</small> |
+| MRNA<sub>MDD</sub> <small>(93%)</small> | <span style="color: tomato">68.3<small>%</small></span> | 53.3<small>%</small> | 1.28 | -28.6<small>%</small> | -9.8<small>%</small> |
 
 
 

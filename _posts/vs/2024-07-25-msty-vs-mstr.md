@@ -77,9 +77,9 @@ MSTR<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, MST
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | MSTY | <span style="color: tomato">413.6<small>%</small></span> | 81.8<small>%</small> | 5.06 | -33.2<small>%</small> | -11.2<small>%</small> |
-| Microstrategy Inc | <span style="color: tomato">586.3<small>%</small></span> | 119.8<small>%</small> | 4.89 | -46.4<small>%</small> | -19.5<small>%</small> |
-| Microstrategy Inc<sub>STD</sub> <small>(68%)</small> | <span style="color: tomato">333.9<small>%</small></span> | 81.8<small>%</small> | 4.08 | -33.8<small>%</small> | -12.8<small>%</small> |
-| Microstrategy Inc<sub>MDD</sub> <small>(71%)</small> | <span style="color: tomato">357.0<small>%</small></span> | 85.6<small>%</small> | 4.17 | -35.2<small>%</small> | -13.4<small>%</small> |
+| MSTR | <span style="color: tomato">586.3<small>%</small></span> | 119.8<small>%</small> | 4.89 | -46.4<small>%</small> | -19.5<small>%</small> |
+| MSTR<sub>STD</sub> <small>(68%)</small> | <span style="color: tomato">333.9<small>%</small></span> | 81.8<small>%</small> | 4.08 | -33.8<small>%</small> | -12.8<small>%</small> |
+| MSTR<sub>MDD</sub> <small>(71%)</small> | <span style="color: tomato">357.0<small>%</small></span> | 85.6<small>%</small> | 4.17 | -35.2<small>%</small> | -13.4<small>%</small> |
 
 
 

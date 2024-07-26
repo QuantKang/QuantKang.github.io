@@ -77,9 +77,9 @@ DIS<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, DIS<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | DISO | <span style="color: tomato">3.4<small>%</small></span> | 19.6<small>%</small> | 0.17 | -20.4<small>%</small> | -4.9<small>%</small> |
-| Walt Disney Co | <span style="color: tomato">8.6<small>%</small></span> | 26.4<small>%</small> | 0.33 | -27.0<small>%</small> | -6.8<small>%</small> |
-| Walt Disney Co<sub>STD</sub> <small>(74%)</small> | <span style="color: tomato">7.0<small>%</small></span> | 19.6<small>%</small> | 0.36 | -20.7<small>%</small> | -5.1<small>%</small> |
-| Walt Disney Co<sub>MDD</sub> <small>(76%)</small> | <span style="color: tomato">7.1<small>%</small></span> | 19.9<small>%</small> | 0.36 | -21.0<small>%</small> | -5.2<small>%</small> |
+| DIS | <span style="color: tomato">8.6<small>%</small></span> | 26.4<small>%</small> | 0.33 | -27.0<small>%</small> | -6.8<small>%</small> |
+| DIS<sub>STD</sub> <small>(74%)</small> | <span style="color: tomato">7.0<small>%</small></span> | 19.6<small>%</small> | 0.36 | -20.7<small>%</small> | -5.1<small>%</small> |
+| DIS<sub>MDD</sub> <small>(76%)</small> | <span style="color: tomato">7.1<small>%</small></span> | 19.9<small>%</small> | 0.36 | -21.0<small>%</small> | -5.2<small>%</small> |
 
 
 

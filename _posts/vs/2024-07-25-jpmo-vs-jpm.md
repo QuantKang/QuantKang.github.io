@@ -77,9 +77,9 @@ JPM<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JPM<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | JPMO | <span style="color: tomato">16.5<small>%</small></span> | 14.3<small>%</small> | 1.15 | -9.9<small>%</small> | -2.8<small>%</small> |
-| JPMorgan Chase & Co | <span style="color: tomato">54.9<small>%</small></span> | 17.6<small>%</small> | 3.11 | -9.6<small>%</small> | -1.8<small>%</small> |
-| JPMorgan Chase & Co<sub>STD</sub> <small>(81%)</small> | <span style="color: tomato">42.8<small>%</small></span> | 14.3<small>%</small> | 3.00 | -7.8<small>%</small> | -1.4<small>%</small> |
-| JPMorgan Chase & Co<sub>MDD</sub> <small>(104%)</small> | <span style="color: tomato">57.4<small>%</small></span> | 18.3<small>%</small> | 3.13 | -9.9<small>%</small> | -1.8<small>%</small> |
+| JPM | <span style="color: tomato">54.9<small>%</small></span> | 17.6<small>%</small> | 3.11 | -9.6<small>%</small> | -1.8<small>%</small> |
+| JPM<sub>STD</sub> <small>(81%)</small> | <span style="color: tomato">42.8<small>%</small></span> | 14.3<small>%</small> | 3.00 | -7.8<small>%</small> | -1.4<small>%</small> |
+| JPM<sub>MDD</sub> <small>(104%)</small> | <span style="color: tomato">57.4<small>%</small></span> | 18.3<small>%</small> | 3.13 | -9.9<small>%</small> | -1.8<small>%</small> |
 
 
 

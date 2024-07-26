@@ -77,9 +77,9 @@ NVDA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, NVD
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | NVDY | <span style="color: tomato">121.0<small>%</small></span> | 37.2<small>%</small> | 3.25 | -16.4<small>%</small> | -3.5<small>%</small> |
-| NVIDIA Corp | <span style="color: tomato">210.7<small>%</small></span> | 50.2<small>%</small> | 4.20 | -19.8<small>%</small> | -4.9<small>%</small> |
-| NVIDIA Corp<sub>STD</sub> <small>(74%)</small> | <span style="color: tomato">137.2<small>%</small></span> | 37.2<small>%</small> | 3.69 | -14.9<small>%</small> | -3.6<small>%</small> |
-| NVIDIA Corp<sub>MDD</sub> <small>(83%)</small> | <span style="color: tomato">159.9<small>%</small></span> | 41.5<small>%</small> | 3.85 | -16.6<small>%</small> | -4.1<small>%</small> |
+| NVDA | <span style="color: tomato">210.7<small>%</small></span> | 50.2<small>%</small> | 4.20 | -19.8<small>%</small> | -4.9<small>%</small> |
+| NVDA<sub>STD</sub> <small>(74%)</small> | <span style="color: tomato">137.2<small>%</small></span> | 37.2<small>%</small> | 3.69 | -14.9<small>%</small> | -3.6<small>%</small> |
+| NVDA<sub>MDD</sub> <small>(83%)</small> | <span style="color: tomato">159.9<small>%</small></span> | 41.5<small>%</small> | 3.85 | -16.6<small>%</small> | -4.1<small>%</small> |
 
 
 

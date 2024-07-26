@@ -77,9 +77,9 @@ COIN<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, COI
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | CONY | <span style="color: tomato">119.8<small>%</small></span> | 53.0<small>%</small> | 2.26 | -29.1<small>%</small> | -7.1<small>%</small> |
-| Coinbase Global Inc | <span style="color: tomato">211.4<small>%</small></span> | 73.9<small>%</small> | 2.86 | -37.1<small>%</small> | -12.0<small>%</small> |
-| Coinbase Global Inc<sub>STD</sub> <small>(72%)</small> | <span style="color: tomato">138.5<small>%</small></span> | 53.0<small>%</small> | 2.61 | -27.9<small>%</small> | -8.5<small>%</small> |
-| Coinbase Global Inc<sub>MDD</sub> <small>(78%)</small> | <span style="color: tomato">155.0<small>%</small></span> | 57.9<small>%</small> | 2.67 | -30.1<small>%</small> | -9.3<small>%</small> |
+| COIN | <span style="color: tomato">211.4<small>%</small></span> | 73.9<small>%</small> | 2.86 | -37.1<small>%</small> | -12.0<small>%</small> |
+| COIN<sub>STD</sub> <small>(72%)</small> | <span style="color: tomato">138.5<small>%</small></span> | 53.0<small>%</small> | 2.61 | -27.9<small>%</small> | -8.5<small>%</small> |
+| COIN<sub>MDD</sub> <small>(78%)</small> | <span style="color: tomato">155.0<small>%</small></span> | 57.9<small>%</small> | 2.67 | -30.1<small>%</small> | -9.3<small>%</small> |
 
 
 

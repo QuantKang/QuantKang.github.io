@@ -77,9 +77,9 @@ META<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, MET
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | FBY | <span style="color: tomato">23.8<small>%</small></span> | 26.7<small>%</small> | 0.89 | -15.1<small>%</small> | -4.0<small>%</small> |
-| Meta Platforms Inc | <span style="color: tomato">39.9<small>%</small></span> | 36.5<small>%</small> | 1.09 | -18.4<small>%</small> | -4.9<small>%</small> |
-| Meta Platforms Inc<sub>STD</sub> <small>(73%)</small> | <span style="color: tomato">29.4<small>%</small></span> | 26.7<small>%</small> | 1.10 | -13.7<small>%</small> | -3.6<small>%</small> |
-| Meta Platforms Inc<sub>MDD</sub> <small>(82%)</small> | <span style="color: tomato">33.0<small>%</small></span> | 30.0<small>%</small> | 1.10 | -15.3<small>%</small> | -4.0<small>%</small> |
+| META | <span style="color: tomato">39.9<small>%</small></span> | 36.5<small>%</small> | 1.09 | -18.4<small>%</small> | -4.9<small>%</small> |
+| META<sub>STD</sub> <small>(73%)</small> | <span style="color: tomato">29.4<small>%</small></span> | 26.7<small>%</small> | 1.10 | -13.7<small>%</small> | -3.6<small>%</small> |
+| META<sub>MDD</sub> <small>(82%)</small> | <span style="color: tomato">33.0<small>%</small></span> | 30.0<small>%</small> | 1.10 | -15.3<small>%</small> | -4.0<small>%</small> |
 
 
 

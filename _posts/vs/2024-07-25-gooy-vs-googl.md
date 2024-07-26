@@ -77,9 +77,9 @@ GOOGL<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, GO
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | GOOY | <span style="color: tomato">1.3<small>%</small></span> | 20.2<small>%</small> | 0.06 | -17.0<small>%</small> | -4.8<small>%</small> |
-| Alphabet Inc Class A | <span style="color: tomato">26.5<small>%</small></span> | 27.5<small>%</small> | 0.96 | -14.4<small>%</small> | -3.3<small>%</small> |
-| Alphabet Inc Class A<sub>STD</sub> <small>(74%)</small> | <span style="color: tomato">19.8<small>%</small></span> | 20.2<small>%</small> | 0.98 | -10.7<small>%</small> | -2.4<small>%</small> |
-| Alphabet Inc Class A<sub>MDD</sub> <small>(118%)</small> | <span style="color: tomato">30.9<small>%</small></span> | 32.5<small>%</small> | 0.95 | -16.9<small>%</small> | -3.9<small>%</small> |
+| GOOGL | <span style="color: tomato">26.5<small>%</small></span> | 27.5<small>%</small> | 0.96 | -14.4<small>%</small> | -3.3<small>%</small> |
+| GOOGL<sub>STD</sub> <small>(74%)</small> | <span style="color: tomato">19.8<small>%</small></span> | 20.2<small>%</small> | 0.98 | -10.7<small>%</small> | -2.4<small>%</small> |
+| GOOGL<sub>MDD</sub> <small>(118%)</small> | <span style="color: tomato">30.9<small>%</small></span> | 32.5<small>%</small> | 0.95 | -16.9<small>%</small> | -3.9<small>%</small> |
 
 
 

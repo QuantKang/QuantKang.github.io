@@ -77,9 +77,9 @@ SNOW<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SNO
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SNOY | - | 28.5<small>%</small> | nan | -9.6<small>%</small> | -2.6<small>%</small> |
-| Snowflake Inc | - | 38.6<small>%</small> | nan | -12.2<small>%</small> | -3.7<small>%</small> |
-| Snowflake Inc<sub>STD</sub> <small>(74%)</small> | - | 28.5<small>%</small> | nan | -9.1<small>%</small> | -2.7<small>%</small> |
-| Snowflake Inc<sub>MDD</sub> <small>(79%)</small> | - | 30.4<small>%</small> | nan | -9.7<small>%</small> | -2.9<small>%</small> |
+| SNOW | - | 38.6<small>%</small> | nan | -12.2<small>%</small> | -3.7<small>%</small> |
+| SNOW<sub>STD</sub> <small>(74%)</small> | - | 28.5<small>%</small> | nan | -9.1<small>%</small> | -2.7<small>%</small> |
+| SNOW<sub>MDD</sub> <small>(79%)</small> | - | 30.4<small>%</small> | nan | -9.7<small>%</small> | -2.9<small>%</small> |
 
 
 

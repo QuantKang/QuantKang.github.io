@@ -77,9 +77,9 @@ MSFT<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, MSF
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | MSFO | <span style="color: tomato">32.0<small>%</small></span> | 16.0<small>%</small> | 2.00 | -8.9<small>%</small> | -1.4<small>%</small> |
-| Microsoft Corp | <span style="color: tomato">33.4<small>%</small></span> | 19.8<small>%</small> | 1.69 | -10.5<small>%</small> | -2.2<small>%</small> |
-| Microsoft Corp<sub>STD</sub> <small>(81%)</small> | <span style="color: tomato">26.6<small>%</small></span> | 16.0<small>%</small> | 1.67 | -8.6<small>%</small> | -1.8<small>%</small> |
-| Microsoft Corp<sub>MDD</sub> <small>(85%)</small> | <span style="color: tomato">28.1<small>%</small></span> | 16.8<small>%</small> | 1.67 | -9.0<small>%</small> | -1.9<small>%</small> |
+| MSFT | <span style="color: tomato">33.4<small>%</small></span> | 19.8<small>%</small> | 1.69 | -10.5<small>%</small> | -2.2<small>%</small> |
+| MSFT<sub>STD</sub> <small>(81%)</small> | <span style="color: tomato">26.6<small>%</small></span> | 16.0<small>%</small> | 1.67 | -8.6<small>%</small> | -1.8<small>%</small> |
+| MSFT<sub>MDD</sub> <small>(85%)</small> | <span style="color: tomato">28.1<small>%</small></span> | 16.8<small>%</small> | 1.67 | -9.0<small>%</small> | -1.9<small>%</small> |
 
 
 

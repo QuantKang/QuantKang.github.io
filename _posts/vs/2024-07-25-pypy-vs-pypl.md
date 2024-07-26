@@ -77,9 +77,9 @@ PYPL<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, PYP
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | PYPY | <span style="color: tomato">6.2<small>%</small></span> | 26.5<small>%</small> | 0.23 | -14.7<small>%</small> | -4.3<small>%</small> |
-| PayPal Holdings Inc | <span style="color: cornflowerblue">-3.5<small>%</small></span> | 33.6<small>%</small> | -0.10 | -15.8<small>%</small> | -5.9<small>%</small> |
-| PayPal Holdings Inc<sub>STD</sub> <small>(79%)</small> | <span style="color: cornflowerblue">-1.8<small>%</small></span> | 26.5<small>%</small> | -0.07 | -12.5<small>%</small> | -4.6<small>%</small> |
-| PayPal Holdings Inc<sub>MDD</sub> <small>(93%)</small> | <span style="color: cornflowerblue">-2.9<small>%</small></span> | 31.4<small>%</small> | -0.09 | -14.7<small>%</small> | -5.5<small>%</small> |
+| PYPL | <span style="color: cornflowerblue">-3.5<small>%</small></span> | 33.6<small>%</small> | -0.10 | -15.8<small>%</small> | -5.9<small>%</small> |
+| PYPL<sub>STD</sub> <small>(79%)</small> | <span style="color: cornflowerblue">-1.8<small>%</small></span> | 26.5<small>%</small> | -0.07 | -12.5<small>%</small> | -4.6<small>%</small> |
+| PYPL<sub>MDD</sub> <small>(93%)</small> | <span style="color: cornflowerblue">-2.9<small>%</small></span> | 31.4<small>%</small> | -0.09 | -14.7<small>%</small> | -5.5<small>%</small> |
 
 
 

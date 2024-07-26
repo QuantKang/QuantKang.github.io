@@ -77,9 +77,9 @@ TSLA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, TSL
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | TSLY | <span style="color: cornflowerblue">-1.6<small>%</small></span> | 42.5<small>%</small> | -0.04 | -45.6<small>%</small> | -20.9<small>%</small> |
-| Tesla Inc | <span style="color: tomato">11.7<small>%</small></span> | 56.7<small>%</small> | 0.21 | -51.6<small>%</small> | -21.6<small>%</small> |
-| Tesla Inc<sub>STD</sub> <small>(75%)</small> | <span style="color: tomato">11.9<small>%</small></span> | 42.5<small>%</small> | 0.28 | -41.0<small>%</small> | -16.2<small>%</small> |
-| Tesla Inc<sub>MDD</sub> <small>(88%)</small> | <span style="color: tomato">12.1<small>%</small></span> | 50.1<small>%</small> | 0.24 | -46.9<small>%</small> | -19.2<small>%</small> |
+| TSLA | <span style="color: tomato">11.7<small>%</small></span> | 56.7<small>%</small> | 0.21 | -51.6<small>%</small> | -21.6<small>%</small> |
+| TSLA<sub>STD</sub> <small>(75%)</small> | <span style="color: tomato">11.9<small>%</small></span> | 42.5<small>%</small> | 0.28 | -41.0<small>%</small> | -16.2<small>%</small> |
+| TSLA<sub>MDD</sub> <small>(88%)</small> | <span style="color: tomato">12.1<small>%</small></span> | 50.1<small>%</small> | 0.24 | -46.9<small>%</small> | -19.2<small>%</small> |
 
 
 

@@ -77,9 +77,9 @@ XOM<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, XOM<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | XOMO | <span style="color: tomato">0.3<small>%</small></span> | 14.9<small>%</small> | 0.02 | -13.5<small>%</small> | -6.2<small>%</small> |
-| Exxon Mobil Corp | <span style="color: tomato">9.4<small>%</small></span> | 20.3<small>%</small> | 0.46 | -18.7<small>%</small> | -8.2<small>%</small> |
-| Exxon Mobil Corp<sub>STD</sub> <small>(74%)</small> | <span style="color: tomato">7.3<small>%</small></span> | 14.9<small>%</small> | 0.49 | -14.0<small>%</small> | -6.1<small>%</small> |
-| Exxon Mobil Corp<sub>MDD</sub> <small>(72%)</small> | <span style="color: tomato">7.2<small>%</small></span> | 14.6<small>%</small> | 0.49 | -13.8<small>%</small> | -6.0<small>%</small> |
+| XOM | <span style="color: tomato">9.4<small>%</small></span> | 20.3<small>%</small> | 0.46 | -18.7<small>%</small> | -8.2<small>%</small> |
+| XOM<sub>STD</sub> <small>(74%)</small> | <span style="color: tomato">7.3<small>%</small></span> | 14.9<small>%</small> | 0.49 | -14.0<small>%</small> | -6.1<small>%</small> |
+| XOM<sub>MDD</sub> <small>(72%)</small> | <span style="color: tomato">7.2<small>%</small></span> | 14.6<small>%</small> | 0.49 | -13.8<small>%</small> | -6.0<small>%</small> |
 
 
 

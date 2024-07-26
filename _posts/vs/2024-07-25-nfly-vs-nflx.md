@@ -77,9 +77,9 @@ NFLX<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, NFL
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | NFLY | <span style="color: tomato">29.6<small>%</small></span> | 28.8<small>%</small> | 1.03 | -21.4<small>%</small> | -3.8<small>%</small> |
-| Netflix Inc | <span style="color: tomato">46.7<small>%</small></span> | 33.3<small>%</small> | 1.40 | -22.8<small>%</small> | -4.4<small>%</small> |
-| Netflix Inc<sub>STD</sub> <small>(86%)</small> | <span style="color: tomato">40.1<small>%</small></span> | 28.8<small>%</small> | 1.39 | -20.0<small>%</small> | -3.8<small>%</small> |
-| Netflix Inc<sub>MDD</sub> <small>(94%)</small> | <span style="color: tomato">43.7<small>%</small></span> | 31.3<small>%</small> | 1.40 | -21.6<small>%</small> | -4.1<small>%</small> |
+| NFLX | <span style="color: tomato">46.7<small>%</small></span> | 33.3<small>%</small> | 1.40 | -22.8<small>%</small> | -4.4<small>%</small> |
+| NFLX<sub>STD</sub> <small>(86%)</small> | <span style="color: tomato">40.1<small>%</small></span> | 28.8<small>%</small> | 1.39 | -20.0<small>%</small> | -3.8<small>%</small> |
+| NFLX<sub>MDD</sub> <small>(94%)</small> | <span style="color: tomato">43.7<small>%</small></span> | 31.3<small>%</small> | 1.40 | -21.6<small>%</small> | -4.1<small>%</small> |
 
 
 

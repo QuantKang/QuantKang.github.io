@@ -77,9 +77,9 @@ AMZN<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, AMZ
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | AMZY | <span style="color: tomato">40.2<small>%</small></span> | 23.7<small>%</small> | 1.70 | -12.3<small>%</small> | -2.2<small>%</small> |
-| Amazon.com Inc | <span style="color: tomato">39.2<small>%</small></span> | 27.7<small>%</small> | 1.42 | -17.5<small>%</small> | -3.3<small>%</small> |
-| Amazon.com Inc<sub>STD</sub> <small>(86%)</small> | <span style="color: tomato">33.3<small>%</small></span> | 23.7<small>%</small> | 1.41 | -15.1<small>%</small> | -2.8<small>%</small> |
-| Amazon.com Inc<sub>MDD</sub> <small>(70%)</small> | <span style="color: tomato">27.1<small>%</small></span> | 19.4<small>%</small> | 1.40 | -12.5<small>%</small> | -2.3<small>%</small> |
+| AMZN | <span style="color: tomato">39.2<small>%</small></span> | 27.7<small>%</small> | 1.42 | -17.5<small>%</small> | -3.3<small>%</small> |
+| AMZN<sub>STD</sub> <small>(86%)</small> | <span style="color: tomato">33.3<small>%</small></span> | 23.7<small>%</small> | 1.41 | -15.1<small>%</small> | -2.8<small>%</small> |
+| AMZN<sub>MDD</sub> <small>(70%)</small> | <span style="color: tomato">27.1<small>%</small></span> | 19.4<small>%</small> | 1.40 | -12.5<small>%</small> | -2.3<small>%</small> |
 
 
 
