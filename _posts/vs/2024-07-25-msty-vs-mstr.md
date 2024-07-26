@@ -8,7 +8,7 @@ header:
 toc: true
 categories:
 - vs
-keywords: Microstrategy Inc, MSTY, MSTY Microstrategy Inc 비교, {self.base_code}{self.lev_code} {self.lev_code} 비교
+keywords: Microstrategy Inc, MSTY, MSTY Microstrategy Inc 비교, MSTR, MSTY MSTY 비교
 ---
 
 ## 비교 상품 소개

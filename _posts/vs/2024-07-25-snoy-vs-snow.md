@@ -8,7 +8,7 @@ header:
 toc: true
 categories:
 - vs
-keywords: Snowflake Inc, SNOY, SNOY Snowflake Inc 비교, {self.base_code}{self.lev_code} {self.lev_code} 비교
+keywords: Snowflake Inc, SNOY, SNOY Snowflake Inc 비교, SNOW, SNOY SNOY 비교
 ---
 
 ## 비교 상품 소개

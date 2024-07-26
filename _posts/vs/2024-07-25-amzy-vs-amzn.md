@@ -8,7 +8,7 @@ header:
 toc: true
 categories:
 - vs
-keywords: Amazon.com Inc, AMZY, AMZY Amazon.com Inc 비교, {self.base_code}{self.lev_code} {self.lev_code} 비교
+keywords: Amazon.com Inc, AMZY, AMZY Amazon.com Inc 비교, AMZN, AMZY AMZY 비교
 ---
 
 ## 비교 상품 소개

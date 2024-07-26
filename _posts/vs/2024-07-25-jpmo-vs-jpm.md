@@ -8,7 +8,7 @@ header:
 toc: true
 categories:
 - vs
-keywords: JPMorgan Chase & Co, JPMO, JPMO JPMorgan Chase & Co 비교, {self.base_code}{self.lev_code} {self.lev_code} 비교
+keywords: JPMorgan Chase & Co, JPMO, JPMO JPMorgan Chase & Co 비교, JPM, JPMO JPMO 비교
 ---
 
 ## 비교 상품 소개

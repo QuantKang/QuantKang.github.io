@@ -8,7 +8,7 @@ header:
 toc: true
 categories:
 - vs
-keywords: Microsoft Corp, MSFO, MSFO Microsoft Corp 비교, {self.base_code}{self.lev_code} {self.lev_code} 비교
+keywords: Microsoft Corp, MSFO, MSFO Microsoft Corp 비교, MSFT, MSFO MSFO 비교
 ---
 
 ## 비교 상품 소개

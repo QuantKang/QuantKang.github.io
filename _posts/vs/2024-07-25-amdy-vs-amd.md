@@ -8,7 +8,7 @@ header:
 toc: true
 categories:
 - vs
-keywords: Advanced Micro Devices Inc, AMDY, AMDY Advanced Micro Devices Inc 비교, {self.base_code}{self.lev_code} {self.lev_code} 비교
+keywords: Advanced Micro Devices Inc, AMDY, AMDY Advanced Micro Devices Inc 비교, AMD, AMDY AMDY 비교
 ---
 
 ## 비교 상품 소개

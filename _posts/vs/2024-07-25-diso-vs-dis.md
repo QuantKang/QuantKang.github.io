@@ -8,7 +8,7 @@ header:
 toc: true
 categories:
 - vs
-keywords: Walt Disney Co, DISO, DISO Walt Disney Co 비교, {self.base_code}{self.lev_code} {self.lev_code} 비교
+keywords: Walt Disney Co, DISO, DISO Walt Disney Co 비교, DIS, DISO DISO 비교
 ---
 
 ## 비교 상품 소개

@@ -8,7 +8,7 @@ header:
 toc: true
 categories:
 - vs
-keywords: Meta Platforms Inc, FBY, FBY Meta Platforms Inc 비교, {self.base_code}{self.lev_code} {self.lev_code} 비교
+keywords: Meta Platforms Inc, FBY, FBY Meta Platforms Inc 비교, META, FBY FBY 비교
 ---
 
 ## 비교 상품 소개

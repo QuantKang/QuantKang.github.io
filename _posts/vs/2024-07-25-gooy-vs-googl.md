@@ -8,7 +8,7 @@ header:
 toc: true
 categories:
 - vs
-keywords: Alphabet Inc Class A, GOOY, GOOY Alphabet Inc Class A 비교, {self.base_code}{self.lev_code} {self.lev_code} 비교
+keywords: Alphabet Inc Class A, GOOY, GOOY Alphabet Inc Class A 비교, GOOGL, GOOY GOOY 비교
 ---
 
 ## 비교 상품 소개
