@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [PLUS KS퀄리티가중TR](/333980-vs-292190/) | <span style="color: tomato">8.4<small>%</small></span> | 19.0<small>%</small> | 0.44 | -32.2<small>%</small> | -11.2<small>%</small> |
-| KODEX KRX300 | <span style="color: tomato">9.8<small>%</small></span> | 20.5<small>%</small> | 0.48 | -34.9<small>%</small> | -12.4<small>%</small> |
+| [PLUS KS퀄리티가중TR](/333980-vs-292190/) | <span style="color: tomato">8.6<small>%</small></span> | 19.0<small>%</small> | 0.45 | -32.2<small>%</small> | -11.2<small>%</small> |
+| KODEX KRX300 | <span style="color: tomato">10.0<small>%</small></span> | 20.5<small>%</small> | 0.49 | -34.9<small>%</small> | -12.4<small>%</small> |
