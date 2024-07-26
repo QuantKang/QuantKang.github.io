@@ -2336,7 +2336,38 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 
 
 
-## 해외 상장 ETF (특정 ETF)
+## 해외 상장 ETF (특정 ETF - MAGS)
+
+
+
+### [MAGS vs SPY](/mags-vs-spy/)<a id="mags-vs-spy"></a>
+
+{% include vs/mags-vs-spy_md.inc %}
+
+
+
+### [MAGS vs QQQ](/mags-vs-qqq/)<a id="mags-vs-qqq"></a>
+
+{% include vs/mags-vs-qqq_md.inc %}
+
+
+
+### [MAGS vs QLD](/mags-vs-qld/)<a id="mags-vs-qld"></a>
+
+{% include vs/mags-vs-qld_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
+### [MAGS vs TQQQ](/mags-vs-tqqq/)<a id="mags-vs-tqqq"></a>
+
+{% include vs/mags-vs-tqqq_md.inc %}
+
+
+
+## 해외 상장 ETF (특정 ETF - ARKK)
 
 
 
@@ -2357,9 +2388,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/arkg-vs-xbi_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ## 해외 종목
 
@@ -2370,6 +2398,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 워런 버핏이 CEO로 있는 버크셔 해서웨이(BRK-A)와 미국 대표 지수인 S&P 500(배당 미고려)의 성과를 비교해 봅니다.
 
 {% include vs/brk-a-vs-us500_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -2402,13 +2433,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/moat-vs-schd_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [MOAT vs SPY](/moat-vs-spy/)<a id="moat-vs-spy"></a>
 
 {% include vs/moat-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -2439,13 +2470,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/iwf-vs-brk-b_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [SCHD vs BRK-B](/schd-vs-brk-b/)<a id="schd-vs-brk-b"></a>
 
 {% include vs/schd-vs-brk-b_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -2476,13 +2507,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/448300-vs-qqq_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [ACE 일본Nikkei225(H) vs 1329.T](/238720-vs-1329/)<a id="238720-vs-1329"></a>
 
 {% include vs/238720-vs-1329_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -2507,6 +2538,3 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [BNDI  vs BND](/bndi-vs-bnd/)<a id="bndi-vs-bnd"></a>
 
 {% include vs/bndi-vs-bnd_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
