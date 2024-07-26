@@ -99,7 +99,7 @@ ABNB<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, ABN
 
 지난 1개월간 거치식으로 투자했다고 가정합니다.
 
-Airbnb Inc의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 nan%인 포트폴리오를 만들 수 있습니다.
+ABNB의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 nan%인 포트폴리오를 만들 수 있습니다.
 이 포트폴리오는 ABNY의 -와 비슷했습니다.
 
 ### ABNY ≒ ABNB
