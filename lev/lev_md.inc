@@ -117,6 +117,12 @@
 
 
 
+### Magnificent Seven<a id="MAGS"></a>
+
+{% include lev/mags_md.inc %}
+
+
+
 ### 애플<a id="AAPL"></a>
 
 {% include lev/aapl_md.inc %}
