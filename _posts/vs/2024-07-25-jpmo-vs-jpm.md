@@ -1,6 +1,6 @@
 ---
 layout: single
-title: JPMO vs JPMorgan Chase & Co
+title: JPMO vs JPMorgan Chase & Co(JPM)
 excerpt: JPMO의 최근 10개월 CAGR은 16.5%로 JPMorgan Chase & Co의 54.9%보다 -38.4% 낮았습니다.
 header:
   overlay_color: "#333"

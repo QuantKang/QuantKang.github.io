@@ -1,6 +1,6 @@
 ---
 layout: single
-title: NFLY vs Netflix Inc
+title: NFLY vs Netflix Inc(NFLX)
 excerpt: NFLY의 최근 1년 CAGR은 29.6%로 Netflix Inc의 46.7%보다 -17.1% 낮았습니다.
 header:
   overlay_color: "#333"

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: ABNY vs Airbnb Inc
+title: ABNY vs Airbnb Inc(ABNB)
 excerpt: ABNY의 최근 1개월 CAGR은 -로 Airbnb Inc의 -와 비슷했습니다.
 header:
   overlay_color: "#333"

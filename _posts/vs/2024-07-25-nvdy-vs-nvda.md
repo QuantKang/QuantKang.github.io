@@ -1,6 +1,6 @@
 ---
 layout: single
-title: NVDY vs NVIDIA Corp
+title: NVDY vs NVIDIA Corp(NVDA)
 excerpt: NVDY의 최근 1년 2개월 CAGR은 121.0%로 NVIDIA Corp의 210.7%보다 -89.7% 낮았습니다.
 header:
   overlay_color: "#333"

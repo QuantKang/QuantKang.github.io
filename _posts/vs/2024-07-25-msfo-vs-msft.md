@@ -1,6 +1,6 @@
 ---
 layout: single
-title: MSFO vs Microsoft Corp
+title: MSFO vs Microsoft Corp(MSFT)
 excerpt: MSFO의 최근 10개월 CAGR은 32.0%로 Microsoft Corp의 33.4%보다 -1.4% 낮았습니다.
 header:
   overlay_color: "#333"

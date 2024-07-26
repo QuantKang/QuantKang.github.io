@@ -1,6 +1,6 @@
 ---
 layout: single
-title: SNOY vs Snowflake Inc
+title: SNOY vs Snowflake Inc(SNOW)
 excerpt: SNOY의 최근 1개월 CAGR은 -로 Snowflake Inc의 -와 비슷했습니다.
 header:
   overlay_color: "#333"

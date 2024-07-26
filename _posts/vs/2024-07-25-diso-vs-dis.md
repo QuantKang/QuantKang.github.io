@@ -1,6 +1,6 @@
 ---
 layout: single
-title: DISO vs Walt Disney Co
+title: DISO vs Walt Disney Co(DIS)
 excerpt: DISO의 최근 10개월 CAGR은 3.4%로 Walt Disney Co의 8.6%보다 -5.2% 낮았습니다.
 header:
   overlay_color: "#333"

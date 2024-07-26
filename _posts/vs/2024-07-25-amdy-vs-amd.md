@@ -1,6 +1,6 @@
 ---
 layout: single
-title: AMDY vs Advanced Micro Devices Inc
+title: AMDY vs Advanced Micro Devices Inc(AMD)
 excerpt: AMDY의 최근 9개월 CAGR은 12.1%로 Advanced Micro Devices Inc의 43.8%보다 -31.7% 낮았습니다.
 header:
   overlay_color: "#333"

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: MRNY vs Moderna Inc
+title: MRNY vs Moderna Inc(MRNA)
 excerpt: MRNY의 최근 9개월 CAGR은 17.5%로 Moderna Inc의 72.8%보다 -55.3% 낮았습니다.
 header:
   overlay_color: "#333"

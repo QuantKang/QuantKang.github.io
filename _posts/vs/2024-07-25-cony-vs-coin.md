@@ -1,6 +1,6 @@
 ---
 layout: single
-title: CONY vs Coinbase Global Inc
+title: CONY vs Coinbase Global Inc(COIN)
 excerpt: CONY의 최근 10개월 CAGR은 119.8%로 Coinbase Global Inc의 211.4%보다 -91.6% 낮았습니다.
 header:
   overlay_color: "#333"

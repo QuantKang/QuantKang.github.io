@@ -1,6 +1,6 @@
 ---
 layout: single
-title: PYPY vs PayPal Holdings Inc
+title: PYPY vs PayPal Holdings Inc(PYPL)
 excerpt: PYPY의 최근 9개월 CAGR은 6.2%로 PayPal Holdings Inc의 -3.5%보다 9.7% 높았습니다.
 header:
   overlay_color: "#333"
