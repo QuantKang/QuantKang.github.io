@@ -2560,12 +2560,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 
 
 
-### [PDI vs SHY](/pdi-vs-shy/)<a id="pdi-vs-shy"></a>
-
-{% include vs/pdi-vs-shy_md.inc %}
-
-
-
 ### [HYT vs SHY](/hyt-vs-shy/)<a id="hyt-vs-shy"></a>
 
 {% include vs/hyt-vs-shy_md.inc %}
@@ -2575,3 +2569,42 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [GOF vs SHY](/gof-vs-shy/)<a id="gof-vs-shy"></a>
 
 {% include vs/gof-vs-shy_md.inc %}
+
+
+
+### [PDI vs SHY](/pdi-vs-shy/)<a id="pdi-vs-shy"></a>
+
+{% include vs/pdi-vs-shy_md.inc %}
+
+
+
+### [HYT vs SPY](/hyt-vs-spy/)<a id="hyt-vs-spy"></a>
+
+{% include vs/hyt-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
+### [GOF vs SPY](/gof-vs-spy/)<a id="gof-vs-spy"></a>
+
+{% include vs/gof-vs-spy_md.inc %}
+
+
+
+### [PDI vs SPY](/pdi-vs-spy/)<a id="pdi-vs-spy"></a>
+
+{% include vs/pdi-vs-spy_md.inc %}
+
+
+
+### [GOF vs HYT](/gof-vs-hyt/)<a id="gof-vs-hyt"></a>
+
+{% include vs/gof-vs-hyt_md.inc %}
+
+
+
+### [PDI vs HYT](/pdi-vs-hyt/)<a id="pdi-vs-hyt"></a>
+
+{% include vs/pdi-vs-hyt_md.inc %}
