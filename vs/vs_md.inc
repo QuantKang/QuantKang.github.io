@@ -2513,6 +2513,30 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 
 
 
+### [PRNHX vs SPY](/prnhx-vs-spy/)<a id="prnhx-vs-spy"></a>
+
+{% include vs/prnhx-vs-spy_md.inc %}
+
+
+
+### [PRNHX vs QQQ](/prnhx-vs-qqq/)<a id="prnhx-vs-qqq"></a>
+
+{% include vs/prnhx-vs-qqq_md.inc %}
+
+
+
+### [PRNHX vs IWM](/prnhx-vs-iwm/)<a id="prnhx-vs-iwm"></a>
+
+{% include vs/prnhx-vs-iwm_md.inc %}
+
+
+
+### [PRNHX vs IWO](/prnhx-vs-iwo/)<a id="prnhx-vs-iwo"></a>
+
+{% include vs/prnhx-vs-iwo_md.inc %}
+
+
+
 ## 기타
 
 
@@ -2520,6 +2544,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [ARIRANG 미국S&P500(H) vs SPY](/269540-vs-spy/)<a id="269540-vs-spy"></a>
 
 {% include vs/269540-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -2550,13 +2577,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/2621-vs-tlt_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [CSHI vs BIL](/cshi-vs-bil/)<a id="cshi-vs-bil"></a>
 
 {% include vs/cshi-vs-bil_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -2583,13 +2610,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/hyt-vs-shy_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [GOF vs SHY](/gof-vs-shy/)<a id="gof-vs-shy"></a>
 
 {% include vs/gof-vs-shy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -2616,13 +2643,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/pdi-vs-spy_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [GOF vs HYT](/gof-vs-hyt/)<a id="gof-vs-hyt"></a>
 
 {% include vs/gof-vs-hyt_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
