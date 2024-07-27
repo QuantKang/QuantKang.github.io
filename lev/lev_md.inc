@@ -117,7 +117,7 @@
 
 
 
-### Magnificent Seven<a id="MAGS"></a>
+### Magnificent Seven (M7)<a id="MAGS"></a>
 
 {% include lev/mags_md.inc %}
 
