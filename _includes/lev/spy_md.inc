@@ -1,6 +1,9 @@
 | **종목** | **배율** | **CAGR** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | SPY | | <span style="color: tomato">21.1<small>%</small></span> | - | - | - |
+| [VOO](/voo/) | 1<small>x</small> | <span style="color: tomato">21.2<small>%</small></span> | -0.0<small>%</small> | -0.1<small>%</small> | -0.1<small>%</small> |
+| [IVV](/ivv/) | 1<small>x</small> | <span style="color: tomato">21.3<small>%</small></span> | -0.0<small>%</small> | -0.1<small>%</small> | -0.1<small>%</small> |
+| [SPLG](/splg/) | 1<small>x</small> | <span style="color: tomato">21.2<small>%</small></span> | 0.0<small>%</small> | -0.1<small>%</small> | -0.1<small>%</small> |
 | [TIGER 미국S&P500선물(H)](/143850/) | 1<small>x</small> | <span style="color: tomato">14.1<small>%</small></span> | -0.0<small>%</small> | 5.8<small>%</small> | 5.8<small>%</small> |
 | [KODEX 미국S&P500선물(H)](/219480/) | 1<small>x</small> | <span style="color: tomato">15.1<small>%</small></span> | -0.0<small>%</small> | 5.0<small>%</small> | 5.0<small>%</small> |
 | [PLUS 미국S&P500(H)](/269540/) | 1<small>x</small> | <span style="color: tomato">18.1<small>%</small></span> | 0.0<small>%</small> | 2.5<small>%</small> | 2.5<small>%</small> |
