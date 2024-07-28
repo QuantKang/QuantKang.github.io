@@ -110,6 +110,7 @@ PFF의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추�
 
 ## 관련 정보
 
+- [RISE 미국고정배당우선증권TR - 고정 배당금을 주는 우선주가 있다고? 채권 ETF보다 좋을까?](https://kongdori.tistory.com/303)
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 
 {% include commons/footnotes.md %}
