@@ -2192,6 +2192,45 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 
 
 
+### [PGX vs AOM](/pgx-vs-aom/)<a id="pgx-vs-aom"></a>
+
+{% include vs/pgx-vs-aom_md.inc %}
+
+
+
+### [PFF vs AOM](/pff-vs-aom/)<a id="pff-vs-aom"></a>
+
+{% include vs/pff-vs-aom_md.inc %}
+
+
+
+### [PFFD vs AOM](/pffd-vs-aom/)<a id="pffd-vs-aom"></a>
+
+{% include vs/pffd-vs-aom_md.inc %}
+
+
+
+### [PGX vs AOK](/pgx-vs-aok/)<a id="pgx-vs-aok"></a>
+
+{% include vs/pgx-vs-aok_md.inc %}
+
+
+
+### [PFF vs AOK](/pff-vs-aok/)<a id="pff-vs-aok"></a>
+
+{% include vs/pff-vs-aok_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
+### [PFFD vs AOK](/pffd-vs-aok/)<a id="pffd-vs-aok"></a>
+
+{% include vs/pffd-vs-aok_md.inc %}
+
+
+
 ### [PGX vs LQD](/pgx-vs-lqd/)<a id="pgx-vs-lqd"></a>
 
 {% include vs/pgx-vs-lqd_md.inc %}
@@ -2219,13 +2258,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/tsly-vs-tsla_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [OARK vs ARKK](/oark-vs-arkk/)<a id="oark-vs-arkk"></a>
 
 {% include vs/oark-vs-arkk_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -2252,13 +2291,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/fby-vs-meta_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [GOOY vs GOOGL](/gooy-vs-googl/)<a id="gooy-vs-googl"></a>
 
 {% include vs/gooy-vs-googl_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -2285,13 +2324,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/msfo-vs-msft_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [XOMO vs XOM](/xomo-vs-xom/)<a id="xomo-vs-xom"></a>
 
 {% include vs/xomo-vs-xom_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -2318,13 +2357,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/sqy-vs-sq_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [MRNY vs MRNA](/mrny-vs-mrna/)<a id="mrny-vs-mrna"></a>
 
 {% include vs/mrny-vs-mrna_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -2351,13 +2390,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/snoy-vs-snow_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [ABNY vs ABNB](/abny-vs-abnb/)<a id="abny-vs-abnb"></a>
 
 {% include vs/abny-vs-abnb_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -2384,13 +2423,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/ymag-vs-jepi_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [YMAG vs JEPQ](/ymag-vs-jepq/)<a id="ymag-vs-jepq"></a>
 
 {% include vs/ymag-vs-jepq_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -2421,13 +2460,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/komp-vs-spy_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [QRFT vs SPY](/qrft-vs-spy/)<a id="qrft-vs-spy"></a>
 
 {% include vs/qrft-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -2454,6 +2493,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/nvq-vs-spy_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ## 해외 상장 ETF (특정 ETF - MAGS)
 
@@ -2462,9 +2504,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [MAGS vs SPY](/mags-vs-spy/)<a id="mags-vs-spy"></a>
 
 {% include vs/mags-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -2495,13 +2534,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/arkk-vs-qqq_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [ARKK vs QLD](/arkk-vs-qld/)<a id="arkk-vs-qld"></a>
 
 {% include vs/arkk-vs-qld_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -2538,15 +2577,15 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/brk-b-vs-spy_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [BRK-B vs BRK-A](/brk-b-vs-brk-a/)<a id="brk-b-vs-brk-a"></a>
 
 워런 버핏이 CEO로 있는 버크셔 해서웨이의 A주(BRK.A)와 B주(BRK-B)의 성과를 비교해 봅니다.
 
 {% include vs/brk-b-vs-brk-a_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -2577,13 +2616,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/vtv-vs-brk-b_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [VUG vs BRK-B](/vug-vs-brk-b/)<a id="vug-vs-brk-b"></a>
 
 {% include vs/vug-vs-brk-b_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -2610,13 +2649,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/moat-vs-brk-b_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [FMAG vs SPY](/fmag-vs-spy/)<a id="fmag-vs-spy"></a>
 
 {% include vs/fmag-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -2643,13 +2682,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/prnhx-vs-iwm_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [PRNHX vs IWO](/prnhx-vs-iwo/)<a id="prnhx-vs-iwo"></a>
 
 {% include vs/prnhx-vs-iwo_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -2680,6 +2719,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/250730-vs-2828_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ## 미국 상장 채권 ETF
 
@@ -2688,9 +2730,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [iShares 20+ Year US Treasury Bond JPY Hedged ETF vs iShares 20+ Year Treasury Bond ETF](/2621-vs-tlt/)<a id="2621-vs-tlt"></a>
 
 {% include vs/2621-vs-tlt_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -2717,13 +2756,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/ief-vs-tlt_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [HYT vs SHY](/hyt-vs-shy/)<a id="hyt-vs-shy"></a>
 
 {% include vs/hyt-vs-shy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -2750,13 +2789,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/gof-vs-spy_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [PDI vs SPY](/pdi-vs-spy/)<a id="pdi-vs-spy"></a>
 
 {% include vs/pdi-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
