@@ -39,9 +39,9 @@ KODEX 코스피100은 코스피 200 구성종목 중 시총이 큰 상위 100종
 
 
 
-### [ARIRANG 코스피50 vs KODEX 200](/122090-vs-069500/)<a id="122090-vs-069500"></a>
+### [PLUS 코스피50 vs KODEX 200](/122090-vs-069500/)<a id="122090-vs-069500"></a>
 
-ARIRANG 코스피 50은 코스피 200 구성종목 중 시총이 큰 상위 50종목을 담은 코스피 50 지수를 추종합니다. 코스피 200 지수를 추종하는 KODEX 200과 비교하여 대형주 효과를 확인해 확인해 봅니다.
+PLUS 코스피 50은 코스피 200 구성종목 중 시총이 큰 상위 50종목을 담은 코스피 50 지수를 추종합니다. 코스피 200 지수를 추종하는 KODEX 200과 비교하여 대형주 효과를 확인해 확인해 봅니다.
 
 {% include vs/122090-vs-069500_md.inc %}
 
@@ -102,15 +102,15 @@ FnGuide TOP 10 동일가중 지수 vs FnGuide TOP10 지수
 
 
 
-### [ARIRANG 고배당주 vs KODEX 200](/161510-vs-069500/)<a id="161510-vs-069500"></a>
+### [PLUS 고배당주 vs KODEX 200](/161510-vs-069500/)<a id="161510-vs-069500"></a>
 
-ARIRANG 고배당주는 고배당 종목으로 구성한 ETF입니다. 배당 여부를 따지지 않고 시총 상위 종목만 편입한 KODEX 200에 비해 어떤 성과를 거두었는지 살펴봅니다.
+PLUS 고배당주는 고배당 종목으로 구성한 ETF입니다. 배당 여부를 따지지 않고 시총 상위 종목만 편입한 KODEX 200에 비해 어떤 성과를 거두었는지 살펴봅니다.
 
 {% include vs/161510-vs-069500_md.inc %}
 
 
 
-### [RISE 대형고배당10TR vs ARIRANG 고배당주](/315960-vs-161510/)<a id="315960-vs-161510"></a>
+### [RISE 대형고배당10TR vs PLUS 고배당주](/315960-vs-161510/)<a id="315960-vs-161510"></a>
 
 WISE 대형고배당10TR지수 vs FnGuide 고배당주지수
 
@@ -118,7 +118,7 @@ WISE 대형고배당10TR지수 vs FnGuide 고배당주지수
 
 
 
-### [RISE 고배당 vs ARIRANG 고배당주](/266160-vs-161510/)<a id="266160-vs-161510"></a>
+### [RISE 고배당 vs PLUS 고배당주](/266160-vs-161510/)<a id="266160-vs-161510"></a>
 
 FnGuide 고배당포커스 지수 vs FnGuide 고배당주지수
 
@@ -129,7 +129,7 @@ FnGuide 고배당포커스 지수 vs FnGuide 고배당주지수
 
 
 
-### [KODEX 고배당 vs ARIRANG 고배당주](/279530-vs-161510/)<a id="279530-vs-161510"></a>
+### [KODEX 고배당 vs PLUS 고배당주](/279530-vs-161510/)<a id="279530-vs-161510"></a>
 
 FnGuide 고배당 Plus 지수 vs FnGuide 고배당주지수
 
@@ -137,7 +137,7 @@ FnGuide 고배당 Plus 지수 vs FnGuide 고배당주지수
 
 
 
-### [TIGER 코스피고배당 vs ARIRANG 고배당주](/210780-vs-161510/)<a id="210780-vs-161510"></a>
+### [TIGER 코스피고배당 vs PLUS 고배당주](/210780-vs-161510/)<a id="210780-vs-161510"></a>
 
 코스피 고배당 50 지수 vs FnGuide 고배당주지수
 
@@ -145,7 +145,7 @@ FnGuide 고배당 Plus 지수 vs FnGuide 고배당주지수
 
 
 
-### [KOSEF 고배당 vs ARIRANG 고배당주](/104530-vs-161510/)<a id="104530-vs-161510"></a>
+### [KOSEF 고배당 vs PLUS 고배당주](/104530-vs-161510/)<a id="104530-vs-161510"></a>
 
 MKF 웰스 고배당 20 지수 vs FnGuide 고배당주지수
 
@@ -153,7 +153,7 @@ MKF 웰스 고배당 20 지수 vs FnGuide 고배당주지수
 
 
 
-### [RISE KQ고배당 vs ARIRANG 고배당주](/270800-vs-161510/)<a id="270800-vs-161510"></a>
+### [RISE KQ고배당 vs PLUS 고배당주](/270800-vs-161510/)<a id="270800-vs-161510"></a>
 
 FnGuide KQ고배당포커스 지수 vs FnGuide 고배당주지수
 
@@ -161,7 +161,7 @@ FnGuide KQ고배당포커스 지수 vs FnGuide 고배당주지수
 
 
 
-### [파워 고배당저변동성 vs ARIRANG 고배당주](/192720-vs-161510/)<a id="192720-vs-161510"></a>
+### [파워 고배당저변동성 vs PLUS 고배당주](/192720-vs-161510/)<a id="192720-vs-161510"></a>
 
 코스피 200 고배당지수 vs FnGuide 고배당주지수
 
@@ -172,7 +172,7 @@ FnGuide KQ고배당포커스 지수 vs FnGuide 고배당주지수
 
 
 
-### [ARIRANG 고배당저변동50 vs ARIRANG 고배당주](/251590-vs-161510/)<a id="251590-vs-161510"></a>
+### [PLUS 고배당저변동50 vs PLUS 고배당주](/251590-vs-161510/)<a id="251590-vs-161510"></a>
 
 FnGuide 고배당저변동50 지수 vs FnGuide 고배당주지수
 
@@ -180,7 +180,7 @@ FnGuide 고배당저변동50 지수 vs FnGuide 고배당주지수
 
 
 
-### [RISE 중소형고배당 vs ARIRANG 고배당주](/281990-vs-161510/)<a id="281990-vs-161510"></a>
+### [RISE 중소형고배당 vs PLUS 고배당주](/281990-vs-161510/)<a id="281990-vs-161510"></a>
 
 FnGuide 중소형 고배당포커스 지수 vs FnGuide 고배당주지수
 
@@ -188,7 +188,7 @@ FnGuide 중소형 고배당포커스 지수 vs FnGuide 고배당주지수
 
 
 
-### [HANARO 고배당 vs ARIRANG 고배당주](/322410-vs-161510/)<a id="322410-vs-161510"></a>
+### [HANARO 고배당 vs PLUS 고배당주](/322410-vs-161510/)<a id="322410-vs-161510"></a>
 
 FnGuide 고배당알파 지수 vs FnGuide 고배당주지수
 
@@ -221,7 +221,7 @@ FnGuide 고배당알파 지수 vs FnGuide 고배당주지수
 
 
 
-### [TIMEFOLIO Korea플러스배당액티브 ETF vs ARIRANG 고배당주](/441800-vs-161510/)<a id="441800-vs-161510"></a>
+### [TIMEFOLIO Korea플러스배당액티브 ETF vs PLUS 고배당주](/441800-vs-161510/)<a id="441800-vs-161510"></a>
 
 {% include vs/441800-vs-161510_md.inc %}
 
@@ -233,13 +233,13 @@ FnGuide 고배당알파 지수 vs FnGuide 고배당주지수
 
 
 
-### [KODEX 미국S&P500배당귀족커버드콜(합성 H) vs ARIRANG 고배당주](/276970-vs-161510/)<a id="276970-vs-161510"></a>
+### [KODEX 미국S&P500배당귀족커버드콜(합성 H) vs PLUS 고배당주](/276970-vs-161510/)<a id="276970-vs-161510"></a>
 
 {% include vs/276970-vs-161510_md.inc %}
 
 
 
-### [KODEX 미국배당프리미엄액티브 vs ARIRANG 고배당주](/441640-vs-161510/)<a id="441640-vs-161510"></a>
+### [KODEX 미국배당프리미엄액티브 vs PLUS 고배당주](/441640-vs-161510/)<a id="441640-vs-161510"></a>
 
 {% include vs/441640-vs-161510_md.inc %}
 
@@ -254,13 +254,13 @@ FnGuide 고배당알파 지수 vs FnGuide 고배당주지수
 
 
 
-### [TIGER 미국S&P500 vs ARIRANG 고배당주](/360750-vs-161510/)<a id="360750-vs-161510"></a>
+### [TIGER 미국S&P500 vs PLUS 고배당주](/360750-vs-161510/)<a id="360750-vs-161510"></a>
 
 {% include vs/360750-vs-161510_md.inc %}
 
 
 
-### [TIGER 미국나스닥100 vs ARIRANG 고배당주](/133690-vs-161510/)<a id="133690-vs-161510"></a>
+### [TIGER 미국나스닥100 vs PLUS 고배당주](/133690-vs-161510/)<a id="133690-vs-161510"></a>
 
 {% include vs/133690-vs-161510_md.inc %}
 
@@ -364,8 +364,6 @@ KOSPI 200Top10 (동일가중) vs FnGuide TOP 10 동일가중 지수
 
 ### [TIGER 베타플러스 vs KODEX 200](/170350-vs-069500/)<a id="170350-vs-069500"></a>
 
-TIGER 베타플러스 vs KODEX 200
-
 {% include vs/170350-vs-069500_md.inc %}
 
 
@@ -375,15 +373,11 @@ TIGER 베타플러스 vs KODEX 200
 
 ### [TIGER 로우볼 vs KODEX 200](/174350-vs-069500/)<a id="174350-vs-069500"></a>
 
-TIGER 로우볼 vs KODEX 200
-
 {% include vs/174350-vs-069500_md.inc %}
 
 
 
 ### [TIGER 배당성장 vs KODEX 200](/211560-vs-069500/)<a id="211560-vs-069500"></a>
-
-TIGER 배당성장 vs KODEX 200
 
 {% include vs/211560-vs-069500_md.inc %}
 
@@ -391,23 +385,17 @@ TIGER 배당성장 vs KODEX 200
 
 ### [TIGER 가격조정 vs KODEX 200](/217790-vs-069500/)<a id="217790-vs-069500"></a>
 
-TIGER 가격조정 vs KODEX 200
-
 {% include vs/217790-vs-069500_md.inc %}
 
 
 
 ### [ARIRANG 스마트베타Quality vs KODEX 200](/222200-vs-069500/)<a id="222200-vs-069500"></a>
 
-ARIRANG 스마트베타Quality vs KODEX 200
-
 {% include vs/222200-vs-069500_md.inc %}
 
 
 
 ### [ARIRANG 스마트베타Value vs KODEX 200](/222180-vs-069500/)<a id="222180-vs-069500"></a>
-
-ARIRANG 스마트베타Value vs KODEX 200
 
 {% include vs/222180-vs-069500_md.inc %}
 
@@ -418,15 +406,11 @@ ARIRANG 스마트베타Value vs KODEX 200
 
 ### [ARIRANG 스마트베타Momentum vs KODEX 200](/222190-vs-069500/)<a id="222190-vs-069500"></a>
 
-ARIRANG 스마트베타Momentum vs KODEX 200
-
 {% include vs/222190-vs-069500_md.inc %}
 
 
 
 ### [TIGER 우량가치 vs KODEX 200](/227570-vs-069500/)<a id="227570-vs-069500"></a>
-
-TIGER 우량가치 vs KODEX 200
 
 {% include vs/227570-vs-069500_md.inc %}
 
@@ -434,23 +418,17 @@ TIGER 우량가치 vs KODEX 200
 
 ### [ARIRANG 스마트베타LowVOL vs KODEX 200](/236460-vs-069500/)<a id="236460-vs-069500"></a>
 
-ARIRANG 스마트베타LowVOL vs KODEX 200
-
 {% include vs/236460-vs-069500_md.inc %}
 
 
 
 ### [TIGER 지속배당 vs KODEX 200](/266140-vs-069500/)<a id="266140-vs-069500"></a>
 
-TIGER 지속배당 vs KODEX 200
-
 {% include vs/266140-vs-069500_md.inc %}
 
 
 
 ### [TIGER 코스피대형주 vs KODEX 200](/277640-vs-069500/)<a id="277640-vs-069500"></a>
-
-TIGER 코스피대형주 vs KODEX 200
 
 {% include vs/277640-vs-069500_md.inc %}
 
@@ -461,15 +439,11 @@ TIGER 코스피대형주 vs KODEX 200
 
 ### [TIGER 대형성장 vs KODEX 200](/292100-vs-069500/)<a id="292100-vs-069500"></a>
 
-TIGER 대형성장 vs KODEX 200
-
 {% include vs/292100-vs-069500_md.inc %}
 
 
 
 ### [TIGER 대형가치 vs KODEX 200](/292110-vs-069500/)<a id="292110-vs-069500"></a>
-
-TIGER 대형가치 vs KODEX 200
 
 {% include vs/292110-vs-069500_md.inc %}
 
@@ -477,23 +451,17 @@ TIGER 대형가치 vs KODEX 200
 
 ### [TIGER 중소형성장 vs KODEX 200](/292130-vs-069500/)<a id="292130-vs-069500"></a>
 
- TIGER 중소형성장 vs KODEX 200
-
 {% include vs/292130-vs-069500_md.inc %}
 
 
 
 ### [TIGER 중소형 vs KODEX 200](/292120-vs-069500/)<a id="292120-vs-069500"></a>
 
- TIGER 중소형 vs KODEX 200
-
 {% include vs/292120-vs-069500_md.inc %}
 
 
 
 ### [TIGER 중소형가치 vs KODEX 200](/292140-vs-069500/)<a id="292140-vs-069500"></a>
-
- TIGER 중소형가치 vs KODEX 200
 
 {% include vs/292140-vs-069500_md.inc %}
 
@@ -504,31 +472,29 @@ TIGER 대형가치 vs KODEX 200
 
 ### [ARIRANG 스마트베타4종결합 vs KODEX 200](/244820-vs-069500/)<a id="244820-vs-069500"></a>
 
-ARIRANG 스마트베타4종결합 vs KODEX 200
-
 {% include vs/244820-vs-069500_md.inc %}
 
 
 
-### [ARIRANG KS로우사이즈가중TR vs KODEX KRX300](/333950-vs-292190/)<a id="333950-vs-292190"></a>
+### [PLUS KS로우사이즈가중TR vs KODEX KRX300](/333950-vs-292190/)<a id="333950-vs-292190"></a>
 
 {% include vs/333950-vs-292190_md.inc %}
 
 
 
-### [ARIRANG KS로우볼가중TR vs KODEX KRX300](/333940-vs-292190/)<a id="333940-vs-292190"></a>
+### [PLUS KS로우볼가중TR vs KODEX KRX300](/333940-vs-292190/)<a id="333940-vs-292190"></a>
 
 {% include vs/333940-vs-292190_md.inc %}
 
 
 
-### [ARIRANG KS퀄리티가중TR vs KODEX KRX300](/333980-vs-292190/)<a id="333980-vs-292190"></a>
+### [PLUS KS퀄리티가중TR vs KODEX KRX300](/333980-vs-292190/)<a id="333980-vs-292190"></a>
 
 {% include vs/333980-vs-292190_md.inc %}
 
 
 
-### [ARIRANG KS모멘텀가중TR vs KODEX KRX300](/333960-vs-292190/)<a id="333960-vs-292190"></a>
+### [PLUS KS모멘텀가중TR vs KODEX KRX300](/333960-vs-292190/)<a id="333960-vs-292190"></a>
 
 {% include vs/333960-vs-292190_md.inc %}
 
@@ -537,31 +503,31 @@ ARIRANG 스마트베타4종결합 vs KODEX 200
 
 
 
-### [ARIRANG KS밸류가중 vs KODEX KRX300](/333970-vs-292190/)<a id="333970-vs-292190"></a>
+### [PLUS KS밸류가중 vs KODEX KRX300](/333970-vs-292190/)<a id="333970-vs-292190"></a>
 
 {% include vs/333970-vs-292190_md.inc %}
 
 
 
-### [ARIRANG KS로우사이즈가중TR vs KODEX 200](/333950-vs-069500/)<a id="333950-vs-069500"></a>
+### [PLUS KS로우사이즈가중TR vs KODEX 200](/333950-vs-069500/)<a id="333950-vs-069500"></a>
 
 {% include vs/333950-vs-069500_md.inc %}
 
 
 
-### [ARIRANG KS로우볼가중TR vs KODEX 200](/333940-vs-069500/)<a id="333940-vs-069500"></a>
+### [PLUS KS로우볼가중TR vs KODEX 200](/333940-vs-069500/)<a id="333940-vs-069500"></a>
 
 {% include vs/333940-vs-069500_md.inc %}
 
 
 
-### [ARIRANG KS퀄리티가중TR vs KODEX 200](/333980-vs-069500/)<a id="333980-vs-069500"></a>
+### [PLUS KS퀄리티가중TR vs KODEX 200](/333980-vs-069500/)<a id="333980-vs-069500"></a>
 
 {% include vs/333980-vs-069500_md.inc %}
 
 
 
-### [ARIRANG KS모멘텀가중TR vs KODEX 200](/333960-vs-069500/)<a id="333960-vs-069500"></a>
+### [PLUS KS모멘텀가중TR vs KODEX 200](/333960-vs-069500/)<a id="333960-vs-069500"></a>
 
 {% include vs/333960-vs-069500_md.inc %}
 
@@ -570,7 +536,7 @@ ARIRANG 스마트베타4종결합 vs KODEX 200
 
 
 
-### [ARIRANG KS밸류가중 vs KODEX 200](/333970-vs-069500/)<a id="333970-vs-069500"></a>
+### [PLUS KS밸류가중 vs KODEX 200](/333970-vs-069500/)<a id="333970-vs-069500"></a>
 
 {% include vs/333970-vs-069500_md.inc %}
 
@@ -869,9 +835,9 @@ S&P 500 지수를 추종하는 KODEX S&P500TR과 월배당을 위해 배당성�
 
 
 
-### [TIGER 미국테크TOP10+10%프리미엄 vs ARIRANG 미국테크10iSelect](/474220-vs-461900/)<a id="474220-vs-461900"></a>
+### [TIGER 미국테크TOP10+10%프리미엄 vs PLUS 미국테크10iSelect](/474220-vs-461900/)<a id="474220-vs-461900"></a>
 
-미국 테크 TOP 10 종목을 보유하는 ARIRANG 미국테크10iSelect와 커버드콜 전략을 최대 40%까지 사용하는 TIGER 미국테크TOP10+10%프리미엄를 비교합니다. (주의) 두 ETF의 이름은 유사하나 기초 자산의 지수가 다릅니다. 각각 iSelect와 Bloomberg가 만든 지수입니다.
+미국 테크 TOP 10 종목을 보유하는 PLUS 미국테크10iSelect와 커버드콜 전략을 최대 40%까지 사용하는 TIGER 미국테크TOP10+10%프리미엄를 비교합니다. (주의) 두 ETF의 이름은 유사하나 기초 자산의 지수가 다릅니다. 각각 iSelect와 Bloomberg가 만든 지수입니다.
 
 {% include vs/474220-vs-461900_md.inc %}
 
@@ -917,7 +883,7 @@ S&P 500 지수를 추종하는 KODEX S&P500TR과 월배당을 위해 배당성�
 
 
 
-### [KODEX S&P글로벌인프라(합성) vs ARIRANG S&P글로벌인프라](/269420-vs-269530/)<a id="269420-vs-269530"></a>
+### [KODEX S&P글로벌인프라(합성) vs PLUS S&P글로벌인프라](/269420-vs-269530/)<a id="269420-vs-269530"></a>
 
 {% include vs/269420-vs-269530_md.inc %}
 
@@ -2714,7 +2680,7 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 
 
 
-### [ARIRANG 미국S&P500(H) vs SPY](/269540-vs-spy/)<a id="269540-vs-spy"></a>
+### [PLUS 미국S&P500(H) vs SPY](/269540-vs-spy/)<a id="269540-vs-spy"></a>
 
 {% include vs/269540-vs-spy_md.inc %}
 
