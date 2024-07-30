@@ -5,7 +5,7 @@ excerpt: KOSDAQ 음식료담배 업종 종목별 시가총액 비중입니다. �
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-07-29
+last_modified_at: 2024-07-30
 ---
 
 
@@ -16,43 +16,43 @@ last_modified_at: 2024-07-29
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [매일유업](/267980/) | 5.5 | 0.6 | 2.9<small>%</small> | 6.9<small>%</small> |
-| 하림 | 24.8 | 1.1 | 1.0<small>%</small> | 6.8<small>%</small> |
-| 아미코젠 | - | 1.5 | - | 5.7<small>%</small> |
-| 우리바이오 | 14.0 | 1.1 | - | 4.7<small>%</small> |
-| 이지홀딩스 | 7.1 | 0.3 | 4.1<small>%</small> | 4.0<small>%</small> |
-| 노바렉스 | 8.0 | 0.9 | 2.0<small>%</small> | 4.0<small>%</small> |
+| [매일유업](/267980/) | 5.4 | 0.6 | 2.9<small>%</small> | 6.9<small>%</small> |
+| 하림 | 24.4 | 1.0 | 1.0<small>%</small> | 6.8<small>%</small> |
+| 아미코젠 | - | 1.5 | - | 5.6<small>%</small> |
+| 우리바이오 | 15.7 | 1.2 | - | 5.3<small>%</small> |
 | 현대사료 | - | - | - | 4.0<small>%</small> |
+| 이지홀딩스 | 7.0 | 0.3 | 4.2<small>%</small> | 4.0<small>%</small> |
+| 노바렉스 | 7.7 | 0.8 | 2.1<small>%</small> | 3.8<small>%</small> |
 | 한일사료 | 1.5 | 1.1 | 1.7<small>%</small> | 3.7<small>%</small> |
-| 팜스토리 | 16.1 | 0.8 | 1.7<small>%</small> | 3.4<small>%</small> |
-| 이지바이오 | 10.0 | 2.5 | 2.2<small>%</small> | 3.3<small>%</small> |
+| 팜스토리 | 16.0 | 0.8 | 1.7<small>%</small> | 3.5<small>%</small> |
+| 이지바이오 | 9.8 | 2.4 | 2.2<small>%</small> | 3.2<small>%</small> |
 | 풍국주정 | 17.8 | 1.0 | 0.8<small>%</small> | 3.2<small>%</small> |
-| 에이치피오 | 8.8 | 1.0 | 2.9<small>%</small> | 3.0<small>%</small> |
+| 에이치피오 | 8.7 | 1.0 | 3.0<small>%</small> | 3.0<small>%</small> |
 | 국순당 | - | 0.5 | 1.6<small>%</small> | 2.5<small>%</small> |
-| 에스앤디 | 13.9 | 1.9 | 1.2<small>%</small> | 2.5<small>%</small> |
 | 매일홀딩스 | 2.1 | 0.3 | 2.4<small>%</small> | 2.4<small>%</small> |
+| 에스앤디 | 13.3 | 1.8 | 1.3<small>%</small> | 2.4<small>%</small> |
 | 진로발효 | 17.6 | 1.4 | 4.0<small>%</small> | 2.3<small>%</small> |
+| 우듬지팜 | 65.3 | 2.7 | - | 2.1<small>%</small> |
 | 우양 | - | 2.4 | - | 2.1<small>%</small> |
-| 우듬지팜 | 65.0 | 2.6 | - | 2.1<small>%</small> |
-| 우리손에프앤지 | 64.1 | 0.4 | 1.8<small>%</small> | 2.1<small>%</small> |
-| 엠에스씨 | 5.2 | 0.6 | 1.8<small>%</small> | 2.0<small>%</small> |
-| 미래생명자원 | 195.7 | 2.0 | - | 1.9<small>%</small> |
-| 정다운 | 2.7 | 0.7 | 10.9<small>%</small> | 1.9<small>%</small> |
-| 흥국에프엔비 | 10.0 | 0.9 | 1.8<small>%</small> | 1.9<small>%</small> |
+| 우리손에프앤지 | 62.7 | 0.4 | 1.8<small>%</small> | 2.0<small>%</small> |
+| 엠에스씨 | 5.1 | 0.6 | 1.9<small>%</small> | 2.0<small>%</small> |
+| 미래생명자원 | 190.0 | 1.9 | - | 1.9<small>%</small> |
+| 정다운 | 2.7 | 0.7 | 11.1<small>%</small> | 1.9<small>%</small> |
+| 흥국에프엔비 | 9.9 | 0.9 | 1.8<small>%</small> | 1.9<small>%</small> |
 | 창해에탄올 | - | 0.6 | 6.3<small>%</small> | 1.8<small>%</small> |
-| 뉴트리 | 17.4 | 0.8 | - | 1.7<small>%</small> |
+| 뉴트리 | 16.8 | 0.8 | - | 1.7<small>%</small> |
 | 코스맥스엔비티 | - | 2.1 | - | 1.6<small>%</small> |
 | 에이치엘사이언스 | - | 0.7 | - | 1.6<small>%</small> |
 | 네오크레마 | - | 1.6 | - | 1.5<small>%</small> |
 | 제주맥주 | - | 3.3 | - | 1.3<small>%</small> |
-| 인산가 | 11.3 | 0.9 | 3.1<small>%</small> | 1.3<small>%</small> |
-| 동우팜투테이블 | 2.3 | 0.3 | 1.3<small>%</small> | 1.3<small>%</small> |
-| 푸드웰 | 15.8 | 0.6 | 1.6<small>%</small> | 1.2<small>%</small> |
-| 마니커에프앤지 | 25.6 | 0.8 | - | 1.1<small>%</small> |
+| 동우팜투테이블 | 2.2 | 0.3 | 1.3<small>%</small> | 1.3<small>%</small> |
+| 인산가 | 11.0 | 0.9 | 3.2<small>%</small> | 1.3<small>%</small> |
+| 푸드웰 | 15.9 | 0.6 | 1.6<small>%</small> | 1.2<small>%</small> |
 | 대주산업 | 5.2 | 0.7 | 2.8<small>%</small> | 1.1<small>%</small> |
 | 프롬바이오 | - | 0.7 | - | 1.1<small>%</small> |
-| 체리부로 | 3.5 | 0.6 | - | 1.0<small>%</small> |
-| 팜스빌 | 13.8 | 0.7 | 1.7<small>%</small> | 1.0<small>%</small> |
+| 마니커에프앤지 | 24.9 | 0.8 | - | 1.1<small>%</small> |
+| 팜스빌 | 14.3 | 0.7 | 1.7<small>%</small> | 1.0<small>%</small> |
+| 체리부로 | 3.4 | 0.6 | - | 1.0<small>%</small> |
 | 휴럼 | 13.8 | 1.2 | - | 1.0<small>%</small> |
 | 한국맥널티 | - | 1.3 | - | 0.9<small>%</small> |
 | 케이씨피드 | 6.1 | 0.6 | 2.9<small>%</small> | 0.9<small>%</small> |
