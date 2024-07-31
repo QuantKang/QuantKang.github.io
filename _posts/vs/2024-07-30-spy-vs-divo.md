@@ -1,7 +1,7 @@
 ---
 layout: single
 title: SPY vs DIVO
-excerpt: SPY의 최근 7년 7개월 CAGR은 14.1%로 DIVO의 11.8%보다 2.3% 높았습니다.
+excerpt: SPY의 최근 7년 7개월 CAGR은 14.1%로 DIVO의 11.8%보다 2.2% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -41,7 +41,7 @@ SPY의 수익률이 DIVO보다 지속적으로 우세하면 상승하고, 반대
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** SPY의 CAGR은 14.1%로 DIVO의 11.8%보다 2.3% 높았습니다. (높은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** SPY의 CAGR은 14.1%로 DIVO의 11.8%보다 2.2% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** SPY의 표준편차는 18.4%로 DIVO의 15.4%보다 3.1% 높았습니다. (높은 위험도)
 
@@ -79,7 +79,7 @@ DIVO<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, DIV
 | SPY | <span style="color: tomato">14.1<small>%</small></span> | 18.4<small>%</small> | 0.76 | -33.7<small>%</small> | -5.0<small>%</small> |
 | DIVO | <span style="color: tomato">11.8<small>%</small></span> | 15.4<small>%</small> | 0.77 | -30.0<small>%</small> | -2.8<small>%</small> |
 | DIVO<sub>STD</sub> <small>(120%)</small> | <span style="color: tomato">14.0<small>%</small></span> | 18.4<small>%</small> | 0.76 | -35.2<small>%</small> | -3.5<small>%</small> |
-| DIVO<sub>MDD</sub> <small>(112%)</small> | <span style="color: tomato">13.1<small>%</small></span> | 17.3<small>%</small> | 0.76 | -33.2<small>%</small> | -3.2<small>%</small> |
+| DIVO<sub>MDD</sub> <small>(112%)</small> | <span style="color: tomato">13.2<small>%</small></span> | 17.3<small>%</small> | 0.76 | -33.2<small>%</small> | -3.2<small>%</small> |
 
 
 
@@ -87,7 +87,7 @@ DIVO<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, DIV
 
 **위험도 지표 (표준편차):** 120% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 14.0%로 SPY의 14.1%와 비슷했습니다. (비슷한 수익률)
 
-**위험도 지표 (MDD):** 112% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 13.1%로 SPY의 14.1%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (MDD):** 112% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 13.2%로 SPY의 14.1%와 비슷했습니다. (비슷한 수익률)
 
 
 
