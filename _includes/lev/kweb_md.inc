@@ -1,4 +1,4 @@
 | **종목** | **배율** | **CAGR** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| KWEB | | <span style="color: cornflowerblue">-17.0<small>%</small></span> | - | - | - |
-| [CWEB](/cweb/) | 2<small>x</small> | <span style="color: cornflowerblue">-41.9<small>%</small></span> | 9.4<small>%</small> | 6.7<small>%</small> | 15.5<small>%</small> |
+| KWEB | | <span style="color: cornflowerblue">-15.6<small>%</small></span> | - | - | - |
+| [CWEB](/cweb/) | 2<small>x</small> | <span style="color: cornflowerblue">-39.8<small>%</small></span> | 9.5<small>%</small> | 6.6<small>%</small> | 15.4<small>%</small> |
