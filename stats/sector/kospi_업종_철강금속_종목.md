@@ -5,7 +5,7 @@ excerpt: KOSPI 철강금속 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-07-31
+last_modified_at: 2024-08-01
 ---
 
 
@@ -16,58 +16,58 @@ last_modified_at: 2024-07-31
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [POSCO홀딩스](/005490/) | 15.7 | 0.5 | 2.8<small>%</small> | 52.3<small>%</small> |
-| [고려아연](/010130/) | 18.5 | 1.1 | 3.1<small>%</small> | 17.7<small>%</small> |
-| [현대제철](/004020/) | 7.9 | 0.2 | 3.6<small>%</small> | 6.5<small>%</small> |
-| [풍산](/103140/) | 10.2 | 0.8 | 2.0<small>%</small> | 2.9<small>%</small> |
+| [POSCO홀딩스](/005490/) | 16.2 | 0.5 | 2.8<small>%</small> | 52.8<small>%</small> |
+| [고려아연](/010130/) | 18.7 | 1.1 | 3.1<small>%</small> | 17.5<small>%</small> |
+| [현대제철](/004020/) | 7.9 | 0.2 | 3.6<small>%</small> | 6.4<small>%</small> |
+| [풍산](/103140/) | 10.2 | 0.8 | 2.1<small>%</small> | 2.8<small>%</small> |
 | [TCC스틸](/002710/) | - | 4.2 | 0.2<small>%</small> | 1.7<small>%</small> |
-| [삼아알미늄](/006110/) | 220.8 | 3.0 | 0.2<small>%</small> | 1.3<small>%</small> |
-| SK오션플랜트 | 12.2 | 1.1 | - | 1.3<small>%</small> |
-| [세아베스틸지주](/001430/) | 5.3 | 0.3 | 6.3<small>%</small> | 1.2<small>%</small> |
-| [KG스틸](/016380/) | 2.7 | 0.3 | 3.2<small>%</small> | 1.1<small>%</small> |
+| SK오션플랜트 | 12.5 | 1.1 | - | 1.3<small>%</small> |
+| [삼아알미늄](/006110/) | 220.4 | 3.0 | 0.2<small>%</small> | 1.3<small>%</small> |
+| [세아베스틸지주](/001430/) | 5.6 | 0.4 | 6.0<small>%</small> | 1.2<small>%</small> |
+| [KG스틸](/016380/) | 2.7 | 0.3 | 3.1<small>%</small> | 1.1<small>%</small> |
 | [영풍](/000670/) | - | 0.1 | 3.2<small>%</small> | 1.0<small>%</small> |
-| 고려제강 | 7.0 | 0.3 | 1.7<small>%</small> | 0.9<small>%</small> |
-| 동국제강 | 3.1 | 0.3 | 7.8<small>%</small> | 0.8<small>%</small> |
-| 세아홀딩스 | 5.0 | 0.2 | 3.8<small>%</small> | 0.7<small>%</small> |
-| 한국철강 | 4.8 | 0.4 | 4.7<small>%</small> | 0.6<small>%</small> |
-| 세아제강 | 1.9 | 0.4 | 6.3<small>%</small> | 0.6<small>%</small> |
-| KISCO홀딩스 | 3.0 | 0.2 | 4.5<small>%</small> | 0.6<small>%</small> |
-| 대한제강 | 2.9 | 0.3 | 4.3<small>%</small> | 0.5<small>%</small> |
-| 포스코스틸리온 | 10.5 | 0.7 | 3.7<small>%</small> | 0.5<small>%</small> |
-| 알루코 | 13.3 | 0.9 | - | 0.5<small>%</small> |
+| 고려제강 | 7.1 | 0.3 | 1.7<small>%</small> | 0.9<small>%</small> |
+| 동국제강 | 3.2 | 0.3 | 7.7<small>%</small> | 0.8<small>%</small> |
+| 세아홀딩스 | 5.1 | 0.2 | 3.8<small>%</small> | 0.7<small>%</small> |
+| 세아제강 | 1.9 | 0.4 | 6.2<small>%</small> | 0.6<small>%</small> |
+| 한국철강 | 4.9 | 0.4 | 4.7<small>%</small> | 0.6<small>%</small> |
+| KISCO홀딩스 | 3.1 | 0.2 | 4.3<small>%</small> | 0.6<small>%</small> |
+| 대한제강 | 3.0 | 0.3 | 4.2<small>%</small> | 0.5<small>%</small> |
+| 포스코스틸리온 | 10.7 | 0.7 | 3.7<small>%</small> | 0.5<small>%</small> |
+| 알루코 | 13.6 | 0.9 | - | 0.5<small>%</small> |
 | 휴스틸 | 3.5 | 0.2 | 5.6<small>%</small> | 0.4<small>%</small> |
-| SIMPAC | - | 0.3 | 2.7<small>%</small> | 0.4<small>%</small> |
-| 넥스틸 | 1.7 | 0.6 | 7.5<small>%</small> | 0.4<small>%</small> |
+| SIMPAC | - | 0.3 | 2.6<small>%</small> | 0.4<small>%</small> |
+| 넥스틸 | 1.7 | 0.6 | 7.4<small>%</small> | 0.4<small>%</small> |
 | 현대비앤지스틸 | - | 0.5 | - | 0.4<small>%</small> |
-| 동국씨엠 | 22.3 | 0.2 | 1.3<small>%</small> | 0.4<small>%</small> |
 | 조일알미늄 | - | 1.2 | - | 0.4<small>%</small> |
+| 동국씨엠 | 22.5 | 0.2 | 1.3<small>%</small> | 0.4<small>%</small> |
 | 남선알미늄 | - | 0.7 | - | 0.4<small>%</small> |
 | 만호제강 | 15.2 | 0.5 | - | 0.3<small>%</small> |
-| 이구산업 | 230.5 | 1.2 | 1.1<small>%</small> | 0.3<small>%</small> |
-| 금강공업 | 3.5 | 0.4 | 2.3<small>%</small> | 0.3<small>%</small> |
-| 한국주철관 | 8.4 | 0.4 | 6.0<small>%</small> | 0.3<small>%</small> |
+| 이구산업 | 239.2 | 1.3 | 1.0<small>%</small> | 0.3<small>%</small> |
 | 아주스틸 | - | 0.7 | - | 0.3<small>%</small> |
+| 한국주철관 | 8.5 | 0.4 | 6.0<small>%</small> | 0.3<small>%</small> |
+| 금강공업 | 3.5 | 0.4 | 2.3<small>%</small> | 0.3<small>%</small> |
 | 동양철관 | - | 1.4 | - | 0.3<small>%</small> |
-| 디씨엠 | - | 0.4 | 1.3<small>%</small> | 0.2<small>%</small> |
-| NI스틸 | 2.5 | 0.5 | 2.9<small>%</small> | 0.2<small>%</small> |
+| 디씨엠 | - | 0.4 | 1.2<small>%</small> | 0.2<small>%</small> |
 | 대창 | - | 0.5 | - | 0.2<small>%</small> |
-| 세아특수강 | - | 0.4 | 7.2<small>%</small> | 0.2<small>%</small> |
+| NI스틸 | 2.4 | 0.5 | 2.9<small>%</small> | 0.2<small>%</small> |
+| 세아특수강 | - | 0.4 | 7.1<small>%</small> | 0.2<small>%</small> |
 | 동일산업 | - | 0.2 | 2.4<small>%</small> | 0.2<small>%</small> |
-| 황금에스티 | 4.2 | 0.3 | 2.5<small>%</small> | 0.2<small>%</small> |
+| 황금에스티 | 4.3 | 0.3 | 2.5<small>%</small> | 0.2<small>%</small> |
 | 한국특강 | 3.4 | 0.4 | - | 0.2<small>%</small> |
 | 대양금속 | - | 1.1 | - | 0.2<small>%</small> |
-| 하이스틸 | 58.5 | 0.5 | 0.3<small>%</small> | 0.1<small>%</small> |
-| 대호에이엘 | 20.0 | 0.7 | - | 0.1<small>%</small> |
+| 하이스틸 | 57.3 | 0.5 | 0.3<small>%</small> | 0.1<small>%</small> |
+| 대호에이엘 | 20.4 | 0.8 | - | 0.1<small>%</small> |
 | DSR | 3.9 | 0.3 | 1.4<small>%</small> | 0.1<small>%</small> |
 | DSR제강 | 4.9 | 0.3 | 1.4<small>%</small> | 0.1<small>%</small> |
 | 서원 | - | 0.5 | - | 0.1<small>%</small> |
 | 한일철강 | - | 0.3 | 1.4<small>%</small> | 0.1<small>%</small> |
-| 부국철강 | 15.5 | 0.4 | 2.7<small>%</small> | 0.1<small>%</small> |
 | 문배철강 | 2.9 | 0.3 | 1.8<small>%</small> | 0.1<small>%</small> |
+| 부국철강 | 15.7 | 0.4 | 2.6<small>%</small> | 0.1<small>%</small> |
 | 영흥 | - | 0.2 | - | 0.1<small>%</small> |
 | 동일제강 | - | 0.2 | - | 0.1<small>%</small> |
 | 화인베스틸 | - | 0.5 | - | 0.1<small>%</small> |
-| SHD | 188.7 | 0.4 | 0.6<small>%</small> | 0.0<small>%</small> |
+| SHD | 189.0 | 0.4 | 0.6<small>%</small> | 0.0<small>%</small> |
 | 남선알미우 | - | - | - | 0.0<small>%</small> |
 | 금강공업우 | - | - | 1.5<small>%</small> | 0.0<small>%</small> |
 
