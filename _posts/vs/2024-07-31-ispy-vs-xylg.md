@@ -78,14 +78,14 @@ XYLG<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, XYL
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | ISPY | <span style="color: tomato">26.2<small>%</small></span> | 10.0<small>%</small> | 2.61 | -4.9<small>%</small> | -0.8<small>%</small> |
 | XYLG | <span style="color: tomato">23.3<small>%</small></span> | 7.3<small>%</small> | 3.19 | -4.3<small>%</small> | -0.6<small>%</small> |
-| XYLG<sub>STD</sub> <small>(138%)</small> | <span style="color: tomato">33.2<small>%</small></span> | 10.0<small>%</small> | 3.31 | -5.9<small>%</small> | -0.9<small>%</small> |
+| XYLG<sub>STD</sub> <small>(138%)</small> | <span style="color: tomato">33.3<small>%</small></span> | 10.0<small>%</small> | 3.31 | -5.9<small>%</small> | -0.9<small>%</small> |
 | XYLG<sub>MDD</sub> <small>(114%)</small> | <span style="color: tomato">26.9<small>%</small></span> | 8.3<small>%</small> | 3.24 | -4.9<small>%</small> | -0.7<small>%</small> |
 
 
 
 각각의 경우를 ISPY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 138% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 33.2%로 ISPY의 26.2%보다 7.0% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 138% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 33.3%로 ISPY의 26.2%보다 7.0% 높았습니다. (높은 수익률)
 
 **위험도 지표 (MDD):** 114% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 26.9%로 ISPY의 26.2%와 비슷했습니다. (비슷한 수익률)
 
