@@ -34,7 +34,7 @@ PFFD의 수익률이 LQD보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | PFFD | <span style="color: tomato">2.3<small>%</small></span> | 13.6<small>%</small> | 0.17 | -30.9<small>%</small> | -6.6<small>%</small> |
-| LQD | <span style="color: tomato">1.9<small>%</small></span> | 9.7<small>%</small> | 0.19 | -25.0<small>%</small> | -7.2<small>%</small> |
+| LQD | <span style="color: tomato">1.9<small>%</small></span> | 9.7<small>%</small> | 0.20 | -25.0<small>%</small> | -7.2<small>%</small> |
 
 <!-- more -->
 
@@ -77,9 +77,9 @@ LQD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, LQD<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | PFFD | <span style="color: tomato">2.3<small>%</small></span> | 13.6<small>%</small> | 0.17 | -30.9<small>%</small> | -6.6<small>%</small> |
-| LQD | <span style="color: tomato">1.9<small>%</small></span> | 9.7<small>%</small> | 0.19 | -25.0<small>%</small> | -7.2<small>%</small> |
-| LQD<sub>STD</sub> <small>(141%)</small> | <span style="color: tomato">2.4<small>%</small></span> | 13.6<small>%</small> | 0.17 | -33.6<small>%</small> | -10.0<small>%</small> |
-| LQD<sub>MDD</sub> <small>(124%)</small> | <span style="color: tomato">2.2<small>%</small></span> | 12.0<small>%</small> | 0.18 | -30.1<small>%</small> | -8.8<small>%</small> |
+| LQD | <span style="color: tomato">1.9<small>%</small></span> | 9.7<small>%</small> | 0.20 | -25.0<small>%</small> | -7.2<small>%</small> |
+| LQD<sub>STD</sub> <small>(141%)</small> | <span style="color: tomato">2.4<small>%</small></span> | 13.6<small>%</small> | 0.18 | -33.6<small>%</small> | -10.0<small>%</small> |
+| LQD<sub>MDD</sub> <small>(124%)</small> | <span style="color: tomato">2.2<small>%</small></span> | 12.0<small>%</small> | 0.19 | -30.1<small>%</small> | -8.8<small>%</small> |
 
 
 

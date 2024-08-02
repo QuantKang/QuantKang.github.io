@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [WOORI 미국S&P500](/444490-vs-379800/) | <span style="color: tomato">22.4<small>%</small></span> | 15.3<small>%</small> | 1.46 | -12.7<small>%</small> | -2.4<small>%</small> |
-| KODEX 미국S&P500TR | <span style="color: tomato">23.0<small>%</small></span> | 12.9<small>%</small> | 1.79 | -13.0<small>%</small> | -2.4<small>%</small> |
+| [WOORI 미국S&P500](/444490-vs-379800/) | <span style="color: tomato">20.9<small>%</small></span> | 15.4<small>%</small> | 1.36 | -12.7<small>%</small> | -2.4<small>%</small> |
+| KODEX 미국S&P500TR | <span style="color: tomato">21.4<small>%</small></span> | 13.0<small>%</small> | 1.65 | -13.0<small>%</small> | -2.4<small>%</small> |
