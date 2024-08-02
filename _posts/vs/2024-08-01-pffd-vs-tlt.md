@@ -34,7 +34,7 @@ PFFD의 수익률이 TLT보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | PFFD | <span style="color: tomato">2.3<small>%</small></span> | 13.6<small>%</small> | 0.17 | -30.9<small>%</small> | -6.6<small>%</small> |
-| TLT | <span style="color: cornflowerblue">-1.7<small>%</small></span> | 16.0<small>%</small> | -0.11 | -48.4<small>%</small> | -17.5<small>%</small> |
+| TLT | <span style="color: cornflowerblue">-1.7<small>%</small></span> | 16.0<small>%</small> | -0.10 | -48.4<small>%</small> | -17.5<small>%</small> |
 
 <!-- more -->
 
@@ -77,8 +77,8 @@ TLT<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, TLT<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | PFFD | <span style="color: tomato">2.3<small>%</small></span> | 13.6<small>%</small> | 0.17 | -30.9<small>%</small> | -6.6<small>%</small> |
-| TLT | <span style="color: cornflowerblue">-1.7<small>%</small></span> | 16.0<small>%</small> | -0.11 | -48.4<small>%</small> | -17.5<small>%</small> |
-| TLT<sub>STD</sub> <small>(85%)</small> | <span style="color: cornflowerblue">-1.3<small>%</small></span> | 13.6<small>%</small> | -0.10 | -42.6<small>%</small> | -15.1<small>%</small> |
+| TLT | <span style="color: cornflowerblue">-1.7<small>%</small></span> | 16.0<small>%</small> | -0.10 | -48.4<small>%</small> | -17.5<small>%</small> |
+| TLT<sub>STD</sub> <small>(85%)</small> | <span style="color: cornflowerblue">-1.3<small>%</small></span> | 13.6<small>%</small> | -0.09 | -42.6<small>%</small> | -15.1<small>%</small> |
 | TLT<sub>MDD</sub> <small>(64%)</small> | <span style="color: cornflowerblue">-0.8<small>%</small></span> | 10.3<small>%</small> | -0.08 | -33.8<small>%</small> | -11.6<small>%</small> |
 
 
@@ -99,7 +99,7 @@ TLT<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, TLT<
 
 지난 6년 10개월간 거치식으로 투자했다고 가정합니다.
 
-TLT의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 -1.1%인 포트폴리오를 만들 수 있습니다.
+TLT의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 -1.0%인 포트폴리오를 만들 수 있습니다.
 이 포트폴리오는 PFFD의 2.3%보다 -3.3% 낮았습니다.
 
 ### PFFD &gt; TLT

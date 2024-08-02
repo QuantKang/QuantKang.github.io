@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [RISE 대형고배당10TR](/315960-vs-292150/) | <span style="color: tomato">14.6<small>%</small></span> | 22.5<small>%</small> | 0.65 | -36.6<small>%</small> | -9.4<small>%</small> |
-| TIGER TOP10 | <span style="color: tomato">10.6<small>%</small></span> | 21.9<small>%</small> | 0.48 | -39.7<small>%</small> | -15.0<small>%</small> |
+| [RISE 대형고배당10TR](/315960-vs-292150/) | <span style="color: tomato">13.4<small>%</small></span> | 22.6<small>%</small> | 0.59 | -36.6<small>%</small> | -9.4<small>%</small> |
+| TIGER TOP10 | <span style="color: tomato">9.5<small>%</small></span> | 22.0<small>%</small> | 0.43 | -39.7<small>%</small> | -15.0<small>%</small> |
