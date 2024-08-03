@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [ARKK](/arkk-vs-qqq/) | <span style="color: tomato">9.2<small>%</small></span> | 37.5<small>%</small> | 0.24 | -80.9<small>%</small> | -24.9<small>%</small> |
-| QQQ | <span style="color: tomato">17.7<small>%</small></span> | 21.7<small>%</small> | 0.82 | -35.1<small>%</small> | -6.3<small>%</small> |
+| [ARKK](/arkk-vs-qqq/) | <span style="color: tomato">8.6<small>%</small></span> | 37.5<small>%</small> | 0.23 | -80.9<small>%</small> | -25.0<small>%</small> |
+| QQQ | <span style="color: tomato">17.4<small>%</small></span> | 21.7<small>%</small> | 0.80 | -35.1<small>%</small> | -6.3<small>%</small> |
