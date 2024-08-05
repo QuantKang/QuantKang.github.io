@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [QDTE](/qdte-vs-qqq/) | <span style="color: tomato">3.0<small>%</small></span> | 16.1<small>%</small> | 0.19 | -7.6<small>%</small> | -1.8<small>%</small> |
-| QQQ | <span style="color: tomato">2.6<small>%</small></span> | 17.5<small>%</small> | 0.15 | -10.8<small>%</small> | -2.1<small>%</small> |
+| [QDTE](/qdte-vs-qqq/) | <span style="color: cornflowerblue">-5.2<small>%</small></span> | 16.8<small>%</small> | -0.31 | -10.7<small>%</small> | -1.9<small>%</small> |
+| QQQ | <span style="color: cornflowerblue">-4.7<small>%</small></span> | 18.0<small>%</small> | -0.26 | -13.4<small>%</small> | -2.2<small>%</small> |
