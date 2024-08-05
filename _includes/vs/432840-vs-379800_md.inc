@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [HANARO 미국S&P500](/432840-vs-379800/) | <span style="color: tomato">17.8<small>%</small></span> | 15.9<small>%</small> | 1.12 | -15.1<small>%</small> | -3.3<small>%</small> |
-| KODEX 미국S&P500TR | <span style="color: tomato">19.2<small>%</small></span> | 14.1<small>%</small> | 1.36 | -15.0<small>%</small> | -3.2<small>%</small> |
+| [HANARO 미국S&P500](/432840-vs-379800/) | <span style="color: tomato">16.2<small>%</small></span> | 16.0<small>%</small> | 1.01 | -15.1<small>%</small> | -3.3<small>%</small> |
+| KODEX 미국S&P500TR | <span style="color: tomato">17.0<small>%</small></span> | 14.3<small>%</small> | 1.19 | -15.0<small>%</small> | -3.2<small>%</small> |
