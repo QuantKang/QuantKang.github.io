@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [컴투스](/078340/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240802000272){:target="_blank"} |
-| [키움증권](/039490/#dart) | | [투자설명서(일괄신고)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240802000271){:target="_blank"} |
-| [브이티](/018290/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240802000270){:target="_blank"} |
-| [티케이지휴켐스](/069260/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240802800363){:target="_blank"} |
-| [BGF리테일](/282330/#dart) | | [[기재정정]대규모기업집단현황공시[연1회공시및1/4분기용(개별회사)]](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240802000263){:target="_blank"} |
+| [F&F](/383220/#dart) | | [최대주주등소유주식변동신고서              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240806800669){:target="_blank"} |
+| [아모레퍼시픽](/090430/#dart) | | [연결재무제표기준영업(잠정)실적(공정공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240806800655){:target="_blank"} |
+| [엘앤에프](/066970/#dart) | | [연결재무제표기준영업(잠정)실적(공정공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240806800638){:target="_blank"} |
+| [OCI홀딩스](/010060/#dart) | | [[첨부정정]주요사항보고서(주식교환ㆍ이전결정)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240806000170){:target="_blank"} |
+| [한전KPS](/051600/#dart) | | [연결재무제표기준영업(잠정)실적(공정공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240806800629){:target="_blank"} |
