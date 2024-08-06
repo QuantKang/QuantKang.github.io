@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [VTV](/vtv-vs-spy/) | <span style="color: tomato">8.7<small>%</small></span> | 18.9<small>%</small> | 0.46 | -59.3<small>%</small> | -8.4<small>%</small> |
-| SPY | <span style="color: tomato">9.7<small>%</small></span> | 18.8<small>%</small> | 0.52 | -55.2<small>%</small> | -7.3<small>%</small> |
+| [VTV](/vtv-vs-spy/) | <span style="color: tomato">8.8<small>%</small></span> | 18.9<small>%</small> | 0.47 | -59.3<small>%</small> | -8.4<small>%</small> |
+| SPY | <span style="color: tomato">9.8<small>%</small></span> | 18.8<small>%</small> | 0.52 | -55.2<small>%</small> | -7.3<small>%</small> |
