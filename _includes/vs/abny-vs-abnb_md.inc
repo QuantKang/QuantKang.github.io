@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [ABNY](/abny-vs-abnb/) | - | 28.5<small>%</small> | nan | -14.8<small>%</small> | -3.4<small>%</small> |
-| ABNB | - | 31.1<small>%</small> | nan | -18.8<small>%</small> | -5.4<small>%</small> |
+| [ABNY](/abny-vs-abnb/) | - | 57.4<small>%</small> | nan | -27.0<small>%</small> | -4.1<small>%</small> |
+| ABNB | - | 48.1<small>%</small> | nan | -26.8<small>%</small> | -6.1<small>%</small> |
