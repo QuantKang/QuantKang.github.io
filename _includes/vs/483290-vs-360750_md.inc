@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KODEX 미국배당+10%프리미엄다우존스](/483290-vs-360750/) | - | 13.9<small>%</small> | nan | -4.7<small>%</small> | -1.4<small>%</small> |
-| TIGER 미국S&P500 | - | 14.2<small>%</small> | nan | -9.1<small>%</small> | -1.1<small>%</small> |
+| [KODEX 미국배당+10%프리미엄다우존스](/483290-vs-360750/) | - | 13.7<small>%</small> | nan | -4.7<small>%</small> | -1.4<small>%</small> |
+| TIGER 미국S&P500 | - | 14.1<small>%</small> | nan | -9.1<small>%</small> | -1.2<small>%</small> |
