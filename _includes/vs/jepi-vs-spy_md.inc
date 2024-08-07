@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [JEPI](/jepi-vs-spy/) | <span style="color: tomato">11.9<small>%</small></span> | 10.5<small>%</small> | 1.13 | -13.7<small>%</small> | -2.2<small>%</small> |
-| SPY | <span style="color: tomato">16.3<small>%</small></span> | 17.0<small>%</small> | 0.96 | -24.5<small>%</small> | -6.0<small>%</small> |
+| [JEPI](/jepi-vs-spy/) | <span style="color: tomato">11.8<small>%</small></span> | 10.5<small>%</small> | 1.12 | -13.7<small>%</small> | -2.2<small>%</small> |
+| SPY | <span style="color: tomato">16.1<small>%</small></span> | 17.0<small>%</small> | 0.95 | -24.5<small>%</small> | -6.0<small>%</small> |
