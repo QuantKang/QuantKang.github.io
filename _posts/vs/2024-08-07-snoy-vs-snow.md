@@ -33,7 +33,7 @@ SNOY의 수익률이 SNOW보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SNOY | - | 33.5<small>%</small> | nan | -19.0<small>%</small> | -4.6<small>%</small> |
+| SNOY | - | 32.2<small>%</small> | nan | -17.4<small>%</small> | -4.5<small>%</small> |
 | SNOW | - | 40.3<small>%</small> | nan | -21.2<small>%</small> | -6.1<small>%</small> |
 
 <!-- more -->
@@ -43,9 +43,9 @@ SNOY의 수익률이 SNOW보다 지속적으로 우세하면 상승하고, 반�
 
 **수익률 지표 (CAGR):** SNOY의 CAGR은 -로 SNOW의 -와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** SNOY의 표준편차는 33.5%로 SNOW의 40.3%보다 -6.8% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** SNOY의 표준편차는 32.2%로 SNOW의 40.3%보다 -8.1% 낮았습니다. (낮은 위험도)
 
-**위험도 지표 (MDD):** SNOY의 19.0%의 MDD는 SNOW의 21.2%보다 -2.2% 낮았습니다. (낮은 위험도)
+**위험도 지표 (MDD):** SNOY의 17.4%의 MDD는 SNOW의 21.2%보다 -3.9% 낮았습니다. (낮은 위험도)
 
 
 
@@ -54,9 +54,9 @@ SNOY의 수익률이 SNOW보다 지속적으로 우세하면 상승하고, 반�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 SNOW의 투자 비중[^fn_vs_weight]을 조절하여 SNOY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 40.3% / 33.5% = 83% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 40.3% / 32.2% = 80% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
-**위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 21.2% / 19.0% = 89% 비중으로 투자하면 됩니다.
+**위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 21.2% / 17.4% = 82% 비중으로 투자하면 됩니다.
 
 
 {% include /commons/ads/adsense.html %}
@@ -76,18 +76,18 @@ SNOW<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SNO
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SNOY | - | 33.5<small>%</small> | nan | -19.0<small>%</small> | -4.6<small>%</small> |
+| SNOY | - | 32.2<small>%</small> | nan | -17.4<small>%</small> | -4.5<small>%</small> |
 | SNOW | - | 40.3<small>%</small> | nan | -21.2<small>%</small> | -6.1<small>%</small> |
-| SNOW<sub>STD</sub> <small>(83%)</small> | - | 33.5<small>%</small> | nan | -17.9<small>%</small> | -5.1<small>%</small> |
-| SNOW<sub>MDD</sub> <small>(89%)</small> | - | 36.0<small>%</small> | nan | -19.2<small>%</small> | -5.4<small>%</small> |
+| SNOW<sub>STD</sub> <small>(80%)</small> | - | 32.2<small>%</small> | nan | -17.3<small>%</small> | -4.9<small>%</small> |
+| SNOW<sub>MDD</sub> <small>(82%)</small> | - | 32.9<small>%</small> | nan | -17.6<small>%</small> | -5.0<small>%</small> |
 
 
 
 각각의 경우를 SNOY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 83% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 -로 SNOY의 -와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 80% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 -로 SNOY의 -와 비슷했습니다. (비슷한 수익률)
 
-**위험도 지표 (MDD):** 89% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 -로 SNOY의 -와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (MDD):** 82% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 -로 SNOY의 -와 비슷했습니다. (비슷한 수익률)
 
 
 

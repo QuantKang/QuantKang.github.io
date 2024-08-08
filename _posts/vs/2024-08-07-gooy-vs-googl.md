@@ -1,7 +1,7 @@
 ---
 layout: single
 title: GOOY vs Alphabet Inc Class A (GOOGL)
-excerpt: GOOY의 최근 1년 CAGR은 -5.7%로 Alphabet Inc Class A (GOOGL)의 19.4%보다 -25.1% 낮았습니다.
+excerpt: GOOY의 최근 1년 CAGR은 -2.6%로 Alphabet Inc Class A (GOOGL)의 19.4%보다 -22.0% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ GOOY의 수익률이 GOOGL보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| GOOY | <span style="color: cornflowerblue">-5.7<small>%</small></span> | 20.7<small>%</small> | -0.27 | -17.1<small>%</small> | -5.0<small>%</small> |
+| GOOY | <span style="color: cornflowerblue">-2.6<small>%</small></span> | 20.5<small>%</small> | -0.13 | -17.0<small>%</small> | -5.0<small>%</small> |
 | GOOGL | <span style="color: tomato">19.4<small>%</small></span> | 27.6<small>%</small> | 0.70 | -17.2<small>%</small> | -3.6<small>%</small> |
 
 <!-- more -->
@@ -41,11 +41,11 @@ GOOY의 수익률이 GOOGL보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** GOOY의 CAGR은 -5.7%로 GOOGL의 19.4%보다 -25.1% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** GOOY의 CAGR은 -2.6%로 GOOGL의 19.4%보다 -22.0% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** GOOY의 표준편차는 20.7%로 GOOGL의 27.6%보다 -6.8% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** GOOY의 표준편차는 20.5%로 GOOGL의 27.6%보다 -7.0% 낮았습니다. (낮은 위험도)
 
-**위험도 지표 (MDD):** GOOY의 17.1%의 MDD는 GOOGL의 17.2%와 비슷했습니다. (비슷한 위험도)
+**위험도 지표 (MDD):** GOOY의 17.0%의 MDD는 GOOGL의 17.2%와 비슷했습니다. (비슷한 위험도)
 
 
 
@@ -54,9 +54,9 @@ GOOY의 수익률이 GOOGL보다 지속적으로 우세하면 상승하고, 반�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 GOOGL의 투자 비중[^fn_vs_weight]을 조절하여 GOOY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 27.6% / 20.7% = 75% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 27.6% / 20.5% = 75% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
-**위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 17.2% / 17.1% = 100% 비중으로 투자하면 됩니다.
+**위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 17.2% / 17.0% = 99% 비중으로 투자하면 됩니다.
 
 
 {% include /commons/ads/adsense.html %}
@@ -76,18 +76,18 @@ GOOGL<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, GO
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| GOOY | <span style="color: cornflowerblue">-5.7<small>%</small></span> | 20.7<small>%</small> | -0.27 | -17.1<small>%</small> | -5.0<small>%</small> |
+| GOOY | <span style="color: cornflowerblue">-2.6<small>%</small></span> | 20.5<small>%</small> | -0.13 | -17.0<small>%</small> | -5.0<small>%</small> |
 | GOOGL | <span style="color: tomato">19.4<small>%</small></span> | 27.6<small>%</small> | 0.70 | -17.2<small>%</small> | -3.6<small>%</small> |
-| GOOGL<sub>STD</sub> <small>(75%)</small> | <span style="color: tomato">15.1<small>%</small></span> | 20.7<small>%</small> | 0.73 | -13.2<small>%</small> | -2.7<small>%</small> |
-| GOOGL<sub>MDD</sub> <small>(100%)</small> | <span style="color: tomato">19.3<small>%</small></span> | 27.4<small>%</small> | 0.70 | -17.1<small>%</small> | -3.6<small>%</small> |
+| GOOGL<sub>STD</sub> <small>(75%)</small> | <span style="color: tomato">15.0<small>%</small></span> | 20.5<small>%</small> | 0.73 | -13.0<small>%</small> | -2.7<small>%</small> |
+| GOOGL<sub>MDD</sub> <small>(99%)</small> | <span style="color: tomato">19.2<small>%</small></span> | 27.3<small>%</small> | 0.70 | -17.0<small>%</small> | -3.6<small>%</small> |
 
 
 
 각각의 경우를 GOOY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 75% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 15.1%로 GOOY의 -5.7%보다 20.7% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 75% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 15.0%로 GOOY의 -2.6%보다 17.6% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 100% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 19.3%로 GOOY의 -5.7%보다 25.0% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 99% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 19.2%로 GOOY의 -2.6%보다 21.8% 높았습니다. (높은 수익률)
 
 
 
@@ -99,8 +99,8 @@ GOOGL<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, GO
 
 지난 1년간 거치식으로 투자했다고 가정합니다.
 
-GOOGL의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 17.2%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 GOOY의 -5.7%보다 22.9% 높았습니다.
+GOOGL의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 17.1%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 GOOY의 -2.6%보다 19.7% 높았습니다.
 
 ### GOOY	&lt; GOOGL
 {: .text-center}

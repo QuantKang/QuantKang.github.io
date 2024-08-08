@@ -1,7 +1,7 @@
 ---
 layout: single
 title: DISO vs Walt Disney Co (DIS)
-excerpt: DISO의 최근 1년 CAGR은 -1.1%로 Walt Disney Co (DIS)의 4.1%보다 -5.2% 낮았습니다.
+excerpt: DISO의 최근 1년 CAGR은 1.5%로 Walt Disney Co (DIS)의 4.1%보다 -2.6% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ DISO의 수익률이 DIS보다 지속적으로 우세하면 상승하고, 반대
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| DISO | <span style="color: cornflowerblue">-1.1<small>%</small></span> | 20.5<small>%</small> | -0.05 | -23.6<small>%</small> | -5.5<small>%</small> |
+| DISO | <span style="color: tomato">1.5<small>%</small></span> | 20.0<small>%</small> | 0.08 | -21.7<small>%</small> | -5.4<small>%</small> |
 | DIS | <span style="color: tomato">4.1<small>%</small></span> | 27.0<small>%</small> | 0.15 | -29.7<small>%</small> | -7.5<small>%</small> |
 
 <!-- more -->
@@ -41,11 +41,11 @@ DISO의 수익률이 DIS보다 지속적으로 우세하면 상승하고, 반대
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** DISO의 CAGR은 -1.1%로 DIS의 4.1%보다 -5.2% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** DISO의 CAGR은 1.5%로 DIS의 4.1%보다 -2.6% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** DISO의 표준편차는 20.5%로 DIS의 27.0%보다 -6.5% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** DISO의 표준편차는 20.0%로 DIS의 27.0%보다 -7.0% 낮았습니다. (낮은 위험도)
 
-**위험도 지표 (MDD):** DISO의 23.6%의 MDD는 DIS의 29.7%보다 -6.1% 낮았습니다. (낮은 위험도)
+**위험도 지표 (MDD):** DISO의 21.7%의 MDD는 DIS의 29.7%보다 -8.0% 낮았습니다. (낮은 위험도)
 
 
 
@@ -54,9 +54,9 @@ DISO의 수익률이 DIS보다 지속적으로 우세하면 상승하고, 반대
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 DIS의 투자 비중[^fn_vs_weight]을 조절하여 DISO의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 27.0% / 20.5% = 76% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 27.0% / 20.0% = 74% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
-**위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 29.7% / 23.6% = 79% 비중으로 투자하면 됩니다.
+**위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 29.7% / 21.7% = 73% 비중으로 투자하면 됩니다.
 
 
 {% include /commons/ads/adsense.html %}
@@ -76,18 +76,18 @@ DIS<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, DIS<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| DISO | <span style="color: cornflowerblue">-1.1<small>%</small></span> | 20.5<small>%</small> | -0.05 | -23.6<small>%</small> | -5.5<small>%</small> |
+| DISO | <span style="color: tomato">1.5<small>%</small></span> | 20.0<small>%</small> | 0.08 | -21.7<small>%</small> | -5.4<small>%</small> |
 | DIS | <span style="color: tomato">4.1<small>%</small></span> | 27.0<small>%</small> | 0.15 | -29.7<small>%</small> | -7.5<small>%</small> |
-| DIS<sub>STD</sub> <small>(76%)</small> | <span style="color: tomato">3.8<small>%</small></span> | 20.5<small>%</small> | 0.19 | -23.3<small>%</small> | -5.8<small>%</small> |
-| DIS<sub>MDD</sub> <small>(79%)</small> | <span style="color: tomato">3.9<small>%</small></span> | 21.4<small>%</small> | 0.18 | -24.3<small>%</small> | -6.0<small>%</small> |
+| DIS<sub>STD</sub> <small>(74%)</small> | <span style="color: tomato">3.8<small>%</small></span> | 20.0<small>%</small> | 0.19 | -22.8<small>%</small> | -5.6<small>%</small> |
+| DIS<sub>MDD</sub> <small>(73%)</small> | <span style="color: tomato">3.7<small>%</small></span> | 19.7<small>%</small> | 0.19 | -22.5<small>%</small> | -5.5<small>%</small> |
 
 
 
 각각의 경우를 DISO의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 76% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 3.8%로 DISO의 -1.1%보다 4.9% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 74% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 3.8%로 DISO의 1.5%보다 2.2% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 79% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 3.9%로 DISO의 -1.1%보다 4.9% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 73% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 3.7%로 DISO의 1.5%보다 2.2% 높았습니다. (높은 수익률)
 
 
 
@@ -99,8 +99,8 @@ DIS<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, DIS<
 
 지난 1년간 거치식으로 투자했다고 가정합니다.
 
-DIS의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 3.8%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 DISO의 -1.1%보다 4.9% 높았습니다.
+DIS의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 3.7%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 DISO의 1.5%보다 2.2% 높았습니다.
 
 ### DISO	&lt; DIS
 {: .text-center}
