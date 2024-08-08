@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [JEPQ](/jepq-vs-qqq/) | <span style="color: tomato">9.9<small>%</small></span> | 16.6<small>%</small> | 0.60 | -16.8<small>%</small> | -4.0<small>%</small> |
-| QQQ | <span style="color: tomato">13.8<small>%</small></span> | 22.9<small>%</small> | 0.60 | -21.6<small>%</small> | -6.3<small>%</small> |
+| [JEPQ](/jepq-vs-qqq/) | <span style="color: tomato">11.1<small>%</small></span> | 16.7<small>%</small> | 0.67 | -16.8<small>%</small> | -4.0<small>%</small> |
+| QQQ | <span style="color: tomato">15.3<small>%</small></span> | 23.0<small>%</small> | 0.67 | -21.6<small>%</small> | -6.3<small>%</small> |
