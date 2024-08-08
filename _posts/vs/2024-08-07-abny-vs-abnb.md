@@ -33,7 +33,7 @@ ABNY의 수익률이 ABNB보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| ABNY | - | 57.4<small>%</small> | nan | -27.0<small>%</small> | -4.1<small>%</small> |
+| ABNY | - | 48.4<small>%</small> | nan | -23.7<small>%</small> | -4.0<small>%</small> |
 | ABNB | - | 48.1<small>%</small> | nan | -26.8<small>%</small> | -6.1<small>%</small> |
 
 <!-- more -->
@@ -43,9 +43,9 @@ ABNY의 수익률이 ABNB보다 지속적으로 우세하면 상승하고, 반�
 
 **수익률 지표 (CAGR):** ABNY의 CAGR은 -로 ABNB의 -와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** ABNY의 표준편차는 57.4%로 ABNB의 48.1%보다 9.3% 높았습니다. (높은 위험도)
+**위험도 지표 (표준편차):** ABNY의 표준편차는 48.4%로 ABNB의 48.1%와 비슷했습니다. (비슷한 위험도)
 
-**위험도 지표 (MDD):** ABNY의 27.0%의 MDD는 ABNB의 26.8%와 비슷했습니다. (비슷한 위험도)
+**위험도 지표 (MDD):** ABNY의 23.7%의 MDD는 ABNB의 26.8%보다 -3.1% 낮았습니다. (낮은 위험도)
 
 
 
@@ -54,9 +54,9 @@ ABNY의 수익률이 ABNB보다 지속적으로 우세하면 상승하고, 반�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 ABNB의 투자 비중[^fn_vs_weight]을 조절하여 ABNY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 48.1% / 57.4% = 119% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 48.1% / 48.4% = 100% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
-**위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 26.8% / 27.0% = 101% 비중으로 투자하면 됩니다.
+**위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 26.8% / 23.7% = 88% 비중으로 투자하면 됩니다.
 
 
 {% include /commons/ads/adsense.html %}
@@ -76,18 +76,18 @@ ABNB<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, ABN
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| ABNY | - | 57.4<small>%</small> | nan | -27.0<small>%</small> | -4.1<small>%</small> |
+| ABNY | - | 48.4<small>%</small> | nan | -23.7<small>%</small> | -4.0<small>%</small> |
 | ABNB | - | 48.1<small>%</small> | nan | -26.8<small>%</small> | -6.1<small>%</small> |
-| ABNB<sub>STD</sub> <small>(119%)</small> | - | 57.4<small>%</small> | nan | -31.3<small>%</small> | -7.2<small>%</small> |
-| ABNB<sub>MDD</sub> <small>(101%)</small> | - | 48.5<small>%</small> | nan | -26.9<small>%</small> | -6.1<small>%</small> |
+| ABNB<sub>STD</sub> <small>(100%)</small> | - | 48.4<small>%</small> | nan | -26.9<small>%</small> | -6.1<small>%</small> |
+| ABNB<sub>MDD</sub> <small>(88%)</small> | - | 42.5<small>%</small> | nan | -23.9<small>%</small> | -5.4<small>%</small> |
 
 
 
 각각의 경우를 ABNY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 119% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 -로 ABNY의 -와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 100% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 -로 ABNY의 -와 비슷했습니다. (비슷한 수익률)
 
-**위험도 지표 (MDD):** 101% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 -로 ABNY의 -와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (MDD):** 88% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 -로 ABNY의 -와 비슷했습니다. (비슷한 수익률)
 
 
 
