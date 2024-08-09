@@ -2730,6 +2730,31 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 
 
 
+## FNGU/FNGO
+
+
+
+### [FNGU vs BULZ](/fngu-vs-bulz/)<a id="fngu-vs-bulz"></a>
+
+{% include vs/fngu-vs-bulz_md.inc %}
+
+
+
+### [FNGU vs TQQQ](/fngu-vs-tqqq/)<a id="fngu-vs-tqqq"></a>
+
+{% include vs/fngu-vs-tqqq_md.inc %}
+
+
+
+### [FNGO vs QLD](/fngu-vs-qld/)<a id="fngu-vs-qld"></a>
+
+{% include vs/fngu-vs-qld_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
 ## 기타
 
 
@@ -2751,9 +2776,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/238720-vs-1329_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [RISE 차이나HSCEI(H) vs 2828.HK](/250730-vs-2828/)<a id="250730-vs-2828"></a>
 
@@ -2768,6 +2790,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [iShares 20+ Year US Treasury Bond JPY Hedged ETF vs iShares 20+ Year Treasury Bond ETF](/2621-vs-tlt/)<a id="2621-vs-tlt"></a>
 
 {% include vs/2621-vs-tlt_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -2788,9 +2813,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/shy-vs-tlt_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [IEF vs TLT](/ief-vs-tlt/)<a id="ief-vs-tlt"></a>
 
@@ -2801,6 +2823,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [HYT vs SHY](/hyt-vs-shy/)<a id="hyt-vs-shy"></a>
 
 {% include vs/hyt-vs-shy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -2821,9 +2846,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/hyt-vs-spy_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [GOF vs SPY](/gof-vs-spy/)<a id="gof-vs-spy"></a>
 
@@ -2834,6 +2856,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 ### [PDI vs SPY](/pdi-vs-spy/)<a id="pdi-vs-spy"></a>
 
 {% include vs/pdi-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
