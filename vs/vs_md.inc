@@ -2755,9 +2755,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 
 
 
-### [FNGO vs TQQQ](/fngu-vs-tqqq/)<a id="fngu-vs-tqqq"></a>
+### [FNGO vs TQQQ](/fngo-vs-tqqq/)<a id="fngo-vs-tqqq"></a>
 
-{% include vs/fngu-vs-tqqq_md.inc %}
+{% include vs/fngo-vs-tqqq_md.inc %}
 
 
 
