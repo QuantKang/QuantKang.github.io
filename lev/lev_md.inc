@@ -82,6 +82,12 @@
 
 
 
+### NYSE FANG+ 지수<a id="FNGS"></a>
+
+{% include lev/fngs_md.inc %}
+
+
+
 ## 해외 지수
 
 
@@ -103,13 +109,13 @@
 {% include lev/inda_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### CSI 중국 인터넷 지수<a id="KWEB"></a>
 
 {% include lev/kweb_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -138,3 +144,6 @@
 ### 엔비디아<a id="NVDA"></a>
 
 {% include lev/nvda_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
