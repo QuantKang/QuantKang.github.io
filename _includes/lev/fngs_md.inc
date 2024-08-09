@@ -4,5 +4,5 @@
 | [FNGO](/fngo/) | 2<small>x</small> | <span style="color: tomato">60.3<small>%</small></span> | 5.8<small>%</small> | 6.5<small>%</small> | 11.9<small>%</small> |
 | [FNGG](/fngg/) | 2<small>x</small> | <span style="color: tomato">60.8<small>%</small></span> | 5.8<small>%</small> | 6.2<small>%</small> | 11.7<small>%</small> |
 | [FNGU](/fngu/) | 3<small>x</small> | <span style="color: tomato">82.6<small>%</small></span> | 16.5<small>%</small> | 10.9<small>%</small> | 25.7<small>%</small> |
-| [FNGZ](/fngz/) | -3<small>x</small> | <span style="color: cornflowerblue">-44.8<small>%</small></span> | 31.3<small>%</small> | -41.6<small>%</small> | 2.7<small>%</small> |
+| [FNGZ](/fngz/) | -2<small>x</small> | <span style="color: cornflowerblue">-44.8<small>%</small></span> | 17.1<small>%</small> | 2.8<small>%</small> | 19.4<small>%</small> |
 | [FNGD](/fngd/) | -3<small>x</small> | <span style="color: cornflowerblue">-66.2<small>%</small></span> | 30.2<small>%</small> | -19.0<small>%</small> | 17.0<small>%</small> |

@@ -2746,12 +2746,18 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 
 
 
-### [FNGO vs QLD](/fngu-vs-qld/)<a id="fngu-vs-qld"></a>
+### [FNGO vs QLD](/fngo-vs-qld/)<a id="fngo-vs-qld"></a>
 
-{% include vs/fngu-vs-qld_md.inc %}
+{% include vs/fngo-vs-qld_md.inc %}
 
 
 {% include /commons/ads/adsense.html %}
+
+
+
+### [FNGO vs TQQQ](/fngu-vs-tqqq/)<a id="fngu-vs-tqqq"></a>
+
+{% include vs/fngu-vs-tqqq_md.inc %}
 
 
 
@@ -2782,6 +2788,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/250730-vs-2828_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ## 미국 상장 채권 ETF
 
@@ -2792,9 +2801,6 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/2621-vs-tlt_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [CSHI vs BIL](/cshi-vs-bil/)<a id="cshi-vs-bil"></a>
 
@@ -2802,7 +2808,7 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 
 
 
-### [BNDI  vs BND](/bndi-vs-bnd/)<a id="bndi-vs-bnd"></a>
+### [BNDI vs BND](/bndi-vs-bnd/)<a id="bndi-vs-bnd"></a>
 
 {% include vs/bndi-vs-bnd_md.inc %}
 
@@ -2819,13 +2825,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/ief-vs-tlt_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [HYT vs SHY](/hyt-vs-shy/)<a id="hyt-vs-shy"></a>
 
 {% include vs/hyt-vs-shy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -2852,13 +2858,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/gof-vs-spy_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [PDI vs SPY](/pdi-vs-spy/)<a id="pdi-vs-spy"></a>
 
 {% include vs/pdi-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
