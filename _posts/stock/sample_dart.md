@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [넷마블](/251270/#dart) | | [연결재무제표기준영업(잠정)실적(공정공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240808800410){:target="_blank"} |
-| [바텍](/043150/#dart) | | [연결재무제표기준영업(잠정)실적(공정공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240808900417){:target="_blank"} |
-| [신세계](/004170/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240808800432){:target="_blank"} |
-| [넥슨게임즈](/225570/#dart) | | [반기보고서 (2024.06)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240808000287){:target="_blank"} |
-| [삼성증권](/016360/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240808800390){:target="_blank"} |
+| [코오롱인더](/120110/#dart) | | [[기재정정]지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240809000454){:target="_blank"} |
+| [넷마블](/251270/#dart) | | [최대주주등소유주식변동신고서              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240809800465){:target="_blank"} |
+| [솔브레인홀딩스](/036830/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240809000428){:target="_blank"} |
+| [엘앤에프](/066970/#dart) | | [풍문또는보도에대한해명              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240809800355){:target="_blank"} |
+| [솔브레인](/357780/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240809000426){:target="_blank"} |
