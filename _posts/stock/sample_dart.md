@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [코오롱인더](/120110/#dart) | | [[기재정정]지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240809000454){:target="_blank"} |
-| [넷마블](/251270/#dart) | | [최대주주등소유주식변동신고서              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240809800465){:target="_blank"} |
-| [솔브레인홀딩스](/036830/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240809000428){:target="_blank"} |
-| [엘앤에프](/066970/#dart) | | [풍문또는보도에대한해명              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240809800355){:target="_blank"} |
-| [솔브레인](/357780/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240809000426){:target="_blank"} |
+| [지아이이노베이션](/358570/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240812000782){:target="_blank"} |
+| [다우데이타](/032190/#dart) | | [지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240812000777){:target="_blank"} |
+| [원익QnC](/074600/#dart) | | [연결재무제표기준영업(잠정)실적(공정공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240812900474){:target="_blank"} |
+| [신세계](/004170/#dart) | | [신탁계약에의한취득상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240812000761){:target="_blank"} |
+| [SK바이오사이언스](/302440/#dart) | | [지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240812000738){:target="_blank"} |
