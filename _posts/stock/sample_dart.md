@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [지아이이노베이션](/358570/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240812000782){:target="_blank"} |
-| [다우데이타](/032190/#dart) | | [지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240812000777){:target="_blank"} |
-| [원익QnC](/074600/#dart) | | [연결재무제표기준영업(잠정)실적(공정공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240812900474){:target="_blank"} |
-| [신세계](/004170/#dart) | | [신탁계약에의한취득상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240812000761){:target="_blank"} |
-| [SK바이오사이언스](/302440/#dart) | | [지급수단별ㆍ지급기간별지급금액및분쟁조정기구에관한사항](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240812000738){:target="_blank"} |
+| [HL만도](/204320/#dart) | | [주식등의대량보유상황보고서(약식)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240813001446){:target="_blank"} |
+| [카카오페이](/377300/#dart) | | [반기보고서 (2024.06)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240813001440){:target="_blank"} |
+| [서진시스템](/178320/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240813001433){:target="_blank"} |
+| [카카오](/035720/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240813001432){:target="_blank"} |
+| [효성티앤씨](/298020/#dart) | | [반기보고서 (2024.06)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240813001429){:target="_blank"} |
