@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KOSEF 미국S&P500(H)](/449780-vs-143850/) | <span style="color: tomato">22.5<small>%</small></span> | 13.4<small>%</small> | 1.68 | -10.1<small>%</small> | -1.8<small>%</small> |
-| TIGER 미국S&P500선물(H) | <span style="color: tomato">19.1<small>%</small></span> | 13.4<small>%</small> | 1.43 | -10.6<small>%</small> | -2.0<small>%</small> |
+| [KOSEF 미국S&P500(H)](/449780-vs-143850/) | <span style="color: tomato">22.6<small>%</small></span> | 13.4<small>%</small> | 1.69 | -10.1<small>%</small> | -1.8<small>%</small> |
+| TIGER 미국S&P500선물(H) | <span style="color: tomato">19.2<small>%</small></span> | 13.3<small>%</small> | 1.44 | -10.6<small>%</small> | -2.0<small>%</small> |
