@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [TIGER 미국나스닥100+15%프리미엄초단기](/486290-vs-379810/) | - | 29.6<small>%</small> | nan | -16.2<small>%</small> | -4.5<small>%</small> |
-| KODEX 미국나스닥100TR | - | 28.7<small>%</small> | nan | -15.9<small>%</small> | -4.5<small>%</small> |
+| [TIGER 미국나스닥100+15%프리미엄초단기](/486290-vs-379810/) | - | 29.2<small>%</small> | nan | -16.2<small>%</small> | -4.7<small>%</small> |
+| KODEX 미국나스닥100TR | - | 28.3<small>%</small> | nan | -15.9<small>%</small> | -4.7<small>%</small> |
