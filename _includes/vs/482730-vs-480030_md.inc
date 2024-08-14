@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [TIGER 미국S&P500+10%프리미엄초단기](/482730-vs-480030/) | - | 13.2<small>%</small> | nan | -8.8<small>%</small> | -1.5<small>%</small> |
-| ACE 미국500 15%프리미엄분배(합성) | - | 14.5<small>%</small> | nan | -9.5<small>%</small> | -1.5<small>%</small> |
+| [TIGER 미국S&P500+10%프리미엄초단기](/482730-vs-480030/) | - | 13.1<small>%</small> | nan | -8.8<small>%</small> | -1.6<small>%</small> |
+| ACE 미국500 15%프리미엄분배(합성) | - | 14.4<small>%</small> | nan | -9.5<small>%</small> | -1.6<small>%</small> |
