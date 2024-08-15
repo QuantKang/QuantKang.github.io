@@ -1,6 +1,6 @@
 | **종목** | **배율** | **CAGR** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| KODEX 150 | | <span style="color: cornflowerblue">-9.2<small>%</small></span> | - | - | - |
+| KODEX 코스닥150 | | <span style="color: cornflowerblue">-9.2<small>%</small></span> | - | - | - |
 | [KODEX 코스닥150레버리지](/233740/) | 2<small>x</small> | <span style="color: cornflowerblue">-26.4<small>%</small></span> | 9.0<small>%</small> | 1.9<small>%</small> | 10.8<small>%</small> |
 | [RISE 코스닥150선물레버리지](/278240/) | 2<small>x</small> | <span style="color: cornflowerblue">-22.5<small>%</small></span> | 9.0<small>%</small> | -3.3<small>%</small> | 6.1<small>%</small> |
 | [KODEX 코스닥150선물인버스](/251340/) | -1<small>x</small> | <span style="color: tomato">1.1<small>%</small></span> | 9.2<small>%</small> | -1.2<small>%</small> | 8.2<small>%</small> |
