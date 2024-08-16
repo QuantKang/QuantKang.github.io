@@ -34,7 +34,7 @@ CSHI의 수익률이 BIL보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | CSHI | <span style="color: tomato">5.4<small>%</small></span> | 1.0<small>%</small> | 5.17 | -0.4<small>%</small> | -0.0<small>%</small> |
-| BIL | <span style="color: tomato">4.8<small>%</small></span> | 0.3<small>%</small> | 17.23 | -0.0<small>%</small> | -0.0<small>%</small> |
+| BIL | <span style="color: tomato">4.8<small>%</small></span> | 0.3<small>%</small> | 17.22 | -0.0<small>%</small> | -0.0<small>%</small> |
 
 <!-- more -->
 
@@ -56,7 +56,7 @@ CSHI의 수익률이 BIL보다 지속적으로 우세하면 상승하고, 반대
 
 **위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 0.3% / 1.0% = 378% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
-**위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 0.0% / 0.4% = 1469% 비중으로 투자하면 됩니다.
+**위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 0.0% / 0.4% = 1468% 비중으로 투자하면 됩니다.
 
 
 {% include /commons/ads/adsense.html %}
@@ -77,9 +77,9 @@ BIL<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, BIL<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | CSHI | <span style="color: tomato">5.4<small>%</small></span> | 1.0<small>%</small> | 5.17 | -0.4<small>%</small> | -0.0<small>%</small> |
-| BIL | <span style="color: tomato">4.8<small>%</small></span> | 0.3<small>%</small> | 17.23 | -0.0<small>%</small> | -0.0<small>%</small> |
+| BIL | <span style="color: tomato">4.8<small>%</small></span> | 0.3<small>%</small> | 17.22 | -0.0<small>%</small> | -0.0<small>%</small> |
 | BIL<sub>STD</sub> <small>(378%)</small> | <span style="color: tomato">19.2<small>%</small></span> | 1.0<small>%</small> | 18.39 | -0.1<small>%</small> | -0.0<small>%</small> |
-| BIL<sub>MDD</sub> <small>(1469%)</small> | <span style="color: tomato">97.8<small>%</small></span> | 4.1<small>%</small> | 24.07 | -0.4<small>%</small> | -0.0<small>%</small> |
+| BIL<sub>MDD</sub> <small>(1468%)</small> | <span style="color: tomato">97.7<small>%</small></span> | 4.1<small>%</small> | 24.06 | -0.4<small>%</small> | -0.0<small>%</small> |
 
 
 
@@ -87,7 +87,7 @@ BIL<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, BIL<
 
 **위험도 지표 (표준편차):** 378% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 19.2%로 CSHI의 5.4%보다 13.8% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 1469% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 97.8%로 CSHI의 5.4%보다 92.4% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 1468% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 97.7%로 CSHI의 5.4%보다 92.3% 높았습니다. (높은 수익률)
 
 
 
