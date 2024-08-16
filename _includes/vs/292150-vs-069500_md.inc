@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [TIGER TOP10](/292150-vs-069500/) | <span style="color: tomato">5.1<small>%</small></span> | 21.7<small>%</small> | 0.23 | -39.7<small>%</small> | -15.9<small>%</small> |
-| KODEX 200 | <span style="color: tomato">4.2<small>%</small></span> | 19.3<small>%</small> | 0.22 | -35.6<small>%</small> | -13.1<small>%</small> |
+| [TIGER TOP10](/292150-vs-069500/) | <span style="color: tomato">5.6<small>%</small></span> | 21.8<small>%</small> | 0.26 | -39.7<small>%</small> | -15.9<small>%</small> |
+| KODEX 200 | <span style="color: tomato">4.6<small>%</small></span> | 19.3<small>%</small> | 0.24 | -35.6<small>%</small> | -13.1<small>%</small> |
