@@ -51,6 +51,12 @@
 
 
 
+### S&P 500 지수 (환헤지)<a id="SPY"></a>
+
+{% include lev/spy_md.inc %}
+
+
+
 ### 나스닥 100 지수 (환헤지)<a id="QQQ"></a>
 
 {% include lev/qqq_md.inc %}
@@ -66,13 +72,13 @@
 {% include lev/dia_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### S&P 500 지수<a id="SPY"></a>
 
 {% include lev/spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -103,13 +109,13 @@
 {% include lev/soxq_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### 기술 섹터 지수<a id="XLK"></a>
 
 {% include lev/xlk_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -140,13 +146,13 @@
 {% include lev/fxi_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### MSCI India 지수<a id="INDA"></a>
 
 {% include lev/inda_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -177,10 +183,10 @@
 {% include lev/tsla_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### 엔비디아<a id="NVDA"></a>
 
 {% include lev/nvda_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
