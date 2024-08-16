@@ -51,15 +51,15 @@
 
 
 
-### S&P 500 지수 (환헤지)<a id="SPY"></a>
+### S&P 500 지수 (환헤지)<a id="449180"></a>
 
-{% include lev/spy_md.inc %}
+{% include lev/449180_md.inc %}
 
 
 
-### 나스닥 100 지수 (환헤지)<a id="QQQ"></a>
+### 나스닥 100 지수 (환헤지)<a id="449190"></a>
 
-{% include lev/qqq_md.inc %}
+{% include lev/449190_md.inc %}
 
 
 
