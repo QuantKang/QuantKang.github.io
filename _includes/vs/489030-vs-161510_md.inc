@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [PLUS 고배당주위클리커버드콜](/489030-vs-161510/) | - | 1.7<small>%</small> | nan | -1.4<small>%</small> | -0.7<small>%</small> |
-| PLUS 고배당주 | - | 1.8<small>%</small> | nan | -0.5<small>%</small> | -0.3<small>%</small> |
+| [PLUS 고배당주위클리커버드콜](/489030-vs-161510/) | - | 28.1<small>%</small> | nan | -1.4<small>%</small> | -0.5<small>%</small> |
+| PLUS 고배당주 | - | 18.3<small>%</small> | nan | -0.5<small>%</small> | -0.2<small>%</small> |
