@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [SOOP](/067160/#dart) | | [신탁계약해지결과보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240816000157){:target="_blank"} |
-| [키움증권](/039490/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240816800213){:target="_blank"} |
-| [시노펙스](/025320/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240816000141){:target="_blank"} |
-| [주성엔지니어링](/036930/#dart) | | [기업설명회(IR)개최              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240816900200){:target="_blank"} |
-| [피에스케이홀딩스](/031980/#dart) | | [기업설명회(IR)개최              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240816900162){:target="_blank"} |
+| [동화기업](/025900/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240819000224){:target="_blank"} |
+| [인텔리안테크](/189300/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240819000223){:target="_blank"} |
+| [에코프로비엠](/247540/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240819000214){:target="_blank"} |
+| [한화솔루션](/009830/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240819000207){:target="_blank"} |
+| [파트론](/091700/#dart) | | [주요사항보고서(자기주식취득결정)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240819000197){:target="_blank"} |
