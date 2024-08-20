@@ -5,7 +5,7 @@ excerpt: KOSPI 의료정밀 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-08-19
+last_modified_at: 2024-08-20
 ---
 
 
@@ -18,11 +18,11 @@ last_modified_at: 2024-08-19
 | :------- | ------: | ------: | ------: | -------: |
 | [에스디바이오센서](/137310/) | - | 0.6 | - | 30.5<small>%</small> |
 | [덴티움](/145720/) | 7.7 | 1.6 | 0.5<small>%</small> | 24.6<small>%</small> |
-| 케이씨텍 | 25.0 | 1.8 | 0.5<small>%</small> | 18.9<small>%</small> |
-| 디아이 | 135.2 | 2.8 | 0.6<small>%</small> | 10.5<small>%</small> |
+| 케이씨텍 | 26.0 | 1.8 | 0.4<small>%</small> | 18.9<small>%</small> |
+| 디아이 | 134.8 | 2.8 | 0.6<small>%</small> | 10.5<small>%</small> |
 | 케이씨 | 5.1 | 0.3 | 1.3<small>%</small> | 6.8<small>%</small> |
-| 우진 | 14.2 | 1.0 | 2.4<small>%</small> | 4.0<small>%</small> |
-| 한컴라이프케어 | 133.5 | 0.9 | - | 3.2<small>%</small> |
+| 우진 | 14.1 | 1.0 | 2.4<small>%</small> | 4.0<small>%</small> |
+| 한컴라이프케어 | 135.5 | 0.9 | - | 3.2<small>%</small> |
 | 미래산업 | - | 0.8 | - | 1.5<small>%</small> |
 
 {% include commons/footnotes.md %}
