@@ -1,7 +1,7 @@
 ---
 layout: single
 title: PFFD vs PGX
-excerpt: PFFD의 최근 6년 10개월 CAGR은 2.5%로 PGX의 2.0%와 비슷했습니다.
+excerpt: PFFD의 최근 6년 10개월 CAGR은 2.5%로 PGX의 2.1%와 비슷했습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -34,14 +34,14 @@ PFFD의 수익률이 PGX보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | PFFD | <span style="color: tomato">2.5<small>%</small></span> | 13.6<small>%</small> | 0.18 | -30.9<small>%</small> | -6.6<small>%</small> |
-| PGX | <span style="color: tomato">2.0<small>%</small></span> | 14.9<small>%</small> | 0.14 | -34.1<small>%</small> | -6.6<small>%</small> |
+| PGX | <span style="color: tomato">2.1<small>%</small></span> | 14.9<small>%</small> | 0.14 | -34.1<small>%</small> | -6.6<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** PFFD의 CAGR은 2.5%로 PGX의 2.0%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** PFFD의 CAGR은 2.5%로 PGX의 2.1%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** PFFD의 표준편차는 13.6%로 PGX의 14.9%보다 -1.3% 낮았습니다. (낮은 위험도)
 
@@ -77,17 +77,17 @@ PGX<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, PGX<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | PFFD | <span style="color: tomato">2.5<small>%</small></span> | 13.6<small>%</small> | 0.18 | -30.9<small>%</small> | -6.6<small>%</small> |
-| PGX | <span style="color: tomato">2.0<small>%</small></span> | 14.9<small>%</small> | 0.14 | -34.1<small>%</small> | -6.6<small>%</small> |
-| PGX<sub>STD</sub> <small>(91%)</small> | <span style="color: tomato">1.9<small>%</small></span> | 13.6<small>%</small> | 0.14 | -31.5<small>%</small> | -6.0<small>%</small> |
-| PGX<sub>MDD</sub> <small>(91%)</small> | <span style="color: tomato">1.9<small>%</small></span> | 13.5<small>%</small> | 0.14 | -31.3<small>%</small> | -6.0<small>%</small> |
+| PGX | <span style="color: tomato">2.1<small>%</small></span> | 14.9<small>%</small> | 0.14 | -34.1<small>%</small> | -6.6<small>%</small> |
+| PGX<sub>STD</sub> <small>(91%)</small> | <span style="color: tomato">2.0<small>%</small></span> | 13.6<small>%</small> | 0.15 | -31.5<small>%</small> | -6.0<small>%</small> |
+| PGX<sub>MDD</sub> <small>(91%)</small> | <span style="color: tomato">2.0<small>%</small></span> | 13.5<small>%</small> | 0.15 | -31.3<small>%</small> | -6.0<small>%</small> |
 
 
 
 각각의 경우를 PFFD의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 91% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 1.9%로 PFFD의 2.5%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 91% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 2.0%로 PFFD의 2.5%와 비슷했습니다. (비슷한 수익률)
 
-**위험도 지표 (MDD):** 91% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 1.9%로 PFFD의 2.5%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (MDD):** 91% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 2.0%로 PFFD의 2.5%와 비슷했습니다. (비슷한 수익률)
 
 
 
@@ -99,7 +99,7 @@ PGX<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, PGX<
 
 지난 6년 10개월간 거치식으로 투자했다고 가정합니다.
 
-PGX의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 1.9%인 포트폴리오를 만들 수 있습니다.
+PGX의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 2.0%인 포트폴리오를 만들 수 있습니다.
 이 포트폴리오는 PFFD의 2.5%와 비슷했습니다.
 
 ### PFFD ≒ PGX
