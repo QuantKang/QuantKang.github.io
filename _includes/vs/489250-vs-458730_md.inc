@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KODEX 미국배당다우존스](/489250-vs-458730/) | - | 17.1<small>%</small> | nan | -1.7<small>%</small> | -0.6<small>%</small> |
-| TIGER 미국배당다우존스 | - | 17.4<small>%</small> | nan | -1.7<small>%</small> | -0.6<small>%</small> |
+| [KODEX 미국배당다우존스](/489250-vs-458730/) | - | 15.3<small>%</small> | nan | -1.7<small>%</small> | -0.6<small>%</small> |
+| TIGER 미국배당다우존스 | - | 15.6<small>%</small> | nan | -1.7<small>%</small> | -0.7<small>%</small> |

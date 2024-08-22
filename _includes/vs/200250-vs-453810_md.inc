@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KOSEF 인도Nifty50(합성)](/200250-vs-453810/) | <span style="color: tomato">26.6<small>%</small></span> | 13.1<small>%</small> | 2.03 | -6.3<small>%</small> | -1.4<small>%</small> |
-| KODEX 인도Nifty50 | <span style="color: tomato">27.6<small>%</small></span> | 13.7<small>%</small> | 2.01 | -6.3<small>%</small> | -1.4<small>%</small> |
+| [KOSEF 인도Nifty50(합성)](/200250-vs-453810/) | <span style="color: tomato">26.8<small>%</small></span> | 13.1<small>%</small> | 2.05 | -6.3<small>%</small> | -1.4<small>%</small> |
+| KODEX 인도Nifty50 | <span style="color: tomato">27.9<small>%</small></span> | 13.7<small>%</small> | 2.03 | -6.3<small>%</small> | -1.4<small>%</small> |
