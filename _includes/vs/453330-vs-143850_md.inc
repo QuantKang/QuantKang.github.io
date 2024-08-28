@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [RISE 미국S&P500(H)](/453330-vs-143850/) | <span style="color: tomato">26.1<small>%</small></span> | 12.4<small>%</small> | 2.10 | -10.4<small>%</small> | -1.8<small>%</small> |
-| TIGER 미국S&P500선물(H) | <span style="color: tomato">22.8<small>%</small></span> | 12.4<small>%</small> | 1.84 | -10.6<small>%</small> | -1.8<small>%</small> |
+| [RISE 미국S&P500(H)](/453330-vs-143850/) | <span style="color: tomato">26.2<small>%</small></span> | 12.4<small>%</small> | 2.12 | -10.4<small>%</small> | -1.8<small>%</small> |
+| TIGER 미국S&P500선물(H) | <span style="color: tomato">22.8<small>%</small></span> | 12.3<small>%</small> | 1.85 | -10.6<small>%</small> | -1.8<small>%</small> |
