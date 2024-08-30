@@ -79,7 +79,7 @@ JEPI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 | YMAG | <span style="color: tomato">30.4<small>%</small></span> | 19.6<small>%</small> | 1.55 | -14.3<small>%</small> | -2.7<small>%</small> |
 | JEPI | <span style="color: tomato">14.7<small>%</small></span> | 7.8<small>%</small> | 1.88 | -3.9<small>%</small> | -0.8<small>%</small> |
 | JEPI<sub>STD</sub> <small>(251%)</small> | <span style="color: tomato">39.4<small>%</small></span> | 19.6<small>%</small> | 2.01 | -9.6<small>%</small> | -2.0<small>%</small> |
-| JEPI<sub>MDD</sub> <small>(369%)</small> | <span style="color: tomato">60.6<small>%</small></span> | 28.8<small>%</small> | 2.10 | -13.9<small>%</small> | -3.0<small>%</small> |
+| JEPI<sub>MDD</sub> <small>(369%)</small> | <span style="color: tomato">60.7<small>%</small></span> | 28.8<small>%</small> | 2.10 | -13.9<small>%</small> | -3.0<small>%</small> |
 
 
 
@@ -87,7 +87,7 @@ JEPI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 
 **위험도 지표 (표준편차):** 251% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 39.4%로 YMAG의 30.4%보다 9.0% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 369% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 60.6%로 YMAG의 30.4%보다 30.2% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 369% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 60.7%로 YMAG의 30.4%보다 30.2% 높았습니다. (높은 수익률)
 
 
 
