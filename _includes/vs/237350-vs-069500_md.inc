@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KODEX 코스피100](/237350-vs-069500/) | <span style="color: tomato">7.6<small>%</small></span> | 21.6<small>%</small> | 0.35 | -36.7<small>%</small> | -12.4<small>%</small> |
-| KODEX 200 | <span style="color: tomato">7.5<small>%</small></span> | 17.6<small>%</small> | 0.42 | -38.1<small>%</small> | -11.2<small>%</small> |
+| [KODEX 코스피100](/237350-vs-069500/) | <span style="color: tomato">7.5<small>%</small></span> | 21.6<small>%</small> | 0.35 | -36.7<small>%</small> | -12.4<small>%</small> |
+| KODEX 200 | <span style="color: tomato">7.4<small>%</small></span> | 17.6<small>%</small> | 0.42 | -38.1<small>%</small> | -11.2<small>%</small> |
