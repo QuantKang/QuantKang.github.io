@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [SCHD](/schd-vs-spy/) | <span style="color: tomato">13.4<small>%</small></span> | 15.5<small>%</small> | 0.86 | -33.4<small>%</small> | -3.2<small>%</small> |
-| SPY | <span style="color: tomato">14.7<small>%</small></span> | 16.6<small>%</small> | 0.89 | -33.7<small>%</small> | -3.8<small>%</small> |
+| [SCHD](/schd-vs-spy/) | <span style="color: tomato">13.3<small>%</small></span> | 15.5<small>%</small> | 0.85 | -33.4<small>%</small> | -3.2<small>%</small> |
+| SPY | <span style="color: tomato">14.5<small>%</small></span> | 16.7<small>%</small> | 0.87 | -33.7<small>%</small> | -3.8<small>%</small> |
