@@ -1,7 +1,7 @@
 ---
 layout: single
 title: PFFD vs TLT
-excerpt: PFFD의 최근 7년 CAGR은 2.6%로 TLT의 -1.3%보다 3.9% 높았습니다.
+excerpt: PFFD의 최근 7년 CAGR은 2.6%로 TLT의 -1.3%보다 3.8% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -41,7 +41,7 @@ PFFD의 수익률이 TLT보다 지속적으로 우세하면 상승하고, 반대
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** PFFD의 CAGR은 2.6%로 TLT의 -1.3%보다 3.9% 높았습니다. (높은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** PFFD의 CAGR은 2.6%로 TLT의 -1.3%보다 3.8% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** PFFD의 표준편차는 13.6%로 TLT의 16.0%보다 -2.5% 낮았습니다. (낮은 위험도)
 
@@ -78,7 +78,7 @@ TLT<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, TLT<
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | PFFD | <span style="color: tomato">2.6<small>%</small></span> | 13.6<small>%</small> | 0.19 | -30.9<small>%</small> | -6.6<small>%</small> |
 | TLT | <span style="color: cornflowerblue">-1.3<small>%</small></span> | 16.0<small>%</small> | -0.08 | -48.4<small>%</small> | -17.7<small>%</small> |
-| TLT<sub>STD</sub> <small>(85%)</small> | <span style="color: cornflowerblue">-0.9<small>%</small></span> | 13.6<small>%</small> | -0.07 | -42.5<small>%</small> | -15.3<small>%</small> |
+| TLT<sub>STD</sub> <small>(85%)</small> | <span style="color: cornflowerblue">-0.9<small>%</small></span> | 13.6<small>%</small> | -0.07 | -42.5<small>%</small> | -15.2<small>%</small> |
 | TLT<sub>MDD</sub> <small>(64%)</small> | <span style="color: cornflowerblue">-0.5<small>%</small></span> | 10.3<small>%</small> | -0.05 | -33.8<small>%</small> | -11.8<small>%</small> |
 
 

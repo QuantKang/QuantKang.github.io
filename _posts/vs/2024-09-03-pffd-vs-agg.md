@@ -1,7 +1,7 @@
 ---
 layout: single
 title: PFFD vs AGG
-excerpt: PFFD의 최근 7년 CAGR은 2.6%로 AGG의 1.3%보다 1.3% 높았습니다.
+excerpt: PFFD의 최근 7년 CAGR은 2.6%로 AGG의 1.4%보다 1.2% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -34,14 +34,14 @@ PFFD의 수익률이 AGG보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | PFFD | <span style="color: tomato">2.6<small>%</small></span> | 13.6<small>%</small> | 0.19 | -30.9<small>%</small> | -6.6<small>%</small> |
-| AGG | <span style="color: tomato">1.3<small>%</small></span> | 5.9<small>%</small> | 0.22 | -18.4<small>%</small> | -5.3<small>%</small> |
+| AGG | <span style="color: tomato">1.4<small>%</small></span> | 5.9<small>%</small> | 0.23 | -18.4<small>%</small> | -5.3<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** PFFD의 CAGR은 2.6%로 AGG의 1.3%보다 1.3% 높았습니다. (높은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** PFFD의 CAGR은 2.6%로 AGG의 1.4%보다 1.2% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** PFFD의 표준편차는 13.6%로 AGG의 5.9%보다 7.7% 높았습니다. (높은 위험도)
 
@@ -77,17 +77,17 @@ AGG<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, AGG<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | PFFD | <span style="color: tomato">2.6<small>%</small></span> | 13.6<small>%</small> | 0.19 | -30.9<small>%</small> | -6.6<small>%</small> |
-| AGG | <span style="color: tomato">1.3<small>%</small></span> | 5.9<small>%</small> | 0.22 | -18.4<small>%</small> | -5.3<small>%</small> |
-| AGG<sub>STD</sub> <small>(230%)</small> | <span style="color: tomato">2.4<small>%</small></span> | 13.6<small>%</small> | 0.18 | -38.1<small>%</small> | -11.8<small>%</small> |
-| AGG<sub>MDD</sub> <small>(168%)</small> | <span style="color: tomato">1.9<small>%</small></span> | 9.9<small>%</small> | 0.20 | -29.2<small>%</small> | -8.7<small>%</small> |
+| AGG | <span style="color: tomato">1.4<small>%</small></span> | 5.9<small>%</small> | 0.23 | -18.4<small>%</small> | -5.3<small>%</small> |
+| AGG<sub>STD</sub> <small>(230%)</small> | <span style="color: tomato">2.6<small>%</small></span> | 13.6<small>%</small> | 0.19 | -38.0<small>%</small> | -11.8<small>%</small> |
+| AGG<sub>MDD</sub> <small>(168%)</small> | <span style="color: tomato">2.1<small>%</small></span> | 9.9<small>%</small> | 0.21 | -29.2<small>%</small> | -8.7<small>%</small> |
 
 
 
 각각의 경우를 PFFD의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 230% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 2.4%로 PFFD의 2.6%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 230% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 2.6%로 PFFD의 2.6%와 비슷했습니다. (비슷한 수익률)
 
-**위험도 지표 (MDD):** 168% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 1.9%로 PFFD의 2.6%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (MDD):** 168% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 2.1%로 PFFD의 2.6%와 비슷했습니다. (비슷한 수익률)
 
 
 
@@ -99,7 +99,7 @@ AGG<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, AGG<
 
 지난 7년간 거치식으로 투자했다고 가정합니다.
 
-AGG의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 2.2%인 포트폴리오를 만들 수 있습니다.
+AGG의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 2.3%인 포트폴리오를 만들 수 있습니다.
 이 포트폴리오는 PFFD의 2.6%와 비슷했습니다.
 
 ### PFFD ≒ AGG
