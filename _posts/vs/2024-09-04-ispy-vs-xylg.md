@@ -78,7 +78,7 @@ XYLG<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, XYL
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | ISPY | <span style="color: tomato">23.0<small>%</small></span> | 11.4<small>%</small> | 2.02 | -7.9<small>%</small> | -1.1<small>%</small> |
 | XYLG | <span style="color: tomato">21.7<small>%</small></span> | 9.5<small>%</small> | 2.29 | -7.2<small>%</small> | -0.8<small>%</small> |
-| XYLG<sub>STD</sub> <small>(120%)</small> | <span style="color: tomato">26.5<small>%</small></span> | 11.4<small>%</small> | 2.32 | -8.6<small>%</small> | -1.0<small>%</small> |
+| XYLG<sub>STD</sub> <small>(120%)</small> | <span style="color: tomato">26.5<small>%</small></span> | 11.4<small>%</small> | 2.33 | -8.6<small>%</small> | -1.0<small>%</small> |
 | XYLG<sub>MDD</sub> <small>(110%)</small> | <span style="color: tomato">24.1<small>%</small></span> | 10.4<small>%</small> | 2.31 | -7.9<small>%</small> | -0.9<small>%</small> |
 
 
