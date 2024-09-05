@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [RISE 머니마켓액티브](/455890-vs-423160/) | <span style="color: tomato">4.3<small>%</small></span> | 0.2<small>%</small> | 18.73 | -0.0<small>%</small> | -0.0<small>%</small> |
+| [RISE 머니마켓액티브](/455890-vs-423160/) | <span style="color: tomato">4.3<small>%</small></span> | 0.2<small>%</small> | 18.74 | -0.0<small>%</small> | -0.0<small>%</small> |
 | KODEX KOFR금리액티브(합성) | <span style="color: tomato">3.6<small>%</small></span> | 0.1<small>%</small> | 26.27 | -0.0<small>%</small> | -0.0<small>%</small> |

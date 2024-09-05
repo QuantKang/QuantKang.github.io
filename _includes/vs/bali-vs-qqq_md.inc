@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [BALI](/bali-vs-qqq/) | <span style="color: tomato">28.7<small>%</small></span> | 10.4<small>%</small> | 2.77 | -7.7<small>%</small> | -1.0<small>%</small> |
-| QQQ | <span style="color: tomato">31.6<small>%</small></span> | 17.5<small>%</small> | 1.80 | -13.6<small>%</small> | -2.1<small>%</small> |
+| [BALI](/bali-vs-qqq/) | <span style="color: tomato">28.5<small>%</small></span> | 10.3<small>%</small> | 2.76 | -7.7<small>%</small> | -1.0<small>%</small> |
+| QQQ | <span style="color: tomato">31.7<small>%</small></span> | 17.5<small>%</small> | 1.81 | -13.6<small>%</small> | -2.1<small>%</small> |
