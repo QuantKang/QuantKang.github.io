@@ -1,7 +1,7 @@
 ---
 layout: single
 title: BALI vs GPIX
-excerpt: BALI의 최근 10개월 CAGR은 37.0%로 GPIX의 34.4%보다 2.6% 높았습니다.
+excerpt: BALI의 최근 10개월 CAGR은 37.0%로 GPIX의 35.6%보다 1.5% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -34,16 +34,16 @@ BALI의 수익률이 GPIX보다 지속적으로 우세하면 상승하고, 반�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | BALI | <span style="color: tomato">37.0<small>%</small></span> | 10.1<small>%</small> | 3.66 | -7.7<small>%</small> | -0.9<small>%</small> |
-| GPIX | <span style="color: tomato">34.4<small>%</small></span> | 10.7<small>%</small> | 3.22 | -7.0<small>%</small> | -0.8<small>%</small> |
+| GPIX | <span style="color: tomato">35.6<small>%</small></span> | 10.6<small>%</small> | 3.35 | -7.0<small>%</small> | -0.8<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** BALI의 CAGR은 37.0%로 GPIX의 34.4%보다 2.6% 높았습니다. (높은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** BALI의 CAGR은 37.0%로 GPIX의 35.6%보다 1.5% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** BALI의 표준편차는 10.1%로 GPIX의 10.7%와 비슷했습니다. (비슷한 위험도)
+**위험도 지표 (표준편차):** BALI의 표준편차는 10.1%로 GPIX의 10.6%와 비슷했습니다. (비슷한 위험도)
 
 **위험도 지표 (MDD):** BALI의 7.7%의 MDD는 GPIX의 7.0%와 비슷했습니다. (비슷한 위험도)
 
@@ -54,7 +54,7 @@ BALI의 수익률이 GPIX보다 지속적으로 우세하면 상승하고, 반�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 GPIX의 투자 비중[^fn_vs_weight]을 조절하여 BALI의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 10.7% / 10.1% = 95% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 10.6% / 10.1% = 95% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 7.0% / 7.7% = 111% 비중으로 투자하면 됩니다.
 
@@ -77,17 +77,17 @@ GPIX<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, GPI
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | BALI | <span style="color: tomato">37.0<small>%</small></span> | 10.1<small>%</small> | 3.66 | -7.7<small>%</small> | -0.9<small>%</small> |
-| GPIX | <span style="color: tomato">34.4<small>%</small></span> | 10.7<small>%</small> | 3.22 | -7.0<small>%</small> | -0.8<small>%</small> |
-| GPIX<sub>STD</sub> <small>(95%)</small> | <span style="color: tomato">32.4<small>%</small></span> | 10.1<small>%</small> | 3.20 | -6.6<small>%</small> | -0.7<small>%</small> |
-| GPIX<sub>MDD</sub> <small>(111%)</small> | <span style="color: tomato">38.8<small>%</small></span> | 11.9<small>%</small> | 3.27 | -7.7<small>%</small> | -0.9<small>%</small> |
+| GPIX | <span style="color: tomato">35.6<small>%</small></span> | 10.6<small>%</small> | 3.35 | -7.0<small>%</small> | -0.8<small>%</small> |
+| GPIX<sub>STD</sub> <small>(95%)</small> | <span style="color: tomato">33.7<small>%</small></span> | 10.1<small>%</small> | 3.33 | -6.7<small>%</small> | -0.7<small>%</small> |
+| GPIX<sub>MDD</sub> <small>(111%)</small> | <span style="color: tomato">40.1<small>%</small></span> | 11.8<small>%</small> | 3.40 | -7.7<small>%</small> | -0.9<small>%</small> |
 
 
 
 각각의 경우를 BALI의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 95% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 32.4%로 BALI의 37.0%보다 -4.6% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 95% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 33.7%로 BALI의 37.0%보다 -3.4% 낮았습니다. (낮은 수익률)
 
-**위험도 지표 (MDD):** 111% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 38.8%로 BALI의 37.0%보다 1.8% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 111% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 40.1%로 BALI의 37.0%보다 3.1% 높았습니다. (높은 수익률)
 
 
 
@@ -99,11 +99,13 @@ GPIX<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, GPI
 
 지난 10개월간 거치식으로 투자했다고 가정합니다.
 
-GPIX의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 35.6%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 BALI의 37.0%보다 -1.4% 낮았습니다.
+GPIX의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 36.9%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 BALI의 37.0%와 비슷했습니다.
 
-### BALI &gt; GPIX
+### BALI ≒ GPIX
 {: .text-center}
+**참고** 위험 대비 수익률이 비슷한 경우라면, 적은 비중으로 동일한 투자 효과를 낼 수 있는 상품을 선택하는 것이, 투자 전략 유연성 측면에서는 보다 유리할 수 있습니다.
+{: .notice--info}
 
 
 ## 관련 정보

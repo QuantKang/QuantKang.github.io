@@ -1,7 +1,7 @@
 ---
 layout: single
 title: BALI vs JEPY
-excerpt: BALI의 최근 10개월 CAGR은 28.7%로 JEPY의 16.7%보다 11.9% 높았습니다.
+excerpt: BALI의 최근 10개월 CAGR은 28.7%로 JEPY의 16.7%보다 12.0% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -41,7 +41,7 @@ BALI의 수익률이 JEPY보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** BALI의 CAGR은 28.7%로 JEPY의 16.7%보다 11.9% 높았습니다. (높은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** BALI의 CAGR은 28.7%로 JEPY의 16.7%보다 12.0% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** BALI의 표준편차는 10.4%로 JEPY의 8.0%보다 2.4% 높았습니다. (높은 위험도)
 
