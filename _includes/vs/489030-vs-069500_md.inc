@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [PLUS 고배당주위클리커버드콜](/489030-vs-069500/) | - | 18.2<small>%</small> | nan | -2.8<small>%</small> | -1.1<small>%</small> |
-| KODEX 200 | - | 19.7<small>%</small> | nan | -6.2<small>%</small> | -1.4<small>%</small> |
+| [PLUS 고배당주위클리커버드콜](/489030-vs-069500/) | - | 17.6<small>%</small> | nan | -2.8<small>%</small> | -1.2<small>%</small> |
+| KODEX 200 | - | 19.3<small>%</small> | nan | -7.0<small>%</small> | -1.7<small>%</small> |
