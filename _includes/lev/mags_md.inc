@@ -2,4 +2,4 @@
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | MAGS | | <span style="color: tomato">30.9<small>%</small></span><sup><small>6개월</small></sup> | - | - | - |
 | [MAGX](/magx/) | 2<small>x</small> | <span style="color: tomato">45.2<small>%</small></span><sup><small>6개월</small></sup> | 3.6<small>%</small> | 4.8<small>%</small> | 8.2<small>%</small> |
-| [MAGQ](/magq/) | -1<small>x</small> | -<sup><small>2개월</small></sup> | 1.7<small>%</small> | -2.3<small>%</small> | -0.5<small>%</small> |
+| [MAGQ](/magq/) | -1<small>x</small> | -<sup><small>2개월</small></sup> | 1.7<small>%</small> | -2.4<small>%</small> | -0.7<small>%</small> |

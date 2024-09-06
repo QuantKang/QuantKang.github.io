@@ -1,7 +1,7 @@
 ---
 layout: single
 title: PFFD vs AGG
-excerpt: PFFD의 최근 7년 CAGR은 2.7%로 AGG의 1.5%보다 1.2% 높았습니다.
+excerpt: PFFD의 최근 7년 CAGR은 2.7%로 AGG의 1.5%보다 1.3% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -41,7 +41,7 @@ PFFD의 수익률이 AGG보다 지속적으로 우세하면 상승하고, 반대
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** PFFD의 CAGR은 2.7%로 AGG의 1.5%보다 1.2% 높았습니다. (높은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** PFFD의 CAGR은 2.7%로 AGG의 1.5%보다 1.3% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** PFFD의 표준편차는 13.6%로 AGG의 5.9%보다 7.7% 높았습니다. (높은 위험도)
 
