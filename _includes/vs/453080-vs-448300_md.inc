@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KOSEF 미국나스닥100(H)](/453080-vs-448300/) | <span style="color: tomato">33.1<small>%</small></span> | 18.6<small>%</small> | 1.78 | -16.0<small>%</small> | -2.4<small>%</small> |
-| TIGER 미국나스닥100TR(H) | <span style="color: tomato">32.7<small>%</small></span> | 19.1<small>%</small> | 1.71 | -15.8<small>%</small> | -2.5<small>%</small> |
+| [KOSEF 미국나스닥100(H)](/453080-vs-448300/) | <span style="color: tomato">31.6<small>%</small></span> | 18.6<small>%</small> | 1.69 | -16.0<small>%</small> | -2.4<small>%</small> |
+| TIGER 미국나스닥100TR(H) | <span style="color: tomato">31.2<small>%</small></span> | 19.1<small>%</small> | 1.63 | -15.8<small>%</small> | -2.5<small>%</small> |
