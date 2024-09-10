@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KODEX 미국배당프리미엄액티브](/441640-vs-458730/) | <span style="color: tomato">17.1<small>%</small></span> | 9.5<small>%</small> | 1.79 | -6.2<small>%</small> | -1.5<small>%</small> |
-| TIGER 미국배당다우존스 | <span style="color: tomato">18.1<small>%</small></span> | 11.4<small>%</small> | 1.59 | -7.7<small>%</small> | -1.9<small>%</small> |
+| [KODEX 미국배당프리미엄액티브](/441640-vs-458730/) | <span style="color: tomato">17.7<small>%</small></span> | 9.5<small>%</small> | 1.86 | -6.2<small>%</small> | -1.5<small>%</small> |
+| TIGER 미국배당다우존스 | <span style="color: tomato">19.2<small>%</small></span> | 11.4<small>%</small> | 1.68 | -7.7<small>%</small> | -1.9<small>%</small> |
