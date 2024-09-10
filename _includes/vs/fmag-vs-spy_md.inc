@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [FMAG](/fmag-vs-spy/) | <span style="color: tomato">10.2<small>%</small></span> | 20.0<small>%</small> | 0.51 | -32.9<small>%</small> | -11.7<small>%</small> |
-| SPY | <span style="color: tomato">11.4<small>%</small></span> | 16.7<small>%</small> | 0.68 | -24.5<small>%</small> | -6.7<small>%</small> |
+| [FMAG](/fmag-vs-spy/) | <span style="color: tomato">10.5<small>%</small></span> | 20.0<small>%</small> | 0.53 | -32.9<small>%</small> | -11.6<small>%</small> |
+| SPY | <span style="color: tomato">11.7<small>%</small></span> | 16.7<small>%</small> | 0.70 | -24.5<small>%</small> | -6.7<small>%</small> |
