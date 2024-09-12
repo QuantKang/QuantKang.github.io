@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KODEX 미국배당프리미엄액티브](/441640-vs-276970/) | <span style="color: tomato">11.3<small>%</small></span> | 11.4<small>%</small> | 0.99 | -12.4<small>%</small> | -3.7<small>%</small> |
-| KODEX 미국S&P500배당귀족커버드콜(합성 H) | <span style="color: tomato">7.6<small>%</small></span> | 11.4<small>%</small> | 0.67 | -11.1<small>%</small> | -3.5<small>%</small> |
+| [KODEX 미국배당프리미엄액티브](/441640-vs-276970/) | <span style="color: tomato">11.8<small>%</small></span> | 11.4<small>%</small> | 1.04 | -12.4<small>%</small> | -3.7<small>%</small> |
+| KODEX 미국S&P500배당귀족커버드콜(합성 H) | <span style="color: tomato">7.7<small>%</small></span> | 11.3<small>%</small> | 0.68 | -11.1<small>%</small> | -3.5<small>%</small> |
