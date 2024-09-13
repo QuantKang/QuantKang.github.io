@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KOSEF 미국S&P500](/449770-vs-379800/) | <span style="color: tomato">29.0<small>%</small></span> | 12.5<small>%</small> | 2.33 | -8.8<small>%</small> | -1.4<small>%</small> |
-| KODEX 미국S&P500TR | <span style="color: tomato">29.1<small>%</small></span> | 12.3<small>%</small> | 2.36 | -8.9<small>%</small> | -1.4<small>%</small> |
+| [KOSEF 미국S&P500](/449770-vs-379800/) | <span style="color: tomato">28.9<small>%</small></span> | 12.5<small>%</small> | 2.31 | -8.8<small>%</small> | -1.4<small>%</small> |
+| KODEX 미국S&P500TR | <span style="color: tomato">28.9<small>%</small></span> | 12.3<small>%</small> | 2.35 | -8.9<small>%</small> | -1.4<small>%</small> |
