@@ -32,7 +32,7 @@ XYLD의 수익률이 SPY보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | XYLD | <span style="color: tomato">5.9<small>%</small></span> | 13.9<small>%</small> | 0.43 | -34.7<small>%</small> | -4.6<small>%</small> |
-| SPY | <span style="color: tomato">14.1<small>%</small></span> | 16.9<small>%</small> | 0.83 | -33.7<small>%</small> | -4.0<small>%</small> |
+| SPY | <span style="color: tomato">14.1<small>%</small></span> | 16.9<small>%</small> | 0.84 | -33.7<small>%</small> | -4.0<small>%</small> |
 
 <!-- more -->
 
@@ -75,9 +75,9 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | XYLD | <span style="color: tomato">5.9<small>%</small></span> | 13.9<small>%</small> | 0.43 | -34.7<small>%</small> | -4.6<small>%</small> |
-| SPY | <span style="color: tomato">14.1<small>%</small></span> | 16.9<small>%</small> | 0.83 | -33.7<small>%</small> | -4.0<small>%</small> |
+| SPY | <span style="color: tomato">14.1<small>%</small></span> | 16.9<small>%</small> | 0.84 | -33.7<small>%</small> | -4.0<small>%</small> |
 | SPY<sub>STD</sub> <small>(82%)</small> | <span style="color: tomato">11.7<small>%</small></span> | 13.9<small>%</small> | 0.84 | -28.3<small>%</small> | -3.2<small>%</small> |
-| SPY<sub>MDD</sub> <small>(103%)</small> | <span style="color: tomato">14.5<small>%</small></span> | 17.4<small>%</small> | 0.83 | -34.6<small>%</small> | -4.2<small>%</small> |
+| SPY<sub>MDD</sub> <small>(103%)</small> | <span style="color: tomato">14.5<small>%</small></span> | 17.4<small>%</small> | 0.84 | -34.6<small>%</small> | -4.2<small>%</small> |
 
 
 

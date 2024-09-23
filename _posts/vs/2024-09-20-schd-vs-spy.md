@@ -1,7 +1,7 @@
 ---
 layout: single
 title: SCHD vs SPY
-excerpt: SCHD의 최근 12년 10개월 CAGR은 13.3%로 SPY의 14.7%보다 -1.5% 낮았습니다.
+excerpt: SCHD의 최근 12년 10개월 CAGR은 13.3%로 SPY의 14.8%보다 -1.5% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -32,14 +32,14 @@ SCHD의 수익률이 SPY보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SCHD | <span style="color: tomato">13.3<small>%</small></span> | 15.5<small>%</small> | 0.86 | -33.4<small>%</small> | -3.2<small>%</small> |
-| SPY | <span style="color: tomato">14.7<small>%</small></span> | 16.6<small>%</small> | 0.89 | -33.7<small>%</small> | -3.8<small>%</small> |
+| SPY | <span style="color: tomato">14.8<small>%</small></span> | 16.6<small>%</small> | 0.89 | -33.7<small>%</small> | -3.8<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** SCHD의 CAGR은 13.3%로 SPY의 14.7%보다 -1.5% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** SCHD의 CAGR은 13.3%로 SPY의 14.8%보다 -1.5% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** SCHD의 표준편차는 15.5%로 SPY의 16.6%보다 -1.1% 낮았습니다. (낮은 위험도)
 
@@ -75,7 +75,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SCHD | <span style="color: tomato">13.3<small>%</small></span> | 15.5<small>%</small> | 0.86 | -33.4<small>%</small> | -3.2<small>%</small> |
-| SPY | <span style="color: tomato">14.7<small>%</small></span> | 16.6<small>%</small> | 0.89 | -33.7<small>%</small> | -3.8<small>%</small> |
+| SPY | <span style="color: tomato">14.8<small>%</small></span> | 16.6<small>%</small> | 0.89 | -33.7<small>%</small> | -3.8<small>%</small> |
 | SPY<sub>STD</sub> <small>(93%)</small> | <span style="color: tomato">13.8<small>%</small></span> | 15.5<small>%</small> | 0.89 | -31.7<small>%</small> | -3.5<small>%</small> |
 | SPY<sub>MDD</sub> <small>(99%)</small> | <span style="color: tomato">14.6<small>%</small></span> | 16.5<small>%</small> | 0.89 | -33.4<small>%</small> | -3.7<small>%</small> |
 

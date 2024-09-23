@@ -1,7 +1,7 @@
 ---
 layout: single
 title: SPLV vs SPY
-excerpt: SPLV의 최근 13년 4개월 CAGR은 10.8%로 SPY의 13.5%보다 -2.7% 낮았습니다.
+excerpt: SPLV의 최근 13년 4개월 CAGR은 10.8%로 SPY의 13.5%보다 -2.8% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -39,7 +39,7 @@ SPLV의 수익률이 SPY보다 지속적으로 우세하면 상승하고, 반대
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** SPLV의 CAGR은 10.8%로 SPY의 13.5%보다 -2.7% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** SPLV의 CAGR은 10.8%로 SPY의 13.5%보다 -2.8% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** SPLV의 표준편차는 14.7%로 SPY의 17.1%보다 -2.4% 낮았습니다. (낮은 위험도)
 
@@ -76,8 +76,8 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SPLV | <span style="color: tomato">10.8<small>%</small></span> | 14.7<small>%</small> | 0.73 | -36.3<small>%</small> | -3.7<small>%</small> |
 | SPY | <span style="color: tomato">13.5<small>%</small></span> | 17.1<small>%</small> | 0.79 | -33.7<small>%</small> | -4.0<small>%</small> |
-| SPY<sub>STD</sub> <small>(86%)</small> | <span style="color: tomato">11.7<small>%</small></span> | 14.7<small>%</small> | 0.79 | -29.5<small>%</small> | -3.4<small>%</small> |
-| SPY<sub>MDD</sub> <small>(108%)</small> | <span style="color: tomato">14.4<small>%</small></span> | 18.4<small>%</small> | 0.78 | -35.9<small>%</small> | -4.3<small>%</small> |
+| SPY<sub>STD</sub> <small>(86%)</small> | <span style="color: tomato">11.7<small>%</small></span> | 14.7<small>%</small> | 0.80 | -29.5<small>%</small> | -3.4<small>%</small> |
+| SPY<sub>MDD</sub> <small>(108%)</small> | <span style="color: tomato">14.5<small>%</small></span> | 18.4<small>%</small> | 0.79 | -35.9<small>%</small> | -4.3<small>%</small> |
 
 
 
@@ -85,7 +85,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 **위험도 지표 (표준편차):** 86% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 11.7%로 SPLV의 10.8%와 비슷했습니다. (비슷한 수익률)
 
-**위험도 지표 (MDD):** 108% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 14.4%로 SPLV의 10.8%보다 3.7% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 108% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 14.5%로 SPLV의 10.8%보다 3.7% 높았습니다. (높은 수익률)
 
 
 

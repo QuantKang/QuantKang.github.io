@@ -78,16 +78,16 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | KOMP | <span style="color: tomato">9.8<small>%</small></span> | 27.5<small>%</small> | 0.36 | -50.1<small>%</small> | -22.0<small>%</small> |
 | SPY | <span style="color: tomato">15.0<small>%</small></span> | 20.2<small>%</small> | 0.74 | -33.7<small>%</small> | -5.7<small>%</small> |
-| SPY<sub>STD</sub> <small>(136%)</small> | <span style="color: tomato">19.6<small>%</small></span> | 27.5<small>%</small> | 0.71 | -43.6<small>%</small> | -8.1<small>%</small> |
-| SPY<sub>MDD</sub> <small>(148%)</small> | <span style="color: tomato">21.2<small>%</small></span> | 30.0<small>%</small> | 0.71 | -46.9<small>%</small> | -8.9<small>%</small> |
+| SPY<sub>STD</sub> <small>(136%)</small> | <span style="color: tomato">19.7<small>%</small></span> | 27.5<small>%</small> | 0.72 | -43.6<small>%</small> | -8.1<small>%</small> |
+| SPY<sub>MDD</sub> <small>(148%)</small> | <span style="color: tomato">21.3<small>%</small></span> | 30.0<small>%</small> | 0.71 | -46.9<small>%</small> | -8.9<small>%</small> |
 
 
 
 각각의 경우를 KOMP의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 136% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 19.6%로 KOMP의 9.8%보다 9.8% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 136% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 19.7%로 KOMP의 9.8%보다 9.9% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 148% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 21.2%로 KOMP의 9.8%보다 11.4% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 148% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 21.3%로 KOMP의 9.8%보다 11.5% 높았습니다. (높은 수익률)
 
 
 
@@ -99,8 +99,8 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 지난 5년 10개월간 거치식으로 투자했다고 가정합니다.
 
-SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 20.4%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 KOMP의 9.8%보다 10.6% 높았습니다.
+SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 20.5%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 KOMP의 9.8%보다 10.7% 높았습니다.
 
 ### KOMP	&lt; SPY
 {: .text-center}

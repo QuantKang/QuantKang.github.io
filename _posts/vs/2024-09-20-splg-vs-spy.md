@@ -34,7 +34,7 @@ SPLG의 수익률이 SPY보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SPLG | <span style="color: tomato">10.6<small>%</small></span> | 18.4<small>%</small> | 0.58 | -54.5<small>%</small> | -7.6<small>%</small> |
-| SPY | <span style="color: tomato">10.5<small>%</small></span> | 19.3<small>%</small> | 0.54 | -55.2<small>%</small> | -7.8<small>%</small> |
+| SPY | <span style="color: tomato">10.5<small>%</small></span> | 19.3<small>%</small> | 0.55 | -55.2<small>%</small> | -7.8<small>%</small> |
 
 <!-- more -->
 
@@ -77,7 +77,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SPLG | <span style="color: tomato">10.6<small>%</small></span> | 18.4<small>%</small> | 0.58 | -54.5<small>%</small> | -7.6<small>%</small> |
-| SPY | <span style="color: tomato">10.5<small>%</small></span> | 19.3<small>%</small> | 0.54 | -55.2<small>%</small> | -7.8<small>%</small> |
+| SPY | <span style="color: tomato">10.5<small>%</small></span> | 19.3<small>%</small> | 0.55 | -55.2<small>%</small> | -7.8<small>%</small> |
 | SPY<sub>STD</sub> <small>(95%)</small> | <span style="color: tomato">10.1<small>%</small></span> | 18.4<small>%</small> | 0.55 | -53.2<small>%</small> | -7.3<small>%</small> |
 | SPY<sub>MDD</sub> <small>(99%)</small> | <span style="color: tomato">10.4<small>%</small></span> | 19.1<small>%</small> | 0.55 | -54.7<small>%</small> | -7.7<small>%</small> |
 

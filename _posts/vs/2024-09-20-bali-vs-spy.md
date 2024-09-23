@@ -1,7 +1,7 @@
 ---
 layout: single
 title: BALI vs SPY
-excerpt: BALI의 최근 1년 CAGR은 31.2%로 SPY의 34.8%보다 -3.6% 낮았습니다.
+excerpt: BALI의 최근 1년 CAGR은 31.2%로 SPY의 35.2%보다 -4.0% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -34,14 +34,14 @@ BALI의 수익률이 SPY보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | BALI | <span style="color: tomato">31.2<small>%</small></span> | 10.4<small>%</small> | 3.00 | -7.7<small>%</small> | -1.0<small>%</small> |
-| SPY | <span style="color: tomato">34.8<small>%</small></span> | 12.5<small>%</small> | 2.78 | -8.4<small>%</small> | -1.2<small>%</small> |
+| SPY | <span style="color: tomato">35.2<small>%</small></span> | 12.5<small>%</small> | 2.81 | -8.4<small>%</small> | -1.2<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** BALI의 CAGR은 31.2%로 SPY의 34.8%보다 -3.6% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** BALI의 CAGR은 31.2%로 SPY의 35.2%보다 -4.0% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** BALI의 표준편차는 10.4%로 SPY의 12.5%보다 -2.1% 낮았습니다. (낮은 위험도)
 
@@ -77,17 +77,17 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | BALI | <span style="color: tomato">31.2<small>%</small></span> | 10.4<small>%</small> | 3.00 | -7.7<small>%</small> | -1.0<small>%</small> |
-| SPY | <span style="color: tomato">34.8<small>%</small></span> | 12.5<small>%</small> | 2.78 | -8.4<small>%</small> | -1.2<small>%</small> |
-| SPY<sub>STD</sub> <small>(83%)</small> | <span style="color: tomato">28.2<small>%</small></span> | 10.4<small>%</small> | 2.72 | -7.0<small>%</small> | -1.0<small>%</small> |
-| SPY<sub>MDD</sub> <small>(92%)</small> | <span style="color: tomato">31.7<small>%</small></span> | 11.5<small>%</small> | 2.75 | -7.8<small>%</small> | -1.1<small>%</small> |
+| SPY | <span style="color: tomato">35.2<small>%</small></span> | 12.5<small>%</small> | 2.81 | -8.4<small>%</small> | -1.2<small>%</small> |
+| SPY<sub>STD</sub> <small>(83%)</small> | <span style="color: tomato">28.6<small>%</small></span> | 10.4<small>%</small> | 2.75 | -7.0<small>%</small> | -1.0<small>%</small> |
+| SPY<sub>MDD</sub> <small>(92%)</small> | <span style="color: tomato">32.1<small>%</small></span> | 11.5<small>%</small> | 2.79 | -7.8<small>%</small> | -1.1<small>%</small> |
 
 
 
 각각의 경우를 BALI의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 83% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 28.2%로 BALI의 31.2%보다 -3.0% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 83% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 28.6%로 BALI의 31.2%보다 -2.6% 낮았습니다. (낮은 수익률)
 
-**위험도 지표 (MDD):** 92% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 31.7%로 BALI의 31.2%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (MDD):** 92% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 32.1%로 BALI의 31.2%와 비슷했습니다. (비슷한 수익률)
 
 
 
@@ -99,11 +99,13 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 지난 1년간 거치식으로 투자했다고 가정합니다.
 
-SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 30.0%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 BALI의 31.2%보다 -1.2% 낮았습니다.
+SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 30.3%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 BALI의 31.2%와 비슷했습니다.
 
-### BALI &gt; SPY
+### BALI ≒ SPY
 {: .text-center}
+**참고** 위험 대비 수익률이 비슷한 경우라면, 적은 비중으로 동일한 투자 효과를 낼 수 있는 상품을 선택하는 것이, 투자 전략 유연성 측면에서는 보다 유리할 수 있습니다.
+{: .notice--info}
 
 
 ## 관련 정보
