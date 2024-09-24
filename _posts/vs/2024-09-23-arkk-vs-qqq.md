@@ -78,16 +78,16 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | ARKK | <span style="color: tomato">9.9<small>%</small></span> | 37.5<small>%</small> | 0.26 | -80.9<small>%</small> | -25.6<small>%</small> |
 | QQQ | <span style="color: tomato">18.0<small>%</small></span> | 21.7<small>%</small> | 0.83 | -35.1<small>%</small> | -6.3<small>%</small> |
-| QQQ<sub>STD</sub> <small>(173%)</small> | <span style="color: tomato">29.1<small>%</small></span> | 37.5<small>%</small> | 0.78 | -55.6<small>%</small> | -11.3<small>%</small> |
-| QQQ<sub>MDD</sub> <small>(230%)</small> | <span style="color: tomato">36.2<small>%</small></span> | 50.1<small>%</small> | 0.72 | -68.6<small>%</small> | -15.5<small>%</small> |
+| QQQ<sub>STD</sub> <small>(173%)</small> | <span style="color: tomato">29.2<small>%</small></span> | 37.5<small>%</small> | 0.78 | -55.6<small>%</small> | -11.3<small>%</small> |
+| QQQ<sub>MDD</sub> <small>(230%)</small> | <span style="color: tomato">36.3<small>%</small></span> | 50.1<small>%</small> | 0.72 | -68.6<small>%</small> | -15.5<small>%</small> |
 
 
 
 각각의 경우를 ARKK의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 173% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 29.1%로 ARKK의 9.9%보다 19.2% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 173% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 29.2%로 ARKK의 9.9%보다 19.2% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 230% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 36.2%로 ARKK의 9.9%보다 26.3% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 230% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 36.3%로 ARKK의 9.9%보다 26.3% 높았습니다. (높은 수익률)
 
 
 
@@ -100,7 +100,7 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 지난 9년 10개월간 거치식으로 투자했다고 가정합니다.
 
 QQQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 32.7%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 ARKK의 9.9%보다 22.7% 높았습니다.
+이 포트폴리오는 ARKK의 9.9%보다 22.8% 높았습니다.
 
 ### ARKK	&lt; QQQ
 {: .text-center}

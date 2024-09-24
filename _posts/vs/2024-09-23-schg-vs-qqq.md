@@ -79,7 +79,7 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 | SCHG | <span style="color: tomato">16.0<small>%</small></span> | 19.5<small>%</small> | 0.82 | -34.6<small>%</small> | -5.3<small>%</small> |
 | QQQ | <span style="color: tomato">18.3<small>%</small></span> | 20.4<small>%</small> | 0.90 | -35.1<small>%</small> | -5.3<small>%</small> |
 | QQQ<sub>STD</sub> <small>(96%)</small> | <span style="color: tomato">17.6<small>%</small></span> | 19.5<small>%</small> | 0.90 | -33.8<small>%</small> | -5.1<small>%</small> |
-| QQQ<sub>MDD</sub> <small>(98%)</small> | <span style="color: tomato">18.0<small>%</small></span> | 20.1<small>%</small> | 0.90 | -34.7<small>%</small> | -5.2<small>%</small> |
+| QQQ<sub>MDD</sub> <small>(98%)</small> | <span style="color: tomato">18.1<small>%</small></span> | 20.1<small>%</small> | 0.90 | -34.7<small>%</small> | -5.2<small>%</small> |
 
 
 
@@ -87,7 +87,7 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 
 **위험도 지표 (표준편차):** 96% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 17.6%로 SCHG의 16.0%보다 1.5% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 98% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 18.0%로 SCHG의 16.0%보다 2.0% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 98% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 18.1%로 SCHG의 16.0%보다 2.0% 높았습니다. (높은 수익률)
 
 
 
