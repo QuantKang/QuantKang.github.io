@@ -1,7 +1,7 @@
 ---
 layout: single
 title: SPHD vs SCHD
-excerpt: SPHD의 최근 11년 10개월 CAGR은 10.2%로 SCHD의 13.1%보다 -2.9% 낮았습니다.
+excerpt: SPHD의 최근 11년 10개월 CAGR은 10.2%로 SCHD의 13.1%보다 -2.8% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -41,7 +41,7 @@ SPHD의 수익률이 SCHD보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** SPHD의 CAGR은 10.2%로 SCHD의 13.1%보다 -2.9% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** SPHD의 CAGR은 10.2%로 SCHD의 13.1%보다 -2.8% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** SPHD의 표준편차는 16.6%로 SCHD의 15.7%와 비슷했습니다. (비슷한 위험도)
 

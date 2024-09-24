@@ -1,7 +1,7 @@
 ---
 layout: single
 title: SPYG vs SPY
-excerpt: SPYG의 최근 24년 CAGR은 6.4%로 SPY의 7.9%보다 -1.5% 낮았습니다.
+excerpt: SPYG의 최근 24년 CAGR은 6.4%로 SPY의 7.9%보다 -1.4% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -41,7 +41,7 @@ SPYG의 수익률이 SPY보다 지속적으로 우세하면 상승하고, 반대
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** SPYG의 CAGR은 6.4%로 SPY의 7.9%보다 -1.5% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** SPYG의 CAGR은 6.4%로 SPY의 7.9%보다 -1.4% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** SPYG의 표준편차는 21.6%로 SPY의 19.3%보다 2.3% 높았습니다. (높은 위험도)
 
