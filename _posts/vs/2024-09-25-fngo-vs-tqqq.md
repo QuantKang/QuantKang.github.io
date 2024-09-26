@@ -1,7 +1,7 @@
 ---
 layout: single
 title: FNGO vs TQQQ
-excerpt: FNGO의 최근 6년 1개월 CAGR은 37.8%로 TQQQ의 28.0%보다 9.8% 높았습니다.
+excerpt: FNGO의 최근 6년 1개월 CAGR은 37.8%로 TQQQ의 28.0%보다 9.7% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -41,7 +41,7 @@ FNGO의 수익률이 TQQQ보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** FNGO의 CAGR은 37.8%로 TQQQ의 28.0%보다 9.8% 높았습니다. (높은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** FNGO의 CAGR은 37.8%로 TQQQ의 28.0%보다 9.7% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** FNGO의 표준편차는 63.7%로 TQQQ의 73.2%보다 -9.5% 낮았습니다. (낮은 위험도)
 
@@ -78,16 +78,16 @@ TQQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, TQQ
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | FNGO | <span style="color: tomato">37.8<small>%</small></span> | 63.7<small>%</small> | 0.59 | -78.4<small>%</small> | -26.9<small>%</small> |
 | TQQQ | <span style="color: tomato">28.0<small>%</small></span> | 73.2<small>%</small> | 0.38 | -81.7<small>%</small> | -31.6<small>%</small> |
-| TQQQ<sub>STD</sub> <small>(87%)</small> | <span style="color: tomato">27.9<small>%</small></span> | 63.7<small>%</small> | 0.44 | -75.8<small>%</small> | -27.1<small>%</small> |
-| TQQQ<sub>MDD</sub> <small>(96%)</small> | <span style="color: tomato">28.1<small>%</small></span> | 70.3<small>%</small> | 0.40 | -80.0<small>%</small> | -30.2<small>%</small> |
+| TQQQ<sub>STD</sub> <small>(87%)</small> | <span style="color: tomato">28.0<small>%</small></span> | 63.7<small>%</small> | 0.44 | -75.8<small>%</small> | -27.1<small>%</small> |
+| TQQQ<sub>MDD</sub> <small>(96%)</small> | <span style="color: tomato">28.2<small>%</small></span> | 70.3<small>%</small> | 0.40 | -80.0<small>%</small> | -30.2<small>%</small> |
 
 
 
 각각의 경우를 FNGO의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 87% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 27.9%로 FNGO의 37.8%보다 -9.8% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 87% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 28.0%로 FNGO의 37.8%보다 -9.8% 낮았습니다. (낮은 수익률)
 
-**위험도 지표 (MDD):** 96% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 28.1%로 FNGO의 37.8%보다 -9.7% 낮았습니다. (낮은 수익률)
+**위험도 지표 (MDD):** 96% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 28.2%로 FNGO의 37.8%보다 -9.6% 낮았습니다. (낮은 수익률)
 
 
 
@@ -99,8 +99,8 @@ TQQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, TQQ
 
 지난 6년 1개월간 거치식으로 투자했다고 가정합니다.
 
-TQQQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 28.0%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 FNGO의 37.8%보다 -9.8% 낮았습니다.
+TQQQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 28.1%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 FNGO의 37.8%보다 -9.7% 낮았습니다.
 
 ### FNGO &gt; TQQQ
 {: .text-center}

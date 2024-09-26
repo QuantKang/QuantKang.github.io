@@ -1,7 +1,7 @@
 ---
 layout: single
 title: FNGO vs QLD
-excerpt: FNGO의 최근 6년 1개월 CAGR은 37.8%로 QLD의 26.7%보다 11.0% 높았습니다.
+excerpt: FNGO의 최근 6년 1개월 CAGR은 37.8%로 QLD의 26.8%보다 11.0% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -34,14 +34,14 @@ FNGO의 수익률이 QLD보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | FNGO | <span style="color: tomato">37.8<small>%</small></span> | 63.7<small>%</small> | 0.59 | -78.4<small>%</small> | -26.9<small>%</small> |
-| QLD | <span style="color: tomato">26.7<small>%</small></span> | 49.6<small>%</small> | 0.54 | -63.7<small>%</small> | -19.7<small>%</small> |
+| QLD | <span style="color: tomato">26.8<small>%</small></span> | 49.6<small>%</small> | 0.54 | -63.7<small>%</small> | -19.7<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** FNGO의 CAGR은 37.8%로 QLD의 26.7%보다 11.0% 높았습니다. (높은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** FNGO의 CAGR은 37.8%로 QLD의 26.8%보다 11.0% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** FNGO의 표준편차는 63.7%로 QLD의 49.6%보다 14.1% 높았습니다. (높은 위험도)
 
@@ -77,7 +77,7 @@ QLD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QLD<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | FNGO | <span style="color: tomato">37.8<small>%</small></span> | 63.7<small>%</small> | 0.59 | -78.4<small>%</small> | -26.9<small>%</small> |
-| QLD | <span style="color: tomato">26.7<small>%</small></span> | 49.6<small>%</small> | 0.54 | -63.7<small>%</small> | -19.7<small>%</small> |
+| QLD | <span style="color: tomato">26.8<small>%</small></span> | 49.6<small>%</small> | 0.54 | -63.7<small>%</small> | -19.7<small>%</small> |
 | QLD<sub>STD</sub> <small>(128%)</small> | <span style="color: tomato">29.4<small>%</small></span> | 63.7<small>%</small> | 0.46 | -74.9<small>%</small> | -26.1<small>%</small> |
 | QLD<sub>MDD</sub> <small>(123%)</small> | <span style="color: tomato">29.1<small>%</small></span> | 61.1<small>%</small> | 0.48 | -73.0<small>%</small> | -24.9<small>%</small> |
 
