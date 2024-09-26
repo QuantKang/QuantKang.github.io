@@ -1,7 +1,7 @@
 ---
 layout: single
 title: MAGS vs TQQQ
-excerpt: MAGS의 최근 1년 6개월 CAGR은 57.9%로 TQQQ의 98.5%보다 -40.6% 낮았습니다.
+excerpt: MAGS의 최근 1년 6개월 CAGR은 57.9%로 TQQQ의 99.0%보다 -41.0% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -34,14 +34,14 @@ MAGS의 수익률이 TQQQ보다 지속적으로 우세하면 상승하고, 반�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | MAGS | <span style="color: tomato">57.9<small>%</small></span> | 23.9<small>%</small> | 2.43 | -18.1<small>%</small> | -3.1<small>%</small> |
-| TQQQ | <span style="color: tomato">98.5<small>%</small></span> | 51.5<small>%</small> | 1.91 | -37.4<small>%</small> | -8.9<small>%</small> |
+| TQQQ | <span style="color: tomato">99.0<small>%</small></span> | 51.5<small>%</small> | 1.92 | -37.4<small>%</small> | -8.9<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** MAGS의 CAGR은 57.9%로 TQQQ의 98.5%보다 -40.6% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** MAGS의 CAGR은 57.9%로 TQQQ의 99.0%보다 -41.0% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** MAGS의 표준편차는 23.9%로 TQQQ의 51.5%보다 -27.7% 낮았습니다. (낮은 위험도)
 
@@ -77,17 +77,17 @@ TQQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, TQQ
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | MAGS | <span style="color: tomato">57.9<small>%</small></span> | 23.9<small>%</small> | 2.43 | -18.1<small>%</small> | -3.1<small>%</small> |
-| TQQQ | <span style="color: tomato">98.5<small>%</small></span> | 51.5<small>%</small> | 1.91 | -37.4<small>%</small> | -8.9<small>%</small> |
-| TQQQ<sub>STD</sub> <small>(46%)</small> | <span style="color: tomato">42.1<small>%</small></span> | 23.9<small>%</small> | 1.76 | -18.9<small>%</small> | -4.0<small>%</small> |
-| TQQQ<sub>MDD</sub> <small>(48%)</small> | <span style="color: tomato">44.2<small>%</small></span> | 25.0<small>%</small> | 1.77 | -19.7<small>%</small> | -4.2<small>%</small> |
+| TQQQ | <span style="color: tomato">99.0<small>%</small></span> | 51.5<small>%</small> | 1.92 | -37.4<small>%</small> | -8.9<small>%</small> |
+| TQQQ<sub>STD</sub> <small>(46%)</small> | <span style="color: tomato">42.2<small>%</small></span> | 23.9<small>%</small> | 1.77 | -18.9<small>%</small> | -4.0<small>%</small> |
+| TQQQ<sub>MDD</sub> <small>(48%)</small> | <span style="color: tomato">44.3<small>%</small></span> | 25.0<small>%</small> | 1.78 | -19.7<small>%</small> | -4.2<small>%</small> |
 
 
 
 각각의 경우를 MAGS의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 46% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 42.1%로 MAGS의 57.9%보다 -15.9% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 46% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 42.2%로 MAGS의 57.9%보다 -15.7% 낮았습니다. (낮은 수익률)
 
-**위험도 지표 (MDD):** 48% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 44.2%로 MAGS의 57.9%보다 -13.8% 낮았습니다. (낮은 수익률)
+**위험도 지표 (MDD):** 48% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 44.3%로 MAGS의 57.9%보다 -13.6% 낮았습니다. (낮은 수익률)
 
 
 
@@ -99,8 +99,8 @@ TQQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, TQQ
 
 지난 1년 6개월간 거치식으로 투자했다고 가정합니다.
 
-TQQQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 43.1%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 MAGS의 57.9%보다 -14.8% 낮았습니다.
+TQQQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 43.3%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 MAGS의 57.9%보다 -14.7% 낮았습니다.
 
 ### MAGS &gt; TQQQ
 {: .text-center}

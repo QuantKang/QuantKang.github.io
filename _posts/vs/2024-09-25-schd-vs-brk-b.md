@@ -78,7 +78,7 @@ BRK-B<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, BR
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SCHD | <span style="color: tomato">13.2<small>%</small></span> | 15.5<small>%</small> | 0.85 | -33.4<small>%</small> | -3.2<small>%</small> |
 | BRK-B | <span style="color: tomato">14.8<small>%</small></span> | 18.3<small>%</small> | 0.81 | -29.6<small>%</small> | -5.7<small>%</small> |
-| BRK-B<sub>STD</sub> <small>(85%)</small> | <span style="color: tomato">12.6<small>%</small></span> | 15.5<small>%</small> | 0.81 | -25.4<small>%</small> | -4.8<small>%</small> |
+| BRK-B<sub>STD</sub> <small>(85%)</small> | <span style="color: tomato">12.6<small>%</small></span> | 15.5<small>%</small> | 0.81 | -25.3<small>%</small> | -4.8<small>%</small> |
 | BRK-B<sub>MDD</sub> <small>(113%)</small> | <span style="color: tomato">16.6<small>%</small></span> | 20.7<small>%</small> | 0.80 | -33.0<small>%</small> | -6.5<small>%</small> |
 
 
@@ -87,7 +87,7 @@ BRK-B<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, BR
 
 **위험도 지표 (표준편차):** 85% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 12.6%로 SCHD의 13.2%와 비슷했습니다. (비슷한 수익률)
 
-**위험도 지표 (MDD):** 113% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 16.6%로 SCHD의 13.2%보다 3.4% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 113% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 16.6%로 SCHD의 13.2%보다 3.3% 높았습니다. (높은 수익률)
 
 
 

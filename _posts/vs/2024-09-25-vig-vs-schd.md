@@ -77,7 +77,7 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 | VIG | <span style="color: tomato">13.1<small>%</small></span> | 15.2<small>%</small> | 0.86 | -31.7<small>%</small> | -3.3<small>%</small> |
 | SCHD | <span style="color: tomato">13.2<small>%</small></span> | 15.5<small>%</small> | 0.85 | -33.4<small>%</small> | -3.2<small>%</small> |
 | SCHD<sub>STD</sub> <small>(98%)</small> | <span style="color: tomato">12.9<small>%</small></span> | 15.2<small>%</small> | 0.85 | -32.7<small>%</small> | -3.1<small>%</small> |
-| SCHD<sub>MDD</sub> <small>(95%)</small> | <span style="color: tomato">12.5<small>%</small></span> | 14.8<small>%</small> | 0.85 | -31.9<small>%</small> | -3.0<small>%</small> |
+| SCHD<sub>MDD</sub> <small>(95%)</small> | <span style="color: tomato">12.6<small>%</small></span> | 14.7<small>%</small> | 0.86 | -31.9<small>%</small> | -3.0<small>%</small> |
 
 
 
@@ -85,7 +85,7 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 
 **위험도 지표 (표준편차):** 98% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 12.9%로 VIG의 13.1%와 비슷했습니다. (비슷한 수익률)
 
-**위험도 지표 (MDD):** 95% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 12.5%로 VIG의 13.1%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (MDD):** 95% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 12.6%로 VIG의 13.1%와 비슷했습니다. (비슷한 수익률)
 
 
 
@@ -97,7 +97,7 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 
 지난 12년 10개월간 거치식으로 투자했다고 가정합니다.
 
-SCHD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 12.7%인 포트폴리오를 만들 수 있습니다.
+SCHD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 12.8%인 포트폴리오를 만들 수 있습니다.
 이 포트폴리오는 VIG의 13.1%와 비슷했습니다.
 
 ### VIG ≒ SCHD
