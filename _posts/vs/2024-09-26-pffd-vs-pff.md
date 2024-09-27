@@ -54,7 +54,7 @@ PFFD의 수익률이 PFF보다 지속적으로 우세하면 상승하고, 반대
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 PFF의 투자 비중[^fn_vs_weight]을 조절하여 PFFD의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 14.3% / 13.5% = 94% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 14.3% / 13.5% = 95% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 34.1% / 30.9% = 91% 비중으로 투자하면 됩니다.
 
@@ -78,14 +78,14 @@ PFF<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, PFF<
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | PFFD | <span style="color: tomato">3.1<small>%</small></span> | 13.5<small>%</small> | 0.23 | -30.9<small>%</small> | -6.6<small>%</small> |
 | PFF | <span style="color: tomato">3.3<small>%</small></span> | 14.3<small>%</small> | 0.23 | -34.1<small>%</small> | -6.0<small>%</small> |
-| PFF<sub>STD</sub> <small>(94%)</small> | <span style="color: tomato">3.2<small>%</small></span> | 13.5<small>%</small> | 0.24 | -32.5<small>%</small> | -5.7<small>%</small> |
+| PFF<sub>STD</sub> <small>(95%)</small> | <span style="color: tomato">3.2<small>%</small></span> | 13.5<small>%</small> | 0.24 | -32.5<small>%</small> | -5.7<small>%</small> |
 | PFF<sub>MDD</sub> <small>(91%)</small> | <span style="color: tomato">3.1<small>%</small></span> | 13.0<small>%</small> | 0.24 | -31.3<small>%</small> | -5.4<small>%</small> |
 
 
 
 각각의 경우를 PFFD의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 94% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 3.2%로 PFFD의 3.1%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 95% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 3.2%로 PFFD의 3.1%와 비슷했습니다. (비슷한 수익률)
 
 **위험도 지표 (MDD):** 91% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 3.1%로 PFFD의 3.1%와 비슷했습니다. (비슷한 수익률)
 
