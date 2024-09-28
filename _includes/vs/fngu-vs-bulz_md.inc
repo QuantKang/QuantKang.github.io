@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [FNGU](/fngu-vs-bulz/) | <span style="color: tomato">8.9<small>%</small></span> | 96.0<small>%</small> | 0.09 | -92.3<small>%</small> | -55.2<small>%</small> |
-| BULZ | <span style="color: cornflowerblue">-14.2<small>%</small></span> | 92.4<small>%</small> | -0.15 | -94.4<small>%</small> | -67.4<small>%</small> |
+| [FNGU](/fngu-vs-bulz/) | <span style="color: tomato">8.2<small>%</small></span> | 96.0<small>%</small> | 0.09 | -92.3<small>%</small> | -55.2<small>%</small> |
+| BULZ | <span style="color: cornflowerblue">-14.9<small>%</small></span> | 92.4<small>%</small> | -0.16 | -94.4<small>%</small> | -67.4<small>%</small> |
