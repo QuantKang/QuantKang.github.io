@@ -3028,6 +3028,37 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 
 
 
+## 미국 상장 채권 vs 주식 ETF
+
+
+
+### [SPY vs BIL](/spy-vs-bil/)<a id="spy-vs-bil"></a>
+
+{% include vs/spy-vs-bil_md.inc %}
+
+
+
+### [SPY vs SHY](/spy-vs-shy/)<a id="spy-vs-shy"></a>
+
+{% include vs/spy-vs-shy_md.inc %}
+
+
+
+### [SPY vs IEF](/spy-vs-ief/)<a id="spy-vs-ief"></a>
+
+{% include vs/spy-vs-ief_md.inc %}
+
+
+
+### [SPY vs TLT](/spy-vs-tlt/)<a id="spy-vs-tlt"></a>
+
+{% include vs/spy-vs-tlt_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
 ## 미국 상장 채권 ETF
 
 
@@ -3055,13 +3086,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/shy-vs-tlt_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [IEF vs TLT](/ief-vs-tlt/)<a id="ief-vs-tlt"></a>
 
 {% include vs/ief-vs-tlt_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -3088,13 +3119,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/hyt-vs-spy_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [GOF vs SPY](/gof-vs-spy/)<a id="gof-vs-spy"></a>
 
 {% include vs/gof-vs-spy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
