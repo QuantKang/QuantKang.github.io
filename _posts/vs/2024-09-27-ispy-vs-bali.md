@@ -78,14 +78,14 @@ BALI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, BAL
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | ISPY | <span style="color: tomato">27.7<small>%</small></span> | 11.4<small>%</small> | 2.43 | -7.9<small>%</small> | -1.1<small>%</small> |
 | BALI | <span style="color: tomato">28.2<small>%</small></span> | 10.2<small>%</small> | 2.77 | -7.7<small>%</small> | -1.1<small>%</small> |
-| BALI<sub>STD</sub> <small>(112%)</small> | <span style="color: tomato">31.9<small>%</small></span> | 11.4<small>%</small> | 2.81 | -8.6<small>%</small> | -1.2<small>%</small> |
+| BALI<sub>STD</sub> <small>(112%)</small> | <span style="color: tomato">32.0<small>%</small></span> | 11.4<small>%</small> | 2.81 | -8.6<small>%</small> | -1.2<small>%</small> |
 | BALI<sub>MDD</sub> <small>(102%)</small> | <span style="color: tomato">28.8<small>%</small></span> | 10.4<small>%</small> | 2.78 | -7.9<small>%</small> | -1.1<small>%</small> |
 
 
 
 각각의 경우를 ISPY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 112% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 31.9%로 ISPY의 27.7%보다 4.3% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 112% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 32.0%로 ISPY의 27.7%보다 4.3% 높았습니다. (높은 수익률)
 
 **위험도 지표 (MDD):** 102% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 28.8%로 ISPY의 27.7%보다 1.1% 높았습니다. (높은 수익률)
 

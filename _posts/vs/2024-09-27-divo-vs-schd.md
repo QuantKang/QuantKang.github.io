@@ -33,7 +33,7 @@ DIVO의 수익률이 SCHD보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| DIVO | <span style="color: tomato">12.3<small>%</small></span> | 15.3<small>%</small> | 0.80 | -30.0<small>%</small> | -2.8<small>%</small> |
+| DIVO | <span style="color: tomato">12.3<small>%</small></span> | 15.3<small>%</small> | 0.81 | -30.0<small>%</small> | -2.8<small>%</small> |
 | SCHD | <span style="color: tomato">12.4<small>%</small></span> | 17.5<small>%</small> | 0.71 | -33.4<small>%</small> | -4.2<small>%</small> |
 
 <!-- more -->
@@ -76,7 +76,7 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| DIVO | <span style="color: tomato">12.3<small>%</small></span> | 15.3<small>%</small> | 0.80 | -30.0<small>%</small> | -2.8<small>%</small> |
+| DIVO | <span style="color: tomato">12.3<small>%</small></span> | 15.3<small>%</small> | 0.81 | -30.0<small>%</small> | -2.8<small>%</small> |
 | SCHD | <span style="color: tomato">12.4<small>%</small></span> | 17.5<small>%</small> | 0.71 | -33.4<small>%</small> | -4.2<small>%</small> |
 | SCHD<sub>STD</sub> <small>(88%)</small> | <span style="color: tomato">11.0<small>%</small></span> | 15.3<small>%</small> | 0.72 | -29.7<small>%</small> | -3.6<small>%</small> |
 | SCHD<sub>MDD</sub> <small>(90%)</small> | <span style="color: tomato">11.2<small>%</small></span> | 15.7<small>%</small> | 0.71 | -30.4<small>%</small> | -3.7<small>%</small> |
@@ -85,9 +85,9 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 
 각각의 경우를 DIVO의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 88% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 11.0%로 DIVO의 12.3%보다 -1.3% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 88% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 11.0%로 DIVO의 12.3%보다 -1.4% 낮았습니다. (낮은 수익률)
 
-**위험도 지표 (MDD):** 90% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 11.2%로 DIVO의 12.3%보다 -1.0% 낮았습니다. (낮은 수익률)
+**위험도 지표 (MDD):** 90% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 11.2%로 DIVO의 12.3%보다 -1.1% 낮았습니다. (낮은 수익률)
 
 
 

@@ -34,7 +34,7 @@ SPY의 수익률이 DIVO보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SPY | <span style="color: tomato">14.6<small>%</small></span> | 18.4<small>%</small> | 0.79 | -33.7<small>%</small> | -5.0<small>%</small> |
-| DIVO | <span style="color: tomato">12.3<small>%</small></span> | 15.3<small>%</small> | 0.80 | -30.0<small>%</small> | -2.8<small>%</small> |
+| DIVO | <span style="color: tomato">12.3<small>%</small></span> | 15.3<small>%</small> | 0.81 | -30.0<small>%</small> | -2.8<small>%</small> |
 
 <!-- more -->
 
@@ -77,15 +77,15 @@ DIVO<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, DIV
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SPY | <span style="color: tomato">14.6<small>%</small></span> | 18.4<small>%</small> | 0.79 | -33.7<small>%</small> | -5.0<small>%</small> |
-| DIVO | <span style="color: tomato">12.3<small>%</small></span> | 15.3<small>%</small> | 0.80 | -30.0<small>%</small> | -2.8<small>%</small> |
-| DIVO<sub>STD</sub> <small>(120%)</small> | <span style="color: tomato">14.6<small>%</small></span> | 18.4<small>%</small> | 0.79 | -35.3<small>%</small> | -3.4<small>%</small> |
+| DIVO | <span style="color: tomato">12.3<small>%</small></span> | 15.3<small>%</small> | 0.81 | -30.0<small>%</small> | -2.8<small>%</small> |
+| DIVO<sub>STD</sub> <small>(120%)</small> | <span style="color: tomato">14.7<small>%</small></span> | 18.4<small>%</small> | 0.80 | -35.3<small>%</small> | -3.4<small>%</small> |
 | DIVO<sub>MDD</sub> <small>(112%)</small> | <span style="color: tomato">13.7<small>%</small></span> | 17.2<small>%</small> | 0.80 | -33.2<small>%</small> | -3.2<small>%</small> |
 
 
 
 각각의 경우를 SPY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 120% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 14.6%로 SPY의 14.6%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 120% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 14.7%로 SPY의 14.6%와 비슷했습니다. (비슷한 수익률)
 
 **위험도 지표 (MDD):** 112% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 13.7%로 SPY의 14.6%와 비슷했습니다. (비슷한 수익률)
 
@@ -99,7 +99,7 @@ DIVO<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, DIV
 
 지난 7년 9개월간 거치식으로 투자했다고 가정합니다.
 
-DIVO의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 14.1%인 포트폴리오를 만들 수 있습니다.
+DIVO의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 14.2%인 포트폴리오를 만들 수 있습니다.
 이 포트폴리오는 SPY의 14.6%와 비슷했습니다.
 
 ### SPY ≒ DIVO
