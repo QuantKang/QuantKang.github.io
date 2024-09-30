@@ -34,7 +34,7 @@ SCHD의 수익률이 DIVO보다 지속적으로 우세하면 상승하고, 반�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SCHD | <span style="color: tomato">12.4<small>%</small></span> | 17.5<small>%</small> | 0.71 | -33.4<small>%</small> | -4.2<small>%</small> |
-| DIVO | <span style="color: tomato">12.3<small>%</small></span> | 15.3<small>%</small> | 0.80 | -30.0<small>%</small> | -2.8<small>%</small> |
+| DIVO | <span style="color: tomato">12.3<small>%</small></span> | 15.3<small>%</small> | 0.81 | -30.0<small>%</small> | -2.8<small>%</small> |
 
 <!-- more -->
 
@@ -77,17 +77,17 @@ DIVO<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, DIV
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SCHD | <span style="color: tomato">12.4<small>%</small></span> | 17.5<small>%</small> | 0.71 | -33.4<small>%</small> | -4.2<small>%</small> |
-| DIVO | <span style="color: tomato">12.3<small>%</small></span> | 15.3<small>%</small> | 0.80 | -30.0<small>%</small> | -2.8<small>%</small> |
-| DIVO<sub>STD</sub> <small>(114%)</small> | <span style="color: tomato">13.9<small>%</small></span> | 17.5<small>%</small> | 0.80 | -33.8<small>%</small> | -3.2<small>%</small> |
-| DIVO<sub>MDD</sub> <small>(111%)</small> | <span style="color: tomato">13.5<small>%</small></span> | 17.0<small>%</small> | 0.80 | -32.9<small>%</small> | -3.1<small>%</small> |
+| DIVO | <span style="color: tomato">12.3<small>%</small></span> | 15.3<small>%</small> | 0.81 | -30.0<small>%</small> | -2.8<small>%</small> |
+| DIVO<sub>STD</sub> <small>(114%)</small> | <span style="color: tomato">14.0<small>%</small></span> | 17.5<small>%</small> | 0.80 | -33.8<small>%</small> | -3.2<small>%</small> |
+| DIVO<sub>MDD</sub> <small>(111%)</small> | <span style="color: tomato">13.6<small>%</small></span> | 17.0<small>%</small> | 0.80 | -32.9<small>%</small> | -3.1<small>%</small> |
 
 
 
 각각의 경우를 SCHD의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 114% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 13.9%로 SCHD의 12.4%보다 1.5% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 114% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 14.0%로 SCHD의 12.4%보다 1.6% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 111% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 13.5%로 SCHD의 12.4%보다 1.2% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 111% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 13.6%로 SCHD의 12.4%보다 1.2% 높았습니다. (높은 수익률)
 
 
 
@@ -99,8 +99,8 @@ DIVO<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, DIV
 
 지난 7년 9개월간 거치식으로 투자했다고 가정합니다.
 
-DIVO의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 13.7%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 SCHD의 12.4%보다 1.3% 높았습니다.
+DIVO의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 13.8%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 SCHD의 12.4%보다 1.4% 높았습니다.
 
 ### SCHD	&lt; DIVO
 {: .text-center}
