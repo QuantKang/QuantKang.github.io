@@ -76,14 +76,14 @@ JEPIX<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JE
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | JEPI | <span style="color: tomato">13.4<small>%</small></span> | 10.4<small>%</small> | 1.29 | -13.7<small>%</small> | -2.1<small>%</small> |
 | JEPIX | <span style="color: tomato">13.2<small>%</small></span> | 10.8<small>%</small> | 1.22 | -13.7<small>%</small> | -2.2<small>%</small> |
-| JEPIX<sub>STD</sub> <small>(96%)</small> | <span style="color: tomato">12.6<small>%</small></span> | 10.4<small>%</small> | 1.21 | -13.2<small>%</small> | -2.1<small>%</small> |
+| JEPIX<sub>STD</sub> <small>(96%)</small> | <span style="color: tomato">12.7<small>%</small></span> | 10.4<small>%</small> | 1.22 | -13.2<small>%</small> | -2.1<small>%</small> |
 | JEPIX<sub>MDD</sub> <small>(100%)</small> | <span style="color: tomato">13.2<small>%</small></span> | 10.9<small>%</small> | 1.22 | -13.7<small>%</small> | -2.2<small>%</small> |
 
 
 
 각각의 경우를 JEPI의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 96% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 12.6%로 JEPI의 13.4%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 96% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 12.7%로 JEPI의 13.4%와 비슷했습니다. (비슷한 수익률)
 
 **위험도 지표 (MDD):** 100% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 13.2%로 JEPI의 13.4%와 비슷했습니다. (비슷한 수익률)
 
