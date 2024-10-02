@@ -78,16 +78,16 @@ LQD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, LQD<
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | PFFD | <span style="color: tomato">3.1<small>%</small></span> | 13.5<small>%</small> | 0.23 | -30.9<small>%</small> | -6.6<small>%</small> |
 | LQD | <span style="color: tomato">2.4<small>%</small></span> | 9.6<small>%</small> | 0.25 | -25.0<small>%</small> | -7.2<small>%</small> |
-| LQD<sub>STD</sub> <small>(141%)</small> | <span style="color: tomato">3.1<small>%</small></span> | 13.5<small>%</small> | 0.23 | -33.5<small>%</small> | -10.0<small>%</small> |
-| LQD<sub>MDD</sub> <small>(124%)</small> | <span style="color: tomato">2.8<small>%</small></span> | 11.9<small>%</small> | 0.24 | -30.1<small>%</small> | -8.8<small>%</small> |
+| LQD<sub>STD</sub> <small>(141%)</small> | <span style="color: tomato">3.2<small>%</small></span> | 13.5<small>%</small> | 0.24 | -33.5<small>%</small> | -10.0<small>%</small> |
+| LQD<sub>MDD</sub> <small>(124%)</small> | <span style="color: tomato">2.9<small>%</small></span> | 11.9<small>%</small> | 0.24 | -30.1<small>%</small> | -8.8<small>%</small> |
 
 
 
 각각의 경우를 PFFD의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 141% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 3.1%로 PFFD의 3.1%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 141% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 3.2%로 PFFD의 3.1%와 비슷했습니다. (비슷한 수익률)
 
-**위험도 지표 (MDD):** 124% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 2.8%로 PFFD의 3.1%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (MDD):** 124% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 2.9%로 PFFD의 3.1%와 비슷했습니다. (비슷한 수익률)
 
 
 
