@@ -1,7 +1,7 @@
 ---
 layout: single
 title: YMAG vs JEPI
-excerpt: YMAG의 최근 8개월 CAGR은 33.3%로 JEPI의 15.4%보다 17.9% 높았습니다.
+excerpt: YMAG의 최근 8개월 CAGR은 33.3%로 JEPI의 16.5%보다 16.8% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -34,16 +34,16 @@ YMAG의 수익률이 JEPI보다 지속적으로 우세하면 상승하고, 반�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | YMAG | <span style="color: tomato">33.3<small>%</small></span> | 19.5<small>%</small> | 1.71 | -14.3<small>%</small> | -3.3<small>%</small> |
-| JEPI | <span style="color: tomato">15.4<small>%</small></span> | 7.7<small>%</small> | 2.00 | -3.9<small>%</small> | -0.7<small>%</small> |
+| JEPI | <span style="color: tomato">16.5<small>%</small></span> | 7.6<small>%</small> | 2.16 | -3.9<small>%</small> | -0.7<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** YMAG의 CAGR은 33.3%로 JEPI의 15.4%보다 17.9% 높았습니다. (높은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** YMAG의 CAGR은 33.3%로 JEPI의 16.5%보다 16.8% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** YMAG의 표준편차는 19.5%로 JEPI의 7.7%보다 11.8% 높았습니다. (높은 위험도)
+**위험도 지표 (표준편차):** YMAG의 표준편차는 19.5%로 JEPI의 7.6%보다 11.8% 높았습니다. (높은 위험도)
 
 **위험도 지표 (MDD):** YMAG의 14.3%의 MDD는 JEPI의 3.9%보다 10.4% 높았습니다. (높은 위험도)
 
@@ -54,7 +54,7 @@ YMAG의 수익률이 JEPI보다 지속적으로 우세하면 상승하고, 반�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 JEPI의 투자 비중[^fn_vs_weight]을 조절하여 YMAG의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 7.7% / 19.5% = 253% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 7.6% / 19.5% = 255% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 3.9% / 14.3% = 369% 비중으로 투자하면 됩니다.
 
@@ -77,17 +77,17 @@ JEPI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | YMAG | <span style="color: tomato">33.3<small>%</small></span> | 19.5<small>%</small> | 1.71 | -14.3<small>%</small> | -3.3<small>%</small> |
-| JEPI | <span style="color: tomato">15.4<small>%</small></span> | 7.7<small>%</small> | 2.00 | -3.9<small>%</small> | -0.7<small>%</small> |
-| JEPI<sub>STD</sub> <small>(253%)</small> | <span style="color: tomato">41.9<small>%</small></span> | 19.5<small>%</small> | 2.16 | -9.6<small>%</small> | -1.8<small>%</small> |
-| JEPI<sub>MDD</sub> <small>(369%)</small> | <span style="color: tomato">64.4<small>%</small></span> | 28.3<small>%</small> | 2.27 | -13.9<small>%</small> | -2.7<small>%</small> |
+| JEPI | <span style="color: tomato">16.5<small>%</small></span> | 7.6<small>%</small> | 2.16 | -3.9<small>%</small> | -0.7<small>%</small> |
+| JEPI<sub>STD</sub> <small>(255%)</small> | <span style="color: tomato">45.9<small>%</small></span> | 19.5<small>%</small> | 2.36 | -9.7<small>%</small> | -1.9<small>%</small> |
+| JEPI<sub>MDD</sub> <small>(369%)</small> | <span style="color: tomato">70.5<small>%</small></span> | 28.1<small>%</small> | 2.51 | -13.9<small>%</small> | -2.7<small>%</small> |
 
 
 
 각각의 경우를 YMAG의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 253% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 41.9%로 YMAG의 33.3%보다 8.7% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 255% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 45.9%로 YMAG의 33.3%보다 12.6% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 369% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 64.4%로 YMAG의 33.3%보다 31.1% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 369% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 70.5%로 YMAG의 33.3%보다 37.3% 높았습니다. (높은 수익률)
 
 
 
@@ -99,8 +99,8 @@ JEPI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 
 지난 8개월간 거치식으로 투자했다고 가정합니다.
 
-JEPI의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 53.2%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 YMAG의 33.3%보다 19.9% 높았습니다.
+JEPI의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 58.2%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 YMAG의 33.3%보다 25.0% 높았습니다.
 
 ### YMAG	&lt; JEPI
 {: .text-center}
