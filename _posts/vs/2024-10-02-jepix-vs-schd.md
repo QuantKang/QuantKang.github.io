@@ -1,7 +1,7 @@
 ---
 layout: single
 title: JEPIX vs SCHD
-excerpt: JEPIX의 최근 5년 9개월 CAGR은 11.4%로 SCHD의 14.7%보다 -3.3% 낮았습니다.
+excerpt: JEPIX의 최근 5년 9개월 CAGR은 11.5%로 SCHD의 14.7%보다 -3.2% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ JEPIX의 수익률이 SCHD보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| JEPIX | <span style="color: tomato">11.4<small>%</small></span> | 15.2<small>%</small> | 0.75 | -32.6<small>%</small> | -3.1<small>%</small> |
+| JEPIX | <span style="color: tomato">11.5<small>%</small></span> | 15.2<small>%</small> | 0.76 | -32.6<small>%</small> | -3.1<small>%</small> |
 | SCHD | <span style="color: tomato">14.7<small>%</small></span> | 19.1<small>%</small> | 0.77 | -33.4<small>%</small> | -4.2<small>%</small> |
 
 <!-- more -->
@@ -41,7 +41,7 @@ JEPIX의 수익률이 SCHD보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** JEPIX의 CAGR은 11.4%로 SCHD의 14.7%보다 -3.3% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** JEPIX의 CAGR은 11.5%로 SCHD의 14.7%보다 -3.2% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** JEPIX의 표준편차는 15.2%로 SCHD의 19.1%보다 -3.9% 낮았습니다. (낮은 위험도)
 
@@ -76,7 +76,7 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| JEPIX | <span style="color: tomato">11.4<small>%</small></span> | 15.2<small>%</small> | 0.75 | -32.6<small>%</small> | -3.1<small>%</small> |
+| JEPIX | <span style="color: tomato">11.5<small>%</small></span> | 15.2<small>%</small> | 0.76 | -32.6<small>%</small> | -3.1<small>%</small> |
 | SCHD | <span style="color: tomato">14.7<small>%</small></span> | 19.1<small>%</small> | 0.77 | -33.4<small>%</small> | -4.2<small>%</small> |
 | SCHD<sub>STD</sub> <small>(80%)</small> | <span style="color: tomato">11.8<small>%</small></span> | 15.2<small>%</small> | 0.78 | -27.3<small>%</small> | -3.3<small>%</small> |
 | SCHD<sub>MDD</sub> <small>(98%)</small> | <span style="color: tomato">14.4<small>%</small></span> | 18.7<small>%</small> | 0.77 | -32.7<small>%</small> | -4.1<small>%</small> |
@@ -85,9 +85,9 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 
 각각의 경우를 JEPIX의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 80% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 11.8%로 JEPIX의 11.4%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 80% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 11.8%로 JEPIX의 11.5%와 비슷했습니다. (비슷한 수익률)
 
-**위험도 지표 (MDD):** 98% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 14.4%로 JEPIX의 11.4%보다 3.0% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 98% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 14.4%로 JEPIX의 11.5%보다 2.9% 높았습니다. (높은 수익률)
 
 
 
@@ -100,7 +100,7 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 지난 5년 9개월간 거치식으로 투자했다고 가정합니다.
 
 SCHD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 13.1%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 JEPIX의 11.4%보다 1.7% 높았습니다.
+이 포트폴리오는 JEPIX의 11.5%보다 1.6% 높았습니다.
 
 ### JEPIX	&lt; SCHD
 {: .text-center}
