@@ -79,7 +79,7 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 | MAGS | <span style="color: tomato">55.2<small>%</small></span> | 23.7<small>%</small> | 2.32 | -18.1<small>%</small> | -3.1<small>%</small> |
 | QQQ | <span style="color: tomato">33.8<small>%</small></span> | 17.2<small>%</small> | 1.97 | -13.6<small>%</small> | -2.6<small>%</small> |
 | QQQ<sub>STD</sub> <small>(138%)</small> | <span style="color: tomato">48.3<small>%</small></span> | 23.7<small>%</small> | 2.04 | -18.4<small>%</small> | -3.6<small>%</small> |
-| QQQ<sub>MDD</sub> <small>(133%)</small> | <span style="color: tomato">46.5<small>%</small></span> | 23.0<small>%</small> | 2.03 | -17.8<small>%</small> | -3.5<small>%</small> |
+| QQQ<sub>MDD</sub> <small>(133%)</small> | <span style="color: tomato">46.6<small>%</small></span> | 23.0<small>%</small> | 2.03 | -17.8<small>%</small> | -3.5<small>%</small> |
 
 
 
@@ -87,7 +87,7 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 
 **위험도 지표 (표준편차):** 138% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 48.3%로 MAGS의 55.2%보다 -6.9% 낮았습니다. (낮은 수익률)
 
-**위험도 지표 (MDD):** 133% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 46.5%로 MAGS의 55.2%보다 -8.6% 낮았습니다. (낮은 수익률)
+**위험도 지표 (MDD):** 133% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 46.6%로 MAGS의 55.2%보다 -8.6% 낮았습니다. (낮은 수익률)
 
 
 
