@@ -3081,18 +3081,24 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 
 
 
+### [BNDW vs BND](/bndw-vs-bnd/)<a id="bndw-vs-bnd"></a>
+
+{% include vs/bndw-vs-bnd_md.inc %}
+
+
+
 ### [SHY vs TLT](/shy-vs-tlt/)<a id="shy-vs-tlt"></a>
 
 {% include vs/shy-vs-tlt_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
 ### [IEF vs TLT](/ief-vs-tlt/)<a id="ief-vs-tlt"></a>
 
 {% include vs/ief-vs-tlt_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -3119,13 +3125,13 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 {% include vs/hyt-vs-spy_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### [GOF vs SPY](/gof-vs-spy/)<a id="gof-vs-spy"></a>
 
 {% include vs/gof-vs-spy_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
