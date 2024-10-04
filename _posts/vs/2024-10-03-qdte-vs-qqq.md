@@ -1,7 +1,7 @@
 ---
 layout: single
 title: QDTE vs QQQ
-excerpt: QDTE의 최근 6개월 CAGR은 18.7%로 QQQ의 15.4%보다 3.3% 높았습니다.
+excerpt: QDTE의 최근 6개월 CAGR은 19.8%로 QQQ의 15.4%보다 4.4% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ QDTE의 수익률이 QQQ보다 지속적으로 우세하면 상승하고, 반대
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| QDTE | <span style="color: tomato">18.7<small>%</small></span> | 17.4<small>%</small> | 1.07 | -10.7<small>%</small> | -2.2<small>%</small> |
+| QDTE | <span style="color: tomato">19.8<small>%</small></span> | 17.4<small>%</small> | 1.14 | -10.7<small>%</small> | -2.2<small>%</small> |
 | QQQ | <span style="color: tomato">15.4<small>%</small></span> | 18.7<small>%</small> | 0.82 | -13.6<small>%</small> | -3.4<small>%</small> |
 
 <!-- more -->
@@ -41,7 +41,7 @@ QDTE의 수익률이 QQQ보다 지속적으로 우세하면 상승하고, 반대
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** QDTE의 CAGR은 18.7%로 QQQ의 15.4%보다 3.3% 높았습니다. (높은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** QDTE의 CAGR은 19.8%로 QQQ의 15.4%보다 4.4% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** QDTE의 표준편차는 17.4%로 QQQ의 18.7%보다 -1.2% 낮았습니다. (낮은 위험도)
 
@@ -76,7 +76,7 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| QDTE | <span style="color: tomato">18.7<small>%</small></span> | 17.4<small>%</small> | 1.07 | -10.7<small>%</small> | -2.2<small>%</small> |
+| QDTE | <span style="color: tomato">19.8<small>%</small></span> | 17.4<small>%</small> | 1.14 | -10.7<small>%</small> | -2.2<small>%</small> |
 | QQQ | <span style="color: tomato">15.4<small>%</small></span> | 18.7<small>%</small> | 0.82 | -13.6<small>%</small> | -3.4<small>%</small> |
 | QQQ<sub>STD</sub> <small>(93%)</small> | <span style="color: tomato">14.4<small>%</small></span> | 17.4<small>%</small> | 0.83 | -12.7<small>%</small> | -3.2<small>%</small> |
 | QQQ<sub>MDD</sub> <small>(79%)</small> | <span style="color: tomato">12.3<small>%</small></span> | 14.8<small>%</small> | 0.83 | -10.9<small>%</small> | -2.7<small>%</small> |
@@ -85,9 +85,9 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 
 각각의 경우를 QDTE의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 93% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 14.4%로 QDTE의 18.7%보다 -4.3% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 93% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 14.4%로 QDTE의 19.8%보다 -5.4% 낮았습니다. (낮은 수익률)
 
-**위험도 지표 (MDD):** 79% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 12.3%로 QDTE의 18.7%보다 -6.4% 낮았습니다. (낮은 수익률)
+**위험도 지표 (MDD):** 79% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 12.3%로 QDTE의 19.8%보다 -7.5% 낮았습니다. (낮은 수익률)
 
 
 
@@ -100,7 +100,7 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 지난 6개월간 거치식으로 투자했다고 가정합니다.
 
 QQQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 13.4%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 QDTE의 18.7%보다 -5.3% 낮았습니다.
+이 포트폴리오는 QDTE의 19.8%보다 -6.4% 낮았습니다.
 
 ### QDTE &gt; QQQ
 {: .text-center}
