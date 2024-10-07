@@ -100,6 +100,15 @@
 
 
 
+### 미국 변동성 지수<a id="VIXY"></a>
+
+{% include lev/vixy_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
 ## 미국 섹터 지수
 
 
@@ -107,9 +116,6 @@
 ### 필라델피아 반도체 지수<a id="SOXQ"></a>
 
 {% include lev/soxq_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -140,13 +146,13 @@
 {% include lev/ewj_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### FTSE China A50 지수<a id="FXI"></a>
 
 {% include lev/fxi_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
@@ -177,13 +183,13 @@
 {% include lev/aapl_md.inc %}
 
 
+{% include /commons/ads/adsense.html %}
+
+
 
 ### 테슬라<a id="TSLA"></a>
 
 {% include lev/tsla_md.inc %}
-
-
-{% include /commons/ads/adsense.html %}
 
 
 
