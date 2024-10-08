@@ -5,7 +5,7 @@ excerpt: KOSDAQ 기타제조 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-10-07
+last_modified_at: 2024-10-08
 ---
 
 
@@ -20,13 +20,13 @@ last_modified_at: 2024-10-07
 | 슈피겐코리아 | 3.2 | 0.3 | 3.1<small>%</small> | 12.1<small>%</small> |
 | 노바텍 | 4.4 | 0.8 | 3.9<small>%</small> | 9.8<small>%</small> |
 | 엔바이오니아 | - | 4.5 | - | 9.6<small>%</small> |
-| 엑스플러스 | - | 7.7 | - | 6.4<small>%</small> |
-| 블리츠웨이스튜디오 | - | 2.8 | - | 6.3<small>%</small> |
+| 엑스플러스 | - | 7.6 | - | 6.4<small>%</small> |
+| 블리츠웨이스튜디오 | - | 2.7 | - | 6.3<small>%</small> |
 | 꿈비 | - | 2.2 | - | 5.8<small>%</small> |
 | 리튬포어스 | - | 0.6 | - | 5.7<small>%</small> |
 | RF머트리얼즈 | - | 1.3 | - | 5.1<small>%</small> |
-| 휴엠앤씨 | 5.0 | 1.3 | - | 3.9<small>%</small> |
-| 피코그램 | 13.0 | 1.6 | - | 3.5<small>%</small> |
+| 휴엠앤씨 | 4.9 | 1.2 | - | 3.9<small>%</small> |
+| 피코그램 | 13.1 | 1.6 | - | 3.5<small>%</small> |
 | 제이에스티나 | 31.5 | 0.6 | 5.9<small>%</small> | 2.1<small>%</small> |
 | 삼진엘앤디 | - | 0.4 | - | 2.1<small>%</small> |
 | 듀오백 | - | 1.8 | - | 2.1<small>%</small> |

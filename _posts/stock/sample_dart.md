@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [영풍](/000670/#dart) | | [소송등의제기ㆍ신청(경영권분쟁소송)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241007800412){:target="_blank"} |
-| [한국콜마](/161890/#dart) | | [타인에대한채무보증결정              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241007800407){:target="_blank"} |
-| [테크윙](/089030/#dart) | | [주식등의대량보유상황보고서(약식)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241007000334){:target="_blank"} |
-| [LIG넥스원](/079550/#dart) | | [주식등의대량보유상황보고서(약식)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241007000327){:target="_blank"} |
-| [안랩](/053800/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241007000326){:target="_blank"} |
+| [HL만도](/204320/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241008000299){:target="_blank"} |
+| [현대자동차](/005380/#dart) | | [타법인주식및출자증권처분결정              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241008800370){:target="_blank"} |
+| [티이엠씨](/425040/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241008000286){:target="_blank"} |
+| [미래에셋증권](/006800/#dart) | | [투자설명서(일괄신고)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241008000282){:target="_blank"} |
+| [삼성카드](/029780/#dart) | | [일괄신고추가서류](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241008000277){:target="_blank"} |
