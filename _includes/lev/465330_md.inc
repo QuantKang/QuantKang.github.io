@@ -1,4 +1,4 @@
 | **종목** | **배율** | **CAGR** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| RISE 2차전지TOP10 | | <span style="color: cornflowerblue">-22.0<small>%</small></span><sup><small>11개월</small></sup> | - | - | - |
-| [RISE 2차전지TOP10인버스(합성)](/465350/) | -1<small>x</small> | <span style="color: tomato">6.0<small>%</small></span><sup><small>11개월</small></sup> | 23.6<small>%</small> | -8.4<small>%</small> | 17.3<small>%</small> |
+| RISE 2차전지TOP10 | | <span style="color: cornflowerblue">-21.4<small>%</small></span> | - | - | - |
+| [RISE 2차전지TOP10인버스(합성)](/465350/) | -1<small>x</small> | <span style="color: tomato">4.8<small>%</small></span> | 23.7<small>%</small> | -8.0<small>%</small> | 17.5<small>%</small> |
