@@ -108,6 +108,7 @@ IQQQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추
 
 ## 관련 정보
 
+- [XDTE와 QDTE (주배당을 하는 데일리 OTM 옵션 전략의 커버드콜 ETF) - 넌 왜 이렇게 잘하니?](https://kongdori.tistory.com/336)
 - [유사 종목 성과 비교 목록](/vs/){: .btn .btn--info}
 
 {% include commons/footnotes.md %}
