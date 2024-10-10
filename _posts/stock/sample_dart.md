@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [HL만도](/204320/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241008000299){:target="_blank"} |
-| [현대자동차](/005380/#dart) | | [타법인주식및출자증권처분결정              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241008800370){:target="_blank"} |
-| [티이엠씨](/425040/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241008000286){:target="_blank"} |
-| [미래에셋증권](/006800/#dart) | | [투자설명서(일괄신고)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241008000282){:target="_blank"} |
-| [삼성카드](/029780/#dart) | | [일괄신고추가서류](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241008000277){:target="_blank"} |
+| [강원랜드](/035250/#dart) | | [기업가치제고계획(자율공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241010800358){:target="_blank"} |
+| [키움증권](/039490/#dart) | | [일괄신고추가서류(파생결합사채-주가연계파생결합사채)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241010000400){:target="_blank"} |
+| [DB손해보험](/005830/#dart) | | [계열금융회사의약관에의한금융거래-[유가증권-채권]](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241010000388){:target="_blank"} |
+| [한화오션](/042660/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241010000381){:target="_blank"} |
+| [우리금융지주](/316140/#dart) | | [증권발행실적보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241010000368){:target="_blank"} |
