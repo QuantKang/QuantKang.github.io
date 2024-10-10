@@ -628,6 +628,33 @@ KOSPI 200Top10 (동일가중) vs FnGuide TOP 10 동일가중 지수
 
 
 
+### [TIMEFOLIO 코스피액티브 vs KODEX 코스피](/385720-vs-226490/)<a id="385720-vs-226490"></a>
+
+{% include vs/385720-vs-226490_md.inc %}
+
+
+
+### [1Q K200액티브 vs KODEX 200](/451060-vs-069500/)<a id="451060-vs-069500"></a>
+
+{% include vs/451060-vs-069500_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
+
+
+
+### [마이다스 코스피액티브 vs KODEX 200](/403790-vs-069500/)<a id="403790-vs-069500"></a>
+
+{% include vs/403790-vs-069500_md.inc %}
+
+
+
+### [마이다스 코스피액티브 vs KODEX 코스피](/403790-vs-226490/)<a id="403790-vs-226490"></a>
+
+{% include vs/403790-vs-226490_md.inc %}
+
+
+
 ## 국내 상장 롱숏 ETF
 
 
@@ -643,13 +670,13 @@ KOSPI 200Top10 (동일가중) vs FnGuide TOP 10 동일가중 지수
 {% include vs/360150-vs-069500_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [KODEX 200롱코스닥150숏선물 vs KODEX 코스닥150](/360140-vs-229200/)<a id="360140-vs-229200"></a>
 
 {% include vs/360140-vs-229200_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -680,13 +707,13 @@ KOSPI 200Top10 (동일가중) vs FnGuide TOP 10 동일가중 지수
 {% include vs/319870-vs-138230_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [KODEX 200미국채혼합 vs KODEX 200](/284430-vs-069500/)<a id="284430-vs-069500"></a>
 
 {% include vs/284430-vs-069500_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -723,13 +750,13 @@ TIGER 200 커버드콜5%OTM은 KOSPI 200 현물 주식을 보유하면서, KOSPI
 {% include vs/289480-vs-069500_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [TIGER 200커버드콜ATM vs TIGER 200커버드콜5%OTM](/289480-vs-166400/)<a id="289480-vs-166400"></a>
 
 {% include vs/289480-vs-166400_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -762,13 +789,13 @@ RISE 200위클리커버드콜은 KOSPI 200 현물 주식을 보유하면서, KOS
 {% include vs/475720-vs-289480_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [PLUS 고배당주위클리커버드콜 vs PLUS 고배당주](/489030-vs-161510/)<a id="489030-vs-161510"></a>
 
 {% include vs/489030-vs-161510_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -801,15 +828,15 @@ S&P 500 지수를 추종하는 KODEX S&P500TR과 월배당을 위해 배당성�
 {% include vs/441640-vs-446720_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [KODEX 미국배당프리미엄액티브 vs TIGER 미국배당다우존스](/441640-vs-458730/)<a id="441640-vs-458730"></a>
 
 한국판 DIVO인 KODEX 미국배당프리미엄액티브와 한국판 SCHD인 TIGER 미국배당다우존스의 성과를 비교합니다.
 
 {% include vs/441640-vs-458730_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -838,13 +865,13 @@ S&P 500 지수를 추종하는 KODEX S&P500TR과 월배당을 위해 배당성�
 {% include vs/482730-vs-360750_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [TIGER 미국S&P500+10%프리미엄초단기옵션 vs KODEX 미국S&P500TR](/482730-vs-379800/)<a id="482730-vs-379800"></a>
 
 {% include vs/482730-vs-379800_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -871,15 +898,15 @@ S&P 500 지수를 추종하는 KODEX S&P500TR과 월배당을 위해 배당성�
 {% include vs/491620-vs-486290_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [TIGER 미국테크TOP10+10%프리미엄 vs TIGER 미국테크TOP10 INDXX](/474220-vs-381170/)<a id="474220-vs-381170"></a>
 
 미국 테크 TOP 10 종목을 보유하는 TIGER 미국테크TOP10 INDXX와 커버드콜 전략을 최대 40%까지 사용하는 TIGER 미국테크TOP10+10%프리미엄를 비교합니다. (주의) 두 ETF의 이름은 유사하나 기초 자산의 지수가 다릅니다. 각각 Indxx와 Bloomberg가 만든 지수입니다.
 
 {% include vs/474220-vs-381170_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -912,13 +939,13 @@ S&P 500 지수를 추종하는 KODEX S&P500TR과 월배당을 위해 배당성�
 {% include vs/200250-vs-453810_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [TIGER 차이나과창판STAR50(합성) vs ACE 중국과창판STAR50](/414780-vs-416090/)<a id="414780-vs-416090"></a>
 
 {% include vs/414780-vs-416090_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -953,13 +980,13 @@ S&P 500 지수를 추종하는 KODEX S&P500TR과 월배당을 위해 배당성�
 {% include vs/460270-vs-456610_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [PLUS 미국달러SOFR금리액티브(합성) vs TIGER 미국달러SOFR금리액티브(합성)](/456200-vs-456610/)<a id="456200-vs-456610"></a>
 
 {% include vs/456200-vs-456610_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -996,13 +1023,13 @@ KODEX 코스닥150레버리지는 현물 100%와 선물 100%로 2배 레버리�
 {% include vs/458730-vs-360750_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [TIGER 미국배당다우존스 vs KODEX 미국S&P500TR](/458730-vs-379800/)<a id="458730-vs-379800"></a>
 
 {% include vs/458730-vs-379800_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -1031,13 +1058,13 @@ TIGER 미국배당다우존스는 Dow Jones U.S. Dividend 100 지수(원화환�
 {% include vs/458750-vs-360750_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [TIGER 미국배당+3%프리미엄다우존스 vs KODEX 미국S&P500TR](/458750-vs-360750/)<a id="458750-vs-360750"></a>
 
 {% include vs/458750-vs-360750_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -1066,13 +1093,13 @@ TIGER 미국배당다우존스는 Dow Jones U.S. Dividend 100 지수(원화환�
 {% include vs/483290-vs-360750_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ### [RISE 미국배당100데일리고정커버드콜 vs TIGER 미국배당다우존스](/490600-vs-458730/)<a id="490600-vs-458730"></a>
 
 {% include vs/490600-vs-458730_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -1105,9 +1132,6 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 {% include vs/441680-vs-133690_md.inc %}
 
 
-{% include /commons/ads/adsense.html %}
-
-
 
 ## 국내 상장 해외 ETF (배당다우존스)
 
@@ -1116,6 +1140,9 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 ### [SOL 미국배당다우존스 vs ACE 미국배당다우존스](/446720-vs-402970/)<a id="446720-vs-402970"></a>
 
 {% include vs/446720-vs-402970_md.inc %}
+
+
+{% include /commons/ads/adsense.html %}
 
 
 
@@ -1128,6 +1155,12 @@ TIGER 미국나스닥100커버드콜(합성)은 나스닥 100 지수에 대해 �
 ### [TIGER 미국배당다우존스 vs SOL 미국배당다우존스](/458730-vs-446720/)<a id="458730-vs-446720"></a>
 
 {% include vs/458730-vs-446720_md.inc %}
+
+
+
+### [SOL 미국배당다우존스TR vs SOL 미국배당다우존스](/493420-vs-446720/)<a id="493420-vs-446720"></a>
+
+{% include vs/493420-vs-446720_md.inc %}
 
 
 
