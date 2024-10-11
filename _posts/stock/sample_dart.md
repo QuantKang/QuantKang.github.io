@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [강원랜드](/035250/#dart) | | [기업가치제고계획(자율공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241010800358){:target="_blank"} |
-| [키움증권](/039490/#dart) | | [일괄신고추가서류(파생결합사채-주가연계파생결합사채)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241010000400){:target="_blank"} |
-| [DB손해보험](/005830/#dart) | | [계열금융회사의약관에의한금융거래-[유가증권-채권]](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241010000388){:target="_blank"} |
-| [한화오션](/042660/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241010000381){:target="_blank"} |
-| [우리금융지주](/316140/#dart) | | [증권발행실적보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241010000368){:target="_blank"} |
+| [HD현대일렉트릭](/267260/#dart) | | [임원ㆍ주요주주특정증권등거래계획보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241011000433){:target="_blank"} |
+| [에스엠](/041510/#dart) | | [풍문또는보도에대한해명(미확정)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241011900337){:target="_blank"} |
+| [하나마이크론](/067310/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241011000432){:target="_blank"} |
+| [고려아연](/010130/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241011000430){:target="_blank"} |
+| [미래에셋증권](/006800/#dart) | | [투자설명서(일괄신고)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241011000421){:target="_blank"} |
