@@ -5,7 +5,7 @@ excerpt: KOSDAQ 건설 업종 종목별 시가총액 비중입니다. 종목별�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-10-14
+last_modified_at: 2024-10-15
 ---
 
 
@@ -16,29 +16,29 @@ last_modified_at: 2024-10-14
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| LS마린솔루션 | 37.5 | 3.5 | 0.9<small>%</small> | 16.1<small>%</small> |
-| 서희건설 | 2.2 | 0.4 | 3.0<small>%</small> | 9.6<small>%</small> |
+| LS마린솔루션 | 38.0 | 3.6 | 0.9<small>%</small> | 16.1<small>%</small> |
+| 서희건설 | 2.3 | 0.4 | 2.9<small>%</small> | 9.6<small>%</small> |
 | 동원개발 | 5.6 | 0.2 | 3.1<small>%</small> | 7.8<small>%</small> |
-| 대명에너지 | 38.0 | 1.9 | - | 6.1<small>%</small> |
-| 동신건설 | 23.0 | 1.9 | 0.7<small>%</small> | 5.3<small>%</small> |
-| 금화피에스시 | 4.4 | 0.5 | 4.6<small>%</small> | 4.8<small>%</small> |
-| 일진파워 | 14.2 | 1.0 | 3.7<small>%</small> | 4.5<small>%</small> |
+| 대명에너지 | 38.6 | 2.0 | - | 6.1<small>%</small> |
+| 동신건설 | 23.5 | 1.9 | 0.7<small>%</small> | 5.3<small>%</small> |
+| 금화피에스시 | 4.3 | 0.5 | 4.7<small>%</small> | 4.8<small>%</small> |
+| 일진파워 | 14.3 | 1.1 | 3.6<small>%</small> | 4.5<small>%</small> |
 | 금양그린파워 | 6.3 | 1.2 | 2.8<small>%</small> | 4.2<small>%</small> |
 | 특수건설 | - | 1.0 | - | 3.9<small>%</small> |
-| 국보디자인 | 4.2 | 0.5 | 2.4<small>%</small> | 3.8<small>%</small> |
+| 국보디자인 | 4.2 | 0.5 | 2.3<small>%</small> | 3.8<small>%</small> |
 | 플래스크 | - | 3.0 | - | 3.5<small>%</small> |
 | 세보엠이씨 | 3.2 | 0.5 | 5.7<small>%</small> | 3.5<small>%</small> |
 | 베노티앤알 | - | 1.5 | - | 3.2<small>%</small> |
-| KCC건설 | 8.4 | 0.2 | 3.0<small>%</small> | 3.0<small>%</small> |
+| KCC건설 | 8.3 | 0.2 | 3.0<small>%</small> | 3.0<small>%</small> |
 | 서한 | 9.5 | 0.2 | 3.7<small>%</small> | 2.5<small>%</small> |
 | KH 건설 | - | 0.5 | - | 2.1<small>%</small> |
 | 이화공영 | - | 1.1 | - | 2.1<small>%</small> |
 | SGC E&C | - | 0.2 | 4.7<small>%</small> | 1.9<small>%</small> |
 | CNT85 | 4.2 | 0.8 | - | 1.9<small>%</small> |
 | 대원 | - | 0.2 | - | 1.8<small>%</small> |
-| 우원개발 | 30.2 | 0.4 | - | 1.6<small>%</small> |
+| 우원개발 | 30.4 | 0.4 | - | 1.6<small>%</small> |
 | 남화토건 | - | 0.3 | 1.2<small>%</small> | 1.5<small>%</small> |
-| 삼일기업공사 | 9.4 | 0.6 | 6.0<small>%</small> | 1.2<small>%</small> |
+| 삼일기업공사 | 9.3 | 0.6 | 6.0<small>%</small> | 1.2<small>%</small> |
 | 상지건설 | 0.6 | 0.2 | - | 1.2<small>%</small> |
 | 웰크론한텍 | - | 0.5 | - | 1.1<small>%</small> |
 | 신원종합개발 | 4.4 | 0.4 | - | 0.9<small>%</small> |
