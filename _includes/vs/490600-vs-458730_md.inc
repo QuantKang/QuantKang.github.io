@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [RISE 미국배당100데일리고정커버드콜](/490600-vs-458730/) | - | 13.2<small>%</small> | nan | -1.7<small>%</small> | -0.5<small>%</small> |
-| TIGER 미국배당다우존스 | - | 12.7<small>%</small> | nan | -2.0<small>%</small> | -0.5<small>%</small> |
+| [RISE 미국배당100데일리고정커버드콜](/490600-vs-458730/) | - | 12.9<small>%</small> | nan | -1.7<small>%</small> | -0.5<small>%</small> |
+| TIGER 미국배당다우존스 | - | 12.8<small>%</small> | nan | -2.0<small>%</small> | -0.5<small>%</small> |
