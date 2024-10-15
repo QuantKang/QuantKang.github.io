@@ -1,7 +1,7 @@
 ---
 layout: single
 title: DIVO vs IDVO
-excerpt: DIVO의 최근 2년 1개월 CAGR은 14.4%로 IDVO의 17.9%보다 -3.5% 낮았습니다.
+excerpt: DIVO의 최근 2년 1개월 CAGR은 14.4%로 IDVO의 17.9%보다 -3.4% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -41,7 +41,7 @@ DIVO의 수익률이 IDVO보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** DIVO의 CAGR은 14.4%로 IDVO의 17.9%보다 -3.5% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** DIVO의 CAGR은 14.4%로 IDVO의 17.9%보다 -3.4% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** DIVO의 표준편차는 10.6%로 IDVO의 15.5%보다 -4.9% 낮았습니다. (낮은 위험도)
 
