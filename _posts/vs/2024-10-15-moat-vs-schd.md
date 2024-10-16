@@ -1,7 +1,7 @@
 ---
 layout: single
 title: MOAT vs SCHD
-excerpt: MOAT의 최근 12년 5개월 CAGR은 14.7%로 SCHD의 16.4%보다 -1.7% 낮았습니다.
+excerpt: MOAT의 최근 12년 5개월 CAGR은 14.7%로 SCHD의 16.5%보다 -1.8% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -34,16 +34,16 @@ MOAT의 수익률이 SCHD보다 지속적으로 우세하면 상승하고, 반�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | MOAT | <span style="color: tomato">14.7<small>%</small></span> | 17.5<small>%</small> | 0.84 | -33.3<small>%</small> | -3.8<small>%</small> |
-| SCHD | <span style="color: tomato">16.4<small>%</small></span> | 15.6<small>%</small> | 1.05 | -33.4<small>%</small> | -2.8<small>%</small> |
+| SCHD | <span style="color: tomato">16.5<small>%</small></span> | 15.6<small>%</small> | 1.06 | -33.4<small>%</small> | -2.8<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** MOAT의 CAGR은 14.7%로 SCHD의 16.4%보다 -1.7% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** MOAT의 CAGR은 14.7%로 SCHD의 16.5%보다 -1.8% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** MOAT의 표준편차는 17.5%로 SCHD의 15.6%보다 1.9% 높았습니다. (높은 위험도)
+**위험도 지표 (표준편차):** MOAT의 표준편차는 17.5%로 SCHD의 15.6%보다 1.8% 높았습니다. (높은 위험도)
 
 **위험도 지표 (MDD):** MOAT의 33.3%의 MDD는 SCHD의 33.4%와 비슷했습니다. (비슷한 위험도)
 
@@ -77,9 +77,9 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | MOAT | <span style="color: tomato">14.7<small>%</small></span> | 17.5<small>%</small> | 0.84 | -33.3<small>%</small> | -3.8<small>%</small> |
-| SCHD | <span style="color: tomato">16.4<small>%</small></span> | 15.6<small>%</small> | 1.05 | -33.4<small>%</small> | -2.8<small>%</small> |
-| SCHD<sub>STD</sub> <small>(112%)</small> | <span style="color: tomato">18.4<small>%</small></span> | 17.5<small>%</small> | 1.05 | -36.8<small>%</small> | -3.1<small>%</small> |
-| SCHD<sub>MDD</sub> <small>(100%)</small> | <span style="color: tomato">16.4<small>%</small></span> | 15.6<small>%</small> | 1.05 | -33.3<small>%</small> | -2.7<small>%</small> |
+| SCHD | <span style="color: tomato">16.5<small>%</small></span> | 15.6<small>%</small> | 1.06 | -33.4<small>%</small> | -2.8<small>%</small> |
+| SCHD<sub>STD</sub> <small>(112%)</small> | <span style="color: tomato">18.4<small>%</small></span> | 17.5<small>%</small> | 1.05 | -36.8<small>%</small> | -3.2<small>%</small> |
+| SCHD<sub>MDD</sub> <small>(100%)</small> | <span style="color: tomato">16.5<small>%</small></span> | 15.6<small>%</small> | 1.06 | -33.3<small>%</small> | -2.8<small>%</small> |
 
 
 
@@ -87,7 +87,7 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 
 **위험도 지표 (표준편차):** 112% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 18.4%로 MOAT의 14.7%보다 3.7% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 100% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 16.4%로 MOAT의 14.7%보다 1.7% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 100% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 16.5%로 MOAT의 14.7%보다 1.8% 높았습니다. (높은 수익률)
 
 
 
