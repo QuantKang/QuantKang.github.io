@@ -1,7 +1,7 @@
 ---
 layout: single
 title: CONY vs Coinbase Global Inc (COIN)
-excerpt: CONY의 최근 1년 2개월 CAGR은 61.6%로 Coinbase Global Inc (COIN)의 124.0%보다 -62.4% 낮았습니다.
+excerpt: CONY의 최근 1년 2개월 CAGR은 72.5%로 Coinbase Global Inc (COIN)의 124.0%보다 -51.5% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ CONY의 수익률이 COIN보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| CONY | <span style="color: tomato">61.6<small>%</small></span> | 54.5<small>%</small> | 1.13 | -37.7<small>%</small> | -10.6<small>%</small> |
+| CONY | <span style="color: tomato">72.5<small>%</small></span> | 53.8<small>%</small> | 1.35 | -37.7<small>%</small> | -10.5<small>%</small> |
 | COIN | <span style="color: tomato">124.0<small>%</small></span> | 73.1<small>%</small> | 1.70 | -47.3<small>%</small> | -16.3<small>%</small> |
 
 <!-- more -->
@@ -41,9 +41,9 @@ CONY의 수익률이 COIN보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** CONY의 CAGR은 61.6%로 COIN의 124.0%보다 -62.4% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** CONY의 CAGR은 72.5%로 COIN의 124.0%보다 -51.5% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** CONY의 표준편차는 54.5%로 COIN의 73.1%보다 -18.6% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** CONY의 표준편차는 53.8%로 COIN의 73.1%보다 -19.3% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** CONY의 37.7%의 MDD는 COIN의 47.3%보다 -9.6% 낮았습니다. (낮은 위험도)
 
@@ -54,7 +54,7 @@ CONY의 수익률이 COIN보다 지속적으로 우세하면 상승하고, 반�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 COIN의 투자 비중[^fn_vs_weight]을 조절하여 CONY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 73.1% / 54.5% = 75% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 73.1% / 53.8% = 74% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 47.3% / 37.7% = 80% 비중으로 투자하면 됩니다.
 
@@ -76,18 +76,18 @@ COIN<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, COI
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| CONY | <span style="color: tomato">61.6<small>%</small></span> | 54.5<small>%</small> | 1.13 | -37.7<small>%</small> | -10.6<small>%</small> |
+| CONY | <span style="color: tomato">72.5<small>%</small></span> | 53.8<small>%</small> | 1.35 | -37.7<small>%</small> | -10.5<small>%</small> |
 | COIN | <span style="color: tomato">124.0<small>%</small></span> | 73.1<small>%</small> | 1.70 | -47.3<small>%</small> | -16.3<small>%</small> |
-| COIN<sub>STD</sub> <small>(75%)</small> | <span style="color: tomato">91.8<small>%</small></span> | 54.5<small>%</small> | 1.68 | -36.6<small>%</small> | -12.1<small>%</small> |
+| COIN<sub>STD</sub> <small>(74%)</small> | <span style="color: tomato">90.5<small>%</small></span> | 53.8<small>%</small> | 1.68 | -36.2<small>%</small> | -11.9<small>%</small> |
 | COIN<sub>MDD</sub> <small>(80%)</small> | <span style="color: tomato">98.4<small>%</small></span> | 58.2<small>%</small> | 1.69 | -38.9<small>%</small> | -12.9<small>%</small> |
 
 
 
 각각의 경우를 CONY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 75% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 91.8%로 CONY의 61.6%보다 30.1% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 74% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 90.5%로 CONY의 72.5%보다 18.0% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 80% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 98.4%로 CONY의 61.6%보다 36.8% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 80% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 98.4%로 CONY의 72.5%보다 25.9% 높았습니다. (높은 수익률)
 
 
 
@@ -99,8 +99,8 @@ COIN<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, COI
 
 지난 1년 2개월간 거치식으로 투자했다고 가정합니다.
 
-COIN의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 95.1%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 CONY의 61.6%보다 33.5% 높았습니다.
+COIN의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 94.5%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 CONY의 72.5%보다 21.9% 높았습니다.
 
 ### CONY	&lt; COIN
 {: .text-center}
