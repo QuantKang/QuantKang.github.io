@@ -1,7 +1,7 @@
 ---
 layout: single
 title: YMAX vs JEPI
-excerpt: YMAX의 최근 9개월 CAGR은 19.3%로 JEPI의 20.3%와 비슷했습니다.
+excerpt: YMAX의 최근 9개월 CAGR은 20.9%로 JEPI의 20.3%와 비슷했습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ YMAX의 수익률이 JEPI보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| YMAX | <span style="color: tomato">19.3<small>%</small></span> | 18.0<small>%</small> | 1.07 | -12.8<small>%</small> | -2.8<small>%</small> |
+| YMAX | <span style="color: tomato">20.9<small>%</small></span> | 18.0<small>%</small> | 1.16 | -12.8<small>%</small> | -2.8<small>%</small> |
 | JEPI | <span style="color: tomato">20.3<small>%</small></span> | 7.4<small>%</small> | 2.74 | -3.9<small>%</small> | -0.7<small>%</small> |
 
 <!-- more -->
@@ -41,9 +41,9 @@ YMAX의 수익률이 JEPI보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** YMAX의 CAGR은 19.3%로 JEPI의 20.3%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** YMAX의 CAGR은 20.9%로 JEPI의 20.3%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** YMAX의 표준편차는 18.0%로 JEPI의 7.4%보다 10.6% 높았습니다. (높은 위험도)
+**위험도 지표 (표준편차):** YMAX의 표준편차는 18.0%로 JEPI의 7.4%보다 10.5% 높았습니다. (높은 위험도)
 
 **위험도 지표 (MDD):** YMAX의 12.8%의 MDD는 JEPI의 3.9%보다 8.9% 높았습니다. (높은 위험도)
 
@@ -54,7 +54,7 @@ YMAX의 수익률이 JEPI보다 지속적으로 우세하면 상승하고, 반�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 JEPI의 투자 비중[^fn_vs_weight]을 조절하여 YMAX의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 7.4% / 18.0% = 243% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 7.4% / 18.0% = 242% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 3.9% / 12.8% = 330% 비중으로 투자하면 됩니다.
 
@@ -76,18 +76,18 @@ JEPI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| YMAX | <span style="color: tomato">19.3<small>%</small></span> | 18.0<small>%</small> | 1.07 | -12.8<small>%</small> | -2.8<small>%</small> |
+| YMAX | <span style="color: tomato">20.9<small>%</small></span> | 18.0<small>%</small> | 1.16 | -12.8<small>%</small> | -2.8<small>%</small> |
 | JEPI | <span style="color: tomato">20.3<small>%</small></span> | 7.4<small>%</small> | 2.74 | -3.9<small>%</small> | -0.7<small>%</small> |
-| JEPI<sub>STD</sub> <small>(243%)</small> | <span style="color: tomato">55.2<small>%</small></span> | 18.0<small>%</small> | 3.06 | -9.3<small>%</small> | -1.6<small>%</small> |
+| JEPI<sub>STD</sub> <small>(242%)</small> | <span style="color: tomato">54.9<small>%</small></span> | 18.0<small>%</small> | 3.06 | -9.2<small>%</small> | -1.6<small>%</small> |
 | JEPI<sub>MDD</sub> <small>(330%)</small> | <span style="color: tomato">80.1<small>%</small></span> | 24.5<small>%</small> | 3.27 | -12.5<small>%</small> | -2.2<small>%</small> |
 
 
 
 각각의 경우를 YMAX의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 243% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 55.2%로 YMAX의 19.3%보다 35.9% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 242% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 54.9%로 YMAX의 20.9%보다 34.0% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 330% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 80.1%로 YMAX의 19.3%보다 60.8% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 330% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 80.1%로 YMAX의 20.9%보다 59.2% 높았습니다. (높은 수익률)
 
 
 
@@ -99,8 +99,8 @@ JEPI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 
 지난 9개월간 거치식으로 투자했다고 가정합니다.
 
-JEPI의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 67.6%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 YMAX의 19.3%보다 48.3% 높았습니다.
+JEPI의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 67.5%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 YMAX의 20.9%보다 46.6% 높았습니다.
 
 ### YMAX	&lt; JEPI
 {: .text-center}
