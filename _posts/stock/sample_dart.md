@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [박셀바이오](/323990/#dart) | | [[기재정정]주요사항보고서(회사합병결정)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241017000224){:target="_blank"} |
-| [삼성증권](/016360/#dart) | | [계열금융회사의약관에의한금융거래-[파생금융상품]](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241017000226){:target="_blank"} |
-| [강원에너지](/114190/#dart) | | [[기재정정]단일판매ㆍ공급계약체결(자율공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241017900214){:target="_blank"} |
-| [대한항공](/003490/#dart) | | [[발행조건확정]증권신고서(채무증권)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241017000198){:target="_blank"} |
-| [삼성중공업](/010140/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241017800201){:target="_blank"} |
+| [NH투자증권](/005940/#dart) | | [일괄신고추가서류(파생결합증권-주가연계증권)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241018000335){:target="_blank"} |
+| [고려아연](/010130/#dart) | | [최대주주등소유주식변동신고서              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241018800294){:target="_blank"} |
+| [영풍](/000670/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241018000307){:target="_blank"} |
+| [GS건설](/006360/#dart) | | [타법인주식및출자증권처분결정(자율공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241018800258){:target="_blank"} |
+| [미래에셋증권](/006800/#dart) | | [투자설명서(일괄신고)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241018000300){:target="_blank"} |
