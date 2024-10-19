@@ -1,7 +1,7 @@
 ---
 layout: single
 title: ISPY vs JEPY
-excerpt: ISPY의 최근 9개월 CAGR은 28.7%로 JEPY의 694.7%보다 -665.9% 낮았습니다.
+excerpt: ISPY의 최근 9개월 CAGR은 28.7%로 JEPY의 700.5%보다 -671.7% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -34,14 +34,14 @@ ISPY의 수익률이 JEPY보다 지속적으로 우세하면 상승하고, 반�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | ISPY | <span style="color: tomato">28.7<small>%</small></span> | 11.3<small>%</small> | 2.55 | -7.9<small>%</small> | -1.1<small>%</small> |
-| JEPY | <span style="color: tomato">694.7<small>%</small></span> | 222.0<small>%</small> | 3.13 | -4.3<small>%</small> | -0.6<small>%</small> |
+| JEPY | <span style="color: tomato">700.5<small>%</small></span> | 222.0<small>%</small> | 3.16 | -4.3<small>%</small> | -0.6<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** ISPY의 CAGR은 28.7%로 JEPY의 694.7%보다 -665.9% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** ISPY의 CAGR은 28.7%로 JEPY의 700.5%보다 -671.7% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** ISPY의 표준편차는 11.3%로 JEPY의 222.0%보다 -210.7% 낮았습니다. (낮은 위험도)
 
@@ -77,17 +77,17 @@ JEPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | ISPY | <span style="color: tomato">28.7<small>%</small></span> | 11.3<small>%</small> | 2.55 | -7.9<small>%</small> | -1.1<small>%</small> |
-| JEPY | <span style="color: tomato">694.7<small>%</small></span> | 222.0<small>%</small> | 3.13 | -4.3<small>%</small> | -0.6<small>%</small> |
-| JEPY<sub>STD</sub> <small>(5%)</small> | <span style="color: tomato">17.0<small>%</small></span> | 11.3<small>%</small> | 1.50 | -0.2<small>%</small> | -0.0<small>%</small> |
-| JEPY<sub>MDD</sub> <small>(184%)</small> | <span style="color: tomato">2323.3<small>%</small></span> | 407.3<small>%</small> | 5.70 | -7.8<small>%</small> | -1.2<small>%</small> |
+| JEPY | <span style="color: tomato">700.5<small>%</small></span> | 222.0<small>%</small> | 3.16 | -4.3<small>%</small> | -0.6<small>%</small> |
+| JEPY<sub>STD</sub> <small>(5%)</small> | <span style="color: tomato">17.0<small>%</small></span> | 11.3<small>%</small> | 1.51 | -0.2<small>%</small> | -0.0<small>%</small> |
+| JEPY<sub>MDD</sub> <small>(184%)</small> | <span style="color: tomato">2355.9<small>%</small></span> | 407.3<small>%</small> | 5.78 | -7.8<small>%</small> | -1.2<small>%</small> |
 
 
 
 각각의 경우를 ISPY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 5% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 17.0%로 ISPY의 28.7%보다 -11.8% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 5% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 17.0%로 ISPY의 28.7%보다 -11.7% 낮았습니다. (낮은 수익률)
 
-**위험도 지표 (MDD):** 184% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 2323.3%로 ISPY의 28.7%보다 2294.5% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 184% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 2355.9%로 ISPY의 28.7%보다 2327.1% 높았습니다. (높은 수익률)
 
 
 
@@ -99,8 +99,8 @@ JEPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 
 지난 9개월간 거치식으로 투자했다고 가정합니다.
 
-JEPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 1170.1%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 ISPY의 28.7%보다 1141.4% 높았습니다.
+JEPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 1186.4%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 ISPY의 28.7%보다 1157.7% 높았습니다.
 
 ### ISPY	&lt; JEPY
 {: .text-center}
