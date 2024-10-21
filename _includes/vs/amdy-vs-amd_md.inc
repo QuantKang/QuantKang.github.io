@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [AMDY](/amdy-vs-amd/) | <span style="color: tomato">23.3<small>%</small></span> | 37.9<small>%</small> | 0.61 | -32.0<small>%</small> | -11.5<small>%</small> |
-| AMD | <span style="color: tomato">48.6<small>%</small></span> | 47.5<small>%</small> | 1.02 | -39.1<small>%</small> | -14.9<small>%</small> |
+| [AMDY](/amdy-vs-amd/) | <span style="color: tomato">24.2<small>%</small></span> | 37.8<small>%</small> | 0.64 | -32.0<small>%</small> | -11.6<small>%</small> |
+| AMD | <span style="color: tomato">49.9<small>%</small></span> | 47.4<small>%</small> | 1.05 | -39.1<small>%</small> | -15.0<small>%</small> |
