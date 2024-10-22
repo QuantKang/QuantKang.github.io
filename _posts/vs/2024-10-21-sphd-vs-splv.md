@@ -32,7 +32,7 @@ SPHD의 수익률이 SPLV보다 지속적으로 우세하면 상승하고, 반�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SPHD | <span style="color: tomato">10.2<small>%</small></span> | 16.5<small>%</small> | 0.62 | -41.4<small>%</small> | -4.8<small>%</small> |
-| SPLV | <span style="color: tomato">10.7<small>%</small></span> | 14.8<small>%</small> | 0.72 | -36.3<small>%</small> | -3.8<small>%</small> |
+| SPLV | <span style="color: tomato">10.7<small>%</small></span> | 14.8<small>%</small> | 0.73 | -36.3<small>%</small> | -3.8<small>%</small> |
 
 <!-- more -->
 
@@ -75,8 +75,8 @@ SPLV<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPL
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SPHD | <span style="color: tomato">10.2<small>%</small></span> | 16.5<small>%</small> | 0.62 | -41.4<small>%</small> | -4.8<small>%</small> |
-| SPLV | <span style="color: tomato">10.7<small>%</small></span> | 14.8<small>%</small> | 0.72 | -36.3<small>%</small> | -3.8<small>%</small> |
-| SPLV<sub>STD</sub> <small>(112%)</small> | <span style="color: tomato">11.9<small>%</small></span> | 16.5<small>%</small> | 0.72 | -39.9<small>%</small> | -4.4<small>%</small> |
+| SPLV | <span style="color: tomato">10.7<small>%</small></span> | 14.8<small>%</small> | 0.73 | -36.3<small>%</small> | -3.8<small>%</small> |
+| SPLV<sub>STD</sub> <small>(112%)</small> | <span style="color: tomato">11.9<small>%</small></span> | 16.5<small>%</small> | 0.72 | -39.8<small>%</small> | -4.4<small>%</small> |
 | SPLV<sub>MDD</sub> <small>(114%)</small> | <span style="color: tomato">12.1<small>%</small></span> | 16.9<small>%</small> | 0.72 | -40.5<small>%</small> | -4.5<small>%</small> |
 
 
