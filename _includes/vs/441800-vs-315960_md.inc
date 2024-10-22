@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [TIMEFOLIO Korea플러스배당액티브](/441800-vs-315960/) | <span style="color: tomato">27.4<small>%</small></span> | 18.4<small>%</small> | 1.49 | -13.3<small>%</small> | -2.9<small>%</small> |
-| RISE 대형고배당10TR | <span style="color: tomato">22.5<small>%</small></span> | 22.1<small>%</small> | 1.02 | -22.3<small>%</small> | -4.2<small>%</small> |
+| [TIMEFOLIO Korea플러스배당액티브](/441800-vs-315960/) | <span style="color: tomato">27.3<small>%</small></span> | 18.4<small>%</small> | 1.49 | -13.3<small>%</small> | -2.9<small>%</small> |
+| RISE 대형고배당10TR | <span style="color: tomato">21.8<small>%</small></span> | 22.1<small>%</small> | 0.99 | -22.3<small>%</small> | -4.2<small>%</small> |
