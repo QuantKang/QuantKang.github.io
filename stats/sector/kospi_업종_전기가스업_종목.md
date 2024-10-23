@@ -5,7 +5,7 @@ excerpt: KOSPI 전기가스업 업종 종목별 시가총액 비중입니다. �
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2024-10-22
+last_modified_at: 2024-10-23
 ---
 
 
@@ -21,7 +21,7 @@ last_modified_at: 2024-10-22
 | 지역난방공사 | 2.9 | 0.3 | - | 2.9<small>%</small> |
 | SGC에너지 | 9.8 | 0.6 | 5.9<small>%</small> | 2.0<small>%</small> |
 | 삼천리 | 2.5 | 0.2 | 3.4<small>%</small> | 2.0<small>%</small> |
-| 대성에너지 | 17.5 | 0.8 | 2.6<small>%</small> | 1.8<small>%</small> |
+| 대성에너지 | 17.1 | 0.8 | 2.7<small>%</small> | 1.8<small>%</small> |
 | 서울가스 | 10.1 | 0.2 | 4.3<small>%</small> | 1.5<small>%</small> |
 | 인천도시가스 | 6.0 | 0.5 | 4.9<small>%</small> | 0.6<small>%</small> |
 | 경동도시가스 | 3.6 | 0.3 | 4.7<small>%</small> | 0.6<small>%</small> |
