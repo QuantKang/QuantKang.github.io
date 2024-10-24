@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [SKC](/011790/#dart) | | [[발행조건확정]증권신고서(채무증권)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241023000258){:target="_blank"} |
-| [삼성바이오로직스](/207940/#dart) | | [[기재정정]연결재무제표기준영업실적등에대한전망(공정공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241023800279){:target="_blank"} |
-| [JB금융지주](/175330/#dart) | | [타법인주식및출자증권취득결정              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241023800306){:target="_blank"} |
-| [LG이노텍](/011070/#dart) | | [연결재무제표기준영업(잠정)실적(공정공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241023800292){:target="_blank"} |
-| [에코프로](/086520/#dart) | | [자기주식처분결과보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241023000250){:target="_blank"} |
+| [HD현대미포](/010620/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241024800327){:target="_blank"} |
+| [NAVER](/035420/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241024800326){:target="_blank"} |
+| [에스원](/012750/#dart) | | [연결재무제표기준영업(잠정)실적(공정공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241024800300){:target="_blank"} |
+| [LX인터내셔널](/001120/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241024800310){:target="_blank"} |
+| [현대자동차](/005380/#dart) | | [주요사항보고서(해외증권시장주권등상장폐지결정)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241024000243){:target="_blank"} |
