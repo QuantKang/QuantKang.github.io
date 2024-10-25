@@ -1,7 +1,7 @@
 ---
 layout: single
 title: JEPY vs SPY
-excerpt: JEPY의 최근 1년 1개월 CAGR은 535.4%로 SPY의 29.0%보다 506.4% 높았습니다.
+excerpt: JEPY의 최근 1년 1개월 CAGR은 538.9%로 SPY의 29.0%보다 509.9% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -31,7 +31,7 @@ JEPY의 수익률이 SPY보다 지속적으로 우세하면 상승하고, 반대
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| JEPY | <span style="color: tomato">535.4<small>%</small></span> | 192.3<small>%</small> | 2.78 | -4.3<small>%</small> | -0.7<small>%</small> |
+| JEPY | <span style="color: tomato">538.9<small>%</small></span> | 192.3<small>%</small> | 2.80 | -4.3<small>%</small> | -0.7<small>%</small> |
 | SPY | <span style="color: tomato">29.0<small>%</small></span> | 12.3<small>%</small> | 2.36 | -8.4<small>%</small> | -1.4<small>%</small> |
 
 <!-- more -->
@@ -39,7 +39,7 @@ JEPY의 수익률이 SPY보다 지속적으로 우세하면 상승하고, 반대
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** JEPY의 CAGR은 535.4%로 SPY의 29.0%보다 506.4% 높았습니다. (높은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** JEPY의 CAGR은 538.9%로 SPY의 29.0%보다 509.9% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** JEPY의 표준편차는 192.3%로 SPY의 12.3%보다 180.0% 높았습니다. (높은 위험도)
 
@@ -74,7 +74,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| JEPY | <span style="color: tomato">535.4<small>%</small></span> | 192.3<small>%</small> | 2.78 | -4.3<small>%</small> | -0.7<small>%</small> |
+| JEPY | <span style="color: tomato">538.9<small>%</small></span> | 192.3<small>%</small> | 2.80 | -4.3<small>%</small> | -0.7<small>%</small> |
 | SPY | <span style="color: tomato">29.0<small>%</small></span> | 12.3<small>%</small> | 2.36 | -8.4<small>%</small> | -1.4<small>%</small> |
 | SPY<sub>STD</sub> <small>(1562%)</small> | <span style="color: tomato">756.7<small>%</small></span> | 192.3<small>%</small> | 3.94 | -82.9<small>%</small> | -26.3<small>%</small> |
 | SPY<sub>MDD</sub> <small>(51%)</small> | <span style="color: tomato">14.1<small>%</small></span> | 6.3<small>%</small> | 2.24 | -4.4<small>%</small> | -0.7<small>%</small> |
@@ -83,9 +83,9 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 각각의 경우를 JEPY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 1562% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 756.7%로 JEPY의 535.4%보다 221.3% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 1562% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 756.7%로 JEPY의 538.9%보다 217.8% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 51% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 14.1%로 JEPY의 535.4%보다 -521.3% 낮았습니다. (낮은 수익률)
+**위험도 지표 (MDD):** 51% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 14.1%로 JEPY의 538.9%보다 -524.8% 낮았습니다. (낮은 수익률)
 
 
 
@@ -98,7 +98,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 지난 1년 1개월간 거치식으로 투자했다고 가정합니다.
 
 SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 385.4%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 JEPY의 535.4%보다 -150.0% 낮았습니다.
+이 포트폴리오는 JEPY의 538.9%보다 -153.5% 낮았습니다.
 
 ### JEPY &gt; SPY
 {: .text-center}
