@@ -34,7 +34,7 @@ SPY의 수익률이 SCHD보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SPY | <span style="color: tomato">14.8<small>%</small></span> | 16.6<small>%</small> | 0.89 | -33.7<small>%</small> | -3.7<small>%</small> |
-| SCHD | <span style="color: tomato">16.6<small>%</small></span> | 15.6<small>%</small> | 1.07 | -33.4<small>%</small> | -2.8<small>%</small> |
+| SCHD | <span style="color: tomato">16.6<small>%</small></span> | 15.6<small>%</small> | 1.07 | -33.4<small>%</small> | -2.7<small>%</small> |
 
 <!-- more -->
 
@@ -77,9 +77,9 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SPY | <span style="color: tomato">14.8<small>%</small></span> | 16.6<small>%</small> | 0.89 | -33.7<small>%</small> | -3.7<small>%</small> |
-| SCHD | <span style="color: tomato">16.6<small>%</small></span> | 15.6<small>%</small> | 1.07 | -33.4<small>%</small> | -2.8<small>%</small> |
-| SCHD<sub>STD</sub> <small>(107%)</small> | <span style="color: tomato">17.7<small>%</small></span> | 16.6<small>%</small> | 1.07 | -35.3<small>%</small> | -3.0<small>%</small> |
-| SCHD<sub>MDD</sub> <small>(101%)</small> | <span style="color: tomato">16.8<small>%</small></span> | 15.7<small>%</small> | 1.07 | -33.7<small>%</small> | -2.9<small>%</small> |
+| SCHD | <span style="color: tomato">16.6<small>%</small></span> | 15.6<small>%</small> | 1.07 | -33.4<small>%</small> | -2.7<small>%</small> |
+| SCHD<sub>STD</sub> <small>(107%)</small> | <span style="color: tomato">17.7<small>%</small></span> | 16.6<small>%</small> | 1.07 | -35.3<small>%</small> | -2.9<small>%</small> |
+| SCHD<sub>MDD</sub> <small>(101%)</small> | <span style="color: tomato">16.8<small>%</small></span> | 15.7<small>%</small> | 1.07 | -33.7<small>%</small> | -2.8<small>%</small> |
 
 
 
@@ -87,7 +87,7 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 
 **위험도 지표 (표준편차):** 107% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 17.7%로 SPY의 14.8%보다 2.9% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 101% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 16.8%로 SPY의 14.8%보다 1.9% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 101% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 16.8%로 SPY의 14.8%보다 2.0% 높았습니다. (높은 수익률)
 
 
 
@@ -99,7 +99,7 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 
 지난 13년간 거치식으로 투자했다고 가정합니다.
 
-SCHD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 17.2%인 포트폴리오를 만들 수 있습니다.
+SCHD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 17.3%인 포트폴리오를 만들 수 있습니다.
 이 포트폴리오는 SPY의 14.8%보다 2.4% 높았습니다.
 
 ### SPY	&lt; SCHD
