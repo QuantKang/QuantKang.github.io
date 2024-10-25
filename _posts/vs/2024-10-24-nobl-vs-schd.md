@@ -1,7 +1,7 @@
 ---
 layout: single
 title: NOBL vs SCHD
-excerpt: NOBL의 최근 11년 CAGR은 11.2%로 SCHD의 15.3%보다 -4.2% 낮았습니다.
+excerpt: NOBL의 최근 11년 CAGR은 11.2%로 SCHD의 15.4%보다 -4.2% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -34,14 +34,14 @@ NOBL의 수익률이 SCHD보다 지속적으로 우세하면 상승하고, 반�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | NOBL | <span style="color: tomato">11.2<small>%</small></span> | 16.0<small>%</small> | 0.70 | -35.4<small>%</small> | -3.4<small>%</small> |
-| SCHD | <span style="color: tomato">15.3<small>%</small></span> | 16.1<small>%</small> | 0.95 | -33.4<small>%</small> | -3.1<small>%</small> |
+| SCHD | <span style="color: tomato">15.4<small>%</small></span> | 16.1<small>%</small> | 0.95 | -33.4<small>%</small> | -3.0<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** NOBL의 CAGR은 11.2%로 SCHD의 15.3%보다 -4.2% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** NOBL의 CAGR은 11.2%로 SCHD의 15.4%보다 -4.2% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** NOBL의 표준편차는 16.0%로 SCHD의 16.1%와 비슷했습니다. (비슷한 위험도)
 
@@ -77,15 +77,15 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | NOBL | <span style="color: tomato">11.2<small>%</small></span> | 16.0<small>%</small> | 0.70 | -35.4<small>%</small> | -3.4<small>%</small> |
-| SCHD | <span style="color: tomato">15.3<small>%</small></span> | 16.1<small>%</small> | 0.95 | -33.4<small>%</small> | -3.1<small>%</small> |
-| SCHD<sub>STD</sub> <small>(99%)</small> | <span style="color: tomato">15.2<small>%</small></span> | 16.0<small>%</small> | 0.95 | -33.2<small>%</small> | -3.1<small>%</small> |
-| SCHD<sub>MDD</sub> <small>(106%)</small> | <span style="color: tomato">16.3<small>%</small></span> | 17.1<small>%</small> | 0.95 | -35.2<small>%</small> | -3.3<small>%</small> |
+| SCHD | <span style="color: tomato">15.4<small>%</small></span> | 16.1<small>%</small> | 0.95 | -33.4<small>%</small> | -3.0<small>%</small> |
+| SCHD<sub>STD</sub> <small>(99%)</small> | <span style="color: tomato">15.3<small>%</small></span> | 16.0<small>%</small> | 0.95 | -33.1<small>%</small> | -3.0<small>%</small> |
+| SCHD<sub>MDD</sub> <small>(106%)</small> | <span style="color: tomato">16.3<small>%</small></span> | 17.1<small>%</small> | 0.95 | -35.2<small>%</small> | -3.2<small>%</small> |
 
 
 
 각각의 경우를 NOBL의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 99% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 15.2%로 NOBL의 11.2%보다 4.1% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 99% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 15.3%로 NOBL의 11.2%보다 4.1% 높았습니다. (높은 수익률)
 
 **위험도 지표 (MDD):** 106% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 16.3%로 NOBL의 11.2%보다 5.1% 높았습니다. (높은 수익률)
 

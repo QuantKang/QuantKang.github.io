@@ -34,7 +34,7 @@ SPYG의 수익률이 SCHD보다 지속적으로 우세하면 상승하고, 반�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SPYG | <span style="color: tomato">16.2<small>%</small></span> | 18.3<small>%</small> | 0.88 | -32.7<small>%</small> | -5.2<small>%</small> |
-| SCHD | <span style="color: tomato">16.6<small>%</small></span> | 15.6<small>%</small> | 1.07 | -33.4<small>%</small> | -2.8<small>%</small> |
+| SCHD | <span style="color: tomato">16.6<small>%</small></span> | 15.6<small>%</small> | 1.07 | -33.4<small>%</small> | -2.7<small>%</small> |
 
 <!-- more -->
 
@@ -77,9 +77,9 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SPYG | <span style="color: tomato">16.2<small>%</small></span> | 18.3<small>%</small> | 0.88 | -32.7<small>%</small> | -5.2<small>%</small> |
-| SCHD | <span style="color: tomato">16.6<small>%</small></span> | 15.6<small>%</small> | 1.07 | -33.4<small>%</small> | -2.8<small>%</small> |
-| SCHD<sub>STD</sub> <small>(118%)</small> | <span style="color: tomato">19.5<small>%</small></span> | 18.3<small>%</small> | 1.06 | -38.4<small>%</small> | -3.4<small>%</small> |
-| SCHD<sub>MDD</sub> <small>(98%)</small> | <span style="color: tomato">16.2<small>%</small></span> | 15.2<small>%</small> | 1.07 | -32.8<small>%</small> | -2.8<small>%</small> |
+| SCHD | <span style="color: tomato">16.6<small>%</small></span> | 15.6<small>%</small> | 1.07 | -33.4<small>%</small> | -2.7<small>%</small> |
+| SCHD<sub>STD</sub> <small>(118%)</small> | <span style="color: tomato">19.5<small>%</small></span> | 18.3<small>%</small> | 1.07 | -38.4<small>%</small> | -3.2<small>%</small> |
+| SCHD<sub>MDD</sub> <small>(98%)</small> | <span style="color: tomato">16.3<small>%</small></span> | 15.2<small>%</small> | 1.07 | -32.8<small>%</small> | -2.7<small>%</small> |
 
 
 
@@ -87,7 +87,7 @@ SCHD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SCH
 
 **위험도 지표 (표준편차):** 118% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 19.5%로 SPYG의 16.2%보다 3.3% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 98% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 16.2%로 SPYG의 16.2%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (MDD):** 98% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 16.3%로 SPYG의 16.2%와 비슷했습니다. (비슷한 수익률)
 
 
 

@@ -33,7 +33,7 @@ SCHD의 수익률이 BRK-B보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SCHD | <span style="color: tomato">16.6<small>%</small></span> | 15.6<small>%</small> | 1.07 | -33.4<small>%</small> | -2.8<small>%</small> |
+| SCHD | <span style="color: tomato">16.6<small>%</small></span> | 15.6<small>%</small> | 1.07 | -33.4<small>%</small> | -2.7<small>%</small> |
 | BRK-B | <span style="color: tomato">14.8<small>%</small></span> | 18.3<small>%</small> | 0.81 | -29.6<small>%</small> | -5.7<small>%</small> |
 
 <!-- more -->
@@ -76,9 +76,9 @@ BRK-B<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, BR
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SCHD | <span style="color: tomato">16.6<small>%</small></span> | 15.6<small>%</small> | 1.07 | -33.4<small>%</small> | -2.8<small>%</small> |
+| SCHD | <span style="color: tomato">16.6<small>%</small></span> | 15.6<small>%</small> | 1.07 | -33.4<small>%</small> | -2.7<small>%</small> |
 | BRK-B | <span style="color: tomato">14.8<small>%</small></span> | 18.3<small>%</small> | 0.81 | -29.6<small>%</small> | -5.7<small>%</small> |
-| BRK-B<sub>STD</sub> <small>(85%)</small> | <span style="color: tomato">12.7<small>%</small></span> | 15.6<small>%</small> | 0.82 | -25.4<small>%</small> | -4.8<small>%</small> |
+| BRK-B<sub>STD</sub> <small>(85%)</small> | <span style="color: tomato">12.7<small>%</small></span> | 15.6<small>%</small> | 0.82 | -25.5<small>%</small> | -4.8<small>%</small> |
 | BRK-B<sub>MDD</sub> <small>(113%)</small> | <span style="color: tomato">16.6<small>%</small></span> | 20.6<small>%</small> | 0.80 | -33.0<small>%</small> | -6.5<small>%</small> |
 
 
@@ -100,7 +100,7 @@ BRK-B<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, BR
 지난 13년간 거치식으로 투자했다고 가정합니다.
 
 BRK-B의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 14.6%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 SCHD의 16.6%보다 -1.9% 낮았습니다.
+이 포트폴리오는 SCHD의 16.6%보다 -2.0% 낮았습니다.
 
 ### SCHD &gt; BRK-B
 {: .text-center}
