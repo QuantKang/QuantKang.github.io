@@ -5,7 +5,7 @@ excerpt: KOSPI 기타제조 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-09-03
+last_modified_at: 2026-09-04
 ---
 
 
@@ -20,7 +20,7 @@ last_modified_at: 2026-09-03
 | 지누스 | - | 0.3 | 1.2<small>%</small> | 19.1<small>%</small> |
 | 현대리바트 | 16.2 | 0.3 | 2.2<small>%</small> | 14.1<small>%</small> |
 | 삼익악기 | 5.0 | 0.3 | 4.3<small>%</small> | 11.7<small>%</small> |
-| 이월드 | - | 0.4 | - | 7.3<small>%</small> |
+| 이월드 | - | 0.3 | - | 7.3<small>%</small> |
 | 시디즈 | - | 0.5 | - | 4.7<small>%</small> |
 | 에넥스 | - | 0.4 | - | 3.1<small>%</small> |
 | 코아스 | - | 0.6 | - | 2.9<small>%</small> |

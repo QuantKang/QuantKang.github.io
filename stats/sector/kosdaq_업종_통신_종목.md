@@ -5,7 +5,7 @@ excerpt: KOSDAQ 통신 업종 종목별 시가총액 비중입니다. 종목별�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-09-03
+last_modified_at: 2026-09-04
 ---
 
 
@@ -16,14 +16,14 @@ last_modified_at: 2026-09-03
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| 나이스정보통신 | 7.3 | 0.8 | 3.1<small>%</small> | 25.0<small>%</small> |
+| 나이스정보통신 | 7.4 | 0.8 | 3.0<small>%</small> | 25.0<small>%</small> |
 | 한국정보통신 | 7.6 | 0.8 | 3.7<small>%</small> | 23.2<small>%</small> |
-| 더즌 | 19.4 | 3.3 | 0.9<small>%</small> | 14.6<small>%</small> |
+| 더즌 | 19.5 | 3.3 | 0.9<small>%</small> | 14.6<small>%</small> |
 | 버킷스튜디오 | - | 1.2 | - | 12.8<small>%</small> |
-| 인포바인 | 10.5 | 0.7 | 2.6<small>%</small> | 9.9<small>%</small> |
-| 케이엘넷 | 6.1 | 0.8 | 3.6<small>%</small> | 4.9<small>%</small> |
+| 인포바인 | 10.5 | 0.7 | 2.5<small>%</small> | 9.9<small>%</small> |
+| 케이엘넷 | 6.0 | 0.8 | 3.7<small>%</small> | 4.9<small>%</small> |
 | 와이어블 | 12.5 | 0.7 | 4.2<small>%</small> | 4.6<small>%</small> |
-| 한네트 | 9.4 | 0.9 | 6.0<small>%</small> | 2.8<small>%</small> |
-| 아이즈비전 | 2.6 | 0.2 | - | 2.3<small>%</small> |
+| 한네트 | 9.5 | 0.9 | 6.0<small>%</small> | 2.8<small>%</small> |
+| 아이즈비전 | 2.7 | 0.2 | - | 2.3<small>%</small> |
 
 {% include commons/footnotes.md %}
