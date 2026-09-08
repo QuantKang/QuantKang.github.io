@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [PLUS 고배당주](/161510-vs-069500/) | <span style="color: tomato">12.1<small>%</small></span> | 18.6<small>%</small> | 0.65 | -51.6<small>%</small> | -8.5<small>%</small> |
-| KODEX 200 | <span style="color: tomato">14.8<small>%</small></span> | 23.8<small>%</small> | 0.62 | -40.8<small>%</small> | -11.0<small>%</small> |
+| [PLUS 고배당주](/161510-vs-069500/) | <span style="color: tomato">12.0<small>%</small></span> | 18.6<small>%</small> | 0.64 | -51.6<small>%</small> | -8.5<small>%</small> |
+| KODEX 200 | <span style="color: tomato">14.7<small>%</small></span> | 23.8<small>%</small> | 0.62 | -40.8<small>%</small> | -11.0<small>%</small> |
