@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [TIMEFOLIO Korea플러스배당액티브](/441800-vs-069500/) | <span style="color: tomato">42.0<small>%</small></span> | 29.4<small>%</small> | 1.43 | -32.0<small>%</small> | -4.6<small>%</small> |
-| KODEX 200 | <span style="color: tomato">42.5<small>%</small></span> | 34.3<small>%</small> | 1.24 | -40.8<small>%</small> | -6.4<small>%</small> |
+| [TIMEFOLIO Korea플러스배당액티브](/441800-vs-069500/) | <span style="color: tomato">41.2<small>%</small></span> | 29.4<small>%</small> | 1.40 | -32.0<small>%</small> | -4.7<small>%</small> |
+| KODEX 200 | <span style="color: tomato">41.1<small>%</small></span> | 34.3<small>%</small> | 1.20 | -40.8<small>%</small> | -6.5<small>%</small> |
