@@ -2389,9 +2389,9 @@ VIG는 S&P U.S. Dividend Growers 지수를 추종하는 뱅가드사의 배당�
 
 
 
-### [ISPY vs JEPY](/ispy-vs-jepy/)<a id="ispy-vs-jepy"></a>
+### [ISPY vs WDTE](/ispy-vs-wdte/)<a id="ispy-vs-wdte"></a>
 
-{% include vs/ispy-vs-jepy_md.inc %}
+{% include vs/ispy-vs-wdte_md.inc %}
 
 
 
@@ -2584,9 +2584,9 @@ S&P 500 지수에 대해 데일리 커버드 콜 전략을 쓰는 WDTE(JEPY)와 
 
 
 
-### [JEPY vs XYLD](/jepy-vs-xyld/)<a id="jepy-vs-xyld"></a>
+### [WDTE vs XYLD](/wdte-vs-xyld/)<a id="wdte-vs-xyld"></a>
 
-{% include vs/jepy-vs-xyld_md.inc %}
+{% include vs/wdte-vs-xyld_md.inc %}
 
 
 
@@ -2629,9 +2629,9 @@ S&P 500 지수에 대해 데일리 커버드 콜 전략을 쓰는 WDTE(JEPY)와 
 
 
 
-### [BALI vs JEPY](/bali-vs-jepy/)<a id="bali-vs-jepy"></a>
+### [BALI vs WDTE](/bali-vs-wdte/)<a id="bali-vs-wdte"></a>
 
-{% include vs/bali-vs-jepy_md.inc %}
+{% include vs/bali-vs-wdte_md.inc %}
 
 
 {% include /commons/ads/adsense.html %}
@@ -3055,9 +3055,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 
 
 
-### [SQY vs XYZ](/sqy-vs-xyz/)<a id="sqy-vs-xyz"></a>
+### [XYZY vs XYZ](/xyzy-vs-xyz/)<a id="xyzy-vs-xyz"></a>
 
-{% include vs/sqy-vs-xyz_md.inc %}
+{% include vs/xyzy-vs-xyz_md.inc %}
 
 
 
