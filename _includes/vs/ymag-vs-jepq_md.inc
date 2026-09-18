@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [YMAG](/ymag-vs-jepq/) | <span style="color: tomato">21.6<small>%</small></span> | 20.8<small>%</small> | 1.04 | -26.0<small>%</small> | -4.6<small>%</small> |
-| JEPQ | <span style="color: tomato">17.3<small>%</small></span> | 16.1<small>%</small> | 1.07 | -20.1<small>%</small> | -2.3<small>%</small> |
+| [YMAG](/ymag-vs-jepq/) | <span style="color: tomato">22.4<small>%</small></span> | 20.8<small>%</small> | 1.08 | -26.0<small>%</small> | -4.6<small>%</small> |
+| JEPQ | <span style="color: tomato">18.0<small>%</small></span> | 16.2<small>%</small> | 1.11 | -20.1<small>%</small> | -2.3<small>%</small> |
