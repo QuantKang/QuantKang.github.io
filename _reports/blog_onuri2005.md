@@ -1,15 +1,15 @@
 ---
-  title: 오렌지사과의 네이버 블로그 최고 글 목록
-  excerpt: 장기 투자, 분산 투자, 통계적 분석, 커버드콜, 오렌지사과
-  header:
-    overlay_image: "/assets/images/report.jpg"
-  last_modified_at: 2026-09-21
-  toc: true
-  toc_sticky: false
-  categories:
-  - 글목록
-  ---
-  
+title: 오렌지사과의 네이버 블로그 최근 글 목록
+excerpt: 장기 투자, 분산 투자, 통계적 분석, 커버드콜, 오렌지사과
+header:
+  overlay_image: "/assets/images/report.jpg"
+last_modified_at: 2026-09-21
+toc: true
+toc_sticky: false
+categories:
+- 글목록
+---
+
 ## 최근 글 50건
 ### [투자의 수학 ⑭ 커버드콜은 왜 장기 수익률이 낮아질까? (수익률 분포의 변화)](https://m.blog.naver.com/onuri2005/224417124742)
 커버드콜 ETF는 장기간에 걸쳐 기초자산보다 낮은 수익률을 기록하는 경우가 많습니다. 콜옵션 매도로 인한 효과 때문입니다. 그렇다면 커버드콜은 왜 수익률을 낮추면서까지 콜옵션을 매도하는 것일까요? 흔히 커버드콜을 현금 흐름을 만드는 전략이라고 생각하지만, 엄밀하게는 포트폴리오의 변동성을 낮추는 전략에 가깝습니다. 다만 콜옵션 매매 과정에서 발생하는 프리미엄이라는 현금을 분배금 재원으로 활용할 수 있는 것입니다.

@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KODEX 미국배당커버드콜액티브](/441640-vs-446720/) | <span style="color: tomato">14.3<small>%</small></span> | 12.6<small>%</small> | 1.14 | -13.7<small>%</small> | -2.6<small>%</small> |
-| SOL 미국배당다우존스 | <span style="color: tomato">12.0<small>%</small></span> | 13.9<small>%</small> | 0.86 | -13.3<small>%</small> | -4.6<small>%</small> |
+| [KODEX 미국배당커버드콜액티브](/441640-vs-446720/) | <span style="color: tomato">14.4<small>%</small></span> | 12.6<small>%</small> | 1.15 | -13.7<small>%</small> | -2.6<small>%</small> |
+| SOL 미국배당다우존스 | <span style="color: tomato">11.9<small>%</small></span> | 13.9<small>%</small> | 0.85 | -13.3<small>%</small> | -4.6<small>%</small> |
