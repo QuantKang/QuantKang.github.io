@@ -3,6 +3,7 @@ title: 오렌지사과의 네이버 블로그 최근 글 목록
 header:
   overlay_image: "/assets/images/report.jpg"
 last_modified_at: 2026-09-22
+excerpt: 오렌지사과의 네이버 블로그에서 최근 작성한 글 50건을 정리한 목록입니다. 
 toc: true
 toc_sticky: false
 categories:
