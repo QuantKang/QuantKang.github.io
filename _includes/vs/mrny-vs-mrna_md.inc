@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [MRNY](/mrny-vs-mrna/) | <span style="color: tomato">13.5<small>%</small></span> | 112.8<small>%</small> | 0.12 | -82.1<small>%</small> | -52.1<small>%</small> |
-| MRNA | <span style="color: tomato">30.5<small>%</small></span> | 124.1<small>%</small> | 0.25 | -86.6<small>%</small> | -55.8<small>%</small> |
+| [MRNY](/mrny-vs-mrna/) | <span style="color: tomato">17.1<small>%</small></span> | 112.8<small>%</small> | 0.15 | -82.1<small>%</small> | -52.0<small>%</small> |
+| MRNA | <span style="color: tomato">35.8<small>%</small></span> | 124.0<small>%</small> | 0.29 | -86.6<small>%</small> | -55.7<small>%</small> |
