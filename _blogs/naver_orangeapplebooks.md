@@ -14,6 +14,8 @@ categories:
 - [오렌시자사과일일의 네이버 블로그 (PC)](https://blog.naver.com/orangeapplebooks)
 - [오렌시자사과일일의 네이버 블로그 (모바일)](https://m.blog.naver.com/orangeapplebooks)
 
+## [구글 검색 등록을 도와주는 백링크의 원리와 서비스 신청 방법](/blogs/)
+
 {% include /commons/ads/adsense.html %}
 
 
