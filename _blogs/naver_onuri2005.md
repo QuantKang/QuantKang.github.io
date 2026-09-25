@@ -14,8 +14,6 @@ categories:
 - [오렌지사과의 네이버 블로그 (PC)](https://blog.naver.com/onuri2005)
 - [오렌지사과의 네이버 블로그 (모바일)](https://m.blog.naver.com/onuri2005)
 
-## [구글 검색 등록을 도와주는 백링크의 원리와 서비스 신청 방법](/blogs/)
-
 {% include /commons/ads/adsense.html %}
 
 
@@ -181,6 +179,8 @@ ETF의 과거 데이터를 기반으로 거치식, 적립식, 인출식 등 다�
 국내 상장 ETF를 대상으로 개인 투자자의 일일 및 5거래일 순매수·순매도 상위 5개 ETF를 정리했습니다. 대표 ETF의 수익률과 시장 전체 투자 주체별 순매수 금액도 함께 제공하여 시장의 전반적인 흐름을 한눈에 확인할 수 있도록 매일 업데이트합니다.
 
 
+
+## [구글 검색 등록을 도와주는 백링크의 원리와 서비스 신청 안내](/blogs/)
 
 {% include /commons/ads/adsense.html %}
 

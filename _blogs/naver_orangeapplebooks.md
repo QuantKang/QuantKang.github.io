@@ -14,8 +14,6 @@ categories:
 - [오렌시자사과일일의 네이버 블로그 (PC)](https://blog.naver.com/orangeapplebooks)
 - [오렌시자사과일일의 네이버 블로그 (모바일)](https://m.blog.naver.com/orangeapplebooks)
 
-## [구글 검색 등록을 도와주는 백링크의 원리와 서비스 신청 방법](/blogs/)
-
 {% include /commons/ads/adsense.html %}
 
 
@@ -181,6 +179,8 @@ categories:
 액티브 ETF의 구성내역(PDF; Portfolio Deposit File)을 기준으로 일일 신규 편입·편출 종목 및 주요 비중 변동을 정리합니다. PDF 기준일: 2026년 8월 20일 (2026년 8월 19일 대비) PDF의 기준일은 전거래일입니다.
 
 
+
+## [구글 검색 등록을 도와주는 백링크의 원리와 서비스 신청 안내](/blogs/)
 
 {% include /commons/ads/adsense.html %}
 
