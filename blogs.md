@@ -11,6 +11,9 @@ permalink: /blogs/
 - [네이버 블로그 새 글, 구글은 어떻게 발견하고 색인할까? (모바일 URL만 가능한 걸까?)](https://blog.naver.com/onuri2005/224419898994)
 - [네이버 블로그 구글 검색 백링크, 등록 방법과 신청 안내](https://blog.naver.com/onuri2005/224421175071)
 
+
+{% include /commons/ads/adsense.html %}
+
 ## 블로그 목록
 
 {% for blog in site.blogs %}
