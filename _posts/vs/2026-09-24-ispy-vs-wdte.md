@@ -33,7 +33,7 @@ ISPY의 수익률이 WDTE보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| ISPY | <span style="color: tomato">16.8<small>%</small></span> | 13.5<small>%</small> | 1.24 | -16.9<small>%</small> | -2.0<small>%</small> |
+| ISPY | <span style="color: tomato">16.8<small>%</small></span> | 13.5<small>%</small> | 1.25 | -16.9<small>%</small> | -2.0<small>%</small> |
 | WDTE | <span style="color: tomato">13.7<small>%</small></span> | 11.5<small>%</small> | 1.19 | -15.8<small>%</small> | -1.9<small>%</small> |
 
 <!-- more -->
@@ -76,7 +76,7 @@ WDTE<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, WDT
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| ISPY | <span style="color: tomato">16.8<small>%</small></span> | 13.5<small>%</small> | 1.24 | -16.9<small>%</small> | -2.0<small>%</small> |
+| ISPY | <span style="color: tomato">16.8<small>%</small></span> | 13.5<small>%</small> | 1.25 | -16.9<small>%</small> | -2.0<small>%</small> |
 | WDTE | <span style="color: tomato">13.7<small>%</small></span> | 11.5<small>%</small> | 1.19 | -15.8<small>%</small> | -1.9<small>%</small> |
 | WDTE<sub>STD</sub> <small>(117%)</small> | <span style="color: tomato">16.0<small>%</small></span> | 13.5<small>%</small> | 1.19 | -18.4<small>%</small> | -2.2<small>%</small> |
 | WDTE<sub>MDD</sub> <small>(107%)</small> | <span style="color: tomato">14.6<small>%</small></span> | 12.3<small>%</small> | 1.19 | -16.8<small>%</small> | -2.0<small>%</small> |

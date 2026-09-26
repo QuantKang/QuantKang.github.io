@@ -33,7 +33,7 @@ RDTE의 수익률이 IWM보다 지속적으로 우세하면 상승하고, 반대
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| RDTE | <span style="color: tomato">17.3<small>%</small></span> | 18.5<small>%</small> | 0.94 | -24.3<small>%</small> | -4.2<small>%</small> |
+| RDTE | <span style="color: tomato">17.3<small>%</small></span> | 18.5<small>%</small> | 0.93 | -24.3<small>%</small> | -4.2<small>%</small> |
 | IWM | <span style="color: tomato">17.4<small>%</small></span> | 20.9<small>%</small> | 0.83 | -27.5<small>%</small> | -5.4<small>%</small> |
 
 <!-- more -->
@@ -76,10 +76,10 @@ IWM<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IWM<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| RDTE | <span style="color: tomato">17.3<small>%</small></span> | 18.5<small>%</small> | 0.94 | -24.3<small>%</small> | -4.2<small>%</small> |
+| RDTE | <span style="color: tomato">17.3<small>%</small></span> | 18.5<small>%</small> | 0.93 | -24.3<small>%</small> | -4.2<small>%</small> |
 | IWM | <span style="color: tomato">17.4<small>%</small></span> | 20.9<small>%</small> | 0.83 | -27.5<small>%</small> | -5.4<small>%</small> |
 | IWM<sub>STD</sub> <small>(89%)</small> | <span style="color: tomato">15.5<small>%</small></span> | 18.5<small>%</small> | 0.84 | -24.7<small>%</small> | -4.8<small>%</small> |
-| IWM<sub>MDD</sub> <small>(88%)</small> | <span style="color: tomato">15.5<small>%</small></span> | 18.4<small>%</small> | 0.84 | -24.7<small>%</small> | -4.8<small>%</small> |
+| IWM<sub>MDD</sub> <small>(88%)</small> | <span style="color: tomato">15.5<small>%</small></span> | 18.5<small>%</small> | 0.84 | -24.7<small>%</small> | -4.8<small>%</small> |
 
 
 

@@ -32,7 +32,7 @@ IWMY의 수익률이 IWM보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | IWMY | <span style="color: tomato">11.4<small>%</small></span> | 15.6<small>%</small> | 0.73 | -18.7<small>%</small> | -2.9<small>%</small> |
-| IWM | <span style="color: tomato">21.5<small>%</small></span> | 21.1<small>%</small> | 1.02 | -27.5<small>%</small> | -4.7<small>%</small> |
+| IWM | <span style="color: tomato">21.5<small>%</small></span> | 21.1<small>%</small> | 1.02 | -27.5<small>%</small> | -4.8<small>%</small> |
 
 <!-- more -->
 
@@ -75,15 +75,15 @@ IWM<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IWM<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | IWMY | <span style="color: tomato">11.4<small>%</small></span> | 15.6<small>%</small> | 0.73 | -18.7<small>%</small> | -2.9<small>%</small> |
-| IWM | <span style="color: tomato">21.5<small>%</small></span> | 21.1<small>%</small> | 1.02 | -27.5<small>%</small> | -4.7<small>%</small> |
-| IWM<sub>STD</sub> <small>(74%)</small> | <span style="color: tomato">15.9<small>%</small></span> | 15.6<small>%</small> | 1.02 | -20.9<small>%</small> | -3.5<small>%</small> |
+| IWM | <span style="color: tomato">21.5<small>%</small></span> | 21.1<small>%</small> | 1.02 | -27.5<small>%</small> | -4.8<small>%</small> |
+| IWM<sub>STD</sub> <small>(74%)</small> | <span style="color: tomato">16.0<small>%</small></span> | 15.6<small>%</small> | 1.02 | -20.9<small>%</small> | -3.5<small>%</small> |
 | IWM<sub>MDD</sub> <small>(68%)</small> | <span style="color: tomato">14.8<small>%</small></span> | 14.4<small>%</small> | 1.03 | -19.5<small>%</small> | -3.2<small>%</small> |
 
 
 
 각각의 경우를 IWMY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 74% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 15.9%로 IWMY의 11.4%보다 4.5% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 74% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 16.0%로 IWMY의 11.4%보다 4.5% 높았습니다. (높은 수익률)
 
 **위험도 지표 (MDD):** 68% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 14.8%로 IWMY의 11.4%보다 3.3% 높았습니다. (높은 수익률)
 

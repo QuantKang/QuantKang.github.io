@@ -33,7 +33,7 @@ MARO의 수익률이 MARA보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| MARO | <span style="color: cornflowerblue">-35.4<small>%</small></span> | 66.2<small>%</small> | -0.53 | -71.7<small>%</small> | -44.7<small>%</small> |
+| MARO | <span style="color: cornflowerblue">-35.4<small>%</small></span> | 66.2<small>%</small> | -0.54 | -71.7<small>%</small> | -44.7<small>%</small> |
 | MARA | <span style="color: cornflowerblue">-27.2<small>%</small></span> | 83.5<small>%</small> | -0.33 | -72.6<small>%</small> | -43.7<small>%</small> |
 
 <!-- more -->
@@ -76,7 +76,7 @@ MARA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, MAR
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| MARO | <span style="color: cornflowerblue">-35.4<small>%</small></span> | 66.2<small>%</small> | -0.53 | -71.7<small>%</small> | -44.7<small>%</small> |
+| MARO | <span style="color: cornflowerblue">-35.4<small>%</small></span> | 66.2<small>%</small> | -0.54 | -71.7<small>%</small> | -44.7<small>%</small> |
 | MARA | <span style="color: cornflowerblue">-27.2<small>%</small></span> | 83.5<small>%</small> | -0.33 | -72.6<small>%</small> | -43.7<small>%</small> |
 | MARA<sub>STD</sub> <small>(79%)</small> | <span style="color: cornflowerblue">-17.8<small>%</small></span> | 66.2<small>%</small> | -0.27 | -61.9<small>%</small> | -34.0<small>%</small> |
 | MARA<sub>MDD</sub> <small>(99%)</small> | <span style="color: cornflowerblue">-26.6<small>%</small></span> | 82.5<small>%</small> | -0.32 | -72.1<small>%</small> | -43.2<small>%</small> |

@@ -34,7 +34,7 @@ FBY의 수익률이 META보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | FBY | <span style="color: tomato">21.3<small>%</small></span> | 29.8<small>%</small> | 0.72 | -31.5<small>%</small> | -9.2<small>%</small> |
-| META | <span style="color: tomato">32.1<small>%</small></span> | 37.7<small>%</small> | 0.85 | -34.2<small>%</small> | -10.3<small>%</small> |
+| META | <span style="color: tomato">32.1<small>%</small></span> | 37.6<small>%</small> | 0.85 | -34.2<small>%</small> | -10.3<small>%</small> |
 
 <!-- more -->
 
@@ -43,7 +43,7 @@ FBY의 수익률이 META보다 지속적으로 우세하면 상승하고, 반대
 
 **수익률 지표 (CAGR):** FBY의 CAGR은 21.3%로 META의 32.1%보다 -10.8% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** FBY의 표준편차는 29.8%로 META의 37.7%보다 -7.9% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** FBY의 표준편차는 29.8%로 META의 37.6%보다 -7.9% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** FBY의 31.5%의 MDD는 META의 34.2%보다 -2.6% 낮았습니다. (낮은 위험도)
 
@@ -54,7 +54,7 @@ FBY의 수익률이 META보다 지속적으로 우세하면 상승하고, 반대
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 META의 투자 비중[^fn_vs_weight]을 조절하여 FBY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 37.7% / 29.8% = 79% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 37.6% / 29.8% = 79% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 34.2% / 31.5% = 92% 비중으로 투자하면 됩니다.
 
@@ -77,7 +77,7 @@ META<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, MET
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | FBY | <span style="color: tomato">21.3<small>%</small></span> | 29.8<small>%</small> | 0.72 | -31.5<small>%</small> | -9.2<small>%</small> |
-| META | <span style="color: tomato">32.1<small>%</small></span> | 37.7<small>%</small> | 0.85 | -34.2<small>%</small> | -10.3<small>%</small> |
+| META | <span style="color: tomato">32.1<small>%</small></span> | 37.6<small>%</small> | 0.85 | -34.2<small>%</small> | -10.3<small>%</small> |
 | META<sub>STD</sub> <small>(79%)</small> | <span style="color: tomato">26.1<small>%</small></span> | 29.8<small>%</small> | 0.88 | -27.8<small>%</small> | -8.0<small>%</small> |
 | META<sub>MDD</sub> <small>(92%)</small> | <span style="color: tomato">30.0<small>%</small></span> | 34.8<small>%</small> | 0.86 | -31.9<small>%</small> | -9.4<small>%</small> |
 

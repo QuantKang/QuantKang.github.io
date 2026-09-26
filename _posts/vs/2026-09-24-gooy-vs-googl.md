@@ -78,8 +78,8 @@ GOOGL<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, GO
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | GOOY | <span style="color: tomato">20.7<small>%</small></span> | 23.8<small>%</small> | 0.87 | -24.4<small>%</small> | -6.7<small>%</small> |
 | GOOGL | <span style="color: tomato">35.4<small>%</small></span> | 30.2<small>%</small> | 1.17 | -29.8<small>%</small> | -7.7<small>%</small> |
-| GOOGL<sub>STD</sub> <small>(79%)</small> | <span style="color: tomato">28.0<small>%</small></span> | 23.8<small>%</small> | 1.17 | -24.2<small>%</small> | -6.1<small>%</small> |
-| GOOGL<sub>MDD</sub> <small>(82%)</small> | <span style="color: tomato">29.1<small>%</small></span> | 24.7<small>%</small> | 1.17 | -25.0<small>%</small> | -6.3<small>%</small> |
+| GOOGL<sub>STD</sub> <small>(79%)</small> | <span style="color: tomato">28.0<small>%</small></span> | 23.8<small>%</small> | 1.18 | -24.2<small>%</small> | -6.1<small>%</small> |
+| GOOGL<sub>MDD</sub> <small>(82%)</small> | <span style="color: tomato">29.0<small>%</small></span> | 24.7<small>%</small> | 1.18 | -25.0<small>%</small> | -6.3<small>%</small> |
 
 
 
@@ -87,7 +87,7 @@ GOOGL<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, GO
 
 **위험도 지표 (표준편차):** 79% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 28.0%로 GOOY의 20.7%보다 7.3% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 82% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 29.1%로 GOOY의 20.7%보다 8.3% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 82% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 29.0%로 GOOY의 20.7%보다 8.3% 높았습니다. (높은 수익률)
 
 
 

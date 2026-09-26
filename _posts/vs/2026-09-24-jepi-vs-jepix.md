@@ -32,7 +32,7 @@ JEPI의 수익률이 JEPIX보다 지속적으로 우세하면 상승하고, 반�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | JEPI | <span style="color: tomato">11.0<small>%</small></span> | 10.6<small>%</small> | 1.04 | -13.7<small>%</small> | -2.1<small>%</small> |
-| JEPIX | <span style="color: tomato">10.9<small>%</small></span> | 11.1<small>%</small> | 0.98 | -13.7<small>%</small> | -2.2<small>%</small> |
+| JEPIX | <span style="color: tomato">10.9<small>%</small></span> | 11.1<small>%</small> | 0.99 | -13.7<small>%</small> | -2.2<small>%</small> |
 
 <!-- more -->
 
@@ -75,7 +75,7 @@ JEPIX<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JE
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | JEPI | <span style="color: tomato">11.0<small>%</small></span> | 10.6<small>%</small> | 1.04 | -13.7<small>%</small> | -2.1<small>%</small> |
-| JEPIX | <span style="color: tomato">10.9<small>%</small></span> | 11.1<small>%</small> | 0.98 | -13.7<small>%</small> | -2.2<small>%</small> |
+| JEPIX | <span style="color: tomato">10.9<small>%</small></span> | 11.1<small>%</small> | 0.99 | -13.7<small>%</small> | -2.2<small>%</small> |
 | JEPIX<sub>STD</sub> <small>(96%)</small> | <span style="color: tomato">10.5<small>%</small></span> | 10.6<small>%</small> | 0.99 | -13.1<small>%</small> | -2.1<small>%</small> |
 | JEPIX<sub>MDD</sub> <small>(100%)</small> | <span style="color: tomato">11.0<small>%</small></span> | 11.1<small>%</small> | 0.98 | -13.7<small>%</small> | -2.2<small>%</small> |
 

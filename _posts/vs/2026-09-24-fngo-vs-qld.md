@@ -33,7 +33,7 @@ FNGO의 수익률이 QLD보다 지속적으로 우세하면 상승하고, 반대
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| FNGO | <span style="color: tomato">40.7<small>%</small></span> | 61.1<small>%</small> | 0.67 | -78.4<small>%</small> | -23.4<small>%</small> |
+| FNGO | <span style="color: tomato">40.7<small>%</small></span> | 61.1<small>%</small> | 0.67 | -78.4<small>%</small> | -23.3<small>%</small> |
 | QLD | <span style="color: tomato">29.7<small>%</small></span> | 48.1<small>%</small> | 0.62 | -63.7<small>%</small> | -16.9<small>%</small> |
 
 <!-- more -->
@@ -76,7 +76,7 @@ QLD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QLD<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| FNGO | <span style="color: tomato">40.7<small>%</small></span> | 61.1<small>%</small> | 0.67 | -78.4<small>%</small> | -23.4<small>%</small> |
+| FNGO | <span style="color: tomato">40.7<small>%</small></span> | 61.1<small>%</small> | 0.67 | -78.4<small>%</small> | -23.3<small>%</small> |
 | QLD | <span style="color: tomato">29.7<small>%</small></span> | 48.1<small>%</small> | 0.62 | -63.7<small>%</small> | -16.9<small>%</small> |
 | QLD<sub>STD</sub> <small>(127%)</small> | <span style="color: tomato">33.6<small>%</small></span> | 61.1<small>%</small> | 0.55 | -74.4<small>%</small> | -22.2<small>%</small> |
 | QLD<sub>MDD</sub> <small>(123%)</small> | <span style="color: tomato">33.1<small>%</small></span> | 59.2<small>%</small> | 0.56 | -73.0<small>%</small> | -21.4<small>%</small> |

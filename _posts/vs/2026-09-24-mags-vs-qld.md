@@ -78,14 +78,14 @@ QLD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QLD<
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | MAGS | <span style="color: tomato">38.0<small>%</small></span> | 25.7<small>%</small> | 1.48 | -29.9<small>%</small> | -4.8<small>%</small> |
 | QLD | <span style="color: tomato">49.9<small>%</small></span> | 39.7<small>%</small> | 1.26 | -42.3<small>%</small> | -7.3<small>%</small> |
-| QLD<sub>STD</sub> <small>(65%)</small> | <span style="color: tomato">32.4<small>%</small></span> | 25.7<small>%</small> | 1.26 | -29.3<small>%</small> | -4.6<small>%</small> |
+| QLD<sub>STD</sub> <small>(65%)</small> | <span style="color: tomato">32.4<small>%</small></span> | 25.7<small>%</small> | 1.26 | -29.3<small>%</small> | -4.5<small>%</small> |
 | QLD<sub>MDD</sub> <small>(71%)</small> | <span style="color: tomato">35.3<small>%</small></span> | 28.1<small>%</small> | 1.26 | -31.6<small>%</small> | -5.0<small>%</small> |
 
 
 
 각각의 경우를 MAGS의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 65% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 32.4%로 MAGS의 38.0%보다 -5.6% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 65% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 32.4%로 MAGS의 38.0%보다 -5.7% 낮았습니다. (낮은 수익률)
 
 **위험도 지표 (MDD):** 71% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 35.3%로 MAGS의 38.0%보다 -2.7% 낮았습니다. (낮은 수익률)
 
@@ -99,7 +99,7 @@ QLD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QLD<
 
 지난 3년 5개월간 거치식으로 투자했다고 가정합니다.
 
-QLD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 33.9%인 포트폴리오를 만들 수 있습니다.
+QLD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 33.8%인 포트폴리오를 만들 수 있습니다.
 이 포트폴리오는 MAGS의 38.0%보다 -4.2% 낮았습니다.
 
 ### MAGS &gt; QLD

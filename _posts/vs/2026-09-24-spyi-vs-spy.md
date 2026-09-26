@@ -31,7 +31,7 @@ SPYI의 수익률이 SPY보다 지속적으로 우세하면 상승하고, 반대
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SPYI | <span style="color: tomato">15.0<small>%</small></span> | 12.8<small>%</small> | 1.17 | -16.5<small>%</small> | -1.7<small>%</small> |
+| SPYI | <span style="color: tomato">15.0<small>%</small></span> | 12.7<small>%</small> | 1.17 | -16.5<small>%</small> | -1.7<small>%</small> |
 | SPY | <span style="color: tomato">19.1<small>%</small></span> | 15.9<small>%</small> | 1.20 | -18.8<small>%</small> | -2.4<small>%</small> |
 
 <!-- more -->
@@ -41,7 +41,7 @@ SPYI의 수익률이 SPY보다 지속적으로 우세하면 상승하고, 반대
 
 **수익률 지표 (CAGR):** SPYI의 CAGR은 15.0%로 SPY의 19.1%보다 -4.2% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** SPYI의 표준편차는 12.8%로 SPY의 15.9%보다 -3.2% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** SPYI의 표준편차는 12.7%로 SPY의 15.9%보다 -3.2% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** SPYI의 16.5%의 MDD는 SPY의 18.8%보다 -2.3% 낮았습니다. (낮은 위험도)
 
@@ -52,7 +52,7 @@ SPYI의 수익률이 SPY보다 지속적으로 우세하면 상승하고, 반대
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 SPY의 투자 비중[^fn_vs_weight]을 조절하여 SPYI의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 15.9% / 12.8% = 80% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 15.9% / 12.7% = 80% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 18.8% / 16.5% = 88% 비중으로 투자하면 됩니다.
 
@@ -74,9 +74,9 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SPYI | <span style="color: tomato">15.0<small>%</small></span> | 12.8<small>%</small> | 1.17 | -16.5<small>%</small> | -1.7<small>%</small> |
+| SPYI | <span style="color: tomato">15.0<small>%</small></span> | 12.7<small>%</small> | 1.17 | -16.5<small>%</small> | -1.7<small>%</small> |
 | SPY | <span style="color: tomato">19.1<small>%</small></span> | 15.9<small>%</small> | 1.20 | -18.8<small>%</small> | -2.4<small>%</small> |
-| SPY<sub>STD</sub> <small>(80%)</small> | <span style="color: tomato">15.2<small>%</small></span> | 12.8<small>%</small> | 1.20 | -15.2<small>%</small> | -1.9<small>%</small> |
+| SPY<sub>STD</sub> <small>(80%)</small> | <span style="color: tomato">15.2<small>%</small></span> | 12.7<small>%</small> | 1.20 | -15.2<small>%</small> | -1.9<small>%</small> |
 | SPY<sub>MDD</sub> <small>(88%)</small> | <span style="color: tomato">16.8<small>%</small></span> | 14.0<small>%</small> | 1.20 | -16.6<small>%</small> | -2.1<small>%</small> |
 
 

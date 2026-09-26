@@ -33,8 +33,8 @@ PLTW의 수익률이 PLTR보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| PLTW | <span style="color: tomato">36.3<small>%</small></span> | 76.0<small>%</small> | 0.48 | -57.3<small>%</small> | -22.8<small>%</small> |
-| PLTR | <span style="color: tomato">40.5<small>%</small></span> | 63.1<small>%</small> | 0.64 | -48.2<small>%</small> | -18.0<small>%</small> |
+| PLTW | <span style="color: tomato">36.3<small>%</small></span> | 75.8<small>%</small> | 0.48 | -57.3<small>%</small> | -22.8<small>%</small> |
+| PLTR | <span style="color: tomato">40.5<small>%</small></span> | 63.0<small>%</small> | 0.64 | -48.2<small>%</small> | -18.0<small>%</small> |
 
 <!-- more -->
 
@@ -43,7 +43,7 @@ PLTW의 수익률이 PLTR보다 지속적으로 우세하면 상승하고, 반�
 
 **수익률 지표 (CAGR):** PLTW의 CAGR은 36.3%로 PLTR의 40.5%보다 -4.2% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** PLTW의 표준편차는 76.0%로 PLTR의 63.1%보다 12.8% 높았습니다. (높은 위험도)
+**위험도 지표 (표준편차):** PLTW의 표준편차는 75.8%로 PLTR의 63.0%보다 12.8% 높았습니다. (높은 위험도)
 
 **위험도 지표 (MDD):** PLTW의 57.3%의 MDD는 PLTR의 48.2%보다 9.1% 높았습니다. (높은 위험도)
 
@@ -54,7 +54,7 @@ PLTW의 수익률이 PLTR보다 지속적으로 우세하면 상승하고, 반�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 PLTR의 투자 비중[^fn_vs_weight]을 조절하여 PLTW의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 63.1% / 76.0% = 120% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 63.0% / 75.8% = 120% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 48.2% / 57.3% = 119% 비중으로 투자하면 됩니다.
 
@@ -76,10 +76,10 @@ PLTR<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, PLT
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| PLTW | <span style="color: tomato">36.3<small>%</small></span> | 76.0<small>%</small> | 0.48 | -57.3<small>%</small> | -22.8<small>%</small> |
-| PLTR | <span style="color: tomato">40.5<small>%</small></span> | 63.1<small>%</small> | 0.64 | -48.2<small>%</small> | -18.0<small>%</small> |
-| PLTR<sub>STD</sub> <small>(120%)</small> | <span style="color: tomato">43.6<small>%</small></span> | 76.0<small>%</small> | 0.57 | -55.8<small>%</small> | -21.8<small>%</small> |
-| PLTR<sub>MDD</sub> <small>(119%)</small> | <span style="color: tomato">43.4<small>%</small></span> | 75.0<small>%</small> | 0.58 | -55.2<small>%</small> | -21.5<small>%</small> |
+| PLTW | <span style="color: tomato">36.3<small>%</small></span> | 75.8<small>%</small> | 0.48 | -57.3<small>%</small> | -22.8<small>%</small> |
+| PLTR | <span style="color: tomato">40.5<small>%</small></span> | 63.0<small>%</small> | 0.64 | -48.2<small>%</small> | -18.0<small>%</small> |
+| PLTR<sub>STD</sub> <small>(120%)</small> | <span style="color: tomato">43.6<small>%</small></span> | 75.8<small>%</small> | 0.58 | -55.8<small>%</small> | -21.8<small>%</small> |
+| PLTR<sub>MDD</sub> <small>(119%)</small> | <span style="color: tomato">43.4<small>%</small></span> | 74.8<small>%</small> | 0.58 | -55.2<small>%</small> | -21.5<small>%</small> |
 
 
 
@@ -87,7 +87,7 @@ PLTR<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, PLT
 
 **위험도 지표 (표준편차):** 120% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 43.6%로 PLTW의 36.3%보다 7.3% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 119% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 43.4%로 PLTW의 36.3%보다 7.1% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 119% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 43.4%로 PLTW의 36.3%보다 7.2% 높았습니다. (높은 수익률)
 
 
 

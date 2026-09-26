@@ -33,8 +33,8 @@ HOOY의 수익률이 HOOD보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| HOOY | <span style="color: tomato">47.1<small>%</small></span> | 55.3<small>%</small> | 0.85 | -51.5<small>%</small> | -22.5<small>%</small> |
-| HOOD | <span style="color: tomato">79.1<small>%</small></span> | 68.9<small>%</small> | 1.15 | -57.3<small>%</small> | -24.3<small>%</small> |
+| HOOY | <span style="color: tomato">47.1<small>%</small></span> | 55.2<small>%</small> | 0.85 | -51.5<small>%</small> | -22.5<small>%</small> |
+| HOOD | <span style="color: tomato">79.1<small>%</small></span> | 68.8<small>%</small> | 1.15 | -57.3<small>%</small> | -24.3<small>%</small> |
 
 <!-- more -->
 
@@ -43,7 +43,7 @@ HOOY의 수익률이 HOOD보다 지속적으로 우세하면 상승하고, 반�
 
 **수익률 지표 (CAGR):** HOOY의 CAGR은 47.1%로 HOOD의 79.1%보다 -32.0% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** HOOY의 표준편차는 55.3%로 HOOD의 68.9%보다 -13.6% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** HOOY의 표준편차는 55.2%로 HOOD의 68.8%보다 -13.6% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** HOOY의 51.5%의 MDD는 HOOD의 57.3%보다 -5.7% 낮았습니다. (낮은 위험도)
 
@@ -54,7 +54,7 @@ HOOY의 수익률이 HOOD보다 지속적으로 우세하면 상승하고, 반�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 HOOD의 투자 비중[^fn_vs_weight]을 조절하여 HOOY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 68.9% / 55.3% = 80% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 68.8% / 55.2% = 80% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 57.3% / 51.5% = 90% 비중으로 투자하면 됩니다.
 
@@ -76,10 +76,10 @@ HOOD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, HOO
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| HOOY | <span style="color: tomato">47.1<small>%</small></span> | 55.3<small>%</small> | 0.85 | -51.5<small>%</small> | -22.5<small>%</small> |
-| HOOD | <span style="color: tomato">79.1<small>%</small></span> | 68.9<small>%</small> | 1.15 | -57.3<small>%</small> | -24.3<small>%</small> |
-| HOOD<sub>STD</sub> <small>(80%)</small> | <span style="color: tomato">65.6<small>%</small></span> | 55.3<small>%</small> | 1.19 | -48.5<small>%</small> | -19.4<small>%</small> |
-| HOOD<sub>MDD</sub> <small>(90%)</small> | <span style="color: tomato">72.5<small>%</small></span> | 62.0<small>%</small> | 1.17 | -53.0<small>%</small> | -21.8<small>%</small> |
+| HOOY | <span style="color: tomato">47.1<small>%</small></span> | 55.2<small>%</small> | 0.85 | -51.5<small>%</small> | -22.5<small>%</small> |
+| HOOD | <span style="color: tomato">79.1<small>%</small></span> | 68.8<small>%</small> | 1.15 | -57.3<small>%</small> | -24.3<small>%</small> |
+| HOOD<sub>STD</sub> <small>(80%)</small> | <span style="color: tomato">65.6<small>%</small></span> | 55.2<small>%</small> | 1.19 | -48.5<small>%</small> | -19.4<small>%</small> |
+| HOOD<sub>MDD</sub> <small>(90%)</small> | <span style="color: tomato">72.5<small>%</small></span> | 61.9<small>%</small> | 1.17 | -53.0<small>%</small> | -21.8<small>%</small> |
 
 
 

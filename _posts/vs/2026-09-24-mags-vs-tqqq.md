@@ -34,7 +34,7 @@ MAGS의 수익률이 TQQQ보다 지속적으로 우세하면 상승하고, 반�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | MAGS | <span style="color: tomato">38.0<small>%</small></span> | 25.7<small>%</small> | 1.48 | -29.9<small>%</small> | -4.8<small>%</small> |
-| TQQQ | <span style="color: tomato">68.7<small>%</small></span> | 59.2<small>%</small> | 1.16 | -58.0<small>%</small> | -11.9<small>%</small> |
+| TQQQ | <span style="color: tomato">68.7<small>%</small></span> | 59.2<small>%</small> | 1.16 | -58.0<small>%</small> | -11.8<small>%</small> |
 
 <!-- more -->
 
@@ -77,7 +77,7 @@ TQQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, TQQ
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | MAGS | <span style="color: tomato">38.0<small>%</small></span> | 25.7<small>%</small> | 1.48 | -29.9<small>%</small> | -4.8<small>%</small> |
-| TQQQ | <span style="color: tomato">68.7<small>%</small></span> | 59.2<small>%</small> | 1.16 | -58.0<small>%</small> | -11.9<small>%</small> |
+| TQQQ | <span style="color: tomato">68.7<small>%</small></span> | 59.2<small>%</small> | 1.16 | -58.0<small>%</small> | -11.8<small>%</small> |
 | TQQQ<sub>STD</sub> <small>(43%)</small> | <span style="color: tomato">31.0<small>%</small></span> | 25.7<small>%</small> | 1.20 | -29.7<small>%</small> | -4.7<small>%</small> |
 | TQQQ<sub>MDD</sub> <small>(52%)</small> | <span style="color: tomato">36.8<small>%</small></span> | 30.5<small>%</small> | 1.20 | -34.4<small>%</small> | -5.7<small>%</small> |
 
@@ -87,7 +87,7 @@ TQQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, TQQ
 
 **위험도 지표 (표준편차):** 43% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 31.0%로 MAGS의 38.0%보다 -7.0% 낮았습니다. (낮은 수익률)
 
-**위험도 지표 (MDD):** 52% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 36.8%로 MAGS의 38.0%보다 -1.3% 낮았습니다. (낮은 수익률)
+**위험도 지표 (MDD):** 52% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 36.8%로 MAGS의 38.0%보다 -1.2% 낮았습니다. (낮은 수익률)
 
 
 

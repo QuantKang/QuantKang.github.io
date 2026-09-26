@@ -33,7 +33,7 @@ BALI의 수익률이 WDTE보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| BALI | <span style="color: tomato">21.0<small>%</small></span> | 12.7<small>%</small> | 1.65 | -16.6<small>%</small> | -1.6<small>%</small> |
+| BALI | <span style="color: tomato">21.0<small>%</small></span> | 12.7<small>%</small> | 1.66 | -16.6<small>%</small> | -1.6<small>%</small> |
 | WDTE | <span style="color: tomato">14.9<small>%</small></span> | 11.3<small>%</small> | 1.32 | -15.8<small>%</small> | -1.8<small>%</small> |
 
 <!-- more -->
@@ -76,7 +76,7 @@ WDTE<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, WDT
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| BALI | <span style="color: tomato">21.0<small>%</small></span> | 12.7<small>%</small> | 1.65 | -16.6<small>%</small> | -1.6<small>%</small> |
+| BALI | <span style="color: tomato">21.0<small>%</small></span> | 12.7<small>%</small> | 1.66 | -16.6<small>%</small> | -1.6<small>%</small> |
 | WDTE | <span style="color: tomato">14.9<small>%</small></span> | 11.3<small>%</small> | 1.32 | -15.8<small>%</small> | -1.8<small>%</small> |
 | WDTE<sub>STD</sub> <small>(112%)</small> | <span style="color: tomato">16.8<small>%</small></span> | 12.7<small>%</small> | 1.33 | -17.7<small>%</small> | -2.0<small>%</small> |
 | WDTE<sub>MDD</sub> <small>(105%)</small> | <span style="color: tomato">15.7<small>%</small></span> | 11.8<small>%</small> | 1.32 | -16.6<small>%</small> | -1.9<small>%</small> |

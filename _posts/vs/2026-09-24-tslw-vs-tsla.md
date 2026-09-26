@@ -33,7 +33,7 @@ TSLW의 수익률이 TSLA보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| TSLW | <span style="color: cornflowerblue">-3.8<small>%</small></span> | 68.0<small>%</small> | -0.06 | -47.2<small>%</small> | -20.1<small>%</small> |
+| TSLW | <span style="color: cornflowerblue">-3.8<small>%</small></span> | 68.0<small>%</small> | -0.06 | -47.2<small>%</small> | -20.2<small>%</small> |
 | TSLA | <span style="color: tomato">3.0<small>%</small></span> | 56.6<small>%</small> | 0.05 | -39.1<small>%</small> | -15.8<small>%</small> |
 
 <!-- more -->
@@ -76,16 +76,16 @@ TSLA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, TSL
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| TSLW | <span style="color: cornflowerblue">-3.8<small>%</small></span> | 68.0<small>%</small> | -0.06 | -47.2<small>%</small> | -20.1<small>%</small> |
+| TSLW | <span style="color: cornflowerblue">-3.8<small>%</small></span> | 68.0<small>%</small> | -0.06 | -47.2<small>%</small> | -20.2<small>%</small> |
 | TSLA | <span style="color: tomato">3.0<small>%</small></span> | 56.6<small>%</small> | 0.05 | -39.1<small>%</small> | -15.8<small>%</small> |
-| TSLA<sub>STD</sub> <small>(120%)</small> | <span style="color: cornflowerblue">-0.4<small>%</small></span> | 68.0<small>%</small> | -0.01 | -45.8<small>%</small> | -19.4<small>%</small> |
-| TSLA<sub>MDD</sub> <small>(121%)</small> | <span style="color: cornflowerblue">-0.5<small>%</small></span> | 68.4<small>%</small> | -0.01 | -46.0<small>%</small> | -19.5<small>%</small> |
+| TSLA<sub>STD</sub> <small>(120%)</small> | <span style="color: cornflowerblue">-0.3<small>%</small></span> | 68.0<small>%</small> | -0.01 | -45.8<small>%</small> | -19.4<small>%</small> |
+| TSLA<sub>MDD</sub> <small>(121%)</small> | <span style="color: cornflowerblue">-0.5<small>%</small></span> | 68.3<small>%</small> | -0.01 | -46.0<small>%</small> | -19.5<small>%</small> |
 
 
 
 각각의 경우를 TSLW의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 120% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 -0.4%로 TSLW의 -3.8%보다 3.4% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 120% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 -0.3%로 TSLW의 -3.8%보다 3.4% 높았습니다. (높은 수익률)
 
 **위험도 지표 (MDD):** 121% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 -0.5%로 TSLW의 -3.8%보다 3.3% 높았습니다. (높은 수익률)
 

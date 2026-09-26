@@ -33,7 +33,7 @@ AMOM의 수익률이 SPY보다 지속적으로 우세하면 상승하고, 반대
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| AMOM | <span style="color: tomato">17.5<small>%</small></span> | 25.5<small>%</small> | 0.68 | -40.0<small>%</small> | -10.8<small>%</small> |
+| AMOM | <span style="color: tomato">17.5<small>%</small></span> | 25.5<small>%</small> | 0.69 | -40.0<small>%</small> | -10.8<small>%</small> |
 | SPY | <span style="color: tomato">16.1<small>%</small></span> | 19.5<small>%</small> | 0.83 | -33.7<small>%</small> | -4.9<small>%</small> |
 
 <!-- more -->
@@ -76,7 +76,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| AMOM | <span style="color: tomato">17.5<small>%</small></span> | 25.5<small>%</small> | 0.68 | -40.0<small>%</small> | -10.8<small>%</small> |
+| AMOM | <span style="color: tomato">17.5<small>%</small></span> | 25.5<small>%</small> | 0.69 | -40.0<small>%</small> | -10.8<small>%</small> |
 | SPY | <span style="color: tomato">16.1<small>%</small></span> | 19.5<small>%</small> | 0.83 | -33.7<small>%</small> | -4.9<small>%</small> |
 | SPY<sub>STD</sub> <small>(131%)</small> | <span style="color: tomato">20.6<small>%</small></span> | 25.5<small>%</small> | 0.81 | -42.4<small>%</small> | -6.6<small>%</small> |
 | SPY<sub>MDD</sub> <small>(119%)</small> | <span style="color: tomato">18.8<small>%</small></span> | 23.1<small>%</small> | 0.82 | -39.1<small>%</small> | -5.9<small>%</small> |

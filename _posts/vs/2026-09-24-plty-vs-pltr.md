@@ -33,8 +33,8 @@ PLTY의 수익률이 PLTR보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| PLTY | <span style="color: tomato">74.4<small>%</small></span> | 54.7<small>%</small> | 1.36 | -41.4<small>%</small> | -14.0<small>%</small> |
-| PLTR | <span style="color: tomato">118.9<small>%</small></span> | 66.6<small>%</small> | 1.79 | -48.2<small>%</small> | -16.2<small>%</small> |
+| PLTY | <span style="color: tomato">74.4<small>%</small></span> | 54.6<small>%</small> | 1.36 | -41.4<small>%</small> | -14.0<small>%</small> |
+| PLTR | <span style="color: tomato">118.9<small>%</small></span> | 66.5<small>%</small> | 1.79 | -48.2<small>%</small> | -16.2<small>%</small> |
 
 <!-- more -->
 
@@ -43,7 +43,7 @@ PLTY의 수익률이 PLTR보다 지속적으로 우세하면 상승하고, 반�
 
 **수익률 지표 (CAGR):** PLTY의 CAGR은 74.4%로 PLTR의 118.9%보다 -44.5% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** PLTY의 표준편차는 54.7%로 PLTR의 66.6%보다 -11.9% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** PLTY의 표준편차는 54.6%로 PLTR의 66.5%보다 -11.9% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** PLTY의 41.4%의 MDD는 PLTR의 48.2%보다 -6.9% 낮았습니다. (낮은 위험도)
 
@@ -54,7 +54,7 @@ PLTY의 수익률이 PLTR보다 지속적으로 우세하면 상승하고, 반�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 PLTR의 투자 비중[^fn_vs_weight]을 조절하여 PLTY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 66.6% / 54.7% = 82% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 66.5% / 54.6% = 82% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 48.2% / 41.4% = 86% 비중으로 투자하면 됩니다.
 
@@ -76,10 +76,10 @@ PLTR<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, PLT
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| PLTY | <span style="color: tomato">74.4<small>%</small></span> | 54.7<small>%</small> | 1.36 | -41.4<small>%</small> | -14.0<small>%</small> |
-| PLTR | <span style="color: tomato">118.9<small>%</small></span> | 66.6<small>%</small> | 1.79 | -48.2<small>%</small> | -16.2<small>%</small> |
-| PLTR<sub>STD</sub> <small>(82%)</small> | <span style="color: tomato">96.3<small>%</small></span> | 54.7<small>%</small> | 1.76 | -40.9<small>%</small> | -13.2<small>%</small> |
-| PLTR<sub>MDD</sub> <small>(86%)</small> | <span style="color: tomato">100.9<small>%</small></span> | 57.1<small>%</small> | 1.77 | -42.4<small>%</small> | -13.8<small>%</small> |
+| PLTY | <span style="color: tomato">74.4<small>%</small></span> | 54.6<small>%</small> | 1.36 | -41.4<small>%</small> | -14.0<small>%</small> |
+| PLTR | <span style="color: tomato">118.9<small>%</small></span> | 66.5<small>%</small> | 1.79 | -48.2<small>%</small> | -16.2<small>%</small> |
+| PLTR<sub>STD</sub> <small>(82%)</small> | <span style="color: tomato">96.3<small>%</small></span> | 54.6<small>%</small> | 1.76 | -40.9<small>%</small> | -13.2<small>%</small> |
+| PLTR<sub>MDD</sub> <small>(86%)</small> | <span style="color: tomato">100.9<small>%</small></span> | 57.0<small>%</small> | 1.77 | -42.4<small>%</small> | -13.8<small>%</small> |
 
 
 

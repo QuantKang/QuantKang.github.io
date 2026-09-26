@@ -54,7 +54,7 @@ PFFD의 수익률이 AOK보다 지속적으로 우세하면 상승하고, 반대
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 AOK의 투자 비중[^fn_vs_weight]을 조절하여 PFFD의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 7.0% / 12.6% = 181% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 7.0% / 12.6% = 180% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 18.9% / 30.9% = 163% 비중으로 투자하면 됩니다.
 
@@ -78,14 +78,14 @@ AOK<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, AOK<
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | PFFD | <span style="color: tomato">2.1<small>%</small></span> | 12.6<small>%</small> | 0.16 | -30.9<small>%</small> | -6.5<small>%</small> |
 | AOK | <span style="color: tomato">4.6<small>%</small></span> | 7.0<small>%</small> | 0.67 | -18.9<small>%</small> | -3.5<small>%</small> |
-| AOK<sub>STD</sub> <small>(181%)</small> | <span style="color: tomato">8.1<small>%</small></span> | 12.6<small>%</small> | 0.65 | -31.9<small>%</small> | -6.3<small>%</small> |
+| AOK<sub>STD</sub> <small>(180%)</small> | <span style="color: tomato">8.1<small>%</small></span> | 12.6<small>%</small> | 0.65 | -31.9<small>%</small> | -6.3<small>%</small> |
 | AOK<sub>MDD</sub> <small>(163%)</small> | <span style="color: tomato">7.4<small>%</small></span> | 11.4<small>%</small> | 0.65 | -29.3<small>%</small> | -5.7<small>%</small> |
 
 
 
 각각의 경우를 PFFD의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 181% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 8.1%로 PFFD의 2.1%보다 6.1% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 180% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 8.1%로 PFFD의 2.1%보다 6.1% 높았습니다. (높은 수익률)
 
 **위험도 지표 (MDD):** 163% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 7.4%로 PFFD의 2.1%보다 5.3% 높았습니다. (높은 수익률)
 

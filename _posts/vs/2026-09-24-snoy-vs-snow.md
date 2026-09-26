@@ -33,7 +33,7 @@ SNOY의 수익률이 SNOW보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SNOY | <span style="color: tomato">45.9<small>%</small></span> | 50.4<small>%</small> | 0.91 | -50.9<small>%</small> | -11.5<small>%</small> |
+| SNOY | <span style="color: tomato">45.9<small>%</small></span> | 50.3<small>%</small> | 0.91 | -50.9<small>%</small> | -11.5<small>%</small> |
 | SNOW | <span style="color: tomato">51.9<small>%</small></span> | 59.7<small>%</small> | 0.87 | -56.3<small>%</small> | -14.6<small>%</small> |
 
 <!-- more -->
@@ -43,7 +43,7 @@ SNOY의 수익률이 SNOW보다 지속적으로 우세하면 상승하고, 반�
 
 **수익률 지표 (CAGR):** SNOY의 CAGR은 45.9%로 SNOW의 51.9%보다 -6.0% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** SNOY의 표준편차는 50.4%로 SNOW의 59.7%보다 -9.4% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** SNOY의 표준편차는 50.3%로 SNOW의 59.7%보다 -9.4% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** SNOY의 50.9%의 MDD는 SNOW의 56.3%보다 -5.4% 낮았습니다. (낮은 위험도)
 
@@ -54,7 +54,7 @@ SNOY의 수익률이 SNOW보다 지속적으로 우세하면 상승하고, 반�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 SNOW의 투자 비중[^fn_vs_weight]을 조절하여 SNOY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 59.7% / 50.4% = 84% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 59.7% / 50.3% = 84% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 56.3% / 50.9% = 90% 비중으로 투자하면 됩니다.
 
@@ -76,9 +76,9 @@ SNOW<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SNO
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SNOY | <span style="color: tomato">45.9<small>%</small></span> | 50.4<small>%</small> | 0.91 | -50.9<small>%</small> | -11.5<small>%</small> |
+| SNOY | <span style="color: tomato">45.9<small>%</small></span> | 50.3<small>%</small> | 0.91 | -50.9<small>%</small> | -11.5<small>%</small> |
 | SNOW | <span style="color: tomato">51.9<small>%</small></span> | 59.7<small>%</small> | 0.87 | -56.3<small>%</small> | -14.6<small>%</small> |
-| SNOW<sub>STD</sub> <small>(84%)</small> | <span style="color: tomato">45.3<small>%</small></span> | 50.4<small>%</small> | 0.90 | -49.8<small>%</small> | -12.5<small>%</small> |
+| SNOW<sub>STD</sub> <small>(84%)</small> | <span style="color: tomato">45.3<small>%</small></span> | 50.3<small>%</small> | 0.90 | -49.8<small>%</small> | -12.4<small>%</small> |
 | SNOW<sub>MDD</sub> <small>(90%)</small> | <span style="color: tomato">48.0<small>%</small></span> | 54.0<small>%</small> | 0.89 | -52.4<small>%</small> | -13.3<small>%</small> |
 
 

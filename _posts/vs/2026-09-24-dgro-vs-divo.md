@@ -33,7 +33,7 @@ DGRO의 수익률이 DIVO보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| DGRO | <span style="color: tomato">12.9<small>%</small></span> | 16.6<small>%</small> | 0.77 | -35.1<small>%</small> | -3.7<small>%</small> |
+| DGRO | <span style="color: tomato">12.9<small>%</small></span> | 16.6<small>%</small> | 0.78 | -35.1<small>%</small> | -3.7<small>%</small> |
 | DIVO | <span style="color: tomato">12.5<small>%</small></span> | 14.6<small>%</small> | 0.85 | -30.0<small>%</small> | -2.6<small>%</small> |
 
 <!-- more -->
@@ -76,7 +76,7 @@ DIVO<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, DIV
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| DGRO | <span style="color: tomato">12.9<small>%</small></span> | 16.6<small>%</small> | 0.77 | -35.1<small>%</small> | -3.7<small>%</small> |
+| DGRO | <span style="color: tomato">12.9<small>%</small></span> | 16.6<small>%</small> | 0.78 | -35.1<small>%</small> | -3.7<small>%</small> |
 | DIVO | <span style="color: tomato">12.5<small>%</small></span> | 14.6<small>%</small> | 0.85 | -30.0<small>%</small> | -2.6<small>%</small> |
 | DIVO<sub>STD</sub> <small>(114%)</small> | <span style="color: tomato">14.1<small>%</small></span> | 16.6<small>%</small> | 0.85 | -33.6<small>%</small> | -2.9<small>%</small> |
 | DIVO<sub>MDD</sub> <small>(117%)</small> | <span style="color: tomato">14.5<small>%</small></span> | 17.1<small>%</small> | 0.85 | -34.4<small>%</small> | -3.0<small>%</small> |

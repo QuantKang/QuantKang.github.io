@@ -78,7 +78,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | KOMP | <span style="color: tomato">12.3<small>%</small></span> | 26.9<small>%</small> | 0.46 | -50.1<small>%</small> | -21.2<small>%</small> |
 | SPY | <span style="color: tomato">15.6<small>%</small></span> | 19.3<small>%</small> | 0.81 | -33.7<small>%</small> | -4.8<small>%</small> |
-| SPY<sub>STD</sub> <small>(139%)</small> | <span style="color: tomato">21.2<small>%</small></span> | 26.9<small>%</small> | 0.79 | -44.5<small>%</small> | -7.0<small>%</small> |
+| SPY<sub>STD</sub> <small>(139%)</small> | <span style="color: tomato">21.2<small>%</small></span> | 26.9<small>%</small> | 0.79 | -44.5<small>%</small> | -6.9<small>%</small> |
 | SPY<sub>MDD</sub> <small>(148%)</small> | <span style="color: tomato">22.4<small>%</small></span> | 28.7<small>%</small> | 0.78 | -46.9<small>%</small> | -7.5<small>%</small> |
 
 

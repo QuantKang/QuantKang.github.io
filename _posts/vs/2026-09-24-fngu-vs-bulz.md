@@ -33,8 +33,8 @@ FNGU의 수익률이 BULZ보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| FNGU | <span style="color: tomato">27.5<small>%</small></span> | 77.9<small>%</small> | 0.35 | -60.8<small>%</small> | -21.3<small>%</small> |
-| BULZ | <span style="color: tomato">74.4<small>%</small></span> | 94.0<small>%</small> | 0.79 | -65.2<small>%</small> | -22.9<small>%</small> |
+| FNGU | <span style="color: tomato">27.5<small>%</small></span> | 77.8<small>%</small> | 0.35 | -60.8<small>%</small> | -21.2<small>%</small> |
+| BULZ | <span style="color: tomato">74.4<small>%</small></span> | 93.9<small>%</small> | 0.79 | -65.2<small>%</small> | -22.9<small>%</small> |
 
 <!-- more -->
 
@@ -43,7 +43,7 @@ FNGU의 수익률이 BULZ보다 지속적으로 우세하면 상승하고, 반�
 
 **수익률 지표 (CAGR):** FNGU의 CAGR은 27.5%로 BULZ의 74.4%보다 -46.9% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** FNGU의 표준편차는 77.9%로 BULZ의 94.0%보다 -16.1% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** FNGU의 표준편차는 77.8%로 BULZ의 93.9%보다 -16.1% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** FNGU의 60.8%의 MDD는 BULZ의 65.2%보다 -4.3% 낮았습니다. (낮은 위험도)
 
@@ -54,7 +54,7 @@ FNGU의 수익률이 BULZ보다 지속적으로 우세하면 상승하고, 반�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 BULZ의 투자 비중[^fn_vs_weight]을 조절하여 FNGU의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 94.0% / 77.9% = 83% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 93.9% / 77.8% = 83% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 65.2% / 60.8% = 93% 비중으로 투자하면 됩니다.
 
@@ -76,10 +76,10 @@ BULZ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, BUL
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| FNGU | <span style="color: tomato">27.5<small>%</small></span> | 77.9<small>%</small> | 0.35 | -60.8<small>%</small> | -21.3<small>%</small> |
-| BULZ | <span style="color: tomato">74.4<small>%</small></span> | 94.0<small>%</small> | 0.79 | -65.2<small>%</small> | -22.9<small>%</small> |
-| BULZ<sub>STD</sub> <small>(83%)</small> | <span style="color: tomato">68.7<small>%</small></span> | 77.9<small>%</small> | 0.88 | -57.5<small>%</small> | -18.7<small>%</small> |
-| BULZ<sub>MDD</sub> <small>(93%)</small> | <span style="color: tomato">72.7<small>%</small></span> | 87.8<small>%</small> | 0.83 | -62.3<small>%</small> | -21.2<small>%</small> |
+| FNGU | <span style="color: tomato">27.5<small>%</small></span> | 77.8<small>%</small> | 0.35 | -60.8<small>%</small> | -21.2<small>%</small> |
+| BULZ | <span style="color: tomato">74.4<small>%</small></span> | 93.9<small>%</small> | 0.79 | -65.2<small>%</small> | -22.9<small>%</small> |
+| BULZ<sub>STD</sub> <small>(83%)</small> | <span style="color: tomato">68.7<small>%</small></span> | 77.8<small>%</small> | 0.88 | -57.5<small>%</small> | -18.6<small>%</small> |
+| BULZ<sub>MDD</sub> <small>(93%)</small> | <span style="color: tomato">72.7<small>%</small></span> | 87.7<small>%</small> | 0.83 | -62.3<small>%</small> | -21.2<small>%</small> |
 
 
 

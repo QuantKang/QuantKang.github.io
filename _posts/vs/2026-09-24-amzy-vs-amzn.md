@@ -34,7 +34,7 @@ AMZY의 수익률이 AMZN보다 지속적으로 우세하면 상승하고, 반�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | AMZY | <span style="color: tomato">21.5<small>%</small></span> | 25.8<small>%</small> | 0.83 | -23.7<small>%</small> | -5.6<small>%</small> |
-| AMZN | <span style="color: tomato">23.1<small>%</small></span> | 32.2<small>%</small> | 0.72 | -30.9<small>%</small> | -7.5<small>%</small> |
+| AMZN | <span style="color: tomato">23.1<small>%</small></span> | 32.1<small>%</small> | 0.72 | -30.9<small>%</small> | -7.5<small>%</small> |
 
 <!-- more -->
 
@@ -43,7 +43,7 @@ AMZY의 수익률이 AMZN보다 지속적으로 우세하면 상승하고, 반�
 
 **수익률 지표 (CAGR):** AMZY의 CAGR은 21.5%로 AMZN의 23.1%보다 -1.6% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** AMZY의 표준편차는 25.8%로 AMZN의 32.2%보다 -6.4% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** AMZY의 표준편차는 25.8%로 AMZN의 32.1%보다 -6.4% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** AMZY의 23.7%의 MDD는 AMZN의 30.9%보다 -7.2% 낮았습니다. (낮은 위험도)
 
@@ -54,7 +54,7 @@ AMZY의 수익률이 AMZN보다 지속적으로 우세하면 상승하고, 반�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 AMZN의 투자 비중[^fn_vs_weight]을 조절하여 AMZY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 32.2% / 25.8% = 80% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 32.1% / 25.8% = 80% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 30.9% / 23.7% = 77% 비중으로 투자하면 됩니다.
 
@@ -77,7 +77,7 @@ AMZN<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, AMZ
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | AMZY | <span style="color: tomato">21.5<small>%</small></span> | 25.8<small>%</small> | 0.83 | -23.7<small>%</small> | -5.6<small>%</small> |
-| AMZN | <span style="color: tomato">23.1<small>%</small></span> | 32.2<small>%</small> | 0.72 | -30.9<small>%</small> | -7.5<small>%</small> |
+| AMZN | <span style="color: tomato">23.1<small>%</small></span> | 32.1<small>%</small> | 0.72 | -30.9<small>%</small> | -7.5<small>%</small> |
 | AMZN<sub>STD</sub> <small>(80%)</small> | <span style="color: tomato">19.1<small>%</small></span> | 25.8<small>%</small> | 0.74 | -25.4<small>%</small> | -6.0<small>%</small> |
 | AMZN<sub>MDD</sub> <small>(77%)</small> | <span style="color: tomato">18.4<small>%</small></span> | 24.7<small>%</small> | 0.74 | -24.4<small>%</small> | -5.7<small>%</small> |
 

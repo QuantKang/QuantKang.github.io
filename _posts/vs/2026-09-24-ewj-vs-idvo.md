@@ -54,7 +54,7 @@ EWJ의 수익률이 IDVO보다 지속적으로 우세하면 상승하고, 반대
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 IDVO의 투자 비중[^fn_vs_weight]을 조절하여 EWJ의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 16.2% / 18.9% = 116% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 16.2% / 18.9% = 117% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 15.5% / 14.7% = 95% 비중으로 투자하면 됩니다.
 
@@ -78,14 +78,14 @@ IDVO<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IDV
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | EWJ | <span style="color: tomato">19.1<small>%</small></span> | 18.9<small>%</small> | 1.01 | -14.7<small>%</small> | -3.1<small>%</small> |
 | IDVO | <span style="color: tomato">20.7<small>%</small></span> | 16.2<small>%</small> | 1.28 | -15.5<small>%</small> | -2.2<small>%</small> |
-| IDVO<sub>STD</sub> <small>(116%)</small> | <span style="color: tomato">24.2<small>%</small></span> | 18.9<small>%</small> | 1.28 | -17.8<small>%</small> | -2.6<small>%</small> |
+| IDVO<sub>STD</sub> <small>(117%)</small> | <span style="color: tomato">24.2<small>%</small></span> | 18.9<small>%</small> | 1.28 | -17.8<small>%</small> | -2.6<small>%</small> |
 | IDVO<sub>MDD</sub> <small>(95%)</small> | <span style="color: tomato">19.6<small>%</small></span> | 15.4<small>%</small> | 1.28 | -14.7<small>%</small> | -2.1<small>%</small> |
 
 
 
 각각의 경우를 EWJ의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 116% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 24.2%로 EWJ의 19.1%보다 5.1% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 117% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 24.2%로 EWJ의 19.1%보다 5.1% 높았습니다. (높은 수익률)
 
 **위험도 지표 (MDD):** 95% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 19.6%로 EWJ의 19.1%와 비슷했습니다. (비슷한 수익률)
 

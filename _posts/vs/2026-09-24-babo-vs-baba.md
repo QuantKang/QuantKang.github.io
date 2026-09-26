@@ -34,7 +34,7 @@ BABO의 수익률이 BABA보다 지속적으로 우세하면 상승하고, 반�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | BABO | <span style="color: tomato">6.5<small>%</small></span> | 36.3<small>%</small> | 0.18 | -42.6<small>%</small> | -16.4<small>%</small> |
-| BABA | <span style="color: tomato">17.7<small>%</small></span> | 45.6<small>%</small> | 0.39 | -49.5<small>%</small> | -19.9<small>%</small> |
+| BABA | <span style="color: tomato">17.7<small>%</small></span> | 45.5<small>%</small> | 0.39 | -49.5<small>%</small> | -19.9<small>%</small> |
 
 <!-- more -->
 
@@ -43,7 +43,7 @@ BABO의 수익률이 BABA보다 지속적으로 우세하면 상승하고, 반�
 
 **수익률 지표 (CAGR):** BABO의 CAGR은 6.5%로 BABA의 17.7%보다 -11.1% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** BABO의 표준편차는 36.3%로 BABA의 45.6%보다 -9.2% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** BABO의 표준편차는 36.3%로 BABA의 45.5%보다 -9.2% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** BABO의 42.6%의 MDD는 BABA의 49.5%보다 -6.8% 낮았습니다. (낮은 위험도)
 
@@ -54,7 +54,7 @@ BABO의 수익률이 BABA보다 지속적으로 우세하면 상승하고, 반�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 BABA의 투자 비중[^fn_vs_weight]을 조절하여 BABO의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 45.6% / 36.3% = 80% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 45.5% / 36.3% = 80% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 49.5% / 42.6% = 86% 비중으로 투자하면 됩니다.
 
@@ -77,7 +77,7 @@ BABA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, BAB
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | BABO | <span style="color: tomato">6.5<small>%</small></span> | 36.3<small>%</small> | 0.18 | -42.6<small>%</small> | -16.4<small>%</small> |
-| BABA | <span style="color: tomato">17.7<small>%</small></span> | 45.6<small>%</small> | 0.39 | -49.5<small>%</small> | -19.9<small>%</small> |
+| BABA | <span style="color: tomato">17.7<small>%</small></span> | 45.5<small>%</small> | 0.39 | -49.5<small>%</small> | -19.9<small>%</small> |
 | BABA<sub>STD</sub> <small>(80%)</small> | <span style="color: tomato">15.7<small>%</small></span> | 36.3<small>%</small> | 0.43 | -41.4<small>%</small> | -16.0<small>%</small> |
 | BABA<sub>MDD</sub> <small>(86%)</small> | <span style="color: tomato">16.5<small>%</small></span> | 39.2<small>%</small> | 0.42 | -44.0<small>%</small> | -17.3<small>%</small> |
 

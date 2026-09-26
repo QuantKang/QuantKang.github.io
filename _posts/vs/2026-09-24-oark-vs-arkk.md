@@ -33,7 +33,7 @@ OARK의 수익률이 ARKK보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| OARK | <span style="color: tomato">13.3<small>%</small></span> | 30.6<small>%</small> | 0.44 | -35.5<small>%</small> | -10.3<small>%</small> |
+| OARK | <span style="color: tomato">13.3<small>%</small></span> | 30.6<small>%</small> | 0.44 | -35.5<small>%</small> | -10.2<small>%</small> |
 | ARKK | <span style="color: tomato">27.9<small>%</small></span> | 39.9<small>%</small> | 0.70 | -39.6<small>%</small> | -12.6<small>%</small> |
 
 <!-- more -->
@@ -76,7 +76,7 @@ ARKK<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, ARK
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| OARK | <span style="color: tomato">13.3<small>%</small></span> | 30.6<small>%</small> | 0.44 | -35.5<small>%</small> | -10.3<small>%</small> |
+| OARK | <span style="color: tomato">13.3<small>%</small></span> | 30.6<small>%</small> | 0.44 | -35.5<small>%</small> | -10.2<small>%</small> |
 | ARKK | <span style="color: tomato">27.9<small>%</small></span> | 39.9<small>%</small> | 0.70 | -39.6<small>%</small> | -12.6<small>%</small> |
 | ARKK<sub>STD</sub> <small>(77%)</small> | <span style="color: tomato">22.5<small>%</small></span> | 30.6<small>%</small> | 0.74 | -31.7<small>%</small> | -9.6<small>%</small> |
 | ARKK<sub>MDD</sub> <small>(90%)</small> | <span style="color: tomato">25.6<small>%</small></span> | 35.8<small>%</small> | 0.72 | -36.2<small>%</small> | -11.3<small>%</small> |

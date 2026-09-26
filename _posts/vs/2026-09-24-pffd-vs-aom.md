@@ -54,7 +54,7 @@ PFFD의 수익률이 AOM보다 지속적으로 우세하면 상승하고, 반대
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 AOM의 투자 비중[^fn_vs_weight]을 조절하여 PFFD의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 8.2% / 12.6% = 153% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 8.2% / 12.6% = 152% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 20.0% / 30.9% = 155% 비중으로 투자하면 됩니다.
 
@@ -78,14 +78,14 @@ AOM<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, AOM<
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | PFFD | <span style="color: tomato">2.1<small>%</small></span> | 12.6<small>%</small> | 0.16 | -30.9<small>%</small> | -6.5<small>%</small> |
 | AOM | <span style="color: tomato">5.7<small>%</small></span> | 8.2<small>%</small> | 0.69 | -20.0<small>%</small> | -3.6<small>%</small> |
-| AOM<sub>STD</sub> <small>(153%)</small> | <span style="color: tomato">8.5<small>%</small></span> | 12.6<small>%</small> | 0.67 | -29.1<small>%</small> | -5.5<small>%</small> |
+| AOM<sub>STD</sub> <small>(152%)</small> | <span style="color: tomato">8.5<small>%</small></span> | 12.6<small>%</small> | 0.67 | -29.1<small>%</small> | -5.5<small>%</small> |
 | AOM<sub>MDD</sub> <small>(155%)</small> | <span style="color: tomato">8.6<small>%</small></span> | 12.8<small>%</small> | 0.67 | -29.5<small>%</small> | -5.6<small>%</small> |
 
 
 
 각각의 경우를 PFFD의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 153% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 8.5%로 PFFD의 2.1%보다 6.4% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 152% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 8.5%로 PFFD의 2.1%보다 6.4% 높았습니다. (높은 수익률)
 
 **위험도 지표 (MDD):** 155% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 8.6%로 PFFD의 2.1%보다 6.5% 높았습니다. (높은 수익률)
 

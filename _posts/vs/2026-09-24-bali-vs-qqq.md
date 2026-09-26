@@ -33,8 +33,8 @@ BALI의 수익률이 QQQ보다 지속적으로 우세하면 상승하고, 반대
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| BALI | <span style="color: tomato">21.0<small>%</small></span> | 12.7<small>%</small> | 1.65 | -16.6<small>%</small> | -1.6<small>%</small> |
-| QQQ | <span style="color: tomato">28.3<small>%</small></span> | 20.4<small>%</small> | 1.38 | -22.8<small>%</small> | -3.1<small>%</small> |
+| BALI | <span style="color: tomato">21.0<small>%</small></span> | 12.7<small>%</small> | 1.66 | -16.6<small>%</small> | -1.6<small>%</small> |
+| QQQ | <span style="color: tomato">28.3<small>%</small></span> | 20.4<small>%</small> | 1.39 | -22.8<small>%</small> | -3.1<small>%</small> |
 
 <!-- more -->
 
@@ -76,8 +76,8 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| BALI | <span style="color: tomato">21.0<small>%</small></span> | 12.7<small>%</small> | 1.65 | -16.6<small>%</small> | -1.6<small>%</small> |
-| QQQ | <span style="color: tomato">28.3<small>%</small></span> | 20.4<small>%</small> | 1.38 | -22.8<small>%</small> | -3.1<small>%</small> |
+| BALI | <span style="color: tomato">21.0<small>%</small></span> | 12.7<small>%</small> | 1.66 | -16.6<small>%</small> | -1.6<small>%</small> |
+| QQQ | <span style="color: tomato">28.3<small>%</small></span> | 20.4<small>%</small> | 1.39 | -22.8<small>%</small> | -3.1<small>%</small> |
 | QQQ<sub>STD</sub> <small>(62%)</small> | <span style="color: tomato">17.3<small>%</small></span> | 12.7<small>%</small> | 1.36 | -14.7<small>%</small> | -1.9<small>%</small> |
 | QQQ<sub>MDD</sub> <small>(73%)</small> | <span style="color: tomato">20.5<small>%</small></span> | 14.9<small>%</small> | 1.37 | -17.1<small>%</small> | -2.3<small>%</small> |
 

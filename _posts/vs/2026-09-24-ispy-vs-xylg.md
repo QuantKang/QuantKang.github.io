@@ -33,8 +33,8 @@ ISPY의 수익률이 XYLG보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| ISPY | <span style="color: tomato">16.8<small>%</small></span> | 13.5<small>%</small> | 1.24 | -16.9<small>%</small> | -2.0<small>%</small> |
-| XYLG | <span style="color: tomato">17.6<small>%</small></span> | 12.8<small>%</small> | 1.37 | -17.4<small>%</small> | -1.5<small>%</small> |
+| ISPY | <span style="color: tomato">16.8<small>%</small></span> | 13.5<small>%</small> | 1.25 | -16.9<small>%</small> | -2.0<small>%</small> |
+| XYLG | <span style="color: tomato">17.6<small>%</small></span> | 12.8<small>%</small> | 1.38 | -17.4<small>%</small> | -1.5<small>%</small> |
 
 <!-- more -->
 
@@ -76,8 +76,8 @@ XYLG<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, XYL
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| ISPY | <span style="color: tomato">16.8<small>%</small></span> | 13.5<small>%</small> | 1.24 | -16.9<small>%</small> | -2.0<small>%</small> |
-| XYLG | <span style="color: tomato">17.6<small>%</small></span> | 12.8<small>%</small> | 1.37 | -17.4<small>%</small> | -1.5<small>%</small> |
+| ISPY | <span style="color: tomato">16.8<small>%</small></span> | 13.5<small>%</small> | 1.25 | -16.9<small>%</small> | -2.0<small>%</small> |
+| XYLG | <span style="color: tomato">17.6<small>%</small></span> | 12.8<small>%</small> | 1.38 | -17.4<small>%</small> | -1.5<small>%</small> |
 | XYLG<sub>STD</sub> <small>(105%)</small> | <span style="color: tomato">18.6<small>%</small></span> | 13.5<small>%</small> | 1.38 | -18.3<small>%</small> | -1.6<small>%</small> |
 | XYLG<sub>MDD</sub> <small>(97%)</small> | <span style="color: tomato">17.0<small>%</small></span> | 12.4<small>%</small> | 1.37 | -16.9<small>%</small> | -1.5<small>%</small> |
 

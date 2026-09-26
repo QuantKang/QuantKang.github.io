@@ -33,8 +33,8 @@ BRKC의 수익률이 BRK-B보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| BRKC | <span style="color: tomato">1.4<small>%</small></span> | 12.2<small>%</small> | 0.11 | -7.6<small>%</small> | -3.1<small>%</small> |
-| BRK-B | <span style="color: tomato">2.6<small>%</small></span> | 14.4<small>%</small> | 0.18 | -9.4<small>%</small> | -3.8<small>%</small> |
+| BRKC | <span style="color: tomato">1.4<small>%</small></span> | 12.1<small>%</small> | 0.11 | -7.6<small>%</small> | -3.1<small>%</small> |
+| BRK-B | <span style="color: tomato">2.6<small>%</small></span> | 14.3<small>%</small> | 0.18 | -9.4<small>%</small> | -3.8<small>%</small> |
 
 <!-- more -->
 
@@ -43,7 +43,7 @@ BRKC의 수익률이 BRK-B보다 지속적으로 우세하면 상승하고, 반�
 
 **수익률 지표 (CAGR):** BRKC의 CAGR은 1.4%로 BRK-B의 2.6%보다 -1.2% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** BRKC의 표준편차는 12.2%로 BRK-B의 14.4%보다 -2.2% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** BRKC의 표준편차는 12.1%로 BRK-B의 14.3%보다 -2.2% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** BRKC의 7.6%의 MDD는 BRK-B의 9.4%보다 -1.8% 낮았습니다. (낮은 위험도)
 
@@ -54,7 +54,7 @@ BRKC의 수익률이 BRK-B보다 지속적으로 우세하면 상승하고, 반�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 BRK-B의 투자 비중[^fn_vs_weight]을 조절하여 BRKC의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 14.4% / 12.2% = 85% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 14.3% / 12.1% = 85% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 9.4% / 7.6% = 81% 비중으로 투자하면 됩니다.
 
@@ -76,9 +76,9 @@ BRK-B<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, BR
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| BRKC | <span style="color: tomato">1.4<small>%</small></span> | 12.2<small>%</small> | 0.11 | -7.6<small>%</small> | -3.1<small>%</small> |
-| BRK-B | <span style="color: tomato">2.6<small>%</small></span> | 14.4<small>%</small> | 0.18 | -9.4<small>%</small> | -3.8<small>%</small> |
-| BRK-B<sub>STD</sub> <small>(85%)</small> | <span style="color: tomato">2.3<small>%</small></span> | 12.2<small>%</small> | 0.19 | -8.0<small>%</small> | -3.2<small>%</small> |
+| BRKC | <span style="color: tomato">1.4<small>%</small></span> | 12.1<small>%</small> | 0.11 | -7.6<small>%</small> | -3.1<small>%</small> |
+| BRK-B | <span style="color: tomato">2.6<small>%</small></span> | 14.3<small>%</small> | 0.18 | -9.4<small>%</small> | -3.8<small>%</small> |
+| BRK-B<sub>STD</sub> <small>(85%)</small> | <span style="color: tomato">2.3<small>%</small></span> | 12.1<small>%</small> | 0.19 | -8.0<small>%</small> | -3.2<small>%</small> |
 | BRK-B<sub>MDD</sub> <small>(81%)</small> | <span style="color: tomato">2.2<small>%</small></span> | 11.6<small>%</small> | 0.19 | -7.6<small>%</small> | -3.0<small>%</small> |
 
 

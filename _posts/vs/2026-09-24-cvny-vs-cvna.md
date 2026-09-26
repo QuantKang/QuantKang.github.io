@@ -33,8 +33,8 @@ CVNY의 수익률이 CVNA보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| CVNY | <span style="color: tomato">13.7<small>%</small></span> | 56.3<small>%</small> | 0.24 | -43.3<small>%</small> | -15.3<small>%</small> |
-| CVNA | <span style="color: tomato">17.1<small>%</small></span> | 68.0<small>%</small> | 0.25 | -43.0<small>%</small> | -17.5<small>%</small> |
+| CVNY | <span style="color: tomato">13.7<small>%</small></span> | 56.2<small>%</small> | 0.24 | -43.3<small>%</small> | -15.3<small>%</small> |
+| CVNA | <span style="color: tomato">17.1<small>%</small></span> | 67.8<small>%</small> | 0.25 | -43.0<small>%</small> | -17.6<small>%</small> |
 
 <!-- more -->
 
@@ -43,7 +43,7 @@ CVNY의 수익률이 CVNA보다 지속적으로 우세하면 상승하고, 반�
 
 **수익률 지표 (CAGR):** CVNY의 CAGR은 13.7%로 CVNA의 17.1%보다 -3.4% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** CVNY의 표준편차는 56.3%로 CVNA의 68.0%보다 -11.7% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** CVNY의 표준편차는 56.2%로 CVNA의 67.8%보다 -11.6% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** CVNY의 43.3%의 MDD는 CVNA의 43.0%와 비슷했습니다. (비슷한 위험도)
 
@@ -54,7 +54,7 @@ CVNY의 수익률이 CVNA보다 지속적으로 우세하면 상승하고, 반�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 CVNA의 투자 비중[^fn_vs_weight]을 조절하여 CVNY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 68.0% / 56.3% = 83% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 67.8% / 56.2% = 83% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 43.0% / 43.3% = 101% 비중으로 투자하면 됩니다.
 
@@ -76,10 +76,10 @@ CVNA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, CVN
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| CVNY | <span style="color: tomato">13.7<small>%</small></span> | 56.3<small>%</small> | 0.24 | -43.3<small>%</small> | -15.3<small>%</small> |
-| CVNA | <span style="color: tomato">17.1<small>%</small></span> | 68.0<small>%</small> | 0.25 | -43.0<small>%</small> | -17.5<small>%</small> |
-| CVNA<sub>STD</sub> <small>(83%)</small> | <span style="color: tomato">17.8<small>%</small></span> | 56.3<small>%</small> | 0.32 | -36.4<small>%</small> | -14.4<small>%</small> |
-| CVNA<sub>MDD</sub> <small>(101%)</small> | <span style="color: tomato">17.1<small>%</small></span> | 68.4<small>%</small> | 0.25 | -43.2<small>%</small> | -17.6<small>%</small> |
+| CVNY | <span style="color: tomato">13.7<small>%</small></span> | 56.2<small>%</small> | 0.24 | -43.3<small>%</small> | -15.3<small>%</small> |
+| CVNA | <span style="color: tomato">17.1<small>%</small></span> | 67.8<small>%</small> | 0.25 | -43.0<small>%</small> | -17.6<small>%</small> |
+| CVNA<sub>STD</sub> <small>(83%)</small> | <span style="color: tomato">17.8<small>%</small></span> | 56.2<small>%</small> | 0.32 | -36.4<small>%</small> | -14.4<small>%</small> |
+| CVNA<sub>MDD</sub> <small>(101%)</small> | <span style="color: tomato">17.1<small>%</small></span> | 68.2<small>%</small> | 0.25 | -43.2<small>%</small> | -17.7<small>%</small> |
 
 
 

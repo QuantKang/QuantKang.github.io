@@ -78,14 +78,14 @@ TSM<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, TSM<
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | TSMY | <span style="color: tomato">44.3<small>%</small></span> | 33.7<small>%</small> | 1.31 | -31.2<small>%</small> | -5.8<small>%</small> |
 | TSM | <span style="color: tomato">61.0<small>%</small></span> | 41.1<small>%</small> | 1.48 | -36.8<small>%</small> | -7.3<small>%</small> |
-| TSM<sub>STD</sub> <small>(82%)</small> | <span style="color: tomato">49.6<small>%</small></span> | 33.7<small>%</small> | 1.47 | -31.1<small>%</small> | -5.9<small>%</small> |
+| TSM<sub>STD</sub> <small>(82%)</small> | <span style="color: tomato">49.6<small>%</small></span> | 33.7<small>%</small> | 1.47 | -31.0<small>%</small> | -5.9<small>%</small> |
 | TSM<sub>MDD</sub> <small>(85%)</small> | <span style="color: tomato">51.3<small>%</small></span> | 34.8<small>%</small> | 1.47 | -31.9<small>%</small> | -6.1<small>%</small> |
 
 
 
 각각의 경우를 TSMY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 82% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 49.6%로 TSMY의 44.3%보다 5.4% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 82% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 49.6%로 TSMY의 44.3%보다 5.3% 높았습니다. (높은 수익률)
 
 **위험도 지표 (MDD):** 85% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 51.3%로 TSMY의 44.3%보다 7.0% 높았습니다. (높은 수익률)
 

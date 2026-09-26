@@ -31,7 +31,7 @@ TLTW의 수익률이 TLT보다 지속적으로 우세하면 상승하고, 반대
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| TLTW | <span style="color: cornflowerblue">-1.3<small>%</small></span> | 11.2<small>%</small> | -0.12 | -18.6<small>%</small> | -8.0<small>%</small> |
+| TLTW | <span style="color: cornflowerblue">-1.3<small>%</small></span> | 11.2<small>%</small> | -0.12 | -18.6<small>%</small> | -7.9<small>%</small> |
 | TLT | <span style="color: cornflowerblue">-4.4<small>%</small></span> | 15.0<small>%</small> | -0.29 | -24.5<small>%</small> | -12.1<small>%</small> |
 
 <!-- more -->
@@ -74,10 +74,10 @@ TLT<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, TLT<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| TLTW | <span style="color: cornflowerblue">-1.3<small>%</small></span> | 11.2<small>%</small> | -0.12 | -18.6<small>%</small> | -8.0<small>%</small> |
+| TLTW | <span style="color: cornflowerblue">-1.3<small>%</small></span> | 11.2<small>%</small> | -0.12 | -18.6<small>%</small> | -7.9<small>%</small> |
 | TLT | <span style="color: cornflowerblue">-4.4<small>%</small></span> | 15.0<small>%</small> | -0.29 | -24.5<small>%</small> | -12.1<small>%</small> |
 | TLT<sub>STD</sub> <small>(75%)</small> | <span style="color: cornflowerblue">-3.1<small>%</small></span> | 11.2<small>%</small> | -0.28 | -18.6<small>%</small> | -8.7<small>%</small> |
-| TLT<sub>MDD</sub> <small>(76%)</small> | <span style="color: cornflowerblue">-3.2<small>%</small></span> | 11.4<small>%</small> | -0.28 | -18.9<small>%</small> | -8.8<small>%</small> |
+| TLT<sub>MDD</sub> <small>(76%)</small> | <span style="color: cornflowerblue">-3.2<small>%</small></span> | 11.4<small>%</small> | -0.28 | -18.9<small>%</small> | -8.9<small>%</small> |
 
 
 

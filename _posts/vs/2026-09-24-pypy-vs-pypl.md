@@ -33,7 +33,7 @@ PYPY의 수익률이 PYPL보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| PYPY | <span style="color: cornflowerblue">-1.4<small>%</small></span> | 32.5<small>%</small> | -0.04 | -53.6<small>%</small> | -18.6<small>%</small> |
+| PYPY | <span style="color: cornflowerblue">-1.4<small>%</small></span> | 32.4<small>%</small> | -0.04 | -53.6<small>%</small> | -18.7<small>%</small> |
 | PYPL | <span style="color: cornflowerblue">-3.4<small>%</small></span> | 38.5<small>%</small> | -0.09 | -57.3<small>%</small> | -20.9<small>%</small> |
 
 <!-- more -->
@@ -43,7 +43,7 @@ PYPY의 수익률이 PYPL보다 지속적으로 우세하면 상승하고, 반�
 
 **수익률 지표 (CAGR):** PYPY의 CAGR은 -1.4%로 PYPL의 -3.4%보다 1.9% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** PYPY의 표준편차는 32.5%로 PYPL의 38.5%보다 -6.0% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** PYPY의 표준편차는 32.4%로 PYPL의 38.5%보다 -6.0% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** PYPY의 53.6%의 MDD는 PYPL의 57.3%보다 -3.7% 낮았습니다. (낮은 위험도)
 
@@ -54,7 +54,7 @@ PYPY의 수익률이 PYPL보다 지속적으로 우세하면 상승하고, 반�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 PYPL의 투자 비중[^fn_vs_weight]을 조절하여 PYPY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 38.5% / 32.5% = 84% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 38.5% / 32.4% = 84% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 57.3% / 53.6% = 94% 비중으로 투자하면 됩니다.
 
@@ -76,10 +76,10 @@ PYPL<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, PYP
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| PYPY | <span style="color: cornflowerblue">-1.4<small>%</small></span> | 32.5<small>%</small> | -0.04 | -53.6<small>%</small> | -18.6<small>%</small> |
+| PYPY | <span style="color: cornflowerblue">-1.4<small>%</small></span> | 32.4<small>%</small> | -0.04 | -53.6<small>%</small> | -18.7<small>%</small> |
 | PYPL | <span style="color: cornflowerblue">-3.4<small>%</small></span> | 38.5<small>%</small> | -0.09 | -57.3<small>%</small> | -20.9<small>%</small> |
-| PYPL<sub>STD</sub> <small>(84%)</small> | <span style="color: cornflowerblue">-1.9<small>%</small></span> | 32.5<small>%</small> | -0.06 | -50.6<small>%</small> | -17.8<small>%</small> |
-| PYPL<sub>MDD</sub> <small>(94%)</small> | <span style="color: cornflowerblue">-2.7<small>%</small></span> | 36.0<small>%</small> | -0.07 | -54.6<small>%</small> | -19.6<small>%</small> |
+| PYPL<sub>STD</sub> <small>(84%)</small> | <span style="color: cornflowerblue">-1.9<small>%</small></span> | 32.4<small>%</small> | -0.06 | -50.6<small>%</small> | -17.8<small>%</small> |
+| PYPL<sub>MDD</sub> <small>(94%)</small> | <span style="color: cornflowerblue">-2.7<small>%</small></span> | 36.0<small>%</small> | -0.08 | -54.6<small>%</small> | -19.6<small>%</small> |
 
 
 

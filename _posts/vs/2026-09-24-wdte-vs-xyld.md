@@ -78,7 +78,7 @@ XYLD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, XYL
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | WDTE | <span style="color: tomato">14.0<small>%</small></span> | 11.3<small>%</small> | 1.24 | -15.8<small>%</small> | -1.8<small>%</small> |
 | XYLD | <span style="color: tomato">13.1<small>%</small></span> | 10.2<small>%</small> | 1.28 | -15.5<small>%</small> | -1.5<small>%</small> |
-| XYLD<sub>STD</sub> <small>(110%)</small> | <span style="color: tomato">14.5<small>%</small></span> | 11.3<small>%</small> | 1.28 | -17.0<small>%</small> | -1.7<small>%</small> |
+| XYLD<sub>STD</sub> <small>(110%)</small> | <span style="color: tomato">14.5<small>%</small></span> | 11.3<small>%</small> | 1.29 | -17.0<small>%</small> | -1.7<small>%</small> |
 | XYLD<sub>MDD</sub> <small>(102%)</small> | <span style="color: tomato">13.4<small>%</small></span> | 10.5<small>%</small> | 1.28 | -15.8<small>%</small> | -1.6<small>%</small> |
 
 

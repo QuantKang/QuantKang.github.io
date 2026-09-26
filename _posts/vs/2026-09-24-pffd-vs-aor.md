@@ -34,7 +34,7 @@ PFFD의 수익률이 AOR보다 지속적으로 우세하면 상승하고, 반대
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | PFFD | <span style="color: tomato">2.1<small>%</small></span> | 12.6<small>%</small> | 0.16 | -30.9<small>%</small> | -6.5<small>%</small> |
-| AOR | <span style="color: tomato">7.7<small>%</small></span> | 11.1<small>%</small> | 0.69 | -22.9<small>%</small> | -4.0<small>%</small> |
+| AOR | <span style="color: tomato">7.7<small>%</small></span> | 11.1<small>%</small> | 0.70 | -22.9<small>%</small> | -4.0<small>%</small> |
 
 <!-- more -->
 
@@ -77,7 +77,7 @@ AOR<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, AOR<
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | PFFD | <span style="color: tomato">2.1<small>%</small></span> | 12.6<small>%</small> | 0.16 | -30.9<small>%</small> | -6.5<small>%</small> |
-| AOR | <span style="color: tomato">7.7<small>%</small></span> | 11.1<small>%</small> | 0.69 | -22.9<small>%</small> | -4.0<small>%</small> |
+| AOR | <span style="color: tomato">7.7<small>%</small></span> | 11.1<small>%</small> | 0.70 | -22.9<small>%</small> | -4.0<small>%</small> |
 | AOR<sub>STD</sub> <small>(114%)</small> | <span style="color: tomato">8.7<small>%</small></span> | 12.6<small>%</small> | 0.69 | -25.8<small>%</small> | -4.6<small>%</small> |
 | AOR<sub>MDD</sub> <small>(135%)</small> | <span style="color: tomato">10.2<small>%</small></span> | 14.9<small>%</small> | 0.68 | -29.9<small>%</small> | -5.5<small>%</small> |
 

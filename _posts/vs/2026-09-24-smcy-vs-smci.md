@@ -34,7 +34,7 @@ SMCY의 수익률이 SMCI보다 지속적으로 우세하면 상승하고, 반�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SMCY | <span style="color: cornflowerblue">-16.7<small>%</small></span> | 79.1<small>%</small> | -0.21 | -64.7<small>%</small> | -39.0<small>%</small> |
-| SMCI | <span style="color: cornflowerblue">-3.1<small>%</small></span> | 100.9<small>%</small> | -0.03 | -66.2<small>%</small> | -35.1<small>%</small> |
+| SMCI | <span style="color: cornflowerblue">-3.1<small>%</small></span> | 100.8<small>%</small> | -0.03 | -66.2<small>%</small> | -35.1<small>%</small> |
 
 <!-- more -->
 
@@ -43,7 +43,7 @@ SMCY의 수익률이 SMCI보다 지속적으로 우세하면 상승하고, 반�
 
 **수익률 지표 (CAGR):** SMCY의 CAGR은 -16.7%로 SMCI의 -3.1%보다 -13.6% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** SMCY의 표준편차는 79.1%로 SMCI의 100.9%보다 -21.8% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** SMCY의 표준편차는 79.1%로 SMCI의 100.8%보다 -21.7% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** SMCY의 64.7%의 MDD는 SMCI의 66.2%보다 -1.4% 낮았습니다. (낮은 위험도)
 
@@ -54,7 +54,7 @@ SMCY의 수익률이 SMCI보다 지속적으로 우세하면 상승하고, 반�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 SMCI의 투자 비중[^fn_vs_weight]을 조절하여 SMCY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 100.9% / 79.1% = 78% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 100.8% / 79.1% = 78% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 66.2% / 64.7% = 98% 비중으로 투자하면 됩니다.
 
@@ -77,9 +77,9 @@ SMCI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SMC
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SMCY | <span style="color: cornflowerblue">-16.7<small>%</small></span> | 79.1<small>%</small> | -0.21 | -64.7<small>%</small> | -39.0<small>%</small> |
-| SMCI | <span style="color: cornflowerblue">-3.1<small>%</small></span> | 100.9<small>%</small> | -0.03 | -66.2<small>%</small> | -35.1<small>%</small> |
+| SMCI | <span style="color: cornflowerblue">-3.1<small>%</small></span> | 100.8<small>%</small> | -0.03 | -66.2<small>%</small> | -35.1<small>%</small> |
 | SMCI<sub>STD</sub> <small>(78%)</small> | <span style="color: tomato">6.7<small>%</small></span> | 79.1<small>%</small> | 0.08 | -55.6<small>%</small> | -27.1<small>%</small> |
-| SMCI<sub>MDD</sub> <small>(98%)</small> | <span style="color: cornflowerblue">-1.9<small>%</small></span> | 98.7<small>%</small> | -0.02 | -65.2<small>%</small> | -34.3<small>%</small> |
+| SMCI<sub>MDD</sub> <small>(98%)</small> | <span style="color: cornflowerblue">-1.9<small>%</small></span> | 98.6<small>%</small> | -0.02 | -65.2<small>%</small> | -34.3<small>%</small> |
 
 
 

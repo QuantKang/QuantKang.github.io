@@ -33,7 +33,7 @@ SPYI의 수익률이 XYLD보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SPYI | <span style="color: tomato">15.0<small>%</small></span> | 12.8<small>%</small> | 1.17 | -16.5<small>%</small> | -1.7<small>%</small> |
+| SPYI | <span style="color: tomato">15.0<small>%</small></span> | 12.7<small>%</small> | 1.17 | -16.5<small>%</small> | -1.7<small>%</small> |
 | XYLD | <span style="color: tomato">11.6<small>%</small></span> | 10.4<small>%</small> | 1.11 | -15.5<small>%</small> | -1.8<small>%</small> |
 
 <!-- more -->
@@ -43,7 +43,7 @@ SPYI의 수익률이 XYLD보다 지속적으로 우세하면 상승하고, 반�
 
 **수익률 지표 (CAGR):** SPYI의 CAGR은 15.0%로 XYLD의 11.6%보다 3.4% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** SPYI의 표준편차는 12.8%로 XYLD의 10.4%보다 2.3% 높았습니다. (높은 위험도)
+**위험도 지표 (표준편차):** SPYI의 표준편차는 12.7%로 XYLD의 10.4%보다 2.3% 높았습니다. (높은 위험도)
 
 **위험도 지표 (MDD):** SPYI의 16.5%의 MDD는 XYLD의 15.5%와 비슷했습니다. (비슷한 위험도)
 
@@ -54,7 +54,7 @@ SPYI의 수익률이 XYLD보다 지속적으로 우세하면 상승하고, 반�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 XYLD의 투자 비중[^fn_vs_weight]을 조절하여 SPYI의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 10.4% / 12.8% = 122% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 10.4% / 12.7% = 122% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 15.5% / 16.5% = 106% 비중으로 투자하면 됩니다.
 
@@ -76,9 +76,9 @@ XYLD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, XYL
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SPYI | <span style="color: tomato">15.0<small>%</small></span> | 12.8<small>%</small> | 1.17 | -16.5<small>%</small> | -1.7<small>%</small> |
+| SPYI | <span style="color: tomato">15.0<small>%</small></span> | 12.7<small>%</small> | 1.17 | -16.5<small>%</small> | -1.7<small>%</small> |
 | XYLD | <span style="color: tomato">11.6<small>%</small></span> | 10.4<small>%</small> | 1.11 | -15.5<small>%</small> | -1.8<small>%</small> |
-| XYLD<sub>STD</sub> <small>(122%)</small> | <span style="color: tomato">14.2<small>%</small></span> | 12.8<small>%</small> | 1.11 | -18.7<small>%</small> | -2.3<small>%</small> |
+| XYLD<sub>STD</sub> <small>(122%)</small> | <span style="color: tomato">14.2<small>%</small></span> | 12.7<small>%</small> | 1.11 | -18.7<small>%</small> | -2.3<small>%</small> |
 | XYLD<sub>MDD</sub> <small>(106%)</small> | <span style="color: tomato">12.3<small>%</small></span> | 11.1<small>%</small> | 1.11 | -16.4<small>%</small> | -2.0<small>%</small> |
 
 

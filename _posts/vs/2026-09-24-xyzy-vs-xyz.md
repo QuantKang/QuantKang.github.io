@@ -79,7 +79,7 @@ XYZ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, XYZ<
 | XYZY | <span style="color: tomato">10.1<small>%</small></span> | 41.0<small>%</small> | 0.25 | -52.3<small>%</small> | -22.8<small>%</small> |
 | XYZ | <span style="color: tomato">18.3<small>%</small></span> | 50.0<small>%</small> | 0.37 | -53.0<small>%</small> | -22.9<small>%</small> |
 | XYZ<sub>STD</sub> <small>(82%)</small> | <span style="color: tomato">17.0<small>%</small></span> | 41.0<small>%</small> | 0.41 | -45.3<small>%</small> | -18.3<small>%</small> |
-| XYZ<sub>MDD</sub> <small>(99%)</small> | <span style="color: tomato">18.3<small>%</small></span> | 49.4<small>%</small> | 0.37 | -52.5<small>%</small> | -22.6<small>%</small> |
+| XYZ<sub>MDD</sub> <small>(99%)</small> | <span style="color: tomato">18.3<small>%</small></span> | 49.3<small>%</small> | 0.37 | -52.5<small>%</small> | -22.6<small>%</small> |
 
 
 

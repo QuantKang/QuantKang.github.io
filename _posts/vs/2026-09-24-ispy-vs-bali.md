@@ -33,7 +33,7 @@ ISPY의 수익률이 BALI보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| ISPY | <span style="color: tomato">16.8<small>%</small></span> | 13.5<small>%</small> | 1.24 | -16.9<small>%</small> | -2.0<small>%</small> |
+| ISPY | <span style="color: tomato">16.8<small>%</small></span> | 13.5<small>%</small> | 1.25 | -16.9<small>%</small> | -2.0<small>%</small> |
 | BALI | <span style="color: tomato">19.5<small>%</small></span> | 12.8<small>%</small> | 1.52 | -16.6<small>%</small> | -1.6<small>%</small> |
 
 <!-- more -->
@@ -76,16 +76,16 @@ BALI<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, BAL
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| ISPY | <span style="color: tomato">16.8<small>%</small></span> | 13.5<small>%</small> | 1.24 | -16.9<small>%</small> | -2.0<small>%</small> |
+| ISPY | <span style="color: tomato">16.8<small>%</small></span> | 13.5<small>%</small> | 1.25 | -16.9<small>%</small> | -2.0<small>%</small> |
 | BALI | <span style="color: tomato">19.5<small>%</small></span> | 12.8<small>%</small> | 1.52 | -16.6<small>%</small> | -1.6<small>%</small> |
-| BALI<sub>STD</sub> <small>(105%)</small> | <span style="color: tomato">20.5<small>%</small></span> | 13.5<small>%</small> | 1.52 | -17.4<small>%</small> | -1.7<small>%</small> |
+| BALI<sub>STD</sub> <small>(105%)</small> | <span style="color: tomato">20.6<small>%</small></span> | 13.5<small>%</small> | 1.53 | -17.4<small>%</small> | -1.7<small>%</small> |
 | BALI<sub>MDD</sub> <small>(101%)</small> | <span style="color: tomato">19.8<small>%</small></span> | 13.0<small>%</small> | 1.52 | -16.9<small>%</small> | -1.7<small>%</small> |
 
 
 
 각각의 경우를 ISPY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 105% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 20.5%로 ISPY의 16.8%보다 3.8% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 105% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 20.6%로 ISPY의 16.8%보다 3.8% 높았습니다. (높은 수익률)
 
 **위험도 지표 (MDD):** 101% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 19.8%로 ISPY의 16.8%보다 3.0% 높았습니다. (높은 수익률)
 

@@ -78,7 +78,7 @@ GPIQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, GPI
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | BALI | <span style="color: tomato">23.0<small>%</small></span> | 12.7<small>%</small> | 1.82 | -16.6<small>%</small> | -1.6<small>%</small> |
 | GPIQ | <span style="color: tomato">27.2<small>%</small></span> | 17.8<small>%</small> | 1.53 | -21.1<small>%</small> | -2.3<small>%</small> |
-| GPIQ<sub>STD</sub> <small>(71%)</small> | <span style="color: tomato">19.1<small>%</small></span> | 12.7<small>%</small> | 1.51 | -15.4<small>%</small> | -1.7<small>%</small> |
+| GPIQ<sub>STD</sub> <small>(71%)</small> | <span style="color: tomato">19.1<small>%</small></span> | 12.7<small>%</small> | 1.51 | -15.4<small>%</small> | -1.6<small>%</small> |
 | GPIQ<sub>MDD</sub> <small>(79%)</small> | <span style="color: tomato">21.3<small>%</small></span> | 14.1<small>%</small> | 1.51 | -17.0<small>%</small> | -1.8<small>%</small> |
 
 

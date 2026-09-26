@@ -33,8 +33,8 @@ ISPY의 수익률이 XYLD보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| ISPY | <span style="color: tomato">16.8<small>%</small></span> | 13.5<small>%</small> | 1.24 | -16.9<small>%</small> | -2.0<small>%</small> |
-| XYLD | <span style="color: tomato">14.2<small>%</small></span> | 10.4<small>%</small> | 1.36 | -15.5<small>%</small> | -1.6<small>%</small> |
+| ISPY | <span style="color: tomato">16.8<small>%</small></span> | 13.5<small>%</small> | 1.25 | -16.9<small>%</small> | -2.0<small>%</small> |
+| XYLD | <span style="color: tomato">14.2<small>%</small></span> | 10.4<small>%</small> | 1.37 | -15.5<small>%</small> | -1.6<small>%</small> |
 
 <!-- more -->
 
@@ -76,9 +76,9 @@ XYLD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, XYL
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| ISPY | <span style="color: tomato">16.8<small>%</small></span> | 13.5<small>%</small> | 1.24 | -16.9<small>%</small> | -2.0<small>%</small> |
-| XYLD | <span style="color: tomato">14.2<small>%</small></span> | 10.4<small>%</small> | 1.36 | -15.5<small>%</small> | -1.6<small>%</small> |
-| XYLD<sub>STD</sub> <small>(130%)</small> | <span style="color: tomato">18.5<small>%</small></span> | 13.5<small>%</small> | 1.37 | -19.8<small>%</small> | -2.1<small>%</small> |
+| ISPY | <span style="color: tomato">16.8<small>%</small></span> | 13.5<small>%</small> | 1.25 | -16.9<small>%</small> | -2.0<small>%</small> |
+| XYLD | <span style="color: tomato">14.2<small>%</small></span> | 10.4<small>%</small> | 1.37 | -15.5<small>%</small> | -1.6<small>%</small> |
+| XYLD<sub>STD</sub> <small>(130%)</small> | <span style="color: tomato">18.5<small>%</small></span> | 13.5<small>%</small> | 1.38 | -19.8<small>%</small> | -2.1<small>%</small> |
 | XYLD<sub>MDD</sub> <small>(109%)</small> | <span style="color: tomato">15.5<small>%</small></span> | 11.3<small>%</small> | 1.37 | -16.8<small>%</small> | -1.7<small>%</small> |
 
 

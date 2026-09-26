@@ -76,14 +76,14 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | WDTE | <span style="color: tomato">14.0<small>%</small></span> | 11.3<small>%</small> | 1.24 | -15.8<small>%</small> | -1.8<small>%</small> |
 | SPY | <span style="color: tomato">21.5<small>%</small></span> | 15.3<small>%</small> | 1.41 | -18.8<small>%</small> | -1.9<small>%</small> |
-| SPY<sub>STD</sub> <small>(74%)</small> | <span style="color: tomato">15.7<small>%</small></span> | 11.3<small>%</small> | 1.39 | -14.2<small>%</small> | -1.4<small>%</small> |
+| SPY<sub>STD</sub> <small>(74%)</small> | <span style="color: tomato">15.8<small>%</small></span> | 11.3<small>%</small> | 1.39 | -14.2<small>%</small> | -1.4<small>%</small> |
 | SPY<sub>MDD</sub> <small>(84%)</small> | <span style="color: tomato">18.0<small>%</small></span> | 12.9<small>%</small> | 1.40 | -16.0<small>%</small> | -1.6<small>%</small> |
 
 
 
 각각의 경우를 WDTE의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 74% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 15.7%로 WDTE의 14.0%보다 1.7% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 74% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 15.8%로 WDTE의 14.0%보다 1.7% 높았습니다. (높은 수익률)
 
 **위험도 지표 (MDD):** 84% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 18.0%로 WDTE의 14.0%보다 4.0% 높았습니다. (높은 수익률)
 

@@ -33,8 +33,8 @@ FNGO의 수익률이 TQQQ보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| FNGO | <span style="color: tomato">40.7<small>%</small></span> | 61.1<small>%</small> | 0.67 | -78.4<small>%</small> | -23.4<small>%</small> |
-| TQQQ | <span style="color: tomato">33.0<small>%</small></span> | 71.1<small>%</small> | 0.46 | -81.7<small>%</small> | -27.4<small>%</small> |
+| FNGO | <span style="color: tomato">40.7<small>%</small></span> | 61.1<small>%</small> | 0.67 | -78.4<small>%</small> | -23.3<small>%</small> |
+| TQQQ | <span style="color: tomato">33.0<small>%</small></span> | 71.1<small>%</small> | 0.46 | -81.7<small>%</small> | -27.3<small>%</small> |
 
 <!-- more -->
 
@@ -76,9 +76,9 @@ TQQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, TQQ
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| FNGO | <span style="color: tomato">40.7<small>%</small></span> | 61.1<small>%</small> | 0.67 | -78.4<small>%</small> | -23.4<small>%</small> |
-| TQQQ | <span style="color: tomato">33.0<small>%</small></span> | 71.1<small>%</small> | 0.46 | -81.7<small>%</small> | -27.4<small>%</small> |
-| TQQQ<sub>STD</sub> <small>(86%)</small> | <span style="color: tomato">31.9<small>%</small></span> | 61.1<small>%</small> | 0.52 | -75.3<small>%</small> | -23.1<small>%</small> |
+| FNGO | <span style="color: tomato">40.7<small>%</small></span> | 61.1<small>%</small> | 0.67 | -78.4<small>%</small> | -23.3<small>%</small> |
+| TQQQ | <span style="color: tomato">33.0<small>%</small></span> | 71.1<small>%</small> | 0.46 | -81.7<small>%</small> | -27.3<small>%</small> |
+| TQQQ<sub>STD</sub> <small>(86%)</small> | <span style="color: tomato">31.9<small>%</small></span> | 61.1<small>%</small> | 0.52 | -75.3<small>%</small> | -23.0<small>%</small> |
 | TQQQ<sub>MDD</sub> <small>(96%)</small> | <span style="color: tomato">32.8<small>%</small></span> | 68.3<small>%</small> | 0.48 | -80.0<small>%</small> | -26.1<small>%</small> |
 
 

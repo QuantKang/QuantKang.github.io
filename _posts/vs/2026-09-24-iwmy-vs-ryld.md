@@ -78,7 +78,7 @@ RYLD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, RYL
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | IWMY | <span style="color: tomato">11.4<small>%</small></span> | 15.6<small>%</small> | 0.73 | -18.7<small>%</small> | -2.9<small>%</small> |
 | RYLD | <span style="color: tomato">11.3<small>%</small></span> | 12.6<small>%</small> | 0.90 | -19.0<small>%</small> | -2.4<small>%</small> |
-| RYLD<sub>STD</sub> <small>(123%)</small> | <span style="color: tomato">13.9<small>%</small></span> | 15.6<small>%</small> | 0.89 | -23.0<small>%</small> | -3.0<small>%</small> |
+| RYLD<sub>STD</sub> <small>(123%)</small> | <span style="color: tomato">13.9<small>%</small></span> | 15.6<small>%</small> | 0.89 | -23.0<small>%</small> | -3.1<small>%</small> |
 | RYLD<sub>MDD</sub> <small>(98%)</small> | <span style="color: tomato">11.1<small>%</small></span> | 12.4<small>%</small> | 0.90 | -18.7<small>%</small> | -2.4<small>%</small> |
 
 

@@ -33,8 +33,8 @@ COIW의 수익률이 COIN보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| COIW | <span style="color: cornflowerblue">-26.0<small>%</small></span> | 90.7<small>%</small> | -0.29 | -75.0<small>%</small> | -43.9<small>%</small> |
-| COIN | <span style="color: cornflowerblue">-15.1<small>%</small></span> | 74.7<small>%</small> | -0.20 | -66.4<small>%</small> | -37.1<small>%</small> |
+| COIW | <span style="color: cornflowerblue">-26.0<small>%</small></span> | 90.6<small>%</small> | -0.29 | -75.0<small>%</small> | -43.9<small>%</small> |
+| COIN | <span style="color: cornflowerblue">-15.1<small>%</small></span> | 74.6<small>%</small> | -0.20 | -66.4<small>%</small> | -37.1<small>%</small> |
 
 <!-- more -->
 
@@ -43,7 +43,7 @@ COIW의 수익률이 COIN보다 지속적으로 우세하면 상승하고, 반�
 
 **수익률 지표 (CAGR):** COIW의 CAGR은 -26.0%로 COIN의 -15.1%보다 -10.9% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** COIW의 표준편차는 90.7%로 COIN의 74.7%보다 16.0% 높았습니다. (높은 위험도)
+**위험도 지표 (표준편차):** COIW의 표준편차는 90.6%로 COIN의 74.6%보다 16.0% 높았습니다. (높은 위험도)
 
 **위험도 지표 (MDD):** COIW의 75.0%의 MDD는 COIN의 66.4%보다 8.6% 높았습니다. (높은 위험도)
 
@@ -54,7 +54,7 @@ COIW의 수익률이 COIN보다 지속적으로 우세하면 상승하고, 반�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 COIN의 투자 비중[^fn_vs_weight]을 조절하여 COIW의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 74.7% / 90.7% = 121% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 74.6% / 90.6% = 121% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 66.4% / 75.0% = 113% 비중으로 투자하면 됩니다.
 
@@ -76,10 +76,10 @@ COIN<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, COI
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| COIW | <span style="color: cornflowerblue">-26.0<small>%</small></span> | 90.7<small>%</small> | -0.29 | -75.0<small>%</small> | -43.9<small>%</small> |
-| COIN | <span style="color: cornflowerblue">-15.1<small>%</small></span> | 74.7<small>%</small> | -0.20 | -66.4<small>%</small> | -37.1<small>%</small> |
-| COIN<sub>STD</sub> <small>(121%)</small> | <span style="color: cornflowerblue">-23.7<small>%</small></span> | 90.7<small>%</small> | -0.26 | -74.6<small>%</small> | -43.4<small>%</small> |
-| COIN<sub>MDD</sub> <small>(113%)</small> | <span style="color: cornflowerblue">-20.2<small>%</small></span> | 84.4<small>%</small> | -0.24 | -71.4<small>%</small> | -41.0<small>%</small> |
+| COIW | <span style="color: cornflowerblue">-26.0<small>%</small></span> | 90.6<small>%</small> | -0.29 | -75.0<small>%</small> | -43.9<small>%</small> |
+| COIN | <span style="color: cornflowerblue">-15.1<small>%</small></span> | 74.6<small>%</small> | -0.20 | -66.4<small>%</small> | -37.1<small>%</small> |
+| COIN<sub>STD</sub> <small>(121%)</small> | <span style="color: cornflowerblue">-23.7<small>%</small></span> | 90.6<small>%</small> | -0.26 | -74.6<small>%</small> | -43.5<small>%</small> |
+| COIN<sub>MDD</sub> <small>(113%)</small> | <span style="color: cornflowerblue">-20.2<small>%</small></span> | 84.3<small>%</small> | -0.24 | -71.4<small>%</small> | -41.0<small>%</small> |
 
 
 

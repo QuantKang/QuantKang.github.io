@@ -31,8 +31,8 @@ ONEV의 수익률이 IWB보다 지속적으로 우세하면 상승하고, 반대
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| ONEV | <span style="color: tomato">10.6<small>%</small></span> | 16.8<small>%</small> | 0.63 | -39.7<small>%</small> | -3.9<small>%</small> |
-| IWB | <span style="color: tomato">14.5<small>%</small></span> | 17.9<small>%</small> | 0.81 | -34.6<small>%</small> | -4.4<small>%</small> |
+| ONEV | <span style="color: tomato">10.6<small>%</small></span> | 16.7<small>%</small> | 0.63 | -39.7<small>%</small> | -3.9<small>%</small> |
+| IWB | <span style="color: tomato">14.5<small>%</small></span> | 17.8<small>%</small> | 0.81 | -34.6<small>%</small> | -4.4<small>%</small> |
 
 <!-- more -->
 
@@ -41,7 +41,7 @@ ONEV의 수익률이 IWB보다 지속적으로 우세하면 상승하고, 반대
 
 **수익률 지표 (CAGR):** ONEV의 CAGR은 10.6%로 IWB의 14.5%보다 -3.9% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** ONEV의 표준편차는 16.8%로 IWB의 17.9%보다 -1.1% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** ONEV의 표준편차는 16.7%로 IWB의 17.8%보다 -1.1% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** ONEV의 39.7%의 MDD는 IWB의 34.6%보다 5.1% 높았습니다. (높은 위험도)
 
@@ -52,7 +52,7 @@ ONEV의 수익률이 IWB보다 지속적으로 우세하면 상승하고, 반대
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 IWB의 투자 비중[^fn_vs_weight]을 조절하여 ONEV의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 17.9% / 16.8% = 94% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 17.8% / 16.7% = 94% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 34.6% / 39.7% = 115% 비중으로 투자하면 됩니다.
 
@@ -74,9 +74,9 @@ IWB<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IWB<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| ONEV | <span style="color: tomato">10.6<small>%</small></span> | 16.8<small>%</small> | 0.63 | -39.7<small>%</small> | -3.9<small>%</small> |
-| IWB | <span style="color: tomato">14.5<small>%</small></span> | 17.9<small>%</small> | 0.81 | -34.6<small>%</small> | -4.4<small>%</small> |
-| IWB<sub>STD</sub> <small>(94%)</small> | <span style="color: tomato">13.7<small>%</small></span> | 16.8<small>%</small> | 0.82 | -32.7<small>%</small> | -4.1<small>%</small> |
+| ONEV | <span style="color: tomato">10.6<small>%</small></span> | 16.7<small>%</small> | 0.63 | -39.7<small>%</small> | -3.9<small>%</small> |
+| IWB | <span style="color: tomato">14.5<small>%</small></span> | 17.8<small>%</small> | 0.81 | -34.6<small>%</small> | -4.4<small>%</small> |
+| IWB<sub>STD</sub> <small>(94%)</small> | <span style="color: tomato">13.7<small>%</small></span> | 16.7<small>%</small> | 0.82 | -32.7<small>%</small> | -4.1<small>%</small> |
 | IWB<sub>MDD</sub> <small>(115%)</small> | <span style="color: tomato">16.5<small>%</small></span> | 20.5<small>%</small> | 0.81 | -38.9<small>%</small> | -5.1<small>%</small> |
 
 

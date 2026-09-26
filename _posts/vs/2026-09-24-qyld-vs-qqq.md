@@ -76,7 +76,7 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | QYLD | <span style="color: tomato">8.7<small>%</small></span> | 14.7<small>%</small> | 0.59 | -24.8<small>%</small> | -3.9<small>%</small> |
 | QQQ | <span style="color: tomato">19.4<small>%</small></span> | 21.3<small>%</small> | 0.91 | -35.1<small>%</small> | -5.5<small>%</small> |
-| QQQ<sub>STD</sub> <small>(69%)</small> | <span style="color: tomato">13.6<small>%</small></span> | 14.7<small>%</small> | 0.93 | -25.1<small>%</small> | -3.8<small>%</small> |
+| QQQ<sub>STD</sub> <small>(69%)</small> | <span style="color: tomato">13.6<small>%</small></span> | 14.7<small>%</small> | 0.93 | -25.1<small>%</small> | -3.7<small>%</small> |
 | QQQ<sub>MDD</sub> <small>(70%)</small> | <span style="color: tomato">13.9<small>%</small></span> | 15.0<small>%</small> | 0.93 | -25.6<small>%</small> | -3.8<small>%</small> |
 
 

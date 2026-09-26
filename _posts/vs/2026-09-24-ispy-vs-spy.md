@@ -33,8 +33,8 @@ ISPY의 수익률이 SPY보다 지속적으로 우세하면 상승하고, 반대
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| ISPY | <span style="color: tomato">16.8<small>%</small></span> | 13.5<small>%</small> | 1.24 | -16.9<small>%</small> | -2.0<small>%</small> |
-| SPY | <span style="color: tomato">21.0<small>%</small></span> | 15.5<small>%</small> | 1.35 | -18.8<small>%</small> | -1.9<small>%</small> |
+| ISPY | <span style="color: tomato">16.8<small>%</small></span> | 13.5<small>%</small> | 1.25 | -16.9<small>%</small> | -2.0<small>%</small> |
+| SPY | <span style="color: tomato">21.0<small>%</small></span> | 15.5<small>%</small> | 1.36 | -18.8<small>%</small> | -1.9<small>%</small> |
 
 <!-- more -->
 
@@ -76,8 +76,8 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| ISPY | <span style="color: tomato">16.8<small>%</small></span> | 13.5<small>%</small> | 1.24 | -16.9<small>%</small> | -2.0<small>%</small> |
-| SPY | <span style="color: tomato">21.0<small>%</small></span> | 15.5<small>%</small> | 1.35 | -18.8<small>%</small> | -1.9<small>%</small> |
+| ISPY | <span style="color: tomato">16.8<small>%</small></span> | 13.5<small>%</small> | 1.25 | -16.9<small>%</small> | -2.0<small>%</small> |
+| SPY | <span style="color: tomato">21.0<small>%</small></span> | 15.5<small>%</small> | 1.36 | -18.8<small>%</small> | -1.9<small>%</small> |
 | SPY<sub>STD</sub> <small>(87%)</small> | <span style="color: tomato">18.2<small>%</small></span> | 13.5<small>%</small> | 1.35 | -16.5<small>%</small> | -1.6<small>%</small> |
 | SPY<sub>MDD</sub> <small>(90%)</small> | <span style="color: tomato">18.8<small>%</small></span> | 13.9<small>%</small> | 1.35 | -17.0<small>%</small> | -1.7<small>%</small> |
 

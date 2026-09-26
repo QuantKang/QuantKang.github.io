@@ -33,7 +33,7 @@ AAPW의 수익률이 AAPL보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| AAPW | <span style="color: tomato">21.0<small>%</small></span> | 34.8<small>%</small> | 0.60 | -36.3<small>%</small> | -10.2<small>%</small> |
+| AAPW | <span style="color: tomato">21.0<small>%</small></span> | 34.7<small>%</small> | 0.60 | -36.3<small>%</small> | -10.2<small>%</small> |
 | AAPL | <span style="color: tomato">22.2<small>%</small></span> | 30.2<small>%</small> | 0.73 | -30.2<small>%</small> | -7.8<small>%</small> |
 
 <!-- more -->
@@ -43,7 +43,7 @@ AAPW의 수익률이 AAPL보다 지속적으로 우세하면 상승하고, 반�
 
 **수익률 지표 (CAGR):** AAPW의 CAGR은 21.0%로 AAPL의 22.2%보다 -1.2% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** AAPW의 표준편차는 34.8%로 AAPL의 30.2%보다 4.6% 높았습니다. (높은 위험도)
+**위험도 지표 (표준편차):** AAPW의 표준편차는 34.7%로 AAPL의 30.2%보다 4.6% 높았습니다. (높은 위험도)
 
 **위험도 지표 (MDD):** AAPW의 36.3%의 MDD는 AAPL의 30.2%보다 6.1% 높았습니다. (높은 위험도)
 
@@ -54,7 +54,7 @@ AAPW의 수익률이 AAPL보다 지속적으로 우세하면 상승하고, 반�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 AAPL의 투자 비중[^fn_vs_weight]을 조절하여 AAPW의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 30.2% / 34.8% = 115% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 30.2% / 34.7% = 115% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 30.2% / 36.3% = 120% 비중으로 투자하면 됩니다.
 
@@ -76,10 +76,10 @@ AAPL<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, AAP
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| AAPW | <span style="color: tomato">21.0<small>%</small></span> | 34.8<small>%</small> | 0.60 | -36.3<small>%</small> | -10.2<small>%</small> |
+| AAPW | <span style="color: tomato">21.0<small>%</small></span> | 34.7<small>%</small> | 0.60 | -36.3<small>%</small> | -10.2<small>%</small> |
 | AAPL | <span style="color: tomato">22.2<small>%</small></span> | 30.2<small>%</small> | 0.73 | -30.2<small>%</small> | -7.8<small>%</small> |
-| AAPL<sub>STD</sub> <small>(115%)</small> | <span style="color: tomato">24.9<small>%</small></span> | 34.8<small>%</small> | 0.72 | -34.1<small>%</small> | -9.1<small>%</small> |
-| AAPL<sub>MDD</sub> <small>(120%)</small> | <span style="color: tomato">25.8<small>%</small></span> | 36.3<small>%</small> | 0.71 | -35.3<small>%</small> | -9.5<small>%</small> |
+| AAPL<sub>STD</sub> <small>(115%)</small> | <span style="color: tomato">24.9<small>%</small></span> | 34.7<small>%</small> | 0.72 | -34.1<small>%</small> | -9.1<small>%</small> |
+| AAPL<sub>MDD</sub> <small>(120%)</small> | <span style="color: tomato">25.8<small>%</small></span> | 36.2<small>%</small> | 0.71 | -35.3<small>%</small> | -9.5<small>%</small> |
 
 
 

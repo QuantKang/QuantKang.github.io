@@ -33,7 +33,7 @@ ISPY의 수익률이 GPIX보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| ISPY | <span style="color: tomato">16.8<small>%</small></span> | 13.5<small>%</small> | 1.24 | -16.9<small>%</small> | -2.0<small>%</small> |
+| ISPY | <span style="color: tomato">16.8<small>%</small></span> | 13.5<small>%</small> | 1.25 | -16.9<small>%</small> | -2.0<small>%</small> |
 | GPIX | <span style="color: tomato">19.1<small>%</small></span> | 13.7<small>%</small> | 1.40 | -17.5<small>%</small> | -1.5<small>%</small> |
 
 <!-- more -->
@@ -76,7 +76,7 @@ GPIX<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, GPI
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| ISPY | <span style="color: tomato">16.8<small>%</small></span> | 13.5<small>%</small> | 1.24 | -16.9<small>%</small> | -2.0<small>%</small> |
+| ISPY | <span style="color: tomato">16.8<small>%</small></span> | 13.5<small>%</small> | 1.25 | -16.9<small>%</small> | -2.0<small>%</small> |
 | GPIX | <span style="color: tomato">19.1<small>%</small></span> | 13.7<small>%</small> | 1.40 | -17.5<small>%</small> | -1.5<small>%</small> |
 | GPIX<sub>STD</sub> <small>(99%)</small> | <span style="color: tomato">18.8<small>%</small></span> | 13.5<small>%</small> | 1.40 | -17.3<small>%</small> | -1.5<small>%</small> |
 | GPIX<sub>MDD</sub> <small>(96%)</small> | <span style="color: tomato">18.4<small>%</small></span> | 13.2<small>%</small> | 1.40 | -16.9<small>%</small> | -1.4<small>%</small> |

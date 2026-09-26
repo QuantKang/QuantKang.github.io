@@ -33,8 +33,8 @@ NVDW의 수익률이 NVDA보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| NVDW | <span style="color: tomato">34.6<small>%</small></span> | 51.0<small>%</small> | 0.68 | -38.6<small>%</small> | -11.3<small>%</small> |
-| NVDA | <span style="color: tomato">35.2<small>%</small></span> | 42.5<small>%</small> | 0.83 | -32.7<small>%</small> | -8.8<small>%</small> |
+| NVDW | <span style="color: tomato">34.6<small>%</small></span> | 50.9<small>%</small> | 0.68 | -38.6<small>%</small> | -11.2<small>%</small> |
+| NVDA | <span style="color: tomato">35.2<small>%</small></span> | 42.4<small>%</small> | 0.83 | -32.7<small>%</small> | -8.8<small>%</small> |
 
 <!-- more -->
 
@@ -43,7 +43,7 @@ NVDW의 수익률이 NVDA보다 지속적으로 우세하면 상승하고, 반�
 
 **수익률 지표 (CAGR):** NVDW의 CAGR은 34.6%로 NVDA의 35.2%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** NVDW의 표준편차는 51.0%로 NVDA의 42.5%보다 8.5% 높았습니다. (높은 위험도)
+**위험도 지표 (표준편차):** NVDW의 표준편차는 50.9%로 NVDA의 42.4%보다 8.5% 높았습니다. (높은 위험도)
 
 **위험도 지표 (MDD):** NVDW의 38.6%의 MDD는 NVDA의 32.7%보다 5.9% 높았습니다. (높은 위험도)
 
@@ -54,7 +54,7 @@ NVDW의 수익률이 NVDA보다 지속적으로 우세하면 상승하고, 반�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 NVDA의 투자 비중[^fn_vs_weight]을 조절하여 NVDW의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 42.5% / 51.0% = 120% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 42.4% / 50.9% = 120% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 32.7% / 38.6% = 118% 비중으로 투자하면 됩니다.
 
@@ -76,10 +76,10 @@ NVDA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, NVD
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| NVDW | <span style="color: tomato">34.6<small>%</small></span> | 51.0<small>%</small> | 0.68 | -38.6<small>%</small> | -11.3<small>%</small> |
-| NVDA | <span style="color: tomato">35.2<small>%</small></span> | 42.5<small>%</small> | 0.83 | -32.7<small>%</small> | -8.8<small>%</small> |
-| NVDA<sub>STD</sub> <small>(120%)</small> | <span style="color: tomato">40.6<small>%</small></span> | 51.0<small>%</small> | 0.80 | -38.3<small>%</small> | -10.7<small>%</small> |
-| NVDA<sub>MDD</sub> <small>(118%)</small> | <span style="color: tomato">40.1<small>%</small></span> | 50.2<small>%</small> | 0.80 | -37.7<small>%</small> | -10.6<small>%</small> |
+| NVDW | <span style="color: tomato">34.6<small>%</small></span> | 50.9<small>%</small> | 0.68 | -38.6<small>%</small> | -11.2<small>%</small> |
+| NVDA | <span style="color: tomato">35.2<small>%</small></span> | 42.4<small>%</small> | 0.83 | -32.7<small>%</small> | -8.8<small>%</small> |
+| NVDA<sub>STD</sub> <small>(120%)</small> | <span style="color: tomato">40.6<small>%</small></span> | 50.9<small>%</small> | 0.80 | -38.2<small>%</small> | -10.7<small>%</small> |
+| NVDA<sub>MDD</sub> <small>(118%)</small> | <span style="color: tomato">40.1<small>%</small></span> | 50.1<small>%</small> | 0.80 | -37.7<small>%</small> | -10.5<small>%</small> |
 
 
 

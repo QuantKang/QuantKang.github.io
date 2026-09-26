@@ -34,7 +34,7 @@ TSLY의 수익률이 TSLA보다 지속적으로 우세하면 상승하고, 반�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | TSLY | <span style="color: tomato">9.2<small>%</small></span> | 45.3<small>%</small> | 0.20 | -49.5<small>%</small> | -19.8<small>%</small> |
-| TSLA | <span style="color: tomato">20.8<small>%</small></span> | 58.3<small>%</small> | 0.36 | -53.8<small>%</small> | -21.8<small>%</small> |
+| TSLA | <span style="color: tomato">20.8<small>%</small></span> | 58.2<small>%</small> | 0.36 | -53.8<small>%</small> | -21.8<small>%</small> |
 
 <!-- more -->
 
@@ -43,7 +43,7 @@ TSLY의 수익률이 TSLA보다 지속적으로 우세하면 상승하고, 반�
 
 **수익률 지표 (CAGR):** TSLY의 CAGR은 9.2%로 TSLA의 20.8%보다 -11.6% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
-**위험도 지표 (표준편차):** TSLY의 표준편차는 45.3%로 TSLA의 58.3%보다 -13.0% 낮았습니다. (낮은 위험도)
+**위험도 지표 (표준편차):** TSLY의 표준편차는 45.3%로 TSLA의 58.2%보다 -13.0% 낮았습니다. (낮은 위험도)
 
 **위험도 지표 (MDD):** TSLY의 49.5%의 MDD는 TSLA의 53.8%보다 -4.2% 낮았습니다. (낮은 위험도)
 
@@ -54,7 +54,7 @@ TSLY의 수익률이 TSLA보다 지속적으로 우세하면 상승하고, 반�
 수익률과 위험도가 다른 상품을 비교하는 방법의 하나는, 둘 중 하나를 동일하게 설정하고, 나머지 하나를 비교하는 것입니다.
 여기서는 TSLA의 투자 비중[^fn_vs_weight]을 조절하여 TSLY의 위험도와 유사하게 맞추어 수익률를 비교합니다.
 
-**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 58.3% / 45.3% = 78% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
+**위험도 지표 (표준편차):** 표준편차를 동일한 값으로 맞추기 위해서는 58.2% / 45.3% = 78% 비중으로 투자하면 됩니다.[^fn_vs_sharpe]
 
 **위험도 지표 (MDD):** MDD를 동일한 값으로 맞추기 위해서는 53.8% / 49.5% = 92% 비중으로 투자하면 됩니다.
 
@@ -77,9 +77,9 @@ TSLA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, TSL
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | TSLY | <span style="color: tomato">9.2<small>%</small></span> | 45.3<small>%</small> | 0.20 | -49.5<small>%</small> | -19.8<small>%</small> |
-| TSLA | <span style="color: tomato">20.8<small>%</small></span> | 58.3<small>%</small> | 0.36 | -53.8<small>%</small> | -21.8<small>%</small> |
+| TSLA | <span style="color: tomato">20.8<small>%</small></span> | 58.2<small>%</small> | 0.36 | -53.8<small>%</small> | -21.8<small>%</small> |
 | TSLA<sub>STD</sub> <small>(78%)</small> | <span style="color: tomato">19.2<small>%</small></span> | 45.3<small>%</small> | 0.42 | -44.5<small>%</small> | -16.6<small>%</small> |
-| TSLA<sub>MDD</sub> <small>(92%)</small> | <span style="color: tomato">20.5<small>%</small></span> | 53.7<small>%</small> | 0.38 | -50.6<small>%</small> | -19.9<small>%</small> |
+| TSLA<sub>MDD</sub> <small>(92%)</small> | <span style="color: tomato">20.5<small>%</small></span> | 53.6<small>%</small> | 0.38 | -50.6<small>%</small> | -19.9<small>%</small> |
 
 
 

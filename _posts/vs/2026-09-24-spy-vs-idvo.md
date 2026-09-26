@@ -78,14 +78,14 @@ IDVO<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, IDV
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | SPY | <span style="color: tomato">19.1<small>%</small></span> | 15.9<small>%</small> | 1.20 | -18.8<small>%</small> | -2.4<small>%</small> |
 | IDVO | <span style="color: tomato">20.7<small>%</small></span> | 16.2<small>%</small> | 1.28 | -15.5<small>%</small> | -2.2<small>%</small> |
-| IDVO<sub>STD</sub> <small>(98%)</small> | <span style="color: tomato">20.4<small>%</small></span> | 15.9<small>%</small> | 1.28 | -15.2<small>%</small> | -2.2<small>%</small> |
+| IDVO<sub>STD</sub> <small>(98%)</small> | <span style="color: tomato">20.3<small>%</small></span> | 15.9<small>%</small> | 1.28 | -15.2<small>%</small> | -2.2<small>%</small> |
 | IDVO<sub>MDD</sub> <small>(121%)</small> | <span style="color: tomato">25.2<small>%</small></span> | 19.7<small>%</small> | 1.28 | -18.5<small>%</small> | -2.7<small>%</small> |
 
 
 
 각각의 경우를 SPY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 98% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 20.4%로 SPY의 19.1%보다 1.3% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 98% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 20.3%로 SPY의 19.1%보다 1.3% 높았습니다. (높은 수익률)
 
 **위험도 지표 (MDD):** 121% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 25.2%로 SPY의 19.1%보다 6.1% 높았습니다. (높은 수익률)
 
