@@ -2,7 +2,7 @@
 title: 오렌시자사과의 티스토리 최근 글 목록
 header:
   overlay_image: "/assets/images/report.jpg"
-last_modified_at: 2026-09-27
+last_modified_at: 2026-09-28
 excerpt: 오렌시자사과의 티스토리에서 최근 작성한 글 50건을 정리한 목록입니다. 
 ##toc: true
 toc_sticky: false
@@ -17,6 +17,9 @@ categories:
 
 
 ## 최근 글 50건
+### [일드맥스 초고배당 커버드콜로 현금 흐름을 만들었다면? (TSLY, NVDY, PLTY, CONY, MSTY, AMDY)](https://kongdori.tistory.com/850) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-28 · 주식투자</sup>
+일드맥스(YieldMax)는 개별 종목을 기반으로 초고배당을 하는 커버드콜 ETF를 여럿 운용합니다. 예를 들어 TSLY(YieldMax TSLA Option Income Strategy ETF)는 TSLA(테슬라)를 기초자산으로 하는 커버드콜로 2026년 8월 기준 연 50% 수준의 높은 분배율을 보이고 있습니다.
+
 ### [KODEX 미국배당다우존스타겟커버드콜 내 집 마련, 얼마나 걸리고 얼마가 남을까? (vs TIGER 미국배당다우존스)](https://kongdori.tistory.com/849) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-27 · 주식투자</sup>
 신혼인 영희는 내 집 마련을 위해 주식에 꾸준히 투자하려고 합니다. 현재 10억원인 아파트를 매수하기 위한 자금을 언제쯤 마련할 수 있을까요? 단순한 모델을 이용하여 TIGER 미국배당다우존스와 KODEX 미국배당다우존스타겟커버드콜에 투자한 경우를 비교해 봅니다.
 
@@ -29,10 +32,10 @@ categories:
 ### [3억원으로 은퇴, KODEX 미국배당다우존스타겟커버드콜 월 300만원의 현금 흐름을 만들면? (vs TIGER 미국배당다우존스)](https://kongdori.tistory.com/846) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-23 · 주식투자</sup>
 지난 세 편의 글을 통해 거치식, 적립식, 거치식 + 적립식으로 투자했을 때 은퇴에 필요한 기간과 은퇴 후 현금 흐름을 간단한 모델로 추정해 보고, KODEX 미국배당다우존스타겟커버드콜과 TIGER 미국배당다우존스를 비교해 보았습니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [1억원 거치 + 월 100만원 적립 후 은퇴? KODEX 미국배당다우존스타겟커버드콜 얼마나 걸릴까? (vs TIGER 미국배당다우존스)](https://kongdori.tistory.com/844) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-22 · 주식투자</sup>
 지난 두 편의 글을 통해 KODEX 미국배당다우존스타겟커버드콜과 TIGER 미국배당다우존스에 거치식 또는 적립식으로 투자했을 때, 필요한 수준의 현금 흐름을 만드는 데 소요되는 투자 기간과 동일한 기간 투자했을 때의 현금 흐름 및 잔여 자산 규모를 간단한 모델로 추정하여 비교해 보았습니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [월 100만원 적립 후 은퇴? KODEX 미국배당다우존스타겟커버드콜 얼마나 걸릴까? (vs TIGER 미국배당다우존스)](https://kongdori.tistory.com/843) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-21 · 주식투자</sup>
 지난 글에서 갑돌이가 2억원을 거치식으로 KODEX 미국배당다우존스타겟커버드콜과 TIGER 미국배당다우존스에 투자했을 때, 월 300만원의 실질 현금 흐름을 만드는 데 필요한 투자 기간을 간단한 모델로 추정해 보았습니다.
@@ -61,10 +64,10 @@ categories:
 ### [\[국내 ETF 시황\] 개인 순매수&middot;순매도 TOP 5 (2026-07-28, 일일)](https://kongdori.tistory.com/835) <sup style="font-weight: normal; font-size: 0.7em;">2026-07-28 · 주식투자/일일 시황</sup>
 국내 상장 ETF를 대상으로 개인 투자자의 일일 및 5거래일 순매수·순매도 상위 5개 ETF를 정리했습니다. 대표 ETF의 수익률과 시장 전체 투자 주체별 순매수 금액도 함께 제공하여 시장의 전반적인 흐름을 한눈에 확인할 수 있도록 매일 업데이트합니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [액티브 ETF 일일 신규 편입 및 편출 종목 (2026-07-28)](https://kongdori.tistory.com/834) <sup style="font-weight: normal; font-size: 0.7em;">2026-07-28 · 주식투자/액티브 ETF 포트폴리오 추적</sup>
 액티브 ETF의 구성내역(PDF; Portfolio Deposit File)을 기준으로 일일 신규 편입 및 편출 종목을 정리합니다.​ PDF 기준일: 2026년 7월 28일 (2026년 7월 27일 대비) 종목 수익률: PDF 실질 일자 기준 해당 종목의 시장 수익률 (액티브 ETF가 해당 종목 투자로 얻은 수익률이 아님) PDF의 기준일은 전거래일입니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [커버드콜 퀴즈 해설 1~7 (총 20문항) - 현금 흐름과 세금 (배당과 매도) 편](https://kongdori.tistory.com/833) <sup style="font-weight: normal; font-size: 0.7em;">2026-06-01 · 주식투자</sup>
 4월에 몇몇 카페에 올렸던 “나는 커버드콜에 대해 얼마나 알고 있을까?” 퀴즈 20문항 중 1~7번에 대한 답안 투표 결과와 해설입니다. ​나는 커버드콜에 대해 얼마나 알고 있을까?
@@ -93,10 +96,10 @@ ETF는 저렴한 비용으로 복수 종목에 분산 투자할 수 있는 상�
 ### [11. ETF 보수(수수료)는 언제 내는 것일까? \[투자와 데이터\]](https://kongdori.tistory.com/825) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-21 · 주식투자</sup>
 ETF는 낮은 수수료를 강점으로 내세웁니다. S&P 500을 추종하는 상품 중에는 연 0.01% 수준의 파격적인 보수를 제시하는 경우도 있습니다. 그런데 ETF를 보유하면서 자산운용사로부터 직접 비용을 청구 받은 적이 있으신가요?
 
+{% include /commons/ads/adsense.html %}
+
 ### [10. 자산의 비교와 선택은 왜 어려울까? \[투자와 데이터\]](https://kongdori.tistory.com/824) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-21 · 주식투자</sup>
 투자자는 미래 수익을 기대하며 더 나은 자산을 선택하고자 노력합니다. 여러 후보가 있을 때, 우리는 어떤 자산이 나의 투자 목적에 유리한지 끊임없이 비교하게 됩니다. 많은 분이 수익성은 높으면서 안정성도 뛰어난 자산을 찾지만, 현실에서 두 마리 토끼를 동시에 잡기는 참으로 어렵습니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [9. 수익률 100%와 -50%는 왜 대칭일까? - 손익비대칭성 \[투자와 데이터\]](https://kongdori.tistory.com/823) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-20 · 주식투자</sup>
 복리 투자에서 수익률 100%와 -50%는 서로 대칭 관계에 있습니다. 자산이 두 배가 된 뒤 다시 절반으로 줄어들면, 결국 원래의 자산 규모로 돌아오기 때문입니다. 숫자의 함정: 더하기와 곱하기의 차이 ​ 우리는 흔히 100%와 -50%를 보면 무의식적으로 더하기를 떠올립니다.
@@ -125,10 +128,10 @@ ETF는 낮은 수수료를 강점으로 내세웁니다. S&P 500을 추종하는
 ### [1. 왜 분산 투자하라는 걸까? \[투자와 데이터\]](https://kongdori.tistory.com/815) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-17 · 주식투자</sup>
 많은 투자 입문서에서는 초보 투자자에게 개별 종목 대신 펀드나 ETF로 투자를 시작하라고 권합니다. 왜 그럴까요? 펀드는 여러 자산에 분산 투자하는 실적 배당형 금융 상품입니다. ETF(상장지수펀드)는 이러한 펀드를 증권거래소에서 주식처럼 거래할 수 있도록 만든 형태입니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [KODEX 200타겟위클리커버드콜, RISE 200위클리커버드콜 적립식 성과는 어떠했을까? \| 거치식 분석 포함](https://kongdori.tistory.com/814) <sup style="font-weight: normal; font-size: 0.7em;">2026-01-30 · 주식투자</sup>
 커버드콜(covered call)이 붐(boom)을 일으킴에 따라 국내에도 많은 ETF가 상장되었습니다. 일부 상품은 국내 주식을 편입하고 KOSPI 200 지수에 대해 위클리 콜옵션(weekly call option)을 발행합니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [국내 상장 S&amp;P 500, 나스닥 100 ETF는 무엇이 좋을까?](https://kongdori.tistory.com/813) <sup style="font-weight: normal; font-size: 0.7em;">2026-01-11 · 주식투자</sup>
 https://tv.naver.com/v/94952768 2025년 12월을 기준으로 국내에는 S&P 500 지수를 추종하는 ETF가 10종이나 상장되어 있습니다. 주요 자산운용사들은 모두 상장한 것입니다.
@@ -157,10 +160,10 @@ YieldMax(일드맥스)의 NVDY는 개별 종목인 엔비디아(NVDA)를 기초�
 ### [TSLY vs TSLA(테슬라) &ndash; 커버드콜 세후 현금 흐름 (1만 달러 기준, 일드맥스 초고배당, +동영상, +슬라이드)](https://kongdori.tistory.com/805) <sup style="font-weight: normal; font-size: 0.7em;">2025-11-28 · 주식투자</sup>
 YieldMax(일드맥스)의 TSLY(테슬리)는 개별 종목인 테슬라(TSLA)를 기초자산으로 초고배당을 하는 옵션 기반의 커버드콜입니다. 본 영상에서는 TSLY의 첫 거래일에 TSLY와 테슬라에 각각 1만 달러를 투자하고, 동일한 세후 현금 흐름을 만들었을 때, 어떤 결과를 얻게 되었을지 분석해 봅니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [\[투자 기초 33\] 세금 절감을 위한 복수 계좌 관리법 (일반 과세 계좌, 국내 상장 해외 ETF, 해외 상장 ETF/주식, 선입선출, 후입선출, 이동평균, +동영상, +슬라이드)](https://kongdori.tistory.com/804) <sup style="font-weight: normal; font-size: 0.7em;">2025-11-27 · 주식투자</sup>
 국내 상장 해외 ETF와 해외 상장 주식과 ETF는 매도 시 양도차익에 대해 세금이 부과될 수 있습니다. 국내 상장 해외 ETF의 양도차익은 배당소득세로, 해외 상장 주식/ETF의 양도차익은 양도소득세로 과세됩니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [TIGER 미국AI빅테크10타겟데일리커버드콜 (1억원으로 현금 흐름을 만든다면, vs TIGER 미국AI빅테크10, 세금 고려, +동영상, +슬라이드)](https://kongdori.tistory.com/803) <sup style="font-weight: normal; font-size: 0.7em;">2025-11-26 · 주식투자</sup>
 미래에셋자산운용의 TIGER 미국AI빅테크10타겟데일리커버드콜(493810) ETF는 미국에 상장된 10개의 AI 관련 대형주에 분산 투자하고, 15% 프리미엄 배당금을 목표(타겟)로 나스닥 100 지수에 대해 데일리 콜옵션을 발행하는 커버드콜입니다.
@@ -173,9 +176,6 @@ YieldMax(일드맥스)의 TSLY(테슬리)는 개별 종목인 테슬라(TSLA)를
 
 ### [GPIQ vs QQQ - 커버드콜 세후 현금 흐름 (1만 달러 기준, +동영상, +슬라이드)](https://kongdori.tistory.com/800) <sup style="font-weight: normal; font-size: 0.7em;">2025-11-23 · 주식투자</sup>
 골드만삭스의 GPIQ는 나스닥 100과 비슷하게 기초자산을 구성하고 펀드 매니저가 운용에 관여하는 액티브 커버드콜입니다. 동사에서 운용하는 GPIX의 나스닥 버전입니다. 본 영상에서는 GPIQ의 첫 거래일에 GPIQ와 나스닥 100 지수를 추종하는 QQQ에 각각 1만 달러를 투자하고, 동일한 세후 현금 흐름을 만들었을 때, 어떤 결과를 얻게 되었을지 분석해 봅니다.
-
-### [GPIX vs SPY - 커버드콜 세후 현금 흐름 (1만 달러 기준, +동영상, +슬라이드)](https://kongdori.tistory.com/799) <sup style="font-weight: normal; font-size: 0.7em;">2025-11-21 · 주식투자</sup>
-골드만삭스의 GPIX는 S&P 500과 비슷하게 기초자산을 구성하고 펀드 매니저가 운용에 관여하는 액티브 커버드콜입니다. 본 영상에서는 GPIX의 첫 거래일에 GPIX와 S&P 500 지수를 추종하는 SPY에 각각 1만 달러를 투자하고, 동일한 세후 현금 흐름을 만들었을 때, 어떤 결과를 얻게 되었을지 분석해 봅니다.
 
 
 
