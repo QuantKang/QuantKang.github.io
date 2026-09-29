@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [RDTY](/rdty-vs-iwm/) | <span style="color: tomato">18.4<small>%</small></span> | 20.7<small>%</small> | 0.89 | -17.3<small>%</small> | -2.5<small>%</small> |
-| IWM | <span style="color: tomato">24.1<small>%</small></span> | 21.3<small>%</small> | 1.13 | -16.3<small>%</small> | -2.5<small>%</small> |
+| [RDTY](/rdty-vs-iwm/) | <span style="color: tomato">17.7<small>%</small></span> | 20.7<small>%</small> | 0.85 | -17.3<small>%</small> | -2.5<small>%</small> |
+| IWM | <span style="color: tomato">23.4<small>%</small></span> | 21.2<small>%</small> | 1.10 | -16.3<small>%</small> | -2.6<small>%</small> |
