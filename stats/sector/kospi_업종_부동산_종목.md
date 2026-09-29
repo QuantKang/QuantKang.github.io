@@ -5,7 +5,7 @@ excerpt: KOSPI 부동산 업종 종목별 시가총액 비중입니다. 종목�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-28
 ---
 
 
@@ -33,7 +33,7 @@ last_modified_at: 2026-09-23
 | 디앤디플랫폼리츠 | - | - | - | 2.1<small>%</small> |
 | NH올원리츠 | - | - | - | 1.8<small>%</small> |
 | 이지스레지던스리츠 | - | - | - | 1.4<small>%</small> |
-| SK디앤디 | 12.9 | 0.2 | 6.0<small>%</small> | 0.9<small>%</small> |
+| SK디앤디 | 13.5 | 0.2 | 5.7<small>%</small> | 0.9<small>%</small> |
 | NH프라임리츠 | - | - | - | 0.8<small>%</small> |
 | 미래에셋글로벌리츠 | - | - | - | 0.7<small>%</small> |
 | 미래에셋맵스리츠 | - | - | - | 0.5<small>%</small> |
