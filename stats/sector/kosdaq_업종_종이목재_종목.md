@@ -5,7 +5,7 @@ excerpt: KOSDAQ 종이목재 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-09-29
+last_modified_at: 2026-09-30
 ---
 
 
@@ -22,7 +22,7 @@ last_modified_at: 2026-09-29
 | 대림제지 | 14.1 | 0.3 | 0.9<small>%</small> | 7.6<small>%</small> |
 | 삼륭물산 | 10.5 | 1.1 | 2.5<small>%</small> | 5.4<small>%</small> |
 | 이건홀딩스 | - | 0.3 | 1.9<small>%</small> | 5.3<small>%</small> |
-| 한국팩키지 | 7.0 | 0.3 | 3.8<small>%</small> | 3.3<small>%</small> |
+| 한국팩키지 | 6.9 | 0.3 | 3.8<small>%</small> | 3.3<small>%</small> |
 | 무림SP | - | 0.1 | 1.3<small>%</small> | 2.2<small>%</small> |
 | 리더스코스메틱 | - | 0.8 | - | 1.8<small>%</small> |
 

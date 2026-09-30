@@ -5,7 +5,7 @@ excerpt: KOSDAQ 건설 업종 종목별 시가총액 비중입니다. 종목별�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-09-29
+last_modified_at: 2026-09-30
 ---
 
 
@@ -18,19 +18,19 @@ last_modified_at: 2026-09-29
 | :------- | ------: | ------: | ------: | -------: |
 | [LS마린솔루션](/060370/) | 149.8 | 2.6 | 0.5<small>%</small> | 36.6<small>%</small> |
 | 서희건설 | 3.3 | 0.4 | 4.6<small>%</small> | 10.1<small>%</small> |
-| 대명에너지 | 15.9 | 1.4 | - | 5.1<small>%</small> |
-| 세보엠이씨 | 6.3 | 0.8 | 2.6<small>%</small> | 4.9<small>%</small> |
+| 대명에너지 | 16.1 | 1.4 | - | 5.1<small>%</small> |
+| 세보엠이씨 | 6.5 | 0.8 | 2.5<small>%</small> | 4.9<small>%</small> |
 | 금화피에스시 | 6.6 | 0.5 | 4.7<small>%</small> | 4.6<small>%</small> |
 | 동원개발 | 7.1 | 0.2 | 4.4<small>%</small> | 4.4<small>%</small> |
 | 국보디자인 | 4.1 | 0.5 | 2.0<small>%</small> | 4.1<small>%</small> |
-| 일진파워 | 9.2 | 1.2 | 3.1<small>%</small> | 3.8<small>%</small> |
+| 일진파워 | 9.4 | 1.2 | 3.1<small>%</small> | 3.8<small>%</small> |
 | KCC건설 | 2.5 | 0.2 | 3.5<small>%</small> | 2.7<small>%</small> |
 | 플래스크 | 395.0 | 2.8 | - | 2.6<small>%</small> |
-| 세종텔레콤 | 24.6 | 0.5 | 3.9<small>%</small> | 2.5<small>%</small> |
-| 금양그린파워 | 3695.0 | 0.9 | - | 2.0<small>%</small> |
-| 동신건설 | 541.1 | 0.8 | 1.5<small>%</small> | 2.0<small>%</small> |
-| 서한 | 2.5 | 0.1 | 6.9<small>%</small> | 1.8<small>%</small> |
-| 남화토건 | 6.9 | 0.4 | 1.6<small>%</small> | 1.6<small>%</small> |
+| 세종텔레콤 | 24.4 | 0.5 | 3.9<small>%</small> | 2.5<small>%</small> |
+| 금양그린파워 | 3770.0 | 0.9 | - | 2.0<small>%</small> |
+| 동신건설 | 547.8 | 0.8 | 1.5<small>%</small> | 2.0<small>%</small> |
+| 서한 | 2.5 | 0.1 | 6.8<small>%</small> | 1.8<small>%</small> |
+| 남화토건 | 6.5 | 0.4 | 1.6<small>%</small> | 1.6<small>%</small> |
 | 특수건설 | - | 0.8 | 0.8<small>%</small> | 1.5<small>%</small> |
 | 이화공영 | 16.9 | 4.0 | - | 1.4<small>%</small> |
 | SGC E&C | - | 0.2 | - | 1.3<small>%</small> |
@@ -41,7 +41,7 @@ last_modified_at: 2026-09-29
 | 베노티앤알 | - | 0.5 | - | 0.8<small>%</small> |
 | 신원종합개발 | 5.3 | 0.2 | - | 0.6<small>%</small> |
 | 웰크론한텍 | - | 1.7 | - | 0.6<small>%</small> |
-| 엑사이엔씨 | 36.6 | 0.3 | - | 0.5<small>%</small> |
+| 엑사이엔씨 | 36.1 | 0.3 | - | 0.5<small>%</small> |
 | CNT85 | - | 0.3 | - | 0.5<small>%</small> |
 | KD | - | 0.4 | - | 0.1<small>%</small> |
 

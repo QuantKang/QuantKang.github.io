@@ -2,7 +2,7 @@
 title: 오렌시자사과일일의 네이버 블로그 최근 글 목록
 header:
   overlay_image: "/assets/images/report.jpg"
-last_modified_at: 2026-09-29
+last_modified_at: 2026-09-30
 excerpt: 오렌시자사과일일의 네이버 블로그에서 최근 작성한 글 50건을 정리한 목록입니다. 
 ##toc: true
 toc_sticky: false
@@ -18,6 +18,12 @@ categories:
 
 
 ## 최근 글 50건
+### [\[국내 ETF 시황\] 개인 순매수·순매도 TOP 5 (2026-09-30, 일일·5거래일)](https://m.blog.naver.com/orangeapplebooks/224427218929) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-30 · 일일 시황</sup>
+국내 상장 ETF를 대상으로 개인 투자자의 일일 및 5거래일 순매수·순매도 상위 5개 ETF를 정리했습니다. 대표 ETF의 수익률과 시장 전체 투자 주체별 순매수 금액도 함께 제공하여 시장의 전반적인 흐름을 한눈에 확인할 수 있도록 매일 업데이트합니다.
+
+### [\[액티브 ETF\] 신규 편입·편출 종목, 비중 변동 (2026-09-30, 일일)](https://m.blog.naver.com/orangeapplebooks/224426796327) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-30 · 액티브 ETF 포트폴리오 추적</sup>
+액티브 ETF의 구성내역(PDF; Portfolio Deposit File)을 기준으로 일일 신규 편입·편출 종목 및 주요 비중 변동을 정리합니다. PDF 기준일: 2026년 9월 30일 (2026년 9월 29일 대비) PDF의 기준일은 전거래일입니다.
+
 ### [\[국내 ETF 시황\] 개인 순매수·순매도 TOP 5 (2026-09-29, 일일·5거래일)](https://m.blog.naver.com/orangeapplebooks/224426081717) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-29 · 일일 시황</sup>
 국내 상장 ETF를 대상으로 개인 투자자의 일일 및 5거래일 순매수·순매도 상위 5개 ETF를 정리했습니다. 대표 ETF의 수익률과 시장 전체 투자 주체별 순매수 금액도 함께 제공하여 시장의 전반적인 흐름을 한눈에 확인할 수 있도록 매일 업데이트합니다.
 
@@ -27,13 +33,13 @@ categories:
 ### [\[국내 ETF 시황\] 개인 순매수·순매도 TOP 5 (2026-09-28, 일일·5거래일)](https://m.blog.naver.com/orangeapplebooks/224424986045) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-28 · 일일 시황</sup>
 국내 상장 ETF를 대상으로 개인 투자자의 일일 및 5거래일 순매수·순매도 상위 5개 ETF를 정리했습니다. 대표 ETF의 수익률과 시장 전체 투자 주체별 순매수 금액도 함께 제공하여 시장의 전반적인 흐름을 한눈에 확인할 수 있도록 매일 업데이트합니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [\[액티브 ETF\] 신규 편입·편출 종목, 비중 변동 (2026-09-28, 일일)](https://m.blog.naver.com/orangeapplebooks/224424629189) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-28 · 액티브 ETF 포트폴리오 추적</sup>
 액티브 ETF의 구성내역(PDF; Portfolio Deposit File)을 기준으로 일일 신규 편입·편출 종목 및 주요 비중 변동을 정리합니다. PDF 기준일: 2026년 9월 28일 (2026년 9월 23일 대비) PDF의 기준일은 전거래일입니다.
 
 ### [\[국내 ETF 시황\] 개인 순매수·순매도 TOP 5 (2026-09-23, 일일·5거래일)](https://m.blog.naver.com/orangeapplebooks/224421059315) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-23 · 일일 시황</sup>
 국내 상장 ETF를 대상으로 개인 투자자의 일일 및 5거래일 순매수·순매도 상위 5개 ETF를 정리했습니다. 대표 ETF의 수익률과 시장 전체 투자 주체별 순매수 금액도 함께 제공하여 시장의 전반적인 흐름을 한눈에 확인할 수 있도록 매일 업데이트합니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [\[액티브 ETF\] 신규 편입·편출 종목, 비중 변동 (2026-09-23, 일일)](https://m.blog.naver.com/orangeapplebooks/224420974614) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-23 · 액티브 ETF 포트폴리오 추적</sup>
 액티브 ETF의 구성내역(PDF; Portfolio Deposit File)을 기준으로 일일 신규 편입·편출 종목 및 주요 비중 변동을 정리합니다. PDF 기준일: 2026년 9월 23일 (2026년 9월 22일 대비) PDF의 기준일은 전거래일입니다.
@@ -59,13 +65,13 @@ categories:
 ### [\[국내 ETF 시황\] 개인 순매수·순매도 TOP 5 (2026-09-17, 일일·5거래일)](https://m.blog.naver.com/orangeapplebooks/224415106772) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-17 · 일일 시황</sup>
 국내 상장 ETF를 대상으로 개인 투자자의 일일 및 5거래일 순매수·순매도 상위 5개 ETF를 정리했습니다. 대표 ETF의 수익률과 시장 전체 투자 주체별 순매수 금액도 함께 제공하여 시장의 전반적인 흐름을 한눈에 확인할 수 있도록 매일 업데이트합니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [\[액티브 ETF\] 신규 편입·편출 종목, 비중 변동 (2026-09-17, 일일)](https://m.blog.naver.com/orangeapplebooks/224414755078) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-17 · 액티브 ETF 포트폴리오 추적</sup>
 액티브 ETF의 구성내역(PDF; Portfolio Deposit File)을 기준으로 일일 신규 편입·편출 종목 및 주요 비중 변동을 정리합니다. PDF 기준일: 2026년 9월 17일 (2026년 9월 16일 대비) PDF의 기준일은 전거래일입니다.
 
 ### [\[국내 ETF 시황\] 개인 순매수·순매도 TOP 5 (2026-09-16, 일일·5거래일)](https://m.blog.naver.com/orangeapplebooks/224413884248) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-16 · 일일 시황</sup>
 국내 상장 ETF를 대상으로 개인 투자자의 일일 및 5거래일 순매수·순매도 상위 5개 ETF를 정리했습니다. 대표 ETF의 수익률과 시장 전체 투자 주체별 순매수 금액도 함께 제공하여 시장의 전반적인 흐름을 한눈에 확인할 수 있도록 매일 업데이트합니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [\[액티브 ETF\] 신규 편입·편출 종목, 비중 변동 (2026-09-16, 일일)](https://m.blog.naver.com/orangeapplebooks/224413732922) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-16 · 액티브 ETF 포트폴리오 추적</sup>
 액티브 ETF의 구성내역(PDF; Portfolio Deposit File)을 기준으로 일일 신규 편입·편출 종목 및 주요 비중 변동을 정리합니다. PDF 기준일: 2026년 9월 16일 (2026년 9월 15일 대비) PDF의 기준일은 전거래일입니다.
@@ -91,13 +97,13 @@ categories:
 ### [\[국내 ETF 시황\] 개인 순매수·순매도 TOP 5 (2026-09-10, 일일·5거래일)](https://m.blog.naver.com/orangeapplebooks/224407485292) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-10 · 일일 시황</sup>
 국내 상장 ETF를 대상으로 개인 투자자의 일일 및 5거래일 순매수·순매도 상위 5개 ETF를 정리했습니다. 대표 ETF의 수익률과 시장 전체 투자 주체별 순매수 금액도 함께 제공하여 시장의 전반적인 흐름을 한눈에 확인할 수 있도록 매일 업데이트합니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [\[액티브 ETF\] 신규 편입·편출 종목, 비중 변동 (2026-09-10, 일일)](https://m.blog.naver.com/orangeapplebooks/224407251938) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-10 · 액티브 ETF 포트폴리오 추적</sup>
 액티브 ETF의 구성내역(PDF; Portfolio Deposit File)을 기준으로 일일 신규 편입·편출 종목 및 주요 비중 변동을 정리합니다. PDF 기준일: 2026년 9월 10일 (2026년 9월 9일 대비) PDF의 기준일은 전거래일입니다.
 
 ### [\[국내 ETF 시황\] 개인 순매수·순매도 TOP 5 (2026-09-09, 일일·5거래일)](https://m.blog.naver.com/orangeapplebooks/224406250890) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-09 · 일일 시황</sup>
 국내 상장 ETF를 대상으로 개인 투자자의 일일 및 5거래일 순매수·순매도 상위 5개 ETF를 정리했습니다. 대표 ETF의 수익률과 시장 전체 투자 주체별 순매수 금액도 함께 제공하여 시장의 전반적인 흐름을 한눈에 확인할 수 있도록 매일 업데이트합니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [\[액티브 ETF\] 신규 편입·편출 종목, 비중 변동 (2026-09-09, 일일)](https://m.blog.naver.com/orangeapplebooks/224405969864) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-09 · 액티브 ETF 포트폴리오 추적</sup>
 액티브 ETF의 구성내역(PDF; Portfolio Deposit File)을 기준으로 일일 신규 편입·편출 종목 및 주요 비중 변동을 정리합니다. PDF 기준일: 2026년 9월 9일 (2026년 9월 8일 대비) PDF의 기준일은 전거래일입니다.
@@ -123,13 +129,13 @@ categories:
 ### [\[국내 ETF 시황\] 개인 순매수·순매도 TOP 5 (2026-09-03, 일일·5거래일)](https://m.blog.naver.com/orangeapplebooks/224399854769) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-03 · 일일 시황</sup>
 국내 상장 ETF를 대상으로 개인 투자자의 일일 및 5거래일 순매수·순매도 상위 5개 ETF를 정리했습니다. 대표 ETF의 수익률과 시장 전체 투자 주체별 순매수 금액도 함께 제공하여 시장의 전반적인 흐름을 한눈에 확인할 수 있도록 매일 업데이트합니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [\[액티브 ETF\] 신규 편입·편출 종목, 비중 변동 (2026-09-03, 일일)](https://m.blog.naver.com/orangeapplebooks/224399455851) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-03 · 액티브 ETF 포트폴리오 추적</sup>
 액티브 ETF의 구성내역(PDF; Portfolio Deposit File)을 기준으로 일일 신규 편입·편출 종목 및 주요 비중 변동을 정리합니다. PDF 기준일: 2026년 9월 3일 (2026년 9월 2일 대비) PDF의 기준일은 전거래일입니다.
 
 ### [\[국내 ETF 시황\] 개인 순매수·순매도 TOP 5 (2026-09-02, 일일·5거래일)](https://m.blog.naver.com/orangeapplebooks/224398652384) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-02 · 일일 시황</sup>
 국내 상장 ETF를 대상으로 개인 투자자의 일일 및 5거래일 순매수·순매도 상위 5개 ETF를 정리했습니다. 대표 ETF의 수익률과 시장 전체 투자 주체별 순매수 금액도 함께 제공하여 시장의 전반적인 흐름을 한눈에 확인할 수 있도록 매일 업데이트합니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [\[액티브 ETF\] 신규 편입·편출 종목, 비중 변동 (2026-09-02, 일일)](https://m.blog.naver.com/orangeapplebooks/224398574345) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-02 · 액티브 ETF 포트폴리오 추적</sup>
 액티브 ETF의 구성내역(PDF; Portfolio Deposit File)을 기준으로 일일 신규 편입·편출 종목 및 주요 비중 변동을 정리합니다. PDF 기준일: 2026년 9월 2일 (2026년 9월 1일 대비) PDF의 기준일은 전거래일입니다.
@@ -155,13 +161,13 @@ categories:
 ### [\[국내 ETF 시황\] 개인 순매수·순매도 TOP 5 (2026-08-27, 일일·5거래일)](https://m.blog.naver.com/orangeapplebooks/224392164327) <sup style="font-weight: normal; font-size: 0.7em;">2026-08-27 · 일일 시황</sup>
 국내 상장 ETF를 대상으로 개인 투자자의 일일 및 5거래일 순매수·순매도 상위 5개 ETF를 정리했습니다. 대표 ETF의 수익률과 시장 전체 투자 주체별 순매수 금액도 함께 제공하여 시장의 전반적인 흐름을 한눈에 확인할 수 있도록 매일 업데이트합니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [\[액티브 ETF\] 신규 편입·편출 종목, 비중 변동 (2026-08-27, 일일)](https://m.blog.naver.com/orangeapplebooks/224391778406) <sup style="font-weight: normal; font-size: 0.7em;">2026-08-27 · 액티브 ETF 포트폴리오 추적</sup>
 액티브 ETF의 구성내역(PDF; Portfolio Deposit File)을 기준으로 일일 신규 편입·편출 종목 및 주요 비중 변동을 정리합니다. PDF 기준일: 2026년 8월 27일 (2026년 8월 26일 대비) PDF의 기준일은 전거래일입니다.
 
 ### [\[국내 ETF 시황\] 개인 순매수·순매도 TOP 5 (2026-08-26, 일일·5거래일)](https://m.blog.naver.com/orangeapplebooks/224390988261) <sup style="font-weight: normal; font-size: 0.7em;">2026-08-26 · 일일 시황</sup>
 국내 상장 ETF를 대상으로 개인 투자자의 일일 및 5거래일 순매수·순매도 상위 5개 ETF를 정리했습니다. 대표 ETF의 수익률과 시장 전체 투자 주체별 순매수 금액도 함께 제공하여 시장의 전반적인 흐름을 한눈에 확인할 수 있도록 매일 업데이트합니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [\[액티브 ETF\] 신규 편입·편출 종목, 비중 변동 (2026-08-26, 일일)](https://m.blog.naver.com/orangeapplebooks/224390522837) <sup style="font-weight: normal; font-size: 0.7em;">2026-08-26 · 액티브 ETF 포트폴리오 추적</sup>
 액티브 ETF의 구성내역(PDF; Portfolio Deposit File)을 기준으로 일일 신규 편입·편출 종목 및 주요 비중 변동을 정리합니다. PDF 기준일: 2026년 8월 26일 (2026년 8월 25일 대비) PDF의 기준일은 전거래일입니다.
@@ -171,12 +177,6 @@ categories:
 
 ### [\[액티브 ETF\] 신규 편입·편출 종목, 비중 변동 (2026-08-25, 일일)](https://m.blog.naver.com/orangeapplebooks/224389540318) <sup style="font-weight: normal; font-size: 0.7em;">2026-08-25 · 액티브 ETF 포트폴리오 추적</sup>
 액티브 ETF의 구성내역(PDF; Portfolio Deposit File)을 기준으로 일일 신규 편입·편출 종목 및 주요 비중 변동을 정리합니다. PDF 기준일: 2026년 8월 25일 (2026년 8월 24일 대비) PDF의 기준일은 전거래일입니다.
-
-### [\[국내 ETF 시황\] 개인 순매수·순매도 TOP 5 (2026-08-24, 일일·5거래일)](https://m.blog.naver.com/orangeapplebooks/224388799863) <sup style="font-weight: normal; font-size: 0.7em;">2026-08-24 · 일일 시황</sup>
-국내 상장 ETF를 대상으로 개인 투자자의 일일 및 5거래일 순매수·순매도 상위 5개 ETF를 정리했습니다. 대표 ETF의 수익률과 시장 전체 투자 주체별 순매수 금액도 함께 제공하여 시장의 전반적인 흐름을 한눈에 확인할 수 있도록 매일 업데이트합니다.
-
-### [\[액티브 ETF\] 신규 편입·편출 종목, 비중 변동 (2026-08-24, 일일)](https://m.blog.naver.com/orangeapplebooks/224388812573) <sup style="font-weight: normal; font-size: 0.7em;">2026-08-24 · 액티브 ETF 포트폴리오 추적</sup>
-액티브 ETF의 구성내역(PDF; Portfolio Deposit File)을 기준으로 일일 신규 편입·편출 종목 및 주요 비중 변동을 정리합니다. PDF 기준일: 2026년 8월 24일 (2026년 8월 21일 대비) PDF의 기준일은 전거래일입니다.
 
 
 
