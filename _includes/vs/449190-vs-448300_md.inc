@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KODEX 미국나스닥100(H)](/449190-vs-448300/) | <span style="color: tomato">24.9<small>%</small></span> | 21.5<small>%</small> | 1.16 | -25.8<small>%</small> | -3.4<small>%</small> |
-| TIGER 미국나스닥100TR(H) | <span style="color: tomato">25.0<small>%</small></span> | 21.6<small>%</small> | 1.15 | -25.7<small>%</small> | -3.4<small>%</small> |
+| [KODEX 미국나스닥100(H)](/449190-vs-448300/) | <span style="color: tomato">25.0<small>%</small></span> | 21.5<small>%</small> | 1.16 | -25.8<small>%</small> | -3.4<small>%</small> |
+| TIGER 미국나스닥100TR(H) | <span style="color: tomato">25.0<small>%</small></span> | 21.6<small>%</small> | 1.16 | -25.7<small>%</small> | -3.4<small>%</small> |

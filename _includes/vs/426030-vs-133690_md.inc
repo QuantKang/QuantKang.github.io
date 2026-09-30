@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [TIMEFOLIO 미국나스닥100액티브](/426030-vs-133690/) | <span style="color: tomato">41.8<small>%</small></span> | 32.2<small>%</small> | 1.30 | -35.0<small>%</small> | -6.8<small>%</small> |
+| [TIMEFOLIO 미국나스닥100액티브](/426030-vs-133690/) | <span style="color: tomato">42.0<small>%</small></span> | 32.2<small>%</small> | 1.30 | -35.0<small>%</small> | -6.8<small>%</small> |
 | TIGER 미국나스닥100 | <span style="color: tomato">24.5<small>%</small></span> | 20.8<small>%</small> | 1.18 | -24.3<small>%</small> | -4.7<small>%</small> |
