@@ -1,7 +1,7 @@
 ---
 layout: single
 title: NFLY vs Netflix Inc (NFLX)
-excerpt: NFLY의 최근 3년 1개월 CAGR은 9.5%로 Netflix Inc (NFLX)의 15.8%보다 -6.3% 낮았습니다.
+excerpt: NFLY의 최근 3년 1개월 CAGR은 9.7%로 Netflix Inc (NFLX)의 15.8%보다 -6.2% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ NFLY의 수익률이 NFLX보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| NFLY | <span style="color: tomato">9.5<small>%</small></span> | 28.1<small>%</small> | 0.34 | -43.9<small>%</small> | -11.6<small>%</small> |
+| NFLY | <span style="color: tomato">9.7<small>%</small></span> | 28.1<small>%</small> | 0.34 | -43.9<small>%</small> | -11.6<small>%</small> |
 | NFLX | <span style="color: tomato">15.8<small>%</small></span> | 33.8<small>%</small> | 0.47 | -49.5<small>%</small> | -13.7<small>%</small> |
 
 <!-- more -->
@@ -41,7 +41,7 @@ NFLY의 수익률이 NFLX보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** NFLY의 CAGR은 9.5%로 NFLX의 15.8%보다 -6.3% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** NFLY의 CAGR은 9.7%로 NFLX의 15.8%보다 -6.2% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** NFLY의 표준편차는 28.1%로 NFLX의 33.8%보다 -5.7% 낮았습니다. (낮은 위험도)
 
@@ -76,7 +76,7 @@ NFLX<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, NFL
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| NFLY | <span style="color: tomato">9.5<small>%</small></span> | 28.1<small>%</small> | 0.34 | -43.9<small>%</small> | -11.6<small>%</small> |
+| NFLY | <span style="color: tomato">9.7<small>%</small></span> | 28.1<small>%</small> | 0.34 | -43.9<small>%</small> | -11.6<small>%</small> |
 | NFLX | <span style="color: tomato">15.8<small>%</small></span> | 33.8<small>%</small> | 0.47 | -49.5<small>%</small> | -13.7<small>%</small> |
 | NFLX<sub>STD</sub> <small>(83%)</small> | <span style="color: tomato">13.9<small>%</small></span> | 28.1<small>%</small> | 0.49 | -42.9<small>%</small> | -11.5<small>%</small> |
 | NFLX<sub>MDD</sub> <small>(89%)</small> | <span style="color: tomato">14.5<small>%</small></span> | 29.9<small>%</small> | 0.49 | -45.1<small>%</small> | -12.2<small>%</small> |
@@ -85,9 +85,9 @@ NFLX<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, NFL
 
 각각의 경우를 NFLY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 83% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 13.9%로 NFLY의 9.5%보다 4.4% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 83% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 13.9%로 NFLY의 9.7%보다 4.2% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 89% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 14.5%로 NFLY의 9.5%보다 5.1% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 89% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 14.5%로 NFLY의 9.7%보다 4.9% 높았습니다. (높은 수익률)
 
 
 
@@ -100,7 +100,7 @@ NFLX<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, NFL
 지난 3년 1개월간 거치식으로 투자했다고 가정합니다.
 
 NFLX의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 14.2%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 NFLY의 9.5%보다 4.7% 높았습니다.
+이 포트폴리오는 NFLY의 9.7%보다 4.6% 높았습니다.
 
 ### NFLY &lt; NFLX
 {: .text-center}

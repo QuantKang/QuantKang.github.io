@@ -1,7 +1,7 @@
 ---
 layout: single
 title: NVDW vs NVDY
-excerpt: NVDW의 최근 1년 7개월 CAGR은 36.1%로 NVDY의 30.7%보다 5.4% 높았습니다.
+excerpt: NVDW의 최근 1년 7개월 CAGR은 36.1%로 NVDY의 31.3%보다 4.8% 높았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -34,14 +34,14 @@ NVDW의 수익률이 NVDY보다 지속적으로 우세하면 상승하고, 반�
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | NVDW | <span style="color: tomato">36.1<small>%</small></span> | 50.7<small>%</small> | 0.71 | -38.6<small>%</small> | -11.2<small>%</small> |
-| NVDY | <span style="color: tomato">30.7<small>%</small></span> | 33.6<small>%</small> | 0.91 | -29.3<small>%</small> | -6.5<small>%</small> |
+| NVDY | <span style="color: tomato">31.3<small>%</small></span> | 33.6<small>%</small> | 0.93 | -29.3<small>%</small> | -6.5<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** NVDW의 CAGR은 36.1%로 NVDY의 30.7%보다 5.4% 높았습니다. (높은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** NVDW의 CAGR은 36.1%로 NVDY의 31.3%보다 4.8% 높았습니다. (높은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** NVDW의 표준편차는 50.7%로 NVDY의 33.6%보다 17.2% 높았습니다. (높은 위험도)
 
@@ -77,17 +77,17 @@ NVDY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, NVD
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
 | NVDW | <span style="color: tomato">36.1<small>%</small></span> | 50.7<small>%</small> | 0.71 | -38.6<small>%</small> | -11.2<small>%</small> |
-| NVDY | <span style="color: tomato">30.7<small>%</small></span> | 33.6<small>%</small> | 0.91 | -29.3<small>%</small> | -6.5<small>%</small> |
-| NVDY<sub>STD</sub> <small>(151%)</small> | <span style="color: tomato">43.3<small>%</small></span> | 50.7<small>%</small> | 0.85 | -41.8<small>%</small> | -10.2<small>%</small> |
-| NVDY<sub>MDD</sub> <small>(132%)</small> | <span style="color: tomato">38.9<small>%</small></span> | 44.2<small>%</small> | 0.88 | -37.3<small>%</small> | -8.8<small>%</small> |
+| NVDY | <span style="color: tomato">31.3<small>%</small></span> | 33.6<small>%</small> | 0.93 | -29.3<small>%</small> | -6.5<small>%</small> |
+| NVDY<sub>STD</sub> <small>(151%)</small> | <span style="color: tomato">44.4<small>%</small></span> | 50.7<small>%</small> | 0.88 | -41.8<small>%</small> | -10.2<small>%</small> |
+| NVDY<sub>MDD</sub> <small>(132%)</small> | <span style="color: tomato">39.8<small>%</small></span> | 44.2<small>%</small> | 0.90 | -37.3<small>%</small> | -8.8<small>%</small> |
 
 
 
 각각의 경우를 NVDW의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 151% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 43.3%로 NVDW의 36.1%보다 7.2% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 151% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 44.4%로 NVDW의 36.1%보다 8.3% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 132% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 38.9%로 NVDW의 36.1%보다 2.8% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 132% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 39.8%로 NVDW의 36.1%보다 3.7% 높았습니다. (높은 수익률)
 
 
 
@@ -99,8 +99,8 @@ NVDY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, NVD
 
 지난 1년 7개월간 거치식으로 투자했다고 가정합니다.
 
-NVDY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 41.1%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 NVDW의 36.1%보다 5.0% 높았습니다.
+NVDY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 42.1%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 NVDW의 36.1%보다 6.0% 높았습니다.
 
 ### NVDW &lt; NVDY
 {: .text-center}

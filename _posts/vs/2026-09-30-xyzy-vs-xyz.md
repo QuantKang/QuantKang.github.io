@@ -1,7 +1,7 @@
 ---
 layout: single
 title: XYZY vs Block Inc (XYZ)
-excerpt: XYZY의 최근 2년 11개월 CAGR은 9.0%로 Block Inc (XYZ)의 16.5%보다 -7.5% 낮았습니다.
+excerpt: XYZY의 최근 2년 11개월 CAGR은 9.3%로 Block Inc (XYZ)의 16.5%보다 -7.3% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ XYZY의 수익률이 XYZ보다 지속적으로 우세하면 상승하고, 반대
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| XYZY | <span style="color: tomato">9.0<small>%</small></span> | 40.9<small>%</small> | 0.22 | -52.3<small>%</small> | -22.9<small>%</small> |
+| XYZY | <span style="color: tomato">9.3<small>%</small></span> | 40.9<small>%</small> | 0.23 | -52.3<small>%</small> | -22.9<small>%</small> |
 | XYZ | <span style="color: tomato">16.5<small>%</small></span> | 49.9<small>%</small> | 0.33 | -53.0<small>%</small> | -22.9<small>%</small> |
 
 <!-- more -->
@@ -41,7 +41,7 @@ XYZY의 수익률이 XYZ보다 지속적으로 우세하면 상승하고, 반대
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** XYZY의 CAGR은 9.0%로 XYZ의 16.5%보다 -7.5% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** XYZY의 CAGR은 9.3%로 XYZ의 16.5%보다 -7.3% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** XYZY의 표준편차는 40.9%로 XYZ의 49.9%보다 -9.0% 낮았습니다. (낮은 위험도)
 
@@ -76,7 +76,7 @@ XYZ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, XYZ<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| XYZY | <span style="color: tomato">9.0<small>%</small></span> | 40.9<small>%</small> | 0.22 | -52.3<small>%</small> | -22.9<small>%</small> |
+| XYZY | <span style="color: tomato">9.3<small>%</small></span> | 40.9<small>%</small> | 0.23 | -52.3<small>%</small> | -22.9<small>%</small> |
 | XYZ | <span style="color: tomato">16.5<small>%</small></span> | 49.9<small>%</small> | 0.33 | -53.0<small>%</small> | -22.9<small>%</small> |
 | XYZ<sub>STD</sub> <small>(82%)</small> | <span style="color: tomato">15.5<small>%</small></span> | 40.9<small>%</small> | 0.38 | -45.3<small>%</small> | -18.3<small>%</small> |
 | XYZ<sub>MDD</sub> <small>(99%)</small> | <span style="color: tomato">16.5<small>%</small></span> | 49.3<small>%</small> | 0.33 | -52.5<small>%</small> | -22.6<small>%</small> |
@@ -85,9 +85,9 @@ XYZ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, XYZ<
 
 각각의 경우를 XYZY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 82% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 15.5%로 XYZY의 9.0%보다 6.5% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 82% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 15.5%로 XYZY의 9.3%보다 6.2% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 99% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 16.5%로 XYZY의 9.0%보다 7.5% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 99% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 16.5%로 XYZY의 9.3%보다 7.2% 높았습니다. (높은 수익률)
 
 
 
@@ -100,7 +100,7 @@ XYZ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, XYZ<
 지난 2년 11개월간 거치식으로 투자했다고 가정합니다.
 
 XYZ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 16.0%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 XYZY의 9.0%보다 7.0% 높았습니다.
+이 포트폴리오는 XYZY의 9.3%보다 6.7% 높았습니다.
 
 ### XYZY &lt; XYZ
 {: .text-center}

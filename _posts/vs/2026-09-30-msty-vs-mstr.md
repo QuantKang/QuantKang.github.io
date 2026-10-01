@@ -1,7 +1,7 @@
 ---
 layout: single
 title: MSTY vs Microstrategy Inc (MSTR)
-excerpt: MSTY의 최근 2년 7개월 CAGR은 21.8%로 Microstrategy Inc (MSTR)의 34.1%보다 -12.3% 낮았습니다.
+excerpt: MSTY의 최근 2년 7개월 CAGR은 22.8%로 Microstrategy Inc (MSTR)의 34.1%보다 -11.3% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ MSTY의 수익률이 MSTR보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| MSTY | <span style="color: tomato">21.8<small>%</small></span> | 71.9<small>%</small> | 0.30 | -77.4<small>%</small> | -31.5<small>%</small> |
+| MSTY | <span style="color: tomato">22.8<small>%</small></span> | 71.9<small>%</small> | 0.32 | -77.4<small>%</small> | -31.5<small>%</small> |
 | MSTR | <span style="color: tomato">34.1<small>%</small></span> | 92.2<small>%</small> | 0.37 | -82.6<small>%</small> | -39.1<small>%</small> |
 
 <!-- more -->
@@ -41,7 +41,7 @@ MSTY의 수익률이 MSTR보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** MSTY의 CAGR은 21.8%로 MSTR의 34.1%보다 -12.3% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** MSTY의 CAGR은 22.8%로 MSTR의 34.1%보다 -11.3% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** MSTY의 표준편차는 71.9%로 MSTR의 92.2%보다 -20.3% 낮았습니다. (낮은 위험도)
 
@@ -76,7 +76,7 @@ MSTR<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, MST
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| MSTY | <span style="color: tomato">21.8<small>%</small></span> | 71.9<small>%</small> | 0.30 | -77.4<small>%</small> | -31.5<small>%</small> |
+| MSTY | <span style="color: tomato">22.8<small>%</small></span> | 71.9<small>%</small> | 0.32 | -77.4<small>%</small> | -31.5<small>%</small> |
 | MSTR | <span style="color: tomato">34.1<small>%</small></span> | 92.2<small>%</small> | 0.37 | -82.6<small>%</small> | -39.1<small>%</small> |
 | MSTR<sub>STD</sub> <small>(78%)</small> | <span style="color: tomato">34.9<small>%</small></span> | 71.9<small>%</small> | 0.49 | -72.5<small>%</small> | -31.0<small>%</small> |
 | MSTR<sub>MDD</sub> <small>(94%)</small> | <span style="color: tomato">34.9<small>%</small></span> | 86.4<small>%</small> | 0.40 | -80.0<small>%</small> | -36.7<small>%</small> |
@@ -85,9 +85,9 @@ MSTR<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, MST
 
 각각의 경우를 MSTY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 78% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 34.9%로 MSTY의 21.8%보다 13.1% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 78% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 34.9%로 MSTY의 22.8%보다 12.2% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 94% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 34.9%로 MSTY의 21.8%보다 13.1% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 94% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 34.9%로 MSTY의 22.8%보다 12.1% 높았습니다. (높은 수익률)
 
 
 
@@ -100,7 +100,7 @@ MSTR<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, MST
 지난 2년 7개월간 거치식으로 투자했다고 가정합니다.
 
 MSTR의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 34.9%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 MSTY의 21.8%보다 13.1% 높았습니다.
+이 포트폴리오는 MSTY의 22.8%보다 12.1% 높았습니다.
 
 ### MSTY &lt; MSTR
 {: .text-center}
