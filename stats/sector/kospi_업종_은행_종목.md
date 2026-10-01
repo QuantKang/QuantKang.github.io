@@ -5,7 +5,7 @@ excerpt: KOSPI 은행 업종 종목별 시가총액 비중입니다. 종목별�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-09-30
+last_modified_at: 2026-10-01
 ---
 
 
@@ -17,8 +17,8 @@ last_modified_at: 2026-09-30
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
 | [기업은행](/024110/) | 6.3 | 0.4 | 5.2<small>%</small> | 55.5<small>%</small> |
-| [카카오뱅크](/323410/) | 19.7 | 1.4 | 2.3<small>%</small> | 35.4<small>%</small> |
-| 케이뱅크 | 18.3 | 0.9 | - | 7.9<small>%</small> |
-| 제주은행 | 42.1 | 0.6 | 1.1<small>%</small> | 1.2<small>%</small> |
+| [카카오뱅크](/323410/) | 19.6 | 1.4 | 2.3<small>%</small> | 35.4<small>%</small> |
+| 케이뱅크 | 18.4 | 0.9 | - | 7.9<small>%</small> |
+| 제주은행 | 42.3 | 0.6 | 1.1<small>%</small> | 1.2<small>%</small> |
 
 {% include commons/footnotes.md %}

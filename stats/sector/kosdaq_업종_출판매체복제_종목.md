@@ -5,7 +5,7 @@ excerpt: KOSDAQ 출판매체복제 업종 종목별 시가총액 비중입니다
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-09-30
+last_modified_at: 2026-10-01
 ---
 
 
