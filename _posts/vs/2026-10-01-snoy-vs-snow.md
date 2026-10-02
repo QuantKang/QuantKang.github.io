@@ -1,7 +1,7 @@
 ---
 layout: single
 title: SNOY vs Snowflake Inc (SNOW)
-excerpt: SNOY의 최근 2년 3개월 CAGR은 47.0%로 Snowflake Inc (SNOW)의 52.9%보다 -5.9% 낮았습니다.
+excerpt: SNOY의 최근 2년 3개월 CAGR은 47.6%로 Snowflake Inc (SNOW)의 52.9%보다 -5.3% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ SNOY의 수익률이 SNOW보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SNOY | <span style="color: tomato">47.0<small>%</small></span> | 50.1<small>%</small> | 0.94 | -50.9<small>%</small> | -11.4<small>%</small> |
+| SNOY | <span style="color: tomato">47.6<small>%</small></span> | 50.1<small>%</small> | 0.95 | -50.9<small>%</small> | -11.4<small>%</small> |
 | SNOW | <span style="color: tomato">52.9<small>%</small></span> | 59.5<small>%</small> | 0.89 | -56.3<small>%</small> | -14.5<small>%</small> |
 
 <!-- more -->
@@ -41,7 +41,7 @@ SNOY의 수익률이 SNOW보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** SNOY의 CAGR은 47.0%로 SNOW의 52.9%보다 -5.9% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** SNOY의 CAGR은 47.6%로 SNOW의 52.9%보다 -5.3% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** SNOY의 표준편차는 50.1%로 SNOW의 59.5%보다 -9.4% 낮았습니다. (낮은 위험도)
 
@@ -76,18 +76,18 @@ SNOW<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SNO
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| SNOY | <span style="color: tomato">47.0<small>%</small></span> | 50.1<small>%</small> | 0.94 | -50.9<small>%</small> | -11.4<small>%</small> |
+| SNOY | <span style="color: tomato">47.6<small>%</small></span> | 50.1<small>%</small> | 0.95 | -50.9<small>%</small> | -11.4<small>%</small> |
 | SNOW | <span style="color: tomato">52.9<small>%</small></span> | 59.5<small>%</small> | 0.89 | -56.3<small>%</small> | -14.5<small>%</small> |
-| SNOW<sub>STD</sub> <small>(84%)</small> | <span style="color: tomato">46.1<small>%</small></span> | 50.1<small>%</small> | 0.92 | -49.7<small>%</small> | -12.4<small>%</small> |
+| SNOW<sub>STD</sub> <small>(84%)</small> | <span style="color: tomato">46.1<small>%</small></span> | 50.1<small>%</small> | 0.92 | -49.8<small>%</small> | -12.4<small>%</small> |
 | SNOW<sub>MDD</sub> <small>(90%)</small> | <span style="color: tomato">48.9<small>%</small></span> | 53.8<small>%</small> | 0.91 | -52.4<small>%</small> | -13.2<small>%</small> |
 
 
 
 각각의 경우를 SNOY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 84% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 46.1%로 SNOY의 47.0%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (표준편차):** 84% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 46.1%로 SNOY의 47.6%보다 -1.5% 낮았습니다. (낮은 수익률)
 
-**위험도 지표 (MDD):** 90% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 48.9%로 SNOY의 47.0%보다 1.9% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 90% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 48.9%로 SNOY의 47.6%보다 1.2% 높았습니다. (높은 수익률)
 
 
 
@@ -100,7 +100,7 @@ SNOW<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SNO
 지난 2년 3개월간 거치식으로 투자했다고 가정합니다.
 
 SNOW의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 47.5%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 SNOY의 47.0%와 비슷했습니다.
+이 포트폴리오는 SNOY의 47.6%와 비슷했습니다.
 
 ### SNOY ≒ SNOW
 {: .text-center}

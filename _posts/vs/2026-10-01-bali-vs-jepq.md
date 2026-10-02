@@ -1,7 +1,7 @@
 ---
 layout: single
 title: BALI vs JEPQ
-excerpt: BALI의 최근 3년 CAGR은 20.6%로 JEPQ의 21.5%와 비슷했습니다.
+excerpt: BALI의 최근 3년 CAGR은 20.8%로 JEPQ의 21.9%보다 -1.0% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,15 +33,15 @@ BALI의 수익률이 JEPQ보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| BALI | <span style="color: tomato">20.6<small>%</small></span> | 12.6<small>%</small> | 1.63 | -16.6<small>%</small> | -1.6<small>%</small> |
-| JEPQ | <span style="color: tomato">21.5<small>%</small></span> | 15.6<small>%</small> | 1.38 | -20.1<small>%</small> | -2.1<small>%</small> |
+| BALI | <span style="color: tomato">20.8<small>%</small></span> | 12.6<small>%</small> | 1.65 | -16.6<small>%</small> | -1.6<small>%</small> |
+| JEPQ | <span style="color: tomato">21.9<small>%</small></span> | 15.6<small>%</small> | 1.41 | -20.1<small>%</small> | -2.1<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** BALI의 CAGR은 20.6%로 JEPQ의 21.5%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** BALI의 CAGR은 20.8%로 JEPQ의 21.9%보다 -1.0% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** BALI의 표준편차는 12.6%로 JEPQ의 15.6%보다 -2.9% 낮았습니다. (낮은 위험도)
 
@@ -76,18 +76,18 @@ JEPQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| BALI | <span style="color: tomato">20.6<small>%</small></span> | 12.6<small>%</small> | 1.63 | -16.6<small>%</small> | -1.6<small>%</small> |
-| JEPQ | <span style="color: tomato">21.5<small>%</small></span> | 15.6<small>%</small> | 1.38 | -20.1<small>%</small> | -2.1<small>%</small> |
-| JEPQ<sub>STD</sub> <small>(81%)</small> | <span style="color: tomato">17.3<small>%</small></span> | 12.6<small>%</small> | 1.37 | -16.6<small>%</small> | -1.7<small>%</small> |
-| JEPQ<sub>MDD</sub> <small>(83%)</small> | <span style="color: tomato">17.7<small>%</small></span> | 12.9<small>%</small> | 1.37 | -16.9<small>%</small> | -1.7<small>%</small> |
+| BALI | <span style="color: tomato">20.8<small>%</small></span> | 12.6<small>%</small> | 1.65 | -16.6<small>%</small> | -1.6<small>%</small> |
+| JEPQ | <span style="color: tomato">21.9<small>%</small></span> | 15.6<small>%</small> | 1.41 | -20.1<small>%</small> | -2.1<small>%</small> |
+| JEPQ<sub>STD</sub> <small>(81%)</small> | <span style="color: tomato">17.6<small>%</small></span> | 12.6<small>%</small> | 1.40 | -16.6<small>%</small> | -1.7<small>%</small> |
+| JEPQ<sub>MDD</sub> <small>(83%)</small> | <span style="color: tomato">18.0<small>%</small></span> | 12.9<small>%</small> | 1.40 | -16.9<small>%</small> | -1.7<small>%</small> |
 
 
 
 각각의 경우를 BALI의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 81% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 17.3%로 BALI의 20.6%보다 -3.3% 낮았습니다. (낮은 수익률)
+**위험도 지표 (표준편차):** 81% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 17.6%로 BALI의 20.8%보다 -3.2% 낮았습니다. (낮은 수익률)
 
-**위험도 지표 (MDD):** 83% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 17.7%로 BALI의 20.6%보다 -2.9% 낮았습니다. (낮은 수익률)
+**위험도 지표 (MDD):** 83% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 18.0%로 BALI의 20.8%보다 -2.8% 낮았습니다. (낮은 수익률)
 
 
 
@@ -99,8 +99,8 @@ JEPQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, JEP
 
 지난 3년간 거치식으로 투자했다고 가정합니다.
 
-JEPQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 17.5%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 BALI의 20.6%보다 -3.1% 낮았습니다.
+JEPQ의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 17.8%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 BALI의 20.8%보다 -3.0% 낮았습니다.
 
 ### BALI &gt; JEPQ
 {: .text-center}

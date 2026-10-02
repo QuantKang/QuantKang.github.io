@@ -1,7 +1,7 @@
 ---
 layout: single
 title: WDTE vs SPY
-excerpt: WDTE의 최근 3년 CAGR은 13.6%로 SPY의 21.1%보다 -7.6% 낮았습니다.
+excerpt: WDTE의 최근 3년 CAGR은 13.8%로 SPY의 21.1%보다 -7.3% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -31,7 +31,7 @@ WDTE의 수익률이 SPY보다 지속적으로 우세하면 상승하고, 반대
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| WDTE | <span style="color: tomato">13.6<small>%</small></span> | 11.3<small>%</small> | 1.20 | -15.8<small>%</small> | -1.8<small>%</small> |
+| WDTE | <span style="color: tomato">13.8<small>%</small></span> | 11.3<small>%</small> | 1.22 | -15.8<small>%</small> | -1.8<small>%</small> |
 | SPY | <span style="color: tomato">21.1<small>%</small></span> | 15.2<small>%</small> | 1.39 | -18.8<small>%</small> | -1.9<small>%</small> |
 
 <!-- more -->
@@ -39,7 +39,7 @@ WDTE의 수익률이 SPY보다 지속적으로 우세하면 상승하고, 반대
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** WDTE의 CAGR은 13.6%로 SPY의 21.1%보다 -7.6% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** WDTE의 CAGR은 13.8%로 SPY의 21.1%보다 -7.3% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** WDTE의 표준편차는 11.3%로 SPY의 15.2%보다 -3.9% 낮았습니다. (낮은 위험도)
 
@@ -74,7 +74,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| WDTE | <span style="color: tomato">13.6<small>%</small></span> | 11.3<small>%</small> | 1.20 | -15.8<small>%</small> | -1.8<small>%</small> |
+| WDTE | <span style="color: tomato">13.8<small>%</small></span> | 11.3<small>%</small> | 1.22 | -15.8<small>%</small> | -1.8<small>%</small> |
 | SPY | <span style="color: tomato">21.1<small>%</small></span> | 15.2<small>%</small> | 1.39 | -18.8<small>%</small> | -1.9<small>%</small> |
 | SPY<sub>STD</sub> <small>(74%)</small> | <span style="color: tomato">15.5<small>%</small></span> | 11.3<small>%</small> | 1.38 | -14.2<small>%</small> | -1.4<small>%</small> |
 | SPY<sub>MDD</sub> <small>(84%)</small> | <span style="color: tomato">17.8<small>%</small></span> | 12.9<small>%</small> | 1.38 | -16.0<small>%</small> | -1.6<small>%</small> |
@@ -83,9 +83,9 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 
 각각의 경우를 WDTE의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 74% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 15.5%로 WDTE의 13.6%보다 1.9% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 74% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 15.5%로 WDTE의 13.8%보다 1.7% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 84% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 17.8%로 WDTE의 13.6%보다 4.2% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 84% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 17.8%로 WDTE의 13.8%보다 4.0% 높았습니다. (높은 수익률)
 
 
 
@@ -98,7 +98,7 @@ SPY<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, SPY<
 지난 3년간 거치식으로 투자했다고 가정합니다.
 
 SPY의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 16.7%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 WDTE의 13.6%보다 3.1% 높았습니다.
+이 포트폴리오는 WDTE의 13.8%보다 2.8% 높았습니다.
 
 ### WDTE &lt; SPY
 {: .text-center}

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: IWMY vs RYLD
-excerpt: IWMY의 최근 2년 11개월 CAGR은 11.0%로 RYLD의 11.1%와 비슷했습니다.
+excerpt: IWMY의 최근 2년 11개월 CAGR은 11.2%로 RYLD의 11.1%와 비슷했습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ IWMY의 수익률이 RYLD보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| IWMY | <span style="color: tomato">11.0<small>%</small></span> | 15.5<small>%</small> | 0.71 | -18.7<small>%</small> | -2.9<small>%</small> |
+| IWMY | <span style="color: tomato">11.2<small>%</small></span> | 15.5<small>%</small> | 0.72 | -18.7<small>%</small> | -2.9<small>%</small> |
 | RYLD | <span style="color: tomato">11.1<small>%</small></span> | 12.6<small>%</small> | 0.89 | -19.0<small>%</small> | -2.5<small>%</small> |
 
 <!-- more -->
@@ -41,7 +41,7 @@ IWMY의 수익률이 RYLD보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** IWMY의 CAGR은 11.0%로 RYLD의 11.1%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** IWMY의 CAGR은 11.2%로 RYLD의 11.1%와 비슷했습니다. (비슷한 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** IWMY의 표준편차는 15.5%로 RYLD의 12.6%보다 2.9% 높았습니다. (높은 위험도)
 
@@ -76,7 +76,7 @@ RYLD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, RYL
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| IWMY | <span style="color: tomato">11.0<small>%</small></span> | 15.5<small>%</small> | 0.71 | -18.7<small>%</small> | -2.9<small>%</small> |
+| IWMY | <span style="color: tomato">11.2<small>%</small></span> | 15.5<small>%</small> | 0.72 | -18.7<small>%</small> | -2.9<small>%</small> |
 | RYLD | <span style="color: tomato">11.1<small>%</small></span> | 12.6<small>%</small> | 0.89 | -19.0<small>%</small> | -2.5<small>%</small> |
 | RYLD<sub>STD</sub> <small>(123%)</small> | <span style="color: tomato">13.7<small>%</small></span> | 15.5<small>%</small> | 0.88 | -23.0<small>%</small> | -3.1<small>%</small> |
 | RYLD<sub>MDD</sub> <small>(98%)</small> | <span style="color: tomato">11.0<small>%</small></span> | 12.4<small>%</small> | 0.89 | -18.7<small>%</small> | -2.4<small>%</small> |
@@ -85,9 +85,9 @@ RYLD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, RYL
 
 각각의 경우를 IWMY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 123% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 13.7%로 IWMY의 11.0%보다 2.7% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 123% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 13.7%로 IWMY의 11.2%보다 2.5% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 98% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 11.0%로 IWMY의 11.0%와 비슷했습니다. (비슷한 수익률)
+**위험도 지표 (MDD):** 98% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 11.0%로 IWMY의 11.2%와 비슷했습니다. (비슷한 수익률)
 
 
 
@@ -100,7 +100,7 @@ RYLD<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, RYL
 지난 2년 11개월간 거치식으로 투자했다고 가정합니다.
 
 RYLD의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 12.3%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 IWMY의 11.0%보다 1.4% 높았습니다.
+이 포트폴리오는 IWMY의 11.2%보다 1.1% 높았습니다.
 
 ### IWMY &lt; RYLD
 {: .text-center}

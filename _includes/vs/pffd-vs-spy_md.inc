@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [PFFD](/pffd-vs-spy/) | <span style="color: tomato">1.9<small>%</small></span> | 12.6<small>%</small> | 0.15 | -30.9<small>%</small> | -6.5<small>%</small> |
+| [PFFD](/pffd-vs-spy/) | <span style="color: tomato">2.0<small>%</small></span> | 12.6<small>%</small> | 0.16 | -30.9<small>%</small> | -6.5<small>%</small> |
 | SPY | <span style="color: tomato">14.9<small>%</small></span> | 18.6<small>%</small> | 0.80 | -33.7<small>%</small> | -4.7<small>%</small> |

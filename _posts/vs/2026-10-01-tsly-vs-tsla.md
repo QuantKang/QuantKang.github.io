@@ -1,7 +1,7 @@
 ---
 layout: single
 title: TSLY vs Tesla Inc (TSLA)
-excerpt: TSLY의 최근 3년 10개월 CAGR은 7.7%로 Tesla Inc (TSLA)의 18.6%보다 -11.0% 낮았습니다.
+excerpt: TSLY의 최근 3년 10개월 CAGR은 8.0%로 Tesla Inc (TSLA)의 18.6%보다 -10.7% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ TSLY의 수익률이 TSLA보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| TSLY | <span style="color: tomato">7.7<small>%</small></span> | 45.2<small>%</small> | 0.17 | -49.5<small>%</small> | -19.8<small>%</small> |
+| TSLY | <span style="color: tomato">8.0<small>%</small></span> | 45.2<small>%</small> | 0.18 | -49.5<small>%</small> | -19.8<small>%</small> |
 | TSLA | <span style="color: tomato">18.6<small>%</small></span> | 58.1<small>%</small> | 0.32 | -53.8<small>%</small> | -21.8<small>%</small> |
 
 <!-- more -->
@@ -41,7 +41,7 @@ TSLY의 수익률이 TSLA보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** TSLY의 CAGR은 7.7%로 TSLA의 18.6%보다 -11.0% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** TSLY의 CAGR은 8.0%로 TSLA의 18.6%보다 -10.7% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** TSLY의 표준편차는 45.2%로 TSLA의 58.1%보다 -12.9% 낮았습니다. (낮은 위험도)
 
@@ -76,7 +76,7 @@ TSLA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, TSL
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| TSLY | <span style="color: tomato">7.7<small>%</small></span> | 45.2<small>%</small> | 0.17 | -49.5<small>%</small> | -19.8<small>%</small> |
+| TSLY | <span style="color: tomato">8.0<small>%</small></span> | 45.2<small>%</small> | 0.18 | -49.5<small>%</small> | -19.8<small>%</small> |
 | TSLA | <span style="color: tomato">18.6<small>%</small></span> | 58.1<small>%</small> | 0.32 | -53.8<small>%</small> | -21.8<small>%</small> |
 | TSLA<sub>STD</sub> <small>(78%)</small> | <span style="color: tomato">17.6<small>%</small></span> | 45.2<small>%</small> | 0.39 | -44.5<small>%</small> | -16.7<small>%</small> |
 | TSLA<sub>MDD</sub> <small>(92%)</small> | <span style="color: tomato">18.5<small>%</small></span> | 53.5<small>%</small> | 0.35 | -50.6<small>%</small> | -20.0<small>%</small> |
@@ -85,9 +85,9 @@ TSLA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, TSL
 
 각각의 경우를 TSLY의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 78% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 17.6%로 TSLY의 7.7%보다 9.9% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 78% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 17.6%로 TSLY의 8.0%보다 9.6% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 92% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 18.5%로 TSLY의 7.7%보다 10.8% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 92% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 18.5%로 TSLY의 8.0%보다 10.5% 높았습니다. (높은 수익률)
 
 
 
@@ -100,7 +100,7 @@ TSLA<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, TSL
 지난 3년 10개월간 거치식으로 투자했다고 가정합니다.
 
 TSLA의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 18.0%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 TSLY의 7.7%보다 10.3% 높았습니다.
+이 포트폴리오는 TSLY의 8.0%보다 10.0% 높았습니다.
 
 ### TSLY &lt; TSLA
 {: .text-center}
