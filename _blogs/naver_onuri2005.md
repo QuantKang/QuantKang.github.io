@@ -2,7 +2,7 @@
 title: 오렌지사과의 네이버 블로그 최근 글 목록
 header:
   overlay_image: "/assets/images/report.jpg"
-last_modified_at: 2026-10-01
+last_modified_at: 2026-10-03
 excerpt: 오렌지사과의 네이버 블로그에서 최근 작성한 글 50건을 정리한 목록입니다. 
 ##toc: true
 toc_sticky: false
@@ -18,11 +18,22 @@ categories:
 
 
 ## 최근 글 50건
+### [QYLD, 10년 거치 + 30년 인출하면? (vs QQQ)](https://m.blog.naver.com/onuri2005/224421890095) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-03 · 주식투자</sup>
+Global X의 QYLD에 10년간 거치식으로 투자한다면, 은퇴 후 30년간 어느 정도의 현금 흐름을 만들 수 있을까요? QYLD와 기초자산에 해당되는 QQQ에 각각 2억원을 투자한다고 가정하고, 단순한 수익률 가정에 기반하여 두 ETF의 자산 변화와 현금 흐름을 비교해 봅니다.
+
+### [개인이 가장 많이 산 국내 ETF TOP 7 + 주간 수익률 TOP 7 \| 2026년 9월 4주차 (+4주간)](https://m.blog.naver.com/onuri2005/224429558198) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-02 · 주간 ETF 시황</sup>
+2026년 9월 4주차 기준, 개인 투자자가 가장 많이 순매수한 국내 상장 ETF TOP 7을 정리했습니다. KRX 데이터를 기반으로 개인 누적 순매수 금액 기준으로 집계한 주간 ETF 순위입니다.
+
+### [액티브 ETF 주간 신규 편입 및 편출 종목 (2026년 9월 4주차)](https://m.blog.naver.com/onuri2005/224429183865) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-02 · 액티브 ETF 포트폴리오 추적</sup>
+액티브 ETF의 구성내역(PDF; Portfolio Deposit File)을 기준으로 현재 구성 종목과 전주 대비 포트폴리오 신규 편입 및 편출 종목을 정리합니다. 본 시리즈는 매주 발행됩니다.
+
 ### [국내 상장 ETF 현황 - 종류, 규모와 순위 (2026년 9월)](https://m.blog.naver.com/onuri2005/224428396415) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-01 · 주식투자</sup>
 국내 상장 ETF를 순자산총액 기준으로 대분류별 비중과 각 분류에서 순자산총액이 큰 ETF를 정리합니다. 기준일: 2026년 9월 마지막 거래일 자산 기준: 순자산총액 (ETF의 규모를 나타내는 지표로, 시가총액과 유사) 기초 데이터 출처: 한국거래소 정리 방법 국내 주식시장의 대표 지수인 코스피 200과 코스닥 150, 미국 주식시장의 대표 지수인 S&P 500과 NASDAQ 100을 기준으로 관련 ETF를 분류했습니다.
 
 ### [현철이의 은퇴 계획 - 연 17%를 분배하는 커버드콜로 필요 현금 흐름이 유지될까? (KODEX 200타겟위클리커버드콜](https://m.blog.naver.com/onuri2005/224426951304) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-01 · 주식투자</sup>
 올해 60세인 현철이는 최근 은퇴를 했습니다. 보유한 금융자산 3억원으로 생활비를 마련해야 하는 상황입니다. 현금 흐름을 어떻게 만들지 고민이 됩니다. 현철이가 이리저리 알아보니 연환산 17%를 분배하는 KODEX 200타겟위클리커버드콜(498400)이라는 상품을 발견합니다.
+
+{% include /commons/ads/adsense.html %}
 
 ### [2.9억원 은퇴 계획 사례 - 개인연금·국민연금·부수입을 고려한 시뮬레이션 (예금에만 투자할 때)](https://m.blog.naver.com/onuri2005/224428197697) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-01 · 주식투자</sup>
 은오 카페 게시판에 올라와 있는 은퇴 자금 계산 사례를 시뮬레이션으로 살펴봅니다. 현금 흐름 계획은 대략 다음과 같습니다. 편의상 60세를 은퇴 시점으로 삼았으며, 해당 사례와 세부 사항이 다를 수 있습니다.
@@ -32,8 +43,6 @@ categories:
 
 ### [예금이의 은퇴 계획 - 예금만 고집할까? 아니면 주식에도 투자할까?](https://m.blog.naver.com/onuri2005/224426199211) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-30 · 주식투자</sup>
 올해 40세인 예금이는 30세부터 예금(적금 포함)으로 1억원의 자산을 만들었습니다. 앞으로 은퇴까지 20년이 남았는데 계속해서 예금 위주로 투자할지 고민이 됩니다. 장기 기대 수익률이 높은 주식 대신 예금에 투자하는 이유는 여러 가지가 있을 수 있으며, 예금이의 경우 주식의 변동성으로 인한 자산 평가액의 변동이 부담스럽기 때문입니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [XYLD, 10년 거치 + 30년 인출하면? (vs SPY)](https://m.blog.naver.com/onuri2005/224421760548) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-30 · 주식투자</sup>
 Global X의 XYLD에 10년간 거치식으로 투자한다면, 은퇴 후 30년간 어느 정도의 현금 흐름을 만들 수 있을까요? XYLD와 기초자산에 해당되는 SPY에 각각 2억원을 투자한다고 가정하고, 단순한 수익률 가정에 기반하여 두 ETF의 자산 변화와 현금 흐름을 비교해 봅니다.
@@ -56,6 +65,8 @@ KB자산운용의 RISE 미국S&P500데일리고정커버드콜(0138T0)에 10년�
 ### [RISE 200위클리커버드콜, 10년 거치 + 30년 인출하면? (vs KODEX 200)](https://m.blog.naver.com/onuri2005/224421733014) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-27 · 주식투자</sup>
 KB자산운용의 RISE 200위클리커버드콜(475720)에 10년간 거치식으로 투자한다면, 은퇴 후 30년간 어느 정도의 현금 흐름을 만들 수 있을까요? RISE 200위클리커버드콜과 기초자산에 해당되는 KODEX 200(069500)에 각각 2억원을 투자한다고 가정하고, 단순한 수익률 가정에 기반하여 두 ETF의 자산 변화와 현금 흐름을 비교해 봅니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [TIGER 200타겟위클리커버드콜, 10년 거치 + 30년 인출하면? (vs KODEX 200)](https://m.blog.naver.com/onuri2005/224421723114) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-26 · 주식투자</sup>
 미래에셋자산운용의 TIGER 200타겟위클리커버드콜(0104N0)에 10년간 거치식으로 투자한다면, 은퇴 후 30년간 어느 정도의 현금 흐름을 만들 수 있을까요? TIGER 200타겟위클리커버드콜과 기초자산에 해당되는 KODEX 200(069500)에 각각 2억원을 투자한다고 가정하고, 단순한 수익률 가정에 기반하여 두 ETF의 자산 변화와 현금 흐름을 비교해 봅니다.
 
@@ -64,8 +75,6 @@ KB자산운용의 RISE 200위클리커버드콜(475720)에 10년간 거치식으
 
 ### [KODEX 200타겟위클리커버드콜, 10년 거치 + 30년 인출하면? (vs KODEX 200)](https://m.blog.naver.com/onuri2005/224421708858) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-24 · 주식투자</sup>
 삼성자산운용의 KODEX 200타겟위클리커버드콜(498400)에 10년간 거치식으로 투자한다면, 은퇴 후 30년간 어느 정도의 현금 흐름을 만들 수 있을까요? KODEX 200타겟위클리커버드콜과 기초자산에 해당되는 KODEX 200(069500)에 각각 2억원을 투자한다고 가정하고, 단순한 수익률 가정에 기반하여 두 ETF의 자산 변화와 현금 흐름을 비교해 봅니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [액티브 ETF 주간 신규 편입 및 편출 종목 (2026년 9월 3주차)](https://m.blog.naver.com/onuri2005/224421077645) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-23 · 액티브 ETF 포트폴리오 추적</sup>
 액티브 ETF의 구성내역(PDF; Portfolio Deposit File)을 기준으로 현재 구성 종목과 전주 대비 포트폴리오 신규 편입 및 편출 종목을 정리합니다. 본 시리즈는 매주 발행됩니다.
@@ -88,6 +97,8 @@ KB자산운용의 RISE 200위클리커버드콜(475720)에 10년간 거치식으
 ### [개인이 가장 많이 산 국내 ETF TOP 7 + 주간 수익률 TOP 7 \| 2026년 9월 2주차 (+4주간)](https://m.blog.naver.com/onuri2005/224416214904) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-18 · 주간 ETF 시황</sup>
 2026년 9월 2주차 기준, 개인 투자자가 가장 많이 순매수한 국내 상장 ETF TOP 7을 정리했습니다. KRX 데이터를 기반으로 개인 누적 순매수 금액 기준으로 집계한 주간 ETF 순위입니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [액티브 ETF 주간 신규 편입 및 편출 종목 (2026년 9월 2주차)](https://m.blog.naver.com/onuri2005/224415797993) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-18 · 액티브 ETF 포트폴리오 추적</sup>
 액티브 ETF의 구성내역(PDF; Portfolio Deposit File)을 기준으로 현재 구성 종목과 전주 대비 포트폴리오 신규 편입 및 편출 종목을 정리합니다. 본 시리즈는 매주 발행됩니다.
 
@@ -96,8 +107,6 @@ KB자산운용의 RISE 200위클리커버드콜(475720)에 10년간 거치식으
 
 ### [은퇴의 수학 3. 예금 - 얼마나 오래 현금 흐름을 만들 수 있을까?](https://m.blog.naver.com/onuri2005/224412748429) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-16 · 주식투자</sup>
 지난 글에서는 장기 투자에서는 인플레이션, 세금 및 각종 비용을 고려하여 실질 수익률을 기반으로 분석해야 함을 살펴보았습니다. [지난 글] 은퇴의 수학 2. 인플레이션, 왜 고려해야 하고 어떻게 반영할까?
-
-{% include /commons/ads/adsense.html %}
 
 ### [은퇴의 수학 2. 인플레이션, 왜 고려해야 하고 어떻게 반영할까?](https://m.blog.naver.com/onuri2005/224412280407) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-15 · 주식투자</sup>
 지난 글에서는 은퇴와 관련하여 고려해야 하는 주요 변수 간의 관계를 어떻게 분석할 수 있는지 간단하게 소개했습니다. 일부 변수를 고정하면 나머지 변수 간의 관계식을 얻을 수 있고, 이를 2차원 그래프로 표현하면 시각적으로 파악하기 편리합니다.
@@ -120,6 +129,8 @@ KB자산운용의 RISE 200위클리커버드콜(475720)에 10년간 거치식으
 ### [BALI, JEPI, QQQI vs 기초자산 \[거치식·적립식·인출식 기회비용, 26-08\]](https://m.blog.naver.com/onuri2005/224399906625) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-11 · 주식투자</sup>
 해외 주식을 기초자산으로 하는 해외 상장 커버드콜 ETF와 기초자산(액티브 커버드콜의 경우 비교자산)의 잔여 자산 차이를 비교하여 정리해 보았습니다. 이 잔여 자산 차이는 커버드콜의 기회비용으로 볼 수 있습니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [내 집 마련, 얼마나 걸리고 얼마가 남을까? (KODEX 200타겟위클리커버드콜 vs KODEX 200)](https://m.blog.naver.com/onuri2005/224403532097) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-10 · 주식투자</sup>
 신혼인 영희는 내 집 마련을 위해 주식에 꾸준히 투자하려고 합니다. 현재 10억원인 아파트를 매수하기 위한 자금을 언제쯤 마련할 수 있을까요? 단순한 모델을 이용하여 KODEX 200과 KODEX 200타겟위클리커버드콜에 투자한 경우를 비교해 봅니다.
 
@@ -128,8 +139,6 @@ KB자산운용의 RISE 200위클리커버드콜(475720)에 10년간 거치식으
 
 ### [3억원으로 은퇴, 20년간 월 현금 흐름은? (KODEX 200타겟위클리커버드콜 vs KODEX 200)](https://m.blog.naver.com/onuri2005/224402784201) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-08 · 주식투자</sup>
 지난 글에서 은퇴 시점 자산 규모와 실질 성장률 그리고 월 현금 흐름을 이용하여 자산이 소진되는 기간을 간단한 모델로 추정해 보고, KODEX 200타겟위클리커버드콜과 KODEX 200을 비교해 보았습니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [3억원으로 은퇴, 월 300만원씩 현금 흐름을 만들면? (KODEX 200타겟위클리커버드콜 vs KODEX 200)](https://m.blog.naver.com/onuri2005/224402767227) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-07 · 주식투자</sup>
 지난 세 편의 글을 통해 거치식, 적립식, 거치식 + 적립식으로 투자했을 때 은퇴에 필요한 기간과 은퇴 후 현금 흐름을 간단한 모델로 추정해 보고, KODEX 200타겟위클리커버드콜과 KODEX 200을 비교해 보았습니다.
@@ -152,6 +161,8 @@ KB자산운용의 RISE 200위클리커버드콜(475720)에 10년간 거치식으
 ### [ETF 거치·적립·인출식 투자 시뮬레이터 \[26-08\]](https://m.blog.naver.com/onuri2005/224401832649) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-05 · 주식투자</sup>
 ETF의 과거 데이터를 기반으로 거치식, 적립식, 인출식 등 다양한 투자 방식을 시뮬레이션하고, 수익률뿐 아니라 변동성, 최대 낙폭(MDD) 등 여러 지표를 함께 비교할 수 있는 구글 시트입니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [개인이 가장 많이 산 국내 ETF TOP 7 + 주간 수익률 TOP 7 \| 2026년 8월 5주차 (+4주간)](https://m.blog.naver.com/onuri2005/224401113131) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-04 · 주식투자</sup>
 2026년 8월 5주차 기준, 개인 투자자가 가장 많이 순매수한 국내 상장 ETF TOP 7을 정리했습니다. KRX 데이터를 기반으로 개인 누적 순매수 금액 기준으로 집계한 주간 ETF 순위입니다.
 
@@ -161,22 +172,11 @@ ETF의 과거 데이터를 기반으로 거치식, 적립식, 인출식 등 다�
 ### [TIGER 미국S&P500타겟데일리커버드콜, KODEX 미국배당커버드콜액티브 vs 기초자산 \[거치식·적립식·인출식 기회비용, 26-08\]](https://m.blog.naver.com/onuri2005/224399893789) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-03 · 주식투자</sup>
 해외 주식을 기초자산으로 하는 국내 상장 커버드콜 ETF와 기초자산의 잔여 자산 차이를 비교하여 정리해 보았습니다. 이 잔여 자산 차이는 커버드콜의 기회비용으로 볼 수 있습니다. 2026년 8월 말 기준으로 투자 방식에 따른 계산 방법은 다음과 같습니다.
 
-{% include /commons/ads/adsense.html %}
-
 ### [보수적 거치식 포트폴리오 SPY + EWY(국내장) + GLD(금) + BIL(달러) + 예금 \[26-08, 10년\]](https://m.blog.naver.com/onuri2005/224398885402) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-02 · 주식투자</sup>
 미국 대형주 ETF인 SPY, 국내 대형주 ETF인 EWY, 금 현물 ETF인 GLD, 달러 단기 국채 ETF인 BIL, 그리고 원화 예금에 분산 투자했다고 가정했을 때, 지난 10년간 5년 거치식 투자에서 보수적인 기준(CVaR 95%)으로 평가한 포트폴리오의 구성 비중을 살펴봅니다.
 
 ### [KODEX 200타겟위클리커버드콜, 금융고배당TOP10타겟위클리커버드콜 vs 기초자산 \[거치식·적립식·인출식 기회비용, 26-08\]](https://m.blog.naver.com/onuri2005/224397597523) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-01 · 주식투자</sup>
 국내 주식을 기초자산으로 하는 국내 상장 커버드콜 ETF와 기초자산의 잔여 자산 차이를 비교하여 정리해 보았습니다. 이 잔여 자산 차이는 커버드콜의 기회비용으로 볼 수 있습니다. 2026년 8월 말 기준으로 투자 방식에 따른 계산 방법은 다음과 같습니다.
-
-### [투자의 수학 ⑪ 위험은 어떻게 측정할까? (VaR · CVaR)](https://m.blog.naver.com/onuri2005/224396082170) <sup style="font-weight: normal; font-size: 0.7em;">2026-08-31 · 주식투자</sup>
-투자에서 수익은 평균이나 기대수익으로 비교할 수 있습니다. 그렇다면 위험은 어떻게 측정할 수 있을까요? 단순히 최대 손실만 보면 될까요? 손실이 발생할 가능성까지 함께 고려한다면 어떻게 비교해야 할까요?
-
-### [국내 상장 ETF 현황 - 종류, 규모와 순위 (2026년 8월 4주차)](https://m.blog.naver.com/onuri2005/224393478408) <sup style="font-weight: normal; font-size: 0.7em;">2026-08-29 · 주식투자</sup>
-국내 상장 ETF를 순자산총액 기준으로 대분류별 비중과 각 분류에서 순자산총액이 큰 ETF를 정리합니다. 기준일: 2026년 8월 28일 (8월 4주차) 자산 기준: 순자산총액(ETF의 규모를 나타내는 지표로, 시가총액과 유사) 기초 데이터 출처: 한국거래소 정리 방법 국내 주식시장의 대표 지수인 코스피 200과 코스닥 150, 미국 주식시장의 대표 지수인 S&P 500과 NASDAQ 100을 기준으로 관련 ETF를 분류했습니다.
-
-### [개인이 가장 많이 산 국내 ETF TOP 7 + 주간 수익률 TOP 7 \| 2026년 8월 4주차 (+4주간)](https://m.blog.naver.com/onuri2005/224393352623) <sup style="font-weight: normal; font-size: 0.7em;">2026-08-28 · 주간 ETF 시황</sup>
-2026년 8월 4주차 기준, 개인 투자자가 가장 많이 순매수한 국내 상장 ETF TOP 7을 정리했습니다. KRX 데이터를 기반으로 개인 누적 순매수 금액 기준으로 집계한 주간 ETF 순위입니다.
 
 
 

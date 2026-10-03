@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [SMCY](/smcy-vs-smci/) | <span style="color: cornflowerblue">-16.1<small>%</small></span> | 78.7<small>%</small> | -0.20 | -64.7<small>%</small> | -39.0<small>%</small> |
-| SMCI | <span style="color: cornflowerblue">-2.6<small>%</small></span> | 100.4<small>%</small> | -0.03 | -66.2<small>%</small> | -35.0<small>%</small> |
+| [SMCY](/smcy-vs-smci/) | <span style="color: cornflowerblue">-14.5<small>%</small></span> | 78.7<small>%</small> | -0.18 | -64.7<small>%</small> | -39.0<small>%</small> |
+| SMCI | <span style="color: cornflowerblue">-0.6<small>%</small></span> | 100.3<small>%</small> | -0.01 | -66.2<small>%</small> | -35.0<small>%</small> |

@@ -5,7 +5,7 @@ excerpt: KOSPI 건설 업종 종목별 시가총액 비중입니다. 종목별�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-10-01
+last_modified_at: 2026-10-02
 ---
 
 
@@ -16,37 +16,37 @@ last_modified_at: 2026-10-01
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [현대건설](/000720/) | 35.3 | 1.6 | 0.7<small>%</small> | 34.6<small>%</small> |
+| [현대건설](/000720/) | 34.5 | 1.6 | 0.7<small>%</small> | 34.6<small>%</small> |
 | [대우건설](/047040/) | - | 2.2 | - | 19.3<small>%</small> |
-| GS건설 | 30.7 | 0.6 | 1.5<small>%</small> | 8.4<small>%</small> |
-| [DL이앤씨](/375500/) | 8.7 | 0.6 | 1.2<small>%</small> | 7.8<small>%</small> |
-| [한전KPS](/051600/) | 16.0 | 1.5 | 3.7<small>%</small> | 5.8<small>%</small> |
-| SK이터닉스 | 54.3 | 6.1 | - | 5.1<small>%</small> |
-| HJ중공업 | 26.3 | 2.0 | - | 4.5<small>%</small> |
-| IPARK현대산업개발 | 9.2 | 0.5 | 3.1<small>%</small> | 4.2<small>%</small> |
-| 금호건설 | 7.0 | 1.8 | 1.6<small>%</small> | 1.6<small>%</small> |
-| 태영건설 | 8.6 | 0.8 | - | 1.4<small>%</small> |
+| GS건설 | 30.8 | 0.6 | 1.5<small>%</small> | 8.4<small>%</small> |
+| [DL이앤씨](/375500/) | 8.6 | 0.6 | 1.2<small>%</small> | 7.8<small>%</small> |
+| [한전KPS](/051600/) | 16.3 | 1.5 | 3.7<small>%</small> | 5.8<small>%</small> |
+| SK이터닉스 | 54.6 | 6.1 | - | 5.1<small>%</small> |
+| HJ중공업 | 26.9 | 2.1 | - | 4.5<small>%</small> |
+| IPARK현대산업개발 | 9.0 | 0.4 | 3.1<small>%</small> | 4.2<small>%</small> |
+| 금호건설 | 6.9 | 1.8 | 1.6<small>%</small> | 1.6<small>%</small> |
+| 태영건설 | 8.4 | 0.8 | - | 1.4<small>%</small> |
 | 수산인더스트리 | 6.2 | 0.6 | 4.2<small>%</small> | 0.9<small>%</small> |
-| 코오롱글로벌 | - | 0.3 | 4.3<small>%</small> | 0.7<small>%</small> |
-| 계룡건설 | 1.9 | 0.2 | 3.3<small>%</small> | 0.6<small>%</small> |
+| 코오롱글로벌 | - | 0.3 | 4.4<small>%</small> | 0.7<small>%</small> |
+| 계룡건설 | 1.9 | 0.2 | 3.2<small>%</small> | 0.6<small>%</small> |
 | HDC랩스 | 14.0 | 0.6 | 6.0<small>%</small> | 0.6<small>%</small> |
 | 동아지질 | 13.6 | 1.1 | 3.0<small>%</small> | 0.6<small>%</small> |
-| 동부건설 | 3.7 | 0.3 | 3.6<small>%</small> | 0.5<small>%</small> |
+| 동부건설 | 3.8 | 0.3 | 3.5<small>%</small> | 0.5<small>%</small> |
 | 한신공영 | 2.1 | 0.1 | 1.4<small>%</small> | 0.4<small>%</small> |
 | 진흥기업 | - | 0.4 | - | 0.3<small>%</small> |
 | HS화성 | 3.8 | 0.2 | 6.8<small>%</small> | 0.3<small>%</small> |
-| DL이앤씨2우(전환) | - | - | 1.8<small>%</small> | 0.3<small>%</small> |
+| DL이앤씨2우(전환) | - | - | 1.9<small>%</small> | 0.3<small>%</small> |
 | 까뮤이앤씨 | 4.7 | 0.8 | 1.9<small>%</small> | 0.3<small>%</small> |
 | HL D&I | 10.7 | 0.2 | - | 0.3<small>%</small> |
-| 일성건설 | 26.8 | 1.0 | - | 0.2<small>%</small> |
+| 일성건설 | 27.0 | 1.0 | - | 0.2<small>%</small> |
 | 삼부토건 | - | - | - | 0.2<small>%</small> |
-| 남광토건 | 14.9 | 0.6 | - | 0.2<small>%</small> |
-| 삼호개발 | 3.6 | 0.3 | 6.5<small>%</small> | 0.2<small>%</small> |
+| 남광토건 | 15.1 | 0.6 | - | 0.2<small>%</small> |
+| 삼호개발 | 3.7 | 0.3 | 6.5<small>%</small> | 0.2<small>%</small> |
 | 현대건설우 | - | - | 1.6<small>%</small> | 0.2<small>%</small> |
 | 범양건영 | - | - | - | 0.2<small>%</small> |
 | DL이앤씨우 | - | - | 3.5<small>%</small> | 0.2<small>%</small> |
 | 에쓰씨엔지니어링 | - | 0.8 | - | 0.1<small>%</small> |
-| 우진아이엔에스 | 3.6 | 0.3 | 3.7<small>%</small> | 0.1<small>%</small> |
+| 우진아이엔에스 | 3.7 | 0.3 | 3.6<small>%</small> | 0.1<small>%</small> |
 | 코오롱글로벌우 | - | - | 3.6<small>%</small> | 0.0<small>%</small> |
 | 금호건설우 | - | - | 2.4<small>%</small> | 0.0<small>%</small> |
 | 태영건설우 | - | - | - | 0.0<small>%</small> |
