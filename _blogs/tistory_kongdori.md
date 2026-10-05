@@ -2,7 +2,7 @@
 title: 오렌시자사과의 티스토리 최근 글 목록
 header:
   overlay_image: "/assets/images/report.jpg"
-last_modified_at: 2026-10-04
+last_modified_at: 2026-10-05
 excerpt: 오렌시자사과의 티스토리에서 최근 작성한 글 50건을 정리한 목록입니다. 
 ##toc: true
 toc_sticky: false
@@ -17,6 +17,9 @@ categories:
 
 
 ## 최근 글 50건
+### [RISE 미국S&amp;P500데일리고정커버드콜, 월 300만원 현금 흐름을 만들려면? (vs TIGER 미국S&amp;P500, 30년 거치식&middot;적립식)](https://kongdori.tistory.com/857) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-05 · 주식투자</sup>
+RISE 미국S&P500데일리고정커버드콜(0138T0) 또는 기초자산인 TIGER 미국S&P500(360200)에 30년간 거치식 또는 적립식으로 장기 투자하고, 은퇴 후 월 300만원의 현금 흐름을 만들고자 한다면 필요한 투자금은 얼마일까요?
+
 ### [TIGER 미국S&amp;P500타겟데일리커버드콜, 월 300만원 현금 흐름을 만들려면? (vs TIGER 미국S&amp;P500, 30년 거치식&middot;적립식)](https://kongdori.tistory.com/856) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-04 · 주식투자</sup>
 TIGER 미국S&P500타겟데일리커버드콜(482730) 또는 기초자산인 TIGER 미국S&P500(360200)에 30년간 거치식 또는 적립식으로 장기 투자하고, 은퇴 후 월 300만원의 현금 흐름을 만들고자 한다면 필요한 투자금은 얼마일까요?
 
@@ -29,10 +32,10 @@ TIGER 200커버드콜(289480) 또는 기초자산인 KODEX 200(069500)에 30년�
 ### [RISE 200위클리커버드콜, 월 300만원 현금 흐름을 만들려면? (vs KODEX 200, 30년 거치식&middot;적립식)](https://kongdori.tistory.com/853) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-01 · 주식투자</sup>
 RISE 200위클리커버드콜(475720) 또는 기초자산인 KODEX 200(069500)에 30년간 거치식 또는 적립식으로 장기 투자하고, 은퇴 후 월 300만원의 현금 흐름을 만들고자 한다면 필요한 투자금은 얼마일까요?
 
+{% include /commons/ads/adsense.html %}
+
 ### [TIGER 200타겟위클리커버드콜, 월 300만원 현금 흐름을 만들려면? (vs KODEX 200, 30년 거치식&middot;적립식)](https://kongdori.tistory.com/852) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-30 · 주식투자</sup>
 TIGER 200타겟위클리커버드콜(0104N0) 또는 기초자산인 KODEX 200(069500)에 30년간 거치식 또는 적립식으로 장기 투자하고, 은퇴 후 월 300만원의 현금 흐름을 만들고자 한다면 필요한 투자금은 얼마일까요?
-
-{% include /commons/ads/adsense.html %}
 
 ### [KODEX 200타겟위클리커버드콜, 월 300만원 현금 흐름을 만들려면? (vs KODEX 200, 30년 거치식&middot;적립식)](https://kongdori.tistory.com/851) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-29 · 주식투자</sup>
 KODEX 200타겟위클리커버드콜(498400) 또는 기초자산인 KODEX 200(069500)에 30년간 거치식 또는 적립식으로 장기 투자하고, 은퇴 후 월 300만원의 현금 흐름을 만들고자 한다면 필요한 투자금은 얼마일까요?
@@ -61,10 +64,10 @@ KODEX 200타겟위클리커버드콜(498400) 또는 기초자산인 KODEX 200(06
 ### [2억원으로 은퇴? KODEX 미국배당다우존스타겟커버드콜 얼마나 걸릴까? (vs TIGER 미국배당다우존스)](https://kongdori.tistory.com/842) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-20 · 주식투자</sup>
 갑돌이가 현재 2억원의 금융 자산을 가지고 있다고 가정하겠습니다. 월 300만원의 현금 흐름을 만들 수 있는 시점에 은퇴할 계획이라면, TIGER 미국배당다우존스와 KODEX 미국배당다우존스타겟커버드콜에 거치식으로 투자했을 때 은퇴까지 얼마나 걸리는지 추정해 보겠습니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [\[국내 ETF 시황\] 개인 순매수&middot;순매도 TOP 5 (2026-08-21, 일일&middot;5거래일)](https://kongdori.tistory.com/841) <sup style="font-weight: normal; font-size: 0.7em;">2026-08-21 · 주식투자/일일 시황</sup>
 국내 상장 ETF를 대상으로 개인 투자자의 일일 및 5거래일 순매수·순매도 상위 5개 ETF를 정리했습니다. ​ 대표 ETF의 수익률과 시장 전체 투자 주체별 순매수 금액도 함께 제공하여 시장의 전반적인 흐름을 한눈에 확인할 수 있도록 매일 업데이트합니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [\[액티브 ETF\] 신규 편입&middot;편출 종목, 비중 변동 (2026-08-21, 일일)](https://kongdori.tistory.com/840) <sup style="font-weight: normal; font-size: 0.7em;">2026-08-21 · 주식투자/액티브 ETF 포트폴리오 추적</sup>
 액티브 ETF의 구성내역(PDF; Portfolio Deposit File)을 기준으로 일일 신규 편입·편출 종목 및 주요 비중 변동을 정리합니다. ​PDF 기준일: 2026년 8월 21일 (2026년 8월 20일 대비) PDF의 기준일은 전거래일입니다.
@@ -93,10 +96,10 @@ KODEX 200타겟위클리커버드콜(498400) 또는 기초자산인 KODEX 200(06
 ### [18. 자산 비교 분석에 사용하는 지표(또는 척도)란 무엇이며, 어떤 것이 있을까? \[투자와 데이터\]](https://kongdori.tistory.com/832) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-28 · 주식투자</sup>
 자산을 분석하고 비교하기 위해서는 자산이 가진 방대한 데이터를 간결하게 요약할 필요가 있습니다. 자산의 특성 요약이란 무엇이며, 왜 필요하고, 어떻게 표현되는지 살펴봅니다. 요약의 필요성: 수학 시험의 예 수학(math) 실력을 측정하는 과정을 예로 들어 보겠습니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [17. 투자 목표에 따라 달라지는 자산의 선택 \[투자와 데이터\]](https://kongdori.tistory.com/831) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-27 · 주식투자</sup>
 투자자는 저마다의 투자 목적을 가지고 있습니다. 예를 들어 은퇴 후 생활비 마련이 목적일 수 있습니다. 이를 수치와 기간으로 구체화하면 비로소 투자 목표가 됩니다. 20년간 적립식으로 투자하여 3억원의 은퇴 자금을 마련한다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [16. 주식 거래는 부동산 거래와 어떻게 다를까? (증거금, 미수금) \[투자와 데이터\]](https://kongdori.tistory.com/830) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-26 · 주식투자</sup>
 주식 투자를 처음 시작하면 이해하기 어려운 개념들이 등장합니다. 대표적으로 증거금과 미수금이 그렇습니다. 또한 배당 기준일 직전에 주식을 매수했는데도 정작 배당금을 받지 못하는 경우가 생겨 의문이 들기도 합니다.
@@ -125,10 +128,10 @@ ETF는 낮은 수수료를 강점으로 내세웁니다. S&P 500을 추종하는
 ### [8. 절약과 친구와의 여행도 투자일까? (인적 자산) \[투자와 데이터\]](https://kongdori.tistory.com/822) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-20 · 주식투자</sup>
 "투자는 주식이나 부동산을 사는 것 아닌가요?" 보통 그렇게 생각하기 쉽지만, 투자의 본질은 조금 더 넓게 바라볼 수 있습니다. 투자를 [미래 수익을 위해 현재의 자산을 배치하는 행위]라고 정의해 본다면 말이죠.
 
+{% include /commons/ads/adsense.html %}
+
 ### [7. CAGR은 무엇이고, 기하적으로는 어떻게 표현될까?](https://kongdori.tistory.com/821) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-19 · 주식투자</sup>
 자산의 과거 성과를 정량적으로 평가하고 다른 자산과 비교하려면, 복잡한 가격 흐름을 숫자로 요약해야 합니다. 이를 성과 척도(Metric) 또는 지표(Indicator)라 부릅니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [6. 장기 투자에는 왜 인플레이션이 중요할까? \[투자와 데이터\]](https://kongdori.tistory.com/820) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-19 · 주식투자</sup>
 한 번쯤 들어보셨을 겁니다. 수십 년 전 1,000만원을 SPY와 같은 미국 증시 주식형 ETF에 투자했다면, 지금은 수억이 되었을 것이라는 이야기입니다. 실제로 명목 수익률만 보면 가능하지만, 현실적으로 장기 투자에서는 인플레이션을 반드시 고려해야 합니다.
@@ -157,10 +160,10 @@ https://tv.naver.com/v/94952768 2025년 12월을 기준으로 국내에는 S&P 5
 ### [2025년 12월 - 개인은 어떤 국내 ETF를 많이 사고 팔았을까?](https://kongdori.tistory.com/812) <sup style="font-weight: normal; font-size: 0.7em;">2026-01-02 · 주식투자</sup>
 개인 투자자가 2025년 12월 한 달간, 가장 많이 순매수한 국내 상장 ETF TOP 10과 가장 많이 순매도한 TOP 5를 정리해 봅니다. 이들 ETF를 살펴보면, 다른 투자자들은 어떤 생각을 가지고 있는지 간접적으로 살펴볼 수 있습니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [DIVO, QDVO 커버드콜 세후 현금 흐름 (vs SPY, QQQ, 1만 달러 기준, KODEX 미국배당커버드콜액티브, KODEX 미국성장커버드콜액티브)](https://kongdori.tistory.com/811) <sup style="font-weight: normal; font-size: 0.7em;">2025-12-29 · 주식투자</sup>
 Amplify, CWP의 DIVO와 QDVO는 여타 패시브(passive) 커버드콜과 꽤 다른 수익률 특성을 가지고 있습니다. 두 커버드콜은 펀드 매너지가 종목을 선별하여 기초자산을 구성하고, 개별 종목을 대상으로 콜옵션(call option)을 발행하는 자유도가 높은 액티브 커버드콜(active covered call)입니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [\[신규 상장\] RISE 미국S&amp;P500데일리고정커버드콜, S&amp;P 500과 비교하면? (9.4년치 지수 데이터, 환율 고려)](https://kongdori.tistory.com/810) <sup style="font-weight: normal; font-size: 0.7em;">2025-12-22 · 주식투자</sup>
 2025년 12월 23일 상장되는 KB자산운용의 RISE S&P500데일리고정커버드콜(0138T0)은 S&P 500 지수를 기초자산으로 ATM(At the Money; 등가각) 데일리 콜옵션을 10% 고정 비율로 발행하는 커버드콜입니다.
@@ -173,9 +176,6 @@ Global X의 XYLD(S&P 500 Covered Call ETF)와 QYLD(Nasdaq 100 Covered Call ETF)�
 
 ### [SPYI vs SPY &ndash; 커버드콜 세후 현금 흐름 (1만 달러 기준, NEOS(네오스) 커버드콜)](https://kongdori.tistory.com/807) <sup style="font-weight: normal; font-size: 0.7em;">2025-11-29 · 주식투자</sup>
 NEOS(네오스)의 SPYI는 S&P 500 지수를 기초자산으로 하는 액티브 커버드콜입니다. 국내 상장 상품 중에서는 '타겟' 커버드콜에 가깝습니다. 본 영상에서는 SPYI의 첫 거래일에 SPYI와 SPY에 각각 1만 달러를 투자하고, 동일한 세후 현금 흐름을 만들었을 때, 어떤 결과를 얻게 되었을지 분석해 봅니다.
-
-### [NVDY vs NVDA(엔비디아) &ndash; 커버드콜 세후 현금 흐름 (1만 달러 기준, 일드맥스 초고배당, +동영상, +슬라이드)](https://kongdori.tistory.com/806) <sup style="font-weight: normal; font-size: 0.7em;">2025-11-28 · 주식투자</sup>
-YieldMax(일드맥스)의 NVDY는 개별 종목인 엔비디아(NVDA)를 기초자산으로 초고배당을 하는 옵션 기반의 커버드콜입니다. 본 영상에서는 NVDY의 첫 거래일에 NVDY와 엔비디아에 각각 1만 달러를 투자하고, 동일한 세후 현금 흐름을 만들었을 때, 어떤 결과를 얻게 되었을지 분석해 봅니다.
 
 
 
