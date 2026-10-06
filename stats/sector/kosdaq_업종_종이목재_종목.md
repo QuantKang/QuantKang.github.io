@@ -5,7 +5,7 @@ excerpt: KOSDAQ 종이목재 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-10-02
+last_modified_at: 2026-10-06
 ---
 
 
@@ -16,11 +16,11 @@ last_modified_at: 2026-10-02
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| 국일제지 | - | 3.5 | - | 33.3<small>%</small> |
+| 국일제지 | - | 3.6 | - | 33.3<small>%</small> |
 | [동화기업](/025900/) | - | 0.4 | - | 28.8<small>%</small> |
 | 삼보판지 | 5.3 | 0.2 | 2.3<small>%</small> | 12.4<small>%</small> |
 | 대림제지 | 14.1 | 0.3 | 0.9<small>%</small> | 7.6<small>%</small> |
-| 삼륭물산 | 10.9 | 1.1 | 2.4<small>%</small> | 5.4<small>%</small> |
+| 삼륭물산 | 10.8 | 1.1 | 2.4<small>%</small> | 5.4<small>%</small> |
 | 이건홀딩스 | - | 0.3 | 1.9<small>%</small> | 5.3<small>%</small> |
 | 한국팩키지 | 6.9 | 0.3 | 3.8<small>%</small> | 3.3<small>%</small> |
 | 무림SP | - | 0.1 | 1.3<small>%</small> | 2.2<small>%</small> |
