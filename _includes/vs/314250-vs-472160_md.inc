@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KODEX 미국빅테크10(H)](/314250-vs-472160/) | <span style="color: tomato">31.7<small>%</small></span> | 28.2<small>%</small> | 1.12 | -31.2<small>%</small> | -5.4<small>%</small> |
-| TIGER 미국테크TOP10 INDXX(H) | <span style="color: tomato">27.7<small>%</small></span> | 26.6<small>%</small> | 1.04 | -31.8<small>%</small> | -5.4<small>%</small> |
+| [KODEX 미국빅테크10(H)](/314250-vs-472160/) | <span style="color: tomato">32.1<small>%</small></span> | 28.2<small>%</small> | 1.14 | -31.2<small>%</small> | -5.4<small>%</small> |
+| TIGER 미국테크TOP10 INDXX(H) | <span style="color: tomato">28.5<small>%</small></span> | 26.6<small>%</small> | 1.07 | -31.8<small>%</small> | -5.4<small>%</small> |

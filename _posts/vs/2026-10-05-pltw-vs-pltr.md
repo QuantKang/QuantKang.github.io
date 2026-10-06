@@ -1,7 +1,7 @@
 ---
 layout: single
 title: PLTW vs Palantir Technologies Inc (PLTR)
-excerpt: PLTW의 최근 1년 7개월 CAGR은 32.5%로 Palantir Technologies Inc (PLTR)의 38.2%보다 -5.6% 낮았습니다.
+excerpt: PLTW의 최근 1년 7개월 CAGR은 33.7%로 Palantir Technologies Inc (PLTR)의 38.2%보다 -4.5% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,7 +33,7 @@ PLTW의 수익률이 PLTR보다 지속적으로 우세하면 상승하고, 반�
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| PLTW | <span style="color: tomato">32.5<small>%</small></span> | 75.2<small>%</small> | 0.43 | -57.3<small>%</small> | -22.7<small>%</small> |
+| PLTW | <span style="color: tomato">33.7<small>%</small></span> | 75.2<small>%</small> | 0.45 | -57.3<small>%</small> | -22.7<small>%</small> |
 | PLTR | <span style="color: tomato">38.2<small>%</small></span> | 62.5<small>%</small> | 0.61 | -48.2<small>%</small> | -17.8<small>%</small> |
 
 <!-- more -->
@@ -41,7 +41,7 @@ PLTW의 수익률이 PLTR보다 지속적으로 우세하면 상승하고, 반�
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** PLTW의 CAGR은 32.5%로 PLTR의 38.2%보다 -5.6% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** PLTW의 CAGR은 33.7%로 PLTR의 38.2%보다 -4.5% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** PLTW의 표준편차는 75.2%로 PLTR의 62.5%보다 12.7% 높았습니다. (높은 위험도)
 
@@ -76,7 +76,7 @@ PLTR<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, PLT
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| PLTW | <span style="color: tomato">32.5<small>%</small></span> | 75.2<small>%</small> | 0.43 | -57.3<small>%</small> | -22.7<small>%</small> |
+| PLTW | <span style="color: tomato">33.7<small>%</small></span> | 75.2<small>%</small> | 0.45 | -57.3<small>%</small> | -22.7<small>%</small> |
 | PLTR | <span style="color: tomato">38.2<small>%</small></span> | 62.5<small>%</small> | 0.61 | -48.2<small>%</small> | -17.8<small>%</small> |
 | PLTR<sub>STD</sub> <small>(120%)</small> | <span style="color: tomato">40.9<small>%</small></span> | 75.2<small>%</small> | 0.54 | -55.8<small>%</small> | -21.7<small>%</small> |
 | PLTR<sub>MDD</sub> <small>(119%)</small> | <span style="color: tomato">40.8<small>%</small></span> | 74.2<small>%</small> | 0.55 | -55.2<small>%</small> | -21.4<small>%</small> |
@@ -85,9 +85,9 @@ PLTR<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, PLT
 
 각각의 경우를 PLTW의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 120% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 40.9%로 PLTW의 32.5%보다 8.3% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 120% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 40.9%로 PLTW의 33.7%보다 7.2% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 119% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 40.8%로 PLTW의 32.5%보다 8.2% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 119% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 40.8%로 PLTW의 33.7%보다 7.0% 높았습니다. (높은 수익률)
 
 
 
@@ -100,7 +100,7 @@ PLTR<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, PLT
 지난 1년 7개월간 거치식으로 투자했다고 가정합니다.
 
 PLTR의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 40.8%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 PLTW의 32.5%보다 8.3% 높았습니다.
+이 포트폴리오는 PLTW의 33.7%보다 7.1% 높았습니다.
 
 ### PLTW &lt; PLTR
 {: .text-center}
