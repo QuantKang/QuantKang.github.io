@@ -5,7 +5,7 @@ excerpt: KOSDAQ 출판매체복제 업종 종목별 시가총액 비중입니다
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-10-07
+last_modified_at: 2026-10-08
 ---
 
 
@@ -17,6 +17,6 @@ last_modified_at: 2026-10-07
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
 | 양지사 | - | 0.3 | 1.1<small>%</small> | 60.6<small>%</small> |
-| SM Life Design | 9.1 | 0.7 | - | 39.4<small>%</small> |
+| SM Life Design | 9.2 | 0.8 | - | 39.4<small>%</small> |
 
 {% include commons/footnotes.md %}

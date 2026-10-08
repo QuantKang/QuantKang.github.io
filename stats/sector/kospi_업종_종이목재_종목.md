@@ -5,7 +5,7 @@ excerpt: KOSPI 종이목재 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-10-07
+last_modified_at: 2026-10-08
 ---
 
 
@@ -16,12 +16,12 @@ last_modified_at: 2026-10-07
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| 신대양제지 | 11.7 | 0.4 | 2.5<small>%</small> | 21.2<small>%</small> |
-| 아세아제지 | 9.9 | 0.3 | 3.3<small>%</small> | 16.5<small>%</small> |
-| 한솔제지 | 43.8 | 0.2 | 7.0<small>%</small> | 9.5<small>%</small> |
+| 신대양제지 | 11.8 | 0.5 | 2.5<small>%</small> | 21.2<small>%</small> |
+| 아세아제지 | 10.0 | 0.3 | 3.3<small>%</small> | 16.5<small>%</small> |
+| 한솔제지 | 43.6 | 0.2 | 7.0<small>%</small> | 9.5<small>%</small> |
 | 태림포장 | - | 0.3 | - | 6.7<small>%</small> |
 | 한국제지 | - | 0.2 | - | 5.7<small>%</small> |
-| 무림P&P | - | 0.2 | 7.1<small>%</small> | 5.5<small>%</small> |
+| 무림P&P | - | 0.2 | 7.2<small>%</small> | 5.5<small>%</small> |
 | 한국수출포장 | - | 0.3 | 2.9<small>%</small> | 4.7<small>%</small> |
 | 페이퍼코리아 | - | 0.3 | - | 4.6<small>%</small> |
 | 대영포장 | 43.7 | 0.3 | - | 4.3<small>%</small> |
