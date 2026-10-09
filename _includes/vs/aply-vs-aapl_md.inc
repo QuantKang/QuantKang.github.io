@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [APLY](/aply-vs-aapl/) | <span style="color: tomato">13.4<small>%</small></span> | 21.4<small>%</small> | 0.63 | -31.1<small>%</small> | -6.9<small>%</small> |
-| AAPL | <span style="color: tomato">23.1<small>%</small></span> | 25.9<small>%</small> | 0.89 | -33.4<small>%</small> | -7.1<small>%</small> |
+| [APLY](/aply-vs-aapl/) | <span style="color: tomato">13.5<small>%</small></span> | 21.4<small>%</small> | 0.63 | -31.1<small>%</small> | -6.9<small>%</small> |
+| AAPL | <span style="color: tomato">23.4<small>%</small></span> | 25.9<small>%</small> | 0.91 | -33.4<small>%</small> | -7.1<small>%</small> |

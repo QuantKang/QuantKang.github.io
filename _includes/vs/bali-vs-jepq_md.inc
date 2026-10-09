@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [BALI](/bali-vs-jepq/) | <span style="color: tomato">21.3<small>%</small></span> | 12.6<small>%</small> | 1.69 | -16.6<small>%</small> | -1.6<small>%</small> |
-| JEPQ | <span style="color: tomato">22.0<small>%</small></span> | 15.5<small>%</small> | 1.42 | -20.1<small>%</small> | -2.1<small>%</small> |
+| [BALI](/bali-vs-jepq/) | <span style="color: tomato">21.2<small>%</small></span> | 12.6<small>%</small> | 1.68 | -16.6<small>%</small> | -1.6<small>%</small> |
+| JEPQ | <span style="color: tomato">21.8<small>%</small></span> | 15.5<small>%</small> | 1.41 | -20.1<small>%</small> | -2.1<small>%</small> |
