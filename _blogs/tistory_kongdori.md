@@ -2,7 +2,7 @@
 title: 오렌시자사과의 티스토리 최근 글 목록
 header:
   overlay_image: "/assets/images/report.jpg"
-last_modified_at: 2026-10-09
+last_modified_at: 2026-10-10
 excerpt: 오렌시자사과의 티스토리에서 최근 작성한 글 50건을 정리한 목록입니다. 
 ##toc: true
 toc_sticky: false
@@ -17,6 +17,9 @@ categories:
 
 
 ## 최근 글 50건
+### [TIGER 미국배당다우존스타겟커버드콜2호, 월 300만원 현금 흐름을 만들려면? (vs TIGER 미국배당다우존스, 30년 거치식&middot;적립식)](https://kongdori.tistory.com/862) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-10 · 주식투자</sup>
+TIGER 미국배당다우존스타겟커버드콜2호(458760) 또는 기초자산인 TIGER 미국배당다우존스(458730)에 30년간 거치식 또는 적립식으로 장기 투자하고, 은퇴 후 월 300만원의 현금 흐름을 만들고자 한다면 필요한 투자금은 얼마일까요?
+
 ### [TIGER 미국배당다우존스타겟커버드콜1호, 월 300만원 현금 흐름을 만들려면? (vs TIGER 미국배당다우존스, 30년 거치식&middot;적립식)](https://kongdori.tistory.com/861) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-09 · 주식투자</sup>
 TIGER 미국배당다우존스타겟커버드콜1호(458750) 또는 기초자산인 TIGER 미국배당다우존스(458730)에 30년간 거치식 또는 적립식으로 장기 투자하고, 은퇴 후 월 300만원의 현금 흐름을 만들고자 한다면 필요한 투자금은 얼마일까요?
 
@@ -29,10 +32,10 @@ TIGER 미국나스닥100타겟데일리커버드콜(486290) 또는 기초자산�
 ### [XYLD, 월 300만원 현금 흐름을 만들려면? (vs SPY, 30년 거치식&middot;적립식)](https://kongdori.tistory.com/858) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-06 · 주식투자</sup>
 XYLD 또는 기초자산인 SPY에 30년간 거치식 또는 적립식으로 장기 투자하고, 은퇴 후 월 300만원의 현금 흐름을 만들고자 한다면 필요한 투자금은 얼마일까요? 실질 CAGR이 매년 일정하게 유지된다는 단순한 가정하에 시뮬레이션 결과를 살펴봅니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [RISE 미국S&amp;P500데일리고정커버드콜, 월 300만원 현금 흐름을 만들려면? (vs TIGER 미국S&amp;P500, 30년 거치식&middot;적립식)](https://kongdori.tistory.com/857) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-05 · 주식투자</sup>
 RISE 미국S&P500데일리고정커버드콜(0138T0) 또는 기초자산인 TIGER 미국S&P500(360200)에 30년간 거치식 또는 적립식으로 장기 투자하고, 은퇴 후 월 300만원의 현금 흐름을 만들고자 한다면 필요한 투자금은 얼마일까요?
-
-{% include /commons/ads/adsense.html %}
 
 ### [TIGER 미국S&amp;P500타겟데일리커버드콜, 월 300만원 현금 흐름을 만들려면? (vs TIGER 미국S&amp;P500, 30년 거치식&middot;적립식)](https://kongdori.tistory.com/856) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-04 · 주식투자</sup>
 TIGER 미국S&P500타겟데일리커버드콜(482730) 또는 기초자산인 TIGER 미국S&P500(360200)에 30년간 거치식 또는 적립식으로 장기 투자하고, 은퇴 후 월 300만원의 현금 흐름을 만들고자 한다면 필요한 투자금은 얼마일까요?
@@ -61,10 +64,10 @@ KODEX 200타겟위클리커버드콜(498400) 또는 기초자산인 KODEX 200(06
 ### [KODEX 미국배당다우존스타겟커버드콜 적립 10년 + 거치 15년 + 인출 30년 (vs TIGER 미국배당다우존스)](https://kongdori.tistory.com/848) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-26 · 주식투자</sup>
 지금까지 은퇴 시점까지 자산을 불리거나 은퇴 후 현금 흐름을 만들 때, KODEX 미국배당다우존스타겟커버드콜과 TIGER 미국배당다우존스가 어떤 차이를 보일 수 있는지 단순한 모델을 이용해 여러 상황을 가정하여 살펴보았습니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [3억원으로 은퇴, KODEX 미국배당다우존스타겟커버드콜 20년간 월 현금 흐름은? (vs TIGER 미국배당다우존스)](https://kongdori.tistory.com/847) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-24 · 주식투자</sup>
 지난 글에서 은퇴 시점 자산 규모와 실질 성장률 그리고 월 현금 흐름을 이용하여 자산이 소진되는 기간을 간단한 모델로 추정해 보고, KODEX 미국배당다우존스타겟커버드콜과 TIGER 미국배당다우존스를 비교해 보았습니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [3억원으로 은퇴, KODEX 미국배당다우존스타겟커버드콜 월 300만원의 현금 흐름을 만들면? (vs TIGER 미국배당다우존스)](https://kongdori.tistory.com/846) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-23 · 주식투자</sup>
 지난 세 편의 글을 통해 거치식, 적립식, 거치식 + 적립식으로 투자했을 때 은퇴에 필요한 기간과 은퇴 후 현금 흐름을 간단한 모델로 추정해 보고, KODEX 미국배당다우존스타겟커버드콜과 TIGER 미국배당다우존스를 비교해 보았습니다.
@@ -93,10 +96,10 @@ KODEX 200타겟위클리커버드콜(498400) 또는 기초자산인 KODEX 200(06
 ### [국내 주식 기반 국내 상장 커버드콜 vs 기초자산 \[26-07, 기회비용\]](https://kongdori.tistory.com/837) <sup style="font-weight: normal; font-size: 0.7em;">2026-08-19 · 주식투자</sup>
 국내 주식을 기초자산으로 하는 국내 상장 커버드콜 ETF를 기초자산 또는 비교자산과 비교해 추정한 기회비용입니다. ​2026년 7월 말 기준으로 투자 방식에 따른 계산 방법은 다음과 같습니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [\[액티브 ETF\] 신규 편입, 편출 종목 (2026-07-29, 일일)](https://kongdori.tistory.com/836) <sup style="font-weight: normal; font-size: 0.7em;">2026-07-29 · 주식투자/액티브 ETF 포트폴리오 추적</sup>
 액티브 ETF의 구성내역(PDF; Portfolio Deposit File)을 기준으로 일일 신규 편입 및 편출 종목을 정리합니다. PDF 기준일: 2026년 7월 29일 (2026년 7월 28일 대비) 종목 수익률: PDF 실질 일자 기준 해당 종목의 시장 수익률 (액티브 ETF가 해당 종목 투자로 얻은 수익률이 아님) ​PDF의 기준일은 전거래일입니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [\[국내 ETF 시황\] 개인 순매수&middot;순매도 TOP 5 (2026-07-28, 일일)](https://kongdori.tistory.com/835) <sup style="font-weight: normal; font-size: 0.7em;">2026-07-28 · 주식투자/일일 시황</sup>
 국내 상장 ETF를 대상으로 개인 투자자의 일일 및 5거래일 순매수·순매도 상위 5개 ETF를 정리했습니다. 대표 ETF의 수익률과 시장 전체 투자 주체별 순매수 금액도 함께 제공하여 시장의 전반적인 흐름을 한눈에 확인할 수 있도록 매일 업데이트합니다.
@@ -125,10 +128,10 @@ ETF는 저렴한 비용으로 복수 종목에 분산 투자할 수 있는 상�
 ### [13. 배당소득세 vs 양도소득세 - 양도소득세가 항상 더 많을까? \[투자와 데이터\]](https://kongdori.tistory.com/827) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-23 · 주식투자</sup>
 주식이나 ETF와 같은 금융 자산으로 현금을 만드는 방법은 크게 두 가지입니다. 배당을 받는 방법: 기업이나 자산운용사가 현금을 지급하는 방식 (ETF의 경우 '분배') 보유 자산을 매도하는 방법: 투자자가 자산을 처분하여 현금을 확보하는 방식 두 방식 모두 현금이 지급된 만큼 자산의 평가액은 감소합니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [12. 장기 투자에서 연 1% 수익률 차이의 의미 \[투자와 데이터\]](https://kongdori.tistory.com/826) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-22 · 주식투자</sup>
 투자 입문서에서 절세 계좌를 활용하고 비용이 낮은 상품을 고르라고 강조하는 이유는 단순합니다. 장기 투자에서 발생하는 작은 수익률 차이는 시간이 지날수록 거대한 격차로 증폭되기 때문입니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [11. ETF 보수(수수료)는 언제 내는 것일까? \[투자와 데이터\]](https://kongdori.tistory.com/825) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-21 · 주식투자</sup>
 ETF는 낮은 수수료를 강점으로 내세웁니다. S&P 500을 추종하는 상품 중에는 연 0.01% 수준의 파격적인 보수를 제시하는 경우도 있습니다. 그런데 ETF를 보유하면서 자산운용사로부터 직접 비용을 청구 받은 적이 있으신가요?
@@ -157,10 +160,10 @@ ETF는 낮은 수수료를 강점으로 내세웁니다. S&P 500을 추종하는
 ### [3. 왜 배당 재투자 수익률(TR)로 비교해야 할까? \[투자와 데이터\]](https://kongdori.tistory.com/817) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-17 · 주식투자</sup>
 투자자는 항상 어디에 투자할지 고민합니다. 이미 투자한 자산이나 앞으로 투자할 자산을 비교 평가하기 위해, 1차적으로 과거 수익률을 확인합니다. 하지만 자산을 비교할 때는 배당금과 세금까지 고려한 실수익률로 평가해야 합니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [2. 왜 시장 전체에 투자하라고 할까? \[투자와 데이터\]](https://kongdori.tistory.com/816) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-17 · 주식투자</sup>
 자산 배분 전략을 다루는 장기 투자 입문서를 보면, 개별 종목을 선별하기보다 주식 시장 전체에 투자하라고 권합니다. 국내 코스피 시장에는 800개가 넘는 기업이 상장되어 있습니다. 일반 투자자가 이 모든 종목, 또는 충분히 많은 종목을 적절한 비중까지 고려하여 투자하는 것은 현실적으로 가능할까요?
-
-{% include /commons/ads/adsense.html %}
 
 ### [1. 왜 분산 투자하라는 걸까? \[투자와 데이터\]](https://kongdori.tistory.com/815) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-17 · 주식투자</sup>
 많은 투자 입문서에서는 초보 투자자에게 개별 종목 대신 펀드나 ETF로 투자를 시작하라고 권합니다. 왜 그럴까요? 펀드는 여러 자산에 분산 투자하는 실적 배당형 금융 상품입니다. ETF(상장지수펀드)는 이러한 펀드를 증권거래소에서 주식처럼 거래할 수 있도록 만든 형태입니다.
@@ -173,9 +176,6 @@ https://tv.naver.com/v/94952768 2025년 12월을 기준으로 국내에는 S&P 5
 
 ### [2025년 12월 - 개인은 어떤 국내 ETF를 많이 사고 팔았을까?](https://kongdori.tistory.com/812) <sup style="font-weight: normal; font-size: 0.7em;">2026-01-02 · 주식투자</sup>
 개인 투자자가 2025년 12월 한 달간, 가장 많이 순매수한 국내 상장 ETF TOP 10과 가장 많이 순매도한 TOP 5를 정리해 봅니다. 이들 ETF를 살펴보면, 다른 투자자들은 어떤 생각을 가지고 있는지 간접적으로 살펴볼 수 있습니다.
-
-### [DIVO, QDVO 커버드콜 세후 현금 흐름 (vs SPY, QQQ, 1만 달러 기준, KODEX 미국배당커버드콜액티브, KODEX 미국성장커버드콜액티브)](https://kongdori.tistory.com/811) <sup style="font-weight: normal; font-size: 0.7em;">2025-12-29 · 주식투자</sup>
-Amplify, CWP의 DIVO와 QDVO는 여타 패시브(passive) 커버드콜과 꽤 다른 수익률 특성을 가지고 있습니다. 두 커버드콜은 펀드 매너지가 종목을 선별하여 기초자산을 구성하고, 개별 종목을 대상으로 콜옵션(call option)을 발행하는 자유도가 높은 액티브 커버드콜(active covered call)입니다.
 
 
 
