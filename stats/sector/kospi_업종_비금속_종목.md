@@ -5,7 +5,7 @@ excerpt: KOSPI 비금속 업종 종목별 시가총액 비중입니다. 종목�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-10-12
+last_modified_at: 2026-10-13
 ---
 
 
@@ -16,28 +16,28 @@ last_modified_at: 2026-10-12
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [한일시멘트](/300720/) | 15.4 | 0.7 | 6.1<small>%</small> | 26.0<small>%</small> |
+| [한일시멘트](/300720/) | 15.9 | 0.7 | 5.9<small>%</small> | 26.0<small>%</small> |
 | 한일홀딩스 | 16.7 | 0.3 | 5.8<small>%</small> | 12.6<small>%</small> |
 | 아이에스동서 | - | 0.3 | 3.5<small>%</small> | 10.3<small>%</small> |
 | KCC글라스 | - | 0.3 | 6.8<small>%</small> | 8.8<small>%</small> |
 | 아세아시멘트 | 21.2 | 0.3 | 2.5<small>%</small> | 8.0<small>%</small> |
 | CR홀딩스 | - | 0.3 | 9.4<small>%</small> | 4.8<small>%</small> |
-| 성신양회 | 7.5 | 0.3 | 4.5<small>%</small> | 4.4<small>%</small> |
-| 조선내화 | 62.2 | 0.6 | 8.6<small>%</small> | 3.5<small>%</small> |
-| 한국석유 | 27.9 | 0.7 | 1.0<small>%</small> | 3.2<small>%</small> |
-| 동양 | 5.3 | 0.1 | - | 2.6<small>%</small> |
-| 태경비케이 | 4.4 | 0.5 | 3.9<small>%</small> | 2.4<small>%</small> |
+| 성신양회 | 7.6 | 0.3 | 4.4<small>%</small> | 4.4<small>%</small> |
+| 조선내화 | 60.0 | 0.6 | 8.9<small>%</small> | 3.5<small>%</small> |
+| 한국석유 | 27.6 | 0.7 | 1.1<small>%</small> | 3.2<small>%</small> |
+| 동양 | 5.2 | 0.1 | - | 2.6<small>%</small> |
+| 태경비케이 | 4.4 | 0.4 | 4.0<small>%</small> | 2.4<small>%</small> |
 | 벽산 | 3.5 | 0.3 | 2.1<small>%</small> | 2.1<small>%</small> |
-| 대림바스 | 5.1 | 0.4 | 4.3<small>%</small> | 1.7<small>%</small> |
-| 제일연마 | 4.4 | 0.6 | 8.0<small>%</small> | 1.6<small>%</small> |
+| 대림바스 | 5.2 | 0.4 | 4.3<small>%</small> | 1.7<small>%</small> |
+| 제일연마 | 4.4 | 0.6 | 8.1<small>%</small> | 1.6<small>%</small> |
 | 한국내화 | - | 0.4 | - | 1.5<small>%</small> |
-| 삼일씨엔에스 | 44.9 | 0.2 | - | 1.4<small>%</small> |
+| 삼일씨엔에스 | 44.0 | 0.2 | - | 1.4<small>%</small> |
 | 부산산업 | - | 0.4 | 0.6<small>%</small> | 1.2<small>%</small> |
-| 유니온 | 1.9 | 0.4 | 4.5<small>%</small> | 1.1<small>%</small> |
-| 유니온머티리얼 | 11.5 | 1.4 | - | 1.0<small>%</small> |
-| 금비 | 14.8 | 0.4 | 3.1<small>%</small> | 0.9<small>%</small> |
+| 유니온 | 1.9 | 0.4 | 4.4<small>%</small> | 1.1<small>%</small> |
+| 유니온머티리얼 | 12.8 | 1.6 | - | 1.0<small>%</small> |
+| 금비 | 15.1 | 0.4 | 3.0<small>%</small> | 0.9<small>%</small> |
 | 티웨이홀딩스 | - | 0.2 | - | 0.6<small>%</small> |
-| 성신양회우 | - | - | 4.5<small>%</small> | 0.1<small>%</small> |
+| 성신양회우 | - | - | 4.4<small>%</small> | 0.1<small>%</small> |
 | 동양우 | - | - | - | 0.1<small>%</small> |
 | 동양2우B | - | - | - | 0.0<small>%</small> |
 
