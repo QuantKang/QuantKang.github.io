@@ -2,7 +2,7 @@
 title: 오렌지사과의 네이버 블로그 최근 글 목록
 header:
   overlay_image: "/assets/images/report.jpg"
-last_modified_at: 2026-10-11
+last_modified_at: 2026-10-13
 excerpt: 오렌지사과의 네이버 블로그에서 최근 작성한 글 50건을 정리한 목록입니다. 
 ##toc: true
 toc_sticky: false
@@ -18,6 +18,12 @@ categories:
 
 
 ## 최근 글 50건
+### [ETF 포트폴리오 분석 도구 소개 \[26-09\]](https://m.blog.naver.com/onuri2005/224440518176) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-13 · 주식투자</sup>
+미국 상장 ETF의 수익률과 위험 특성을 비교하고, 두 ETF를 조합했을 때 어떤 분산 투자 효과가 나타났는지 시각적으로 확인할 수 있는 구글 시트 분석 도구를 2026년 9월 데이터로 업데이트했습니다.
+
+### [RISE 200위클리커버드콜 현금 흐름 (vs RISE 200, 1억원 거치)](https://m.blog.naver.com/onuri2005/224439375894) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-12 · 주식투자</sup>
+KB자산운용의 RISE 200위클리커버드콜(475720)과 기초자산인 RISE 200(148020)의 공통 상장 기간에 대해 수익률과 현금 흐름을 비교해 봅니다. RISE 200위클리커버드콜은 코스피 200 지수로 기초자산을 구성하고 코스피 200 위클리 콜옵션을 매도하는 커버드콜입니다.
+
 ### [투자의 수학 17. 장기 투자에서 위험은 왜 역전될까? (위험한 자산이 더 안전해지는 역설)](https://m.blog.naver.com/onuri2005/224437901164) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-11 · 주식투자</sup>
 투자에서 중요하게 고려하는 두 가지 요소는 수익률과 위험입니다. 일반적으로 수익률은 높을수록, 위험은 낮을수록 투자에 적합한 자산일 가능성이 높습니다. 문제는 대개의 자산에서 수익률과 위험이 서로 비례하는 듯한 현상이 나타난다는 점입니다.
 
@@ -27,13 +33,13 @@ categories:
 ### [개인이 가장 많이 산 국내 ETF TOP 7 + 주간 수익률 TOP 7 \| 2026년 10월 1주차 (+4주간)](https://m.blog.naver.com/onuri2005/224436193535) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-09 · 주간 ETF 시황</sup>
 2026년 10월 1주차 기준, 개인 투자자가 가장 많이 순매수한 국내 상장 ETF TOP 7을 정리했습니다. KRX 데이터를 기반으로 개인 누적 순매수 금액 기준으로 집계한 주간 ETF 순위입니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [TIGER 미국S&P500타겟데일리커버드콜 현금 흐름 (vs TIGER 미국S&P500, 1억원 거치)](https://m.blog.naver.com/onuri2005/224431001427) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-08 · 주식투자</sup>
 미래에셋자산운용의 TIGER 미국S&P500타겟데일리커버드콜(482730)과 기초자산인 TIGER 미국S&P500(360200)의 공통 상장 기간에 대해 수익률과 현금 흐름을 비교해 봅니다.
 
 ### [KODEX 200타겟위클리커버드콜 현금 흐름 (vs KODEX 200, 1억원 거치)](https://m.blog.naver.com/onuri2005/224434423909) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-08 · 주식투자</sup>
 삼성자산운용의 KODEX 200타겟위클리커버드콜(498400)과 기초자산인 KODEX 200(069500)의 공통 상장 기간에 대해 수익률과 현금 흐름을 비교해 봅니다. KODEX 200타겟위클리커버드콜은 코스피 200 지수를 기반으로 기초자산을 구성하고 코스피 200 위클리 콜옵션을 매도하는 커버드콜입니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [투자 위험의 수학 3. 위험 기준의 사례 (원금 유지, 구매력 유지, 대학 등록금 마련)](https://m.blog.naver.com/onuri2005/224430486929) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-07 · 주식투자</sup>
 지난 글에서는 위험을 살펴보려면 기준이 필요하며, 자산의 변화를 이 기준과 비교하여 위험 또는 안전의 정도를 측정할 수 있음을 살펴보았습니다. [지난 글] 투자 위험의 수학 2. 위험이란 무엇일까?
@@ -59,13 +65,13 @@ categories:
 ### [2.9억원 은퇴 계획 사례 Part 2. 개인연금·국민연금·부수입을 고려한 시뮬레이션 (주식에도 투자할 때)](https://m.blog.naver.com/onuri2005/224431185754) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-04 · 주식투자</sup>
 지난 글에서 2.9억원의 은퇴 자금과 연금 및 부수입을 고려한 현금 흐름 시뮬레이션 사례를 살펴보았습니다. [지난 글] 2.9억원 은퇴 계획 사례 Part 1. 개인연금·국민연금·부수입을 고려한 시뮬레이션 (예금에만 투자할 때) 금융 자산을 모두 예금에 투자한다고 가정하면, 연금과 부수입을 고려해도 20년 정도의 기간 동안 현금 흐름을 만들 수 있었습니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [TIGER 미국배당다우존스타겟커버드콜1호, 10년 거치 + 30년 인출하면? (vs TIGER 미국배당다우존스)](https://m.blog.naver.com/onuri2005/224421914203) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-04 · 주식투자</sup>
 미래에셋자산운용의 TIGER 미국배당다우존스타겟커버드콜1호(458750)에 10년간 거치식으로 투자한다면, 은퇴 후 30년간 어느 정도의 현금 흐름을 만들 수 있을까요? TIGER 미국배당다우존스타겟커버드콜1호와 기초자산에 해당되는 TIGER 미국배당다우존스(458730)에 각각 2억원을 투자한다고 가정하고, 단순한 수익률 가정에 기반하여 두 ETF의 자산 변화와 현금 흐름을 비교해 봅니다.
 
 ### [ETF 거치식·적립식·인출식 투자 시뮬레이터 소개 \[26-09\]](https://m.blog.naver.com/onuri2005/224429335155) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-03 · 주식투자</sup>
 ETF 과거 데이터를 기반으로 거치식, 적립식, 인출식 등 다양한 투자 방식을 시뮬레이션하고, 수익률, 변동성, 최대 낙폭(MDD) 등 여러 지표를 함께 비교할 수 있는 구글 시트입니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [QYLD, 10년 거치 + 30년 인출하면? (vs QQQ)](https://m.blog.naver.com/onuri2005/224421890095) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-03 · 주식투자</sup>
 Global X의 QYLD에 10년간 거치식으로 투자한다면, 은퇴 후 30년간 어느 정도의 현금 흐름을 만들 수 있을까요? QYLD와 기초자산에 해당되는 QQQ에 각각 2억원을 투자한다고 가정하고, 단순한 수익률 가정에 기반하여 두 ETF의 자산 변화와 현금 흐름을 비교해 봅니다.
@@ -91,13 +97,13 @@ Global X의 QYLD에 10년간 거치식으로 투자한다면, 은퇴 후 30년�
 ### [예금이의 은퇴 계획 - 예금만 고집할까? 아니면 주식에도 투자할까?](https://m.blog.naver.com/onuri2005/224426199211) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-30 · 주식투자</sup>
 올해 40세인 예금이는 30세부터 예금(적금 포함)으로 1억원의 자산을 만들었습니다. 앞으로 은퇴까지 20년이 남았는데 계속해서 예금 위주로 투자할지 고민이 됩니다. 장기 기대 수익률이 높은 주식 대신 예금에 투자하는 이유는 여러 가지가 있을 수 있으며, 예금이의 경우 주식의 변동성으로 인한 자산 평가액의 변동이 부담스럽기 때문입니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [XYLD, 10년 거치 + 30년 인출하면? (vs SPY)](https://m.blog.naver.com/onuri2005/224421760548) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-30 · 주식투자</sup>
 Global X의 XYLD에 10년간 거치식으로 투자한다면, 은퇴 후 30년간 어느 정도의 현금 흐름을 만들 수 있을까요? XYLD와 기초자산에 해당되는 SPY에 각각 2억원을 투자한다고 가정하고, 단순한 수익률 가정에 기반하여 두 ETF의 자산 변화와 현금 흐름을 비교해 봅니다.
 
 ### [연금이의 은퇴 계획 - 국민연금 수령 전후 현금 흐름을 고려한 시뮬레이션 (커버드콜 vs 기초자산)](https://m.blog.naver.com/onuri2005/224426114934) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-29 · 주식투자</sup>
 올해 55세인 연금이는 5년 후 60세가 되면 정년이 됩니다. 은퇴 후에는 이전처럼 충분한 소득을 얻을 수 없기에 투자한 자산으로 현금 흐름을 마련하여 생활비로 사용할 계획입니다. 연금이는 65세부터 국민연금을 받을 수 있다고 가정하겠습니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [장기 투자 계획 시뮬레이터 사용법 - 거치식·적립식·인출식 (구글 시트)](https://m.blog.naver.com/onuri2005/224425807095) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-29 · 주식투자</sup>
 일정한 연복리 성장률(CAGR)을 가정하여 장기 투자에 따른 자산 규모와 현금 흐름을 계산해 볼 수 있는 시뮬레이터를 소개합니다. 거치식, 적립식, 인출식을 지원하며, 기간별로 서로 다른 투자 전략을 연속해서 설정할 수도 있습니다.
@@ -123,13 +129,13 @@ KB자산운용의 RISE 200위클리커버드콜(475720)에 10년간 거치식으
 ### [KODEX 200타겟위클리커버드콜, 10년 거치 + 30년 인출하면? (vs KODEX 200)](https://m.blog.naver.com/onuri2005/224421708858) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-24 · 주식투자</sup>
 삼성자산운용의 KODEX 200타겟위클리커버드콜(498400)에 10년간 거치식으로 투자한다면, 은퇴 후 30년간 어느 정도의 현금 흐름을 만들 수 있을까요? KODEX 200타겟위클리커버드콜과 기초자산에 해당되는 KODEX 200(069500)에 각각 2억원을 투자한다고 가정하고, 단순한 수익률 가정에 기반하여 두 ETF의 자산 변화와 현금 흐름을 비교해 봅니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [액티브 ETF 주간 신규 편입 및 편출 종목 (2026년 9월 3주차)](https://m.blog.naver.com/onuri2005/224421077645) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-23 · 액티브 ETF 포트폴리오 추적</sup>
 액티브 ETF의 구성내역(PDF; Portfolio Deposit File)을 기준으로 현재 구성 종목과 전주 대비 포트폴리오 신규 편입 및 편출 종목을 정리합니다. 본 시리즈는 매주 발행됩니다.
 
 ### [개인이 가장 많이 산 국내 ETF TOP 7 + 주간 수익률 TOP 7 \| 2026년 9월 3주차 (+4주간)](https://m.blog.naver.com/onuri2005/224421070234) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-23 · 주간 ETF 시황</sup>
 2026년 9월 3주차 기준, 개인 투자자가 가장 많이 순매수한 국내 상장 ETF TOP 7을 정리했습니다. KRX 데이터를 기반으로 개인 누적 순매수 금액 기준으로 집계한 주간 ETF 순위입니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [네이버 블로그 새 글, 구글은 어떻게 발견하고 색인할까? (모바일 URL만 가능한 걸까?)](https://m.blog.naver.com/onuri2005/224419898994) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-22 · 사용기</sup>
 네이버 블로그를 오래 운영하다 보면 어느 순간부터 자신의 글이 구글 검색에 나타나는 것을 발견할 수 있습니다. 국내 검색 시장에서 구글이 차지하는 비중이 작지 않기 때문에 구글 검색에 노출되면 블로그 페이지 조회수를 높이는 데 도움이 될 수 있습니다.
@@ -155,13 +161,13 @@ KB자산운용의 RISE 200위클리커버드콜(475720)에 10년간 거치식으
 ### [은퇴의 수학 3. 예금 - 얼마나 오래 현금 흐름을 만들 수 있을까?](https://m.blog.naver.com/onuri2005/224412748429) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-16 · 주식투자</sup>
 지난 글에서는 장기 투자에서는 인플레이션, 세금 및 각종 비용을 고려하여 실질 수익률을 기반으로 분석해야 함을 살펴보았습니다. [지난 글] 은퇴의 수학 2. 인플레이션, 왜 고려해야 하고 어떻게 반영할까?
 
+{% include /commons/ads/adsense.html %}
+
 ### [은퇴의 수학 2. 인플레이션, 왜 고려해야 하고 어떻게 반영할까?](https://m.blog.naver.com/onuri2005/224412280407) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-15 · 주식투자</sup>
 지난 글에서는 은퇴와 관련하여 고려해야 하는 주요 변수 간의 관계를 어떻게 분석할 수 있는지 간단하게 소개했습니다. 일부 변수를 고정하면 나머지 변수 간의 관계식을 얻을 수 있고, 이를 2차원 그래프로 표현하면 시각적으로 파악하기 편리합니다.
 
 ### [은퇴의 수학 1. 은퇴 자금과 현금 흐름은 어떻게 계획하고 예상할 수 있을까?](https://m.blog.naver.com/onuri2005/224411609300) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-14 · 주식투자</sup>
 은퇴를 준비하면서 금융 자산에서 매월 일정한 현금 흐름을 만들고 싶다면 여러 가지 궁금한 점이 생길 수 있습니다. 예를 들어, 월 300만원의 현금 흐름을 만들려면, 은퇴 시점에 얼마의 자금이 필요할까?
-
-{% include /commons/ads/adsense.html %}
 
 ### [투자의 수학 13. 변동성을 낮추면 기대수익도 줄어든다](https://m.blog.naver.com/onuri2005/224408616906) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-13 · 주식투자</sup>
 지난 글에서는 보험을 통해 손실 위험을 줄이는 대신 기대수익의 일부를 포기하는 구조를 살펴보았습니다. 이번 글에서는 이러한 위험과 수익의 관계가 금융상품과 투자전략에서 어떻게 나타나는지 살펴봅니다.
@@ -171,12 +177,6 @@ KB자산운용의 RISE 200위클리커버드콜(475720)에 10년간 거치식으
 
 ### [액티브 ETF 주간 신규 편입 및 편출 종목 (2026년 9월 1주차)](https://m.blog.naver.com/onuri2005/224408579428) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-12 · 액티브 ETF 포트폴리오 추적</sup>
 액티브 ETF의 구성내역(PDF; Portfolio Deposit File)을 기준으로 현재 구성 종목과 전주 대비 포트폴리오 신규 편입 및 편출 종목을 정리합니다. 본 시리즈는 매주 발행됩니다.
-
-### [BALI, JEPI, QQQI vs 기초자산 \[거치식·적립식·인출식 기회비용, 26-08\]](https://m.blog.naver.com/onuri2005/224399906625) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-11 · 주식투자</sup>
-해외 주식을 기초자산으로 하는 해외 상장 커버드콜 ETF와 기초자산(액티브 커버드콜의 경우 비교자산)의 잔여 자산 차이를 비교하여 정리해 보았습니다. 이 잔여 자산 차이는 커버드콜의 기회비용으로 볼 수 있습니다.
-
-### [개인이 가장 많이 산 국내 ETF TOP 7 + 주간 수익률 TOP 7 \| 2026년 9월 1주차 (+4주간)](https://m.blog.naver.com/onuri2005/224408599663) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-11 · 주간 ETF 시황</sup>
-2026년 9월 1주차 기준, 개인 투자자가 가장 많이 순매수한 국내 상장 ETF TOP 7을 정리했습니다. KRX 데이터를 기반으로 개인 누적 순매수 금액 기준으로 집계한 주간 ETF 순위입니다.
 
 
 
