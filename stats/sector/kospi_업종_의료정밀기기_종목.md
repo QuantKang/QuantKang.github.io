@@ -5,7 +5,7 @@ excerpt: KOSPI 의료정밀기기 업종 종목별 시가총액 비중입니다.
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-15
 ---
 
 
@@ -16,13 +16,13 @@ last_modified_at: 2026-10-14
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| 케이씨텍 | 42.0 | 4.2 | 0.4<small>%</small> | 33.0<small>%</small> |
+| 케이씨텍 | 37.0 | 3.7 | 0.5<small>%</small> | 33.0<small>%</small> |
 | [에스디바이오센서](/137310/) | - | 0.3 | 3.0<small>%</small> | 18.6<small>%</small> |
-| 디아이 | 210.7 | 6.6 | 0.6<small>%</small> | 17.2<small>%</small> |
-| 케이씨 | 10.5 | 0.5 | 1.0<small>%</small> | 9.8<small>%</small> |
-| 덴티움 | 20.6 | 0.6 | 1.5<small>%</small> | 8.2<small>%</small> |
-| 우진 | 25.4 | 1.1 | 2.7<small>%</small> | 6.3<small>%</small> |
-| 미래산업 | 14.8 | 1.3 | - | 5.6<small>%</small> |
+| 디아이 | 188.3 | 5.9 | 0.7<small>%</small> | 17.2<small>%</small> |
+| 케이씨 | 9.3 | 0.5 | 1.2<small>%</small> | 9.8<small>%</small> |
+| 덴티움 | 19.7 | 0.6 | 1.6<small>%</small> | 8.2<small>%</small> |
+| 우진 | 23.7 | 1.1 | 2.9<small>%</small> | 6.3<small>%</small> |
+| 미래산업 | 13.3 | 1.2 | - | 5.6<small>%</small> |
 | 한컴라이프케어 | - | 0.4 | - | 1.3<small>%</small> |
 
 {% include commons/footnotes.md %}
