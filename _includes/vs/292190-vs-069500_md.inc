@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KODEX KRX300](/292190-vs-069500/) | <span style="color: tomato">13.9<small>%</small></span> | 27.6<small>%</small> | 0.50 | -41.1<small>%</small> | -12.3<small>%</small> |
-| KODEX 200 | <span style="color: tomato">14.8<small>%</small></span> | 27.7<small>%</small> | 0.53 | -41.2<small>%</small> | -12.7<small>%</small> |
+| [KODEX KRX300](/292190-vs-069500/) | <span style="color: tomato">14.1<small>%</small></span> | 27.6<small>%</small> | 0.51 | -41.1<small>%</small> | -12.4<small>%</small> |
+| KODEX 200 | <span style="color: tomato">15.1<small>%</small></span> | 27.7<small>%</small> | 0.54 | -41.2<small>%</small> | -12.7<small>%</small> |
