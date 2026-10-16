@@ -5,7 +5,7 @@ excerpt: KOSDAQ 금융 업종 종목별 시가총액 비중입니다. 종목별�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-16
 ---
 
 
@@ -16,43 +16,43 @@ last_modified_at: 2026-10-15
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [에코프로](/086520/) | - | 5.5 | 0.2<small>%</small> | 55.9<small>%</small> |
-| [하림지주](/003380/) | 4.8 | 0.3 | 1.1<small>%</small> | 6.0<small>%</small> |
-| [미래에셋벤처투자](/100790/) | 23.4 | 1.9 | - | 3.9<small>%</small> |
-| [NHN KCP](/060250/) | 10.0 | 1.5 | 2.1<small>%</small> | 2.9<small>%</small> |
-| [인카금융서비스](/211050/) | 6.4 | 2.2 | 3.9<small>%</small> | 2.7<small>%</small> |
-| [우리기술투자](/041190/) | 3.5 | 0.5 | - | 2.5<small>%</small> |
-| 아주IB투자 | 39.7 | 1.2 | 2.5<small>%</small> | 2.0<small>%</small> |
-| LS증권 | 16.5 | 0.4 | 8.2<small>%</small> | 1.8<small>%</small> |
-| 글로벌텍스프리 | 11.7 | 3.0 | - | 1.7<small>%</small> |
+| [에코프로](/086520/) | - | 5.6 | 0.2<small>%</small> | 55.9<small>%</small> |
+| [하림지주](/003380/) | 5.0 | 0.4 | 1.0<small>%</small> | 6.0<small>%</small> |
+| [미래에셋벤처투자](/100790/) | 24.7 | 2.0 | - | 3.9<small>%</small> |
+| [NHN KCP](/060250/) | 10.6 | 1.6 | 2.0<small>%</small> | 2.9<small>%</small> |
+| [인카금융서비스](/211050/) | 6.5 | 2.2 | 3.8<small>%</small> | 2.7<small>%</small> |
+| [우리기술투자](/041190/) | 3.6 | 0.5 | - | 2.5<small>%</small> |
+| 아주IB투자 | 41.8 | 1.3 | 2.4<small>%</small> | 2.0<small>%</small> |
+| LS증권 | 16.7 | 0.4 | 8.1<small>%</small> | 1.8<small>%</small> |
+| 글로벌텍스프리 | 11.8 | 3.0 | - | 1.7<small>%</small> |
 | GRT | - | - | - | 1.4<small>%</small> |
-| 헥토파이낸셜 | 28.5 | 1.6 | 1.1<small>%</small> | 1.4<small>%</small> |
-| 한국캐피탈 | 2.4 | 0.3 | 5.9<small>%</small> | 1.1<small>%</small> |
-| 비츠로테크 | 38.1 | 1.0 | 0.6<small>%</small> | 1.1<small>%</small> |
-| DSC인베스트먼트 | 9.9 | 1.4 | 0.6<small>%</small> | 1.1<small>%</small> |
-| 해성산업 | - | 0.2 | 4.5<small>%</small> | 0.9<small>%</small> |
+| 헥토파이낸셜 | 30.2 | 1.7 | 1.0<small>%</small> | 1.4<small>%</small> |
+| 한국캐피탈 | 2.4 | 0.3 | 5.7<small>%</small> | 1.1<small>%</small> |
+| 비츠로테크 | 39.4 | 1.0 | 0.6<small>%</small> | 1.1<small>%</small> |
+| DSC인베스트먼트 | 10.4 | 1.4 | 0.6<small>%</small> | 1.1<small>%</small> |
+| 해성산업 | - | 0.2 | 4.3<small>%</small> | 0.9<small>%</small> |
 | 푸른저축은행 | 5.9 | 0.4 | 7.7<small>%</small> | 0.8<small>%</small> |
-| 유비쿼스홀딩스 | 6.5 | 0.5 | 3.0<small>%</small> | 0.8<small>%</small> |
-| 나우IB | 18.5 | 1.0 | 1.9<small>%</small> | 0.7<small>%</small> |
-| SV인베스트먼트 | - | 1.8 | 0.9<small>%</small> | 0.6<small>%</small> |
-| 에이티넘인베스트 | 3.4 | 0.4 | 7.6<small>%</small> | 0.5<small>%</small> |
-| LB인베스트먼트 | 7.3 | 0.7 | 5.1<small>%</small> | 0.5<small>%</small> |
-| 컴퍼니케이 | 11.4 | 1.0 | 3.0<small>%</small> | 0.5<small>%</small> |
-| 스톤브릿지벤처스 | 6.9 | 0.8 | 6.8<small>%</small> | 0.4<small>%</small> |
-| SBI인베스트먼트 | 7.1 | 0.5 | - | 0.4<small>%</small> |
+| 유비쿼스홀딩스 | 6.7 | 0.5 | 2.9<small>%</small> | 0.8<small>%</small> |
+| 나우IB | 18.8 | 1.0 | 1.9<small>%</small> | 0.7<small>%</small> |
+| SV인베스트먼트 | - | 1.9 | 0.8<small>%</small> | 0.6<small>%</small> |
+| 에이티넘인베스트 | 3.5 | 0.4 | 7.4<small>%</small> | 0.5<small>%</small> |
+| LB인베스트먼트 | 7.4 | 0.7 | 5.0<small>%</small> | 0.5<small>%</small> |
+| 컴퍼니케이 | 12.0 | 1.1 | 2.9<small>%</small> | 0.5<small>%</small> |
+| 스톤브릿지벤처스 | 7.2 | 0.8 | 6.6<small>%</small> | 0.4<small>%</small> |
+| SBI인베스트먼트 | 7.4 | 0.5 | - | 0.4<small>%</small> |
 | 테라뷰 | - | - | - | 0.4<small>%</small> |
 | 로스웰 | - | - | - | 0.4<small>%</small> |
 | APS | - | 0.3 | - | 0.3<small>%</small> |
 | 오가닉티코스메틱 | - | - | - | 0.3<small>%</small> |
-| 한패스 | 4.4 | 0.9 | - | 0.3<small>%</small> |
-| 대성창투 | 114.7 | 0.4 | - | 0.3<small>%</small> |
+| 한패스 | 4.5 | 0.9 | - | 0.3<small>%</small> |
+| 대성창투 | 115.3 | 0.4 | - | 0.3<small>%</small> |
 | 린드먼아시아 | 14.4 | 0.7 | 7.3<small>%</small> | 0.2<small>%</small> |
-| HB인베스트먼트 | 7.4 | 0.5 | 7.2<small>%</small> | 0.2<small>%</small> |
-| TS인베스트먼트 | 5.8 | 0.5 | 1.5<small>%</small> | 0.2<small>%</small> |
+| HB인베스트먼트 | 7.5 | 0.5 | 7.0<small>%</small> | 0.2<small>%</small> |
+| TS인베스트먼트 | 6.0 | 0.5 | 1.5<small>%</small> | 0.2<small>%</small> |
 | 코리아에셋투자증권 | 6.7 | 0.4 | 9.0<small>%</small> | 0.2<small>%</small> |
 | 크리스탈신소재 | - | - | - | 0.2<small>%</small> |
-| 큐캐피탈 | 11.9 | 0.2 | - | 0.2<small>%</small> |
-| 캡스톤파트너스 | 14.6 | 1.0 | 1.2<small>%</small> | 0.2<small>%</small> |
+| 큐캐피탈 | 12.3 | 0.2 | - | 0.2<small>%</small> |
+| 캡스톤파트너스 | 15.1 | 1.0 | 1.2<small>%</small> | 0.2<small>%</small> |
 | 글로벌에스엠 | - | - | - | 0.1<small>%</small> |
 | 메이슨캐피탈 | - | 0.3 | - | 0.1<small>%</small> |
 | GMI벤처 | 6.7 | 0.5 | - | 0.1<small>%</small> |
