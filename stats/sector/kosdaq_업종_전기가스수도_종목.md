@@ -5,7 +5,7 @@ excerpt: KOSDAQ 전기가스수도 업종 종목별 시가총액 비중입니다
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-19
 ---
 
 
@@ -16,7 +16,7 @@ last_modified_at: 2026-10-16
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| 덕양에너젠 | 30.0 | 3.1 | - | 75.2<small>%</small> |
+| 덕양에너젠 | 31.1 | 3.3 | - | 75.2<small>%</small> |
 | 지에스이 | 14.6 | 0.6 | 2.1<small>%</small> | 18.3<small>%</small> |
 | 에이전트AI | - | 0.2 | - | 6.5<small>%</small> |
 

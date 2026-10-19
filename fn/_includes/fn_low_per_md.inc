@@ -2,38 +2,38 @@
 
 | **종목** | **업종**[^fn_sector_abbr] | **PER** | **PBR** | **DIV** |
 | :--- | :--- | --: | --: | --: |
-| [솔브레인홀딩스](/036830/) | Q:일반서비스 | **1.7** | 0.5 | 1.2<small>%</small> |
+| [솔브레인홀딩스](/036830/) | Q:일반서비스 | **1.8** | 0.5 | 1.1<small>%</small> |
 | [KCC](/002380/) | P:화학 | **2.0** | <span style="color:tomato">0.4</span> | 3.5<small>%</small> |
-| [한국전력](/015760/) | P:전기가스 | **2.1** | <span style="color:tomato">0.4</span> | <span style="color:tomato">5.4<small>%</small></span> |
-| [성우하이텍](/015750/) | Q:운송장비부품 | **2.6** | <span style="color:tomato">0.3</span> | 3.6<small>%</small> |
-| [지역난방공사](/071320/) | P:전기가스 | **2.7** | <span style="color:tomato">0.4</span> | <span style="color:tomato">8.2<small>%</small></span> |
+| [한국전력](/015760/) | P:전기가스 | **2.2** | <span style="color:tomato">0.4</span> | <span style="color:tomato">5.3<small>%</small></span> |
+| [성우하이텍](/015750/) | Q:운송장비부품 | **2.7** | <span style="color:tomato">0.3</span> | 3.5<small>%</small> |
+| [지역난방공사](/071320/) | P:전기가스 | **2.8** | <span style="color:tomato">0.4</span> | <span style="color:tomato">8.0<small>%</small></span> |
 | [다우데이타](/032190/) | Q:유통 | **3.1** | <span style="color:tomato">0.4</span> | 3.1<small>%</small> |
-| [현대해상](/001450/) | P:보험 | **3.3** | 0.7 | - |
-| [우리기술투자](/041190/) | Q:금융 | **3.6** | 0.5 | - |
-| [대웅](/003090/) | P:제약 | **3.7** | 0.6 | 1.3<small>%</small> |
-| [SOOP](/067160/) | Q:IT서비스 | **4.1** | 0.9 | <span style="color:tomato">8.6<small>%</small></span> |
+| [현대해상](/001450/) | P:보험 | **3.4** | 0.7 | - |
+| [우리기술투자](/041190/) | Q:금융 | **3.7** | 0.5 | - |
+| [대웅](/003090/) | P:제약 | **3.7** | 0.6 | 1.2<small>%</small> |
 | [동원산업](/006040/) | P:기타금융 | **4.1** | <span style="color:tomato">0.5</span> | 3.2<small>%</small> |
-| [한국금융지주](/071050/) | P:기타금융 | **4.4** | 0.7 | <span style="color:tomato">5.7<small>%</small></span> |
-| [메가스터디교육](/215200/) | Q:일반서비스 | **4.8** | 0.8 | <span style="color:tomato">7.7<small>%</small></span> |
-| [키움증권](/039490/) | P:증권 | **5.0** | 0.9 | <span style="color:tomato">5.2<small>%</small></span> |
+| [SOOP](/067160/) | Q:IT서비스 | **4.2** | 0.9 | <span style="color:tomato">8.4<small>%</small></span> |
+| [한국금융지주](/071050/) | P:기타금융 | **4.5** | 0.8 | <span style="color:tomato">5.5<small>%</small></span> |
+| [메가스터디교육](/215200/) | Q:일반서비스 | **4.9** | 0.8 | <span style="color:tomato">7.6<small>%</small></span> |
+| [금호타이어](/073240/) | P:화학 | **4.9** | 0.8 | - |
 | [하림지주](/003380/) | Q:금융 | **5.0** | <span style="color:tomato">0.4</span> | 1.0<small>%</small> |
-| [금호타이어](/073240/) | P:화학 | **5.0** | 0.9 | - |
+| [키움증권](/039490/) | P:증권 | **5.2** | 0.9 | <span style="color:tomato">5.0<small>%</small></span> |
 | [영원무역홀딩스](/009970/) | P:기타금융 | **5.5** | 0.7 | 3.8<small>%</small> |
-| [에스엠](/041510/) | Q:오락문화 | **5.6** | 1.9 | 1.9<small>%</small> |
-| [기아](/000270/) | P:운송장비부품 | **5.7** | 0.7 | <span style="color:tomato">6.2<small>%</small></span> |
+| [에스엠](/041510/) | Q:오락문화 | **5.7** | 2.0 | 1.9<small>%</small> |
 | [BNK금융지주](/138930/) | P:기타금융 | **5.8** | <span style="color:tomato">0.4</span> | <span style="color:tomato">5.0<small>%</small></span> |
-| [DB손해보험](/005830/) | P:보험 | **6.1** | 1.0 | <span style="color:tomato">4.2<small>%</small></span> |
-| [CJ대한통운](/000120/) | P:운송창고 | **6.1** | <span style="color:tomato">0.3</span> | 1.1<small>%</small> |
-| [이녹스첨단소재](/272290/) | Q:전기전자 | **6.1** | 0.9 | 1.9<small>%</small> |
-| [대웅제약](/069620/) | P:제약 | **6.2** | 1.2 | 0.6<small>%</small> |
-| [기업은행](/024110/) | P:은행 | **6.3** | <span style="color:tomato">0.4</span> | <span style="color:tomato">5.3<small>%</small></span> |
-| [영원무역](/111770/) | P:유통 | **6.4** | 0.8 | 2.8<small>%</small> |
-| [세아제강지주](/003030/) | P:기타금융 | **6.4** | <span style="color:tomato">0.2</span> | 1.8<small>%</small> |
-| [코나아이](/052400/) | Q:IT서비스 | **6.5** | 1.9 | 3.6<small>%</small> |
-| [인카금융서비스](/211050/) | Q:금융 | **6.5** | 2.2 | 3.8<small>%</small> |
+| [기아](/000270/) | P:운송장비부품 | **6.0** | 0.7 | <span style="color:tomato">5.9<small>%</small></span> |
+| [대웅제약](/069620/) | P:제약 | **6.3** | 1.2 | 0.6<small>%</small> |
+| [CJ대한통운](/000120/) | P:운송창고 | **6.3** | <span style="color:tomato">0.3</span> | 1.1<small>%</small> |
+| [기업은행](/024110/) | P:은행 | **6.3** | <span style="color:tomato">0.4</span> | <span style="color:tomato">5.2<small>%</small></span> |
+| [DB손해보험](/005830/) | P:보험 | **6.4** | 1.1 | <span style="color:tomato">4.0<small>%</small></span> |
+| [이녹스첨단소재](/272290/) | Q:전기전자 | **6.4** | 0.9 | 1.8<small>%</small> |
+| [세아제강지주](/003030/) | P:기타금융 | **6.5** | <span style="color:tomato">0.2</span> | 1.8<small>%</small> |
+| [영원무역](/111770/) | P:유통 | **6.5** | 0.8 | 2.8<small>%</small> |
+| [F&F](/383220/) | P:섬유의류 | **6.7** | 1.4 | 3.8<small>%</small> |
+| [코나아이](/052400/) | Q:IT서비스 | **6.7** | 1.9 | 3.5<small>%</small> |
 | [iM금융지주](/139130/) | P:기타금융 | **6.8** | <span style="color:tomato">0.4</span> | <span style="color:tomato">4.1<small>%</small></span> |
+| [인카금융서비스](/211050/) | Q:금융 | **6.8** | 2.3 | 3.7<small>%</small> |
 | [DL이앤씨](/375500/) | P:건설 | **6.8** | 0.5 | 1.5<small>%</small> |
-| [한화생명](/088350/) | P:보험 | **6.8** | <span style="color:tomato">0.3</span> | - |
-| [F&F](/383220/) | P:섬유의류 | **6.9** | 1.4 | 3.7<small>%</small> |
-| [삼성증권](/016360/) | P:증권 | **7.0** | 0.9 | <span style="color:tomato">5.1<small>%</small></span> |
-| [한국타이어앤테크놀로지](/161390/) | P:화학 | **7.0** | 0.6 | 3.6<small>%</small> |
+| [한화생명](/088350/) | P:보험 | **6.9** | <span style="color:tomato">0.3</span> | - |
+| [삼성카드](/029780/) | P:기타금융 | **7.1** | 0.5 | <span style="color:tomato">6.5<small>%</small></span> |
+| [삼성증권](/016360/) | P:증권 | **7.1** | 0.9 | <span style="color:tomato">5.0<small>%</small></span> |
