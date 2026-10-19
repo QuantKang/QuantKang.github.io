@@ -2,7 +2,7 @@
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | DIA | | <span style="color: tomato">14.7<small>%</small></span> | - | - | - |
 | [DDM](/ddm/) | 2<small>x</small> | <span style="color: tomato">22.5<small>%</small></span> | 1.6<small>%</small> | 5.3<small>%</small> | 6.8<small>%</small> |
-| [UDOW](/udow/) | 3<small>x</small> | <span style="color: tomato">29.0<small>%</small></span> | 4.6<small>%</small> | 9.5<small>%</small> | 13.6<small>%</small> |
-| [DOG](/dog/) | -1<small>x</small> | <span style="color: cornflowerblue">-8.1<small>%</small></span> | 1.6<small>%</small> | -6.7<small>%</small> | -5.0<small>%</small> |
-| [DXD](/dxd/) | -2<small>x</small> | <span style="color: cornflowerblue">-19.1<small>%</small></span> | 4.7<small>%</small> | -10.8<small>%</small> | -5.7<small>%</small> |
-| [SDOW](/sdow/) | -3<small>x</small> | <span style="color: cornflowerblue">-29.8<small>%</small></span> | 9.1<small>%</small> | -15.4<small>%</small> | -4.9<small>%</small> |
+| [UDOW](/udow/) | 3<small>x</small> | <span style="color: tomato">30.1<small>%</small></span> | 4.6<small>%</small> | 9.5<small>%</small> | 13.7<small>%</small> |
+| [DOG](/dog/) | -1<small>x</small> | <span style="color: cornflowerblue">-8.3<small>%</small></span> | 1.6<small>%</small> | -6.8<small>%</small> | -5.1<small>%</small> |
+| [DXD](/dxd/) | -2<small>x</small> | <span style="color: cornflowerblue">-19.6<small>%</small></span> | 4.6<small>%</small> | -10.8<small>%</small> | -5.7<small>%</small> |
+| [SDOW](/sdow/) | -3<small>x</small> | <span style="color: cornflowerblue">-30.4<small>%</small></span> | 9.1<small>%</small> | -15.5<small>%</small> | -5.0<small>%</small> |
