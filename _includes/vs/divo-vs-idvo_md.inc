@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | [DIVO](/divo-vs-idvo/) | <span style="color: tomato">13.8<small>%</small></span> | 11.1<small>%</small> | 1.24 | -12.1<small>%</small> | -1.9<small>%</small> |
-| IDVO | <span style="color: tomato">19.6<small>%</small></span> | 16.2<small>%</small> | 1.21 | -15.5<small>%</small> | -2.3<small>%</small> |
+| IDVO | <span style="color: tomato">19.4<small>%</small></span> | 16.2<small>%</small> | 1.20 | -15.5<small>%</small> | -2.3<small>%</small> |
