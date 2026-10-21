@@ -5,7 +5,7 @@ excerpt: KOSPI 부동산 업종 종목별 시가총액 비중입니다. 종목�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-10-20
+last_modified_at: 2026-10-21
 ---
 
 
@@ -24,7 +24,7 @@ last_modified_at: 2026-10-20
 | 삼성FN리츠 | - | - | - | 5.5<small>%</small> |
 | 코람코더원리츠 | - | - | - | 4.9<small>%</small> |
 | 코람코라이프인프라리츠 | - | - | - | 4.7<small>%</small> |
-| 자이에스앤디 | 9.1 | 0.7 | 1.9<small>%</small> | 4.4<small>%</small> |
+| 자이에스앤디 | 9.5 | 0.7 | 1.8<small>%</small> | 4.4<small>%</small> |
 | 이지스밸류플러스리츠 | - | - | - | 2.9<small>%</small> |
 | 신한서부티엔디리츠 | - | - | - | 2.7<small>%</small> |
 | 제이알글로벌리츠 | - | - | - | 2.6<small>%</small> |
