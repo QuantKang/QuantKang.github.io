@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [RYLD](/ryld-vs-iwm/) | <span style="color: tomato">5.1<small>%</small></span> | 16.8<small>%</small> | 0.30 | -41.5<small>%</small> | -8.8<small>%</small> |
-| IWM | <span style="color: tomato">9.1<small>%</small></span> | 24.9<small>%</small> | 0.36 | -41.1<small>%</small> | -11.3<small>%</small> |
+| [RYLD](/ryld-vs-iwm/) | <span style="color: tomato">5.2<small>%</small></span> | 16.8<small>%</small> | 0.31 | -41.5<small>%</small> | -8.8<small>%</small> |
+| IWM | <span style="color: tomato">9.3<small>%</small></span> | 24.9<small>%</small> | 0.37 | -41.1<small>%</small> | -11.3<small>%</small> |

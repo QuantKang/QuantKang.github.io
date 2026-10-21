@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [WDTE](/wdte-vs-spy/) | <span style="color: tomato">13.6<small>%</small></span> | 11.2<small>%</small> | 1.21 | -15.8<small>%</small> | -1.8<small>%</small> |
-| SPY | <span style="color: tomato">20.9<small>%</small></span> | 15.1<small>%</small> | 1.38 | -18.8<small>%</small> | -1.9<small>%</small> |
+| [WDTE](/wdte-vs-spy/) | <span style="color: tomato">13.7<small>%</small></span> | 11.2<small>%</small> | 1.22 | -15.8<small>%</small> | -1.8<small>%</small> |
+| SPY | <span style="color: tomato">21.0<small>%</small></span> | 15.1<small>%</small> | 1.39 | -18.8<small>%</small> | -1.9<small>%</small> |
