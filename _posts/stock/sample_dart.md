@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [와이지엔터테인먼트](/122870/#dart) | | [주식등의대량보유상황보고서(일반)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000385){:target="_blank"} |
-| [한전기술](/052690/#dart) | | [주주총회소집결의              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800567){:target="_blank"} |
-| [이수스페셜티케미컬](/457190/#dart) | | [최대주주등소유주식변동신고서              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800577){:target="_blank"} |
-| [현대로템](/064350/#dart) | | [단일판매ㆍ공급계약체결              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021800516){:target="_blank"} |
-| [GS](/078930/#dart) | | [증권발행실적보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021000357){:target="_blank"} |
+| [롯데지주](/004990/#dart) | | [기업가치제고계획(자율공시)              (PBR 개선 계획 제출 기업)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022800462){:target="_blank"} |
+| [세아제강지주](/003030/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022000359){:target="_blank"} |
+| [카카오페이](/377300/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022000358){:target="_blank"} |
+| [지역난방공사](/071320/#dart) | | [영업(잠정)실적(공정공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022800434){:target="_blank"} |
+| [현대엘리베이터](/017800/#dart) | | [자기주식처분결과보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022000340){:target="_blank"} |
