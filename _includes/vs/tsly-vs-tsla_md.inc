@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [TSLY](/tsly-vs-tsla/) | <span style="color: tomato">9.1<small>%</small></span> | 45.0<small>%</small> | 0.20 | -49.5<small>%</small> | -19.8<small>%</small> |
-| TSLA | <span style="color: tomato">20.1<small>%</small></span> | 57.9<small>%</small> | 0.35 | -53.8<small>%</small> | -21.9<small>%</small> |
+| [TSLY](/tsly-vs-tsla/) | <span style="color: tomato">9.0<small>%</small></span> | 45.0<small>%</small> | 0.20 | -49.5<small>%</small> | -19.8<small>%</small> |
+| TSLA | <span style="color: tomato">19.8<small>%</small></span> | 57.8<small>%</small> | 0.34 | -53.8<small>%</small> | -21.9<small>%</small> |

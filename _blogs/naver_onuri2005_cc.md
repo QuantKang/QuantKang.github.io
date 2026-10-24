@@ -17,6 +17,9 @@ categories:
 {% include /commons/ads/adsense.html %}
 
 ## 커버드콜 관련 주요 글
+### [은퇴를 위해 인버스에 장기 투자하세요 (TSLY, 개별 종목 기반 초고배당 커버드콜)](https://m.blog.naver.com/onuri2005/224447570320) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-22 · 주식투자</sup>
+지난 세 편의 글을 통해 시장 대표 지수를 기반으로 하는 커버드콜이 기초자산과 인버스를 함께 보유한 포트폴리오와 유사한 수익률 특성을 보였음을 데이터로 살펴보았습니다. 이번 글에서는 개별 종목인 TSLA(테슬라)에 대해 합성 커버드콜(synthetic covered call) 전략으로 커버드콜과 유사한 효과를 내는 초고배당 ETF인 일드맥스의 TSLY(YieldMax TSLA Option Income Strategy ETF) 사례를 살펴봅니다.
+
 ### [KODEX 200커버드콜액티브, 기대한 성과를 보였나? (지난 3개월)](https://m.blog.naver.com/onuri2005/224448834048) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-21 · 주식투자</sup>
 삼성자산운용이 2026년 7월 14일 상장한 KODEX 200커버드콜액티브(0219E0)는 종목 선정과 콜옵션 매매에 펀드매니저가 관여하는 액티브 커버드콜 ETF입니다. 이 상품은 상장 후 상당한 인기를 끌었으며, 최근 4주 개인 순매수 상위 TOP 7에 포함되기도 >했습니다.
 

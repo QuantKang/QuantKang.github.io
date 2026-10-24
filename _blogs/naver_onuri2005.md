@@ -2,7 +2,7 @@
 title: 오렌지사과의 네이버 블로그 최근 글 목록
 header:
   overlay_image: "/assets/images/report.jpg"
-last_modified_at: 2026-10-22
+last_modified_at: 2026-10-23
 excerpt: 오렌지사과의 네이버 블로그에서 최근 작성한 글 50건을 정리한 목록입니다. 
 ##toc: true
 toc_sticky: false
@@ -18,6 +18,9 @@ categories:
 
 
 ## 최근 글 50건
+### [개인이 가장 많이 산 국내 ETF TOP 7 + 주간 수익률 TOP 7 \| 2026년 10월 3주차 (+4주간)](https://m.blog.naver.com/onuri2005/224451439457) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-23 · 주간 ETF 시황</sup>
+2026년 10월 3주차 기준, 개인 투자자가 가장 많이 순매수한 국내 상장 ETF TOP 7을 정리했습니다. KRX 데이터를 기반으로 개인 누적 순매수 금액 기준으로 집계한 주간 ETF 순위입니다.
+
 ### [은퇴를 위해 인버스에 장기 투자하세요 (TSLY, 개별 종목 기반 초고배당 커버드콜)](https://m.blog.naver.com/onuri2005/224447570320) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-22 · 주식투자</sup>
 지난 세 편의 글을 통해 시장 대표 지수를 기반으로 하는 커버드콜이 기초자산과 인버스를 함께 보유한 포트폴리오와 유사한 수익률 특성을 보였음을 데이터로 살펴보았습니다. 이번 글에서는 개별 종목인 TSLA(테슬라)에 대해 합성 커버드콜(synthetic covered call) 전략으로 커버드콜과 유사한 효과를 내는 초고배당 ETF인 일드맥스의 TSLY(YieldMax TSLA Option Income Strategy ETF) 사례를 살펴봅니다.
 
@@ -30,10 +33,10 @@ categories:
 ### [KODEX 200커버드콜액티브, 기대한 성과를 보였나? (지난 3개월)](https://m.blog.naver.com/onuri2005/224448834048) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-21 · 주식투자</sup>
 삼성자산운용이 2026년 7월 14일 상장한 KODEX 200커버드콜액티브(0219E0)는 종목 선정과 콜옵션 매매에 펀드매니저가 관여하는 액티브 커버드콜 ETF입니다. 이 상품은 상장 후 상당한 인기를 끌었으며, 최근 4주 개인 순매수 상위 TOP 7에 포함되기도 했습니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [은퇴를 위해 인버스에 장기 투자하세요 (KODEX 200타겟위클리커버드콜, RISE 200위클리커버드콜)](https://m.blog.naver.com/onuri2005/224445645558) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-20 · 주식투자</sup>
 지난 두 편의 글을 통해 나스닥 100 지수 기반 먼슬리 커버드콜과 S&P 500 지수 기반 데일리 커버드콜이 기초자산과 인버스를 함께 보유한 포트폴리오와 유사한 수익률 특성을 보였음을 데이터로 살펴보았습니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [\[영상\] RISE 코리아밸류업위클리고정커버드콜 현금 흐름 (vs RISE 코리아밸류업, 1억원 거치)](https://m.blog.naver.com/onuri2005/224446930865) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-20 · 주식투자</sup>
 KB자산운용의 RISE 코리아밸류업위클리고정커버드콜(0094M0)과 기초자산인 RISE 코리아밸류업(495050)의 공통 상장 기간에 대해 수익률과 현금 흐름을 비교해 봅니다. RISE 코리아밸류업위클리고정커버드콜은 코리아 밸류업 지수로 기초자산을 구성하고 코스피 200 위클리 콜옵션을 30% 고정 비율로 매도하는 커버드콜입니다.
@@ -62,10 +65,10 @@ JP 모건의 JEPI(JPMorgan Equity Premium Income ETF)와 비교자산인 SPY(SPD
 ### [\[영상\] TIGER 미국나스닥100타겟데일리커버드콜 현금 흐름 (vs TIGER 미국나스닥100, 1억원 거치)](https://m.blog.naver.com/onuri2005/224441419446) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-15 · 주식투자</sup>
 미래에셋자산운용의 TIGER 미국나스닥100타겟데일리커버드콜(486290)과 기초자산인 TIGER 미국나스닥100(133690)의 공통 상장 기간에 대해 수익률과 현금 흐름을 비교해 봅니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [RISE 코리아밸류업위클리고정커버드콜, PLUS 고배당주위클리커버드콜 vs 기초자산 \[거치식·적립식·인출식 기회비용, 26-09\]](https://m.blog.naver.com/onuri2005/224441687109) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-14 · 주식투자</sup>
 국내 주식을 기초자산으로 하는 국내 상장 커버드콜 ETF와 기초자산의 잔여 자산 차이를 비교하여 정리해 보았습니다. 이 잔여 자산 차이는 커버드콜의 기회비용으로 볼 수 있습니다. 2026년 9월 말 기준으로 투자 방식에 따른 계산 방법은 다음과 같습니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [ETF 포트폴리오 분석 도구 소개 \[26-09\]](https://m.blog.naver.com/onuri2005/224440518176) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-13 · 주식투자</sup>
 미국 상장 ETF의 수익률과 위험 특성을 비교하고, 두 ETF를 조합했을 때 어떤 분산 투자 효과가 나타났는지 시각적으로 확인할 수 있는 구글 시트 분석 도구를 2026년 9월 데이터로 업데이트했습니다.
@@ -94,10 +97,10 @@ KB자산운용의 RISE 200위클리커버드콜(475720)과 기초자산인 RISE 
 ### [TIGER 미국배당다우존스타겟데일리커버드콜, 10년 거치 + 30년 인출하면? (vs TIGER 미국배당다우존스)](https://m.blog.naver.com/onuri2005/224421930436) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-07 · 주식투자</sup>
 미래에셋자산운용의 TIGER 미국배당다우존스타겟데일리커버드콜(0008S0)에 10년간 거치식으로 투자한다면, 은퇴 후 30년간 어느 정도의 현금 흐름을 만들 수 있을까요? TIGER 미국배당다우존스타겟데일리커버드콜과 기초자산에 해당되는 TIGER 미국배당다우존스(458730)에 각각 2억원을 투자한다고 가정하고, 단순한 수익률 가정에 기반하여 두 ETF의 자산 변화와 현금 흐름을 비교해 봅니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [투자 위험의 수학 2. 위험이란 무엇일까? 어떻게 나타낼 수 있을까?](https://m.blog.naver.com/onuri2005/224430357594) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-06 · 주식투자</sup>
 지난 글에서는 장기 투자에서는 복리 효과로 인해 투자자가 직관적으로 예상한 결과와 실제 결과 사이에 큰 차이가 발생할 수 있음을 살펴보았습니다. [지난 글] 투자 위험의 수학 1. 직관과 결과의 괴리 (복리 효과) 인간의 뇌는 본능적으로 복잡한 정보를 단순화해서 판단하려는 경향이 있습니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [KODEX 미국다우존스타겟커버드콜, 10년 거치 + 30년 인출하면? (vs TIGER 미국배당다우존스)](https://m.blog.naver.com/onuri2005/224421922891) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-06 · 주식투자</sup>
 삼성자산운용의 KODEX 미국다우존스타겟커버드콜(483290)에 10년간 거치식으로 투자한다면, 은퇴 후 30년간 어느 정도의 현금 흐름을 만들 수 있을까요? KODEX 미국다우존스타겟커버드콜과 기초자산에 해당되는 TIGER 미국배당다우존스(458730)에 각각 2억원을 투자한다고 가정하고, 단순한 수익률 가정에 기반하여 두 ETF의 자산 변화와 현금 흐름을 비교해 봅니다.
@@ -126,10 +129,10 @@ Global X의 QYLD에 10년간 거치식으로 투자한다면, 은퇴 후 30년�
 ### [개인이 가장 많이 산 국내 ETF TOP 7 + 주간 수익률 TOP 7 \| 2026년 9월 4주차 (+4주간)](https://m.blog.naver.com/onuri2005/224429558198) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-02 · 주간 ETF 시황</sup>
 2026년 9월 4주차 기준, 개인 투자자가 가장 많이 순매수한 국내 상장 ETF TOP 7을 정리했습니다. KRX 데이터를 기반으로 개인 누적 순매수 금액 기준으로 집계한 주간 ETF 순위입니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [액티브 ETF 주간 신규 편입 및 편출 종목 (2026년 9월 4주차)](https://m.blog.naver.com/onuri2005/224429183865) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-02 · 액티브 ETF 포트폴리오 추적</sup>
 액티브 ETF의 구성내역(PDF; Portfolio Deposit File)을 기준으로 현재 구성 종목과 전주 대비 포트폴리오 신규 편입 및 편출 종목을 정리합니다. 본 시리즈는 매주 발행됩니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [현철이의 은퇴 계획 - 연 17%를 분배하는 커버드콜로 필요 현금 흐름이 유지될까? (KODEX 200타겟위클리커버드콜](https://m.blog.naver.com/onuri2005/224426951304) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-01 · 주식투자</sup>
 올해 60세인 현철이는 최근 은퇴를 했습니다. 보유한 금융자산 3억원으로 생활비를 마련해야 하는 상황입니다. 현금 흐름을 어떻게 만들지 고민이 됩니다. 현철이가 이리저리 알아보니 연환산 17%를 분배하는 KODEX 200타겟위클리커버드콜(498400)이라는 상품을 발견합니다.
@@ -158,10 +161,10 @@ Global X의 XYLD에 10년간 거치식으로 투자한다면, 은퇴 후 30년�
 ### [RISE 미국S&P500데일리고정커버드콜, 10년 거치 + 30년 인출하면? (vs TIGER 미국S&P500)](https://m.blog.naver.com/onuri2005/224421752083) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-29 · 주식투자</sup>
 KB자산운용의 RISE 미국S&P500데일리고정커버드콜(0138T0)에 10년간 거치식으로 투자한다면, 은퇴 후 30년간 어느 정도의 현금 흐름을 만들 수 있을까요? RISE 미국S&P500데일리고정커버드콜과 기초자산에 해당되는 TIGER 미국S&P500(360200)에 각각 2억원을 투자한다고 가정하고, 단순한 수익률 가정에 기반하여 두 ETF의 자산 변화와 현금 흐름을 비교해 봅니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [TIGER 미국S&P500타겟데일리커버드콜, 10년 거치 + 30년 인출하면? (vs TIGER 미국S&P500)](https://m.blog.naver.com/onuri2005/224421743269) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-28 · 주식투자</sup>
 미래에셋자산운용의 TIGER 미국S&P500타겟데일리커버드콜(482730)에 10년간 거치식으로 투자한다면, 은퇴 후 30년간 어느 정도의 현금 흐름을 만들 수 있을까요? TIGER 미국S&P500타겟데일리커버드콜과 기초자산에 해당되는 TIGER 미국S&P500(360200)에 각각 2억원을 투자한다고 가정하고, 단순한 수익률 가정에 기반하여 두 ETF의 자산 변화와 현금 흐름을 비교해 봅니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [투자의 수학 15. 변동성은 어떤 위험일까?](https://m.blog.naver.com/onuri2005/224423771348) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-27 · 주식투자</sup>
 변동성이 높은 자산은 정말 더 위험할까요? 투자에서 흔히 변동성을 위험의 대표적인 지표로 생각합니다. 하지만 변동성과 투자자가 실제로 느끼는 수익률 위험은 항상 같은 의미를 가지지는 않습니다.
@@ -174,9 +177,6 @@ KB자산운용의 RISE 200위클리커버드콜(475720)에 10년간 거치식으
 
 ### [네이버 블로그 구글 검색 백링크, 등록 방법과 신청 안내](https://m.blog.naver.com/onuri2005/224421175071) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-24 · 사용기</sup>
 지난 글에서 네이버 블로그의 신규 글이 구글 검색에 나타나기 위해서는 구글이 해당 글을 발견할 수 있는 경로가 필요하며, 백링크가 그 방법 중 하나라는 점을 설명했습니다. [지난 글] 네이버 블로그 새 글, 구글은 어떻게 발견하고 색인할까?
-
-### [KODEX 200타겟위클리커버드콜, 10년 거치 + 30년 인출하면? (vs KODEX 200)](https://m.blog.naver.com/onuri2005/224421708858) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-24 · 주식투자</sup>
-삼성자산운용의 KODEX 200타겟위클리커버드콜(498400)에 10년간 거치식으로 투자한다면, 은퇴 후 30년간 어느 정도의 현금 흐름을 만들 수 있을까요? KODEX 200타겟위클리커버드콜과 기초자산에 해당되는 KODEX 200(069500)에 각각 2억원을 투자한다고 가정하고, 단순한 수익률 가정에 기반하여 두 ETF의 자산 변화와 현금 흐름을 비교해 봅니다.
 
 
 

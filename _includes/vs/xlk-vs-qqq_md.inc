@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [XLK](/xlk-vs-qqq/) | <span style="color: tomato">10.0<small>%</small></span> | 25.8<small>%</small> | 0.39 | -82.0<small>%</small> | -34.9<small>%</small> |
+| [XLK](/xlk-vs-qqq/) | <span style="color: tomato">10.0<small>%</small></span> | 25.8<small>%</small> | 0.39 | -82.0<small>%</small> | -34.8<small>%</small> |
 | QQQ | <span style="color: tomato">10.7<small>%</small></span> | 26.8<small>%</small> | 0.40 | -83.0<small>%</small> | -32.3<small>%</small> |
