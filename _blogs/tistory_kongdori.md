@@ -2,7 +2,7 @@
 title: 오렌시자사과의 티스토리 최근 글 목록
 header:
   overlay_image: "/assets/images/report.jpg"
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-25
 excerpt: 오렌시자사과의 티스토리에서 최근 작성한 글 50건을 정리한 목록입니다. 
 ##toc: true
 toc_sticky: false
@@ -17,6 +17,9 @@ categories:
 
 
 ## 최근 글 50건
+### [KODEX 200커버드콜액티브와 PLUS 200커버드콜액티브, 지난 3개월 성과는?](https://kongdori.tistory.com/866) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-25 · 주식투자</sup>
+삼성자산운용의 KODEX 200커버드콜액티브(0219E0)와 한화자산운용의 PLUS 200커버드콜액티브(0210E0)는 비교적 최근에 상장된 액티브 커버드콜 ETF입니다. 두 ETF는 코스피 200 지수를 기반으로 시장 상황에 따라 코스피 200 콜옵션 매도 비중을 조절하여 옵션 매도 효과를 높이는 것을 목표로 합니다.
+
 ### [커버드콜, 은퇴에 대비해 인버스에 장기 투자하세요](https://kongdori.tistory.com/865) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-23 · 주식투자</sup>
 장기 투자를 지속하고, 은퇴 후에는 편리하고 편안하게 현금 흐름을 만들기 위해 주기적으로 많은 배당금을 지급하는 커버드콜이 유리한 선택일 수 있다며 장기 투자를 권유하는 콘텐츠를 자주 발견할 수 있습니다.
 
@@ -29,10 +32,10 @@ KODEX 미국배당다우존스타겟커버드콜(483290) 또는 기초자산인 
 ### [TIGER 미국배당다우존스타겟커버드콜2호, 월 300만원 현금 흐름을 만들려면? (vs TIGER 미국배당다우존스, 30년 거치식&middot;적립식)](https://kongdori.tistory.com/862) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-10 · 주식투자</sup>
 TIGER 미국배당다우존스타겟커버드콜2호(458760) 또는 기초자산인 TIGER 미국배당다우존스(458730)에 30년간 거치식 또는 적립식으로 장기 투자하고, 은퇴 후 월 300만원의 현금 흐름을 만들고자 한다면 필요한 투자금은 얼마일까요?
 
+{% include /commons/ads/adsense.html %}
+
 ### [TIGER 미국배당다우존스타겟커버드콜1호, 월 300만원 현금 흐름을 만들려면? (vs TIGER 미국배당다우존스, 30년 거치식&middot;적립식)](https://kongdori.tistory.com/861) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-09 · 주식투자</sup>
 TIGER 미국배당다우존스타겟커버드콜1호(458750) 또는 기초자산인 TIGER 미국배당다우존스(458730)에 30년간 거치식 또는 적립식으로 장기 투자하고, 은퇴 후 월 300만원의 현금 흐름을 만들고자 한다면 필요한 투자금은 얼마일까요?
-
-{% include /commons/ads/adsense.html %}
 
 ### [QYLD, 월 300만원 현금 흐름을 만들려면? (vs QQQ, 30년 거치식&middot;적립식)](https://kongdori.tistory.com/860) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-08 · 주식투자</sup>
 QYLD 또는 기초자산인 QQQ에 30년간 거치식 또는 적립식으로 장기 투자하고, 은퇴 후 월 300만원의 현금 흐름을 만들고자 한다면 필요한 투자금은 얼마일까요? 실질 CAGR이 매년 일정하게 유지된다는 단순한 가정하에 시뮬레이션 결과를 살펴봅니다.
@@ -61,10 +64,10 @@ RISE 200위클리커버드콜(475720) 또는 기초자산인 KODEX 200(069500)�
 ### [TIGER 200타겟위클리커버드콜, 월 300만원 현금 흐름을 만들려면? (vs KODEX 200, 30년 거치식&middot;적립식)](https://kongdori.tistory.com/852) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-30 · 주식투자</sup>
 TIGER 200타겟위클리커버드콜(0104N0) 또는 기초자산인 KODEX 200(069500)에 30년간 거치식 또는 적립식으로 장기 투자하고, 은퇴 후 월 300만원의 현금 흐름을 만들고자 한다면 필요한 투자금은 얼마일까요?
 
+{% include /commons/ads/adsense.html %}
+
 ### [KODEX 200타겟위클리커버드콜, 월 300만원 현금 흐름을 만들려면? (vs KODEX 200, 30년 거치식&middot;적립식)](https://kongdori.tistory.com/851) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-29 · 주식투자</sup>
 KODEX 200타겟위클리커버드콜(498400) 또는 기초자산인 KODEX 200(069500)에 30년간 거치식 또는 적립식으로 장기 투자하고, 은퇴 후 월 300만원의 현금 흐름을 만들고자 한다면 필요한 투자금은 얼마일까요?
-
-{% include /commons/ads/adsense.html %}
 
 ### [일드맥스 초고배당 커버드콜로 현금 흐름을 만들었다면? (TSLY, NVDY, PLTY, CONY, MSTY, AMDY)](https://kongdori.tistory.com/850) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-28 · 주식투자</sup>
 일드맥스(YieldMax)는 개별 종목을 기반으로 초고배당을 하는 커버드콜 ETF를 여럿 운용합니다. 예를 들어 TSLY(YieldMax TSLA Option Income Strategy ETF)는 TSLA(테슬라)를 기초자산으로 하는 커버드콜로 2026년 8월 기준 연 50% 수준의 높은 분배율을 보이고 있습니다.
@@ -93,10 +96,10 @@ KODEX 200타겟위클리커버드콜(498400) 또는 기초자산인 KODEX 200(06
 ### [\[국내 ETF 시황\] 개인 순매수&middot;순매도 TOP 5 (2026-08-21, 일일&middot;5거래일)](https://kongdori.tistory.com/841) <sup style="font-weight: normal; font-size: 0.7em;">2026-08-21 · 주식투자/일일 시황</sup>
 국내 상장 ETF를 대상으로 개인 투자자의 일일 및 5거래일 순매수·순매도 상위 5개 ETF를 정리했습니다. ​ 대표 ETF의 수익률과 시장 전체 투자 주체별 순매수 금액도 함께 제공하여 시장의 전반적인 흐름을 한눈에 확인할 수 있도록 매일 업데이트합니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [\[액티브 ETF\] 신규 편입&middot;편출 종목, 비중 변동 (2026-08-21, 일일)](https://kongdori.tistory.com/840) <sup style="font-weight: normal; font-size: 0.7em;">2026-08-21 · 주식투자/액티브 ETF 포트폴리오 추적</sup>
 액티브 ETF의 구성내역(PDF; Portfolio Deposit File)을 기준으로 일일 신규 편입·편출 종목 및 주요 비중 변동을 정리합니다. ​PDF 기준일: 2026년 8월 21일 (2026년 8월 20일 대비) PDF의 기준일은 전거래일입니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [\[국내 ETF 시황\] 개인 순매수&middot;순매도 TOP 5 (2026-08-20, 일일&middot;5거래일)](https://kongdori.tistory.com/839) <sup style="font-weight: normal; font-size: 0.7em;">2026-08-20 · 주식투자/일일 시황</sup>
 국내 상장 ETF를 대상으로 개인 투자자의 일일 및 5거래일 순매수·순매도 상위 5개 ETF를 정리했습니다. ​대표 ETF의 수익률과 시장 전체 투자 주체별 순매수 금액도 함께 제공하여 시장의 전반적인 흐름을 한눈에 확인할 수 있도록 매일 업데이트합니다.
@@ -125,10 +128,10 @@ KODEX 200타겟위클리커버드콜(498400) 또는 기초자산인 KODEX 200(06
 ### [17. 투자 목표에 따라 달라지는 자산의 선택 \[투자와 데이터\]](https://kongdori.tistory.com/831) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-27 · 주식투자</sup>
 투자자는 저마다의 투자 목적을 가지고 있습니다. 예를 들어 은퇴 후 생활비 마련이 목적일 수 있습니다. 이를 수치와 기간으로 구체화하면 비로소 투자 목표가 됩니다. 20년간 적립식으로 투자하여 3억원의 은퇴 자금을 마련한다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [16. 주식 거래는 부동산 거래와 어떻게 다를까? (증거금, 미수금) \[투자와 데이터\]](https://kongdori.tistory.com/830) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-26 · 주식투자</sup>
 주식 투자를 처음 시작하면 이해하기 어려운 개념들이 등장합니다. 대표적으로 증거금과 미수금이 그렇습니다. 또한 배당 기준일 직전에 주식을 매수했는데도 정작 배당금을 받지 못하는 경우가 생겨 의문이 들기도 합니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [15. ETF는 언제 리밸런싱 할까? \[투자와 데이터\]](https://kongdori.tistory.com/829) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-25 · 주식투자</sup>
 ETF는 저렴한 비용으로 복수 종목에 분산 투자할 수 있는 상품입니다. 시가총액 가중 방식의 지수를 추종하는 패시브(passive) ETF는 개별 종목을 시가총액 비율대로 편입합니다.
@@ -157,10 +160,10 @@ ETF는 낮은 수수료를 강점으로 내세웁니다. S&P 500을 추종하는
 ### [7. CAGR은 무엇이고, 기하적으로는 어떻게 표현될까?](https://kongdori.tistory.com/821) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-19 · 주식투자</sup>
 자산의 과거 성과를 정량적으로 평가하고 다른 자산과 비교하려면, 복잡한 가격 흐름을 숫자로 요약해야 합니다. 이를 성과 척도(Metric) 또는 지표(Indicator)라 부릅니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [6. 장기 투자에는 왜 인플레이션이 중요할까? \[투자와 데이터\]](https://kongdori.tistory.com/820) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-19 · 주식투자</sup>
 한 번쯤 들어보셨을 겁니다. 수십 년 전 1,000만원을 SPY와 같은 미국 증시 주식형 ETF에 투자했다면, 지금은 수억이 되었을 것이라는 이야기입니다. 실제로 명목 수익률만 보면 가능하지만, 현실적으로 장기 투자에서는 인플레이션을 반드시 고려해야 합니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [5. 왜 원화로 자산을 평가해야 할까? \[투자와 데이터\]](https://kongdori.tistory.com/819) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-18 · 주식투자</sup>
 투자자는 국내 자산뿐 아니라 해외 자산에도 투자할 수 있습니다. 국내 주식(예: 삼성전자)에 투자하면 원화로 거래합니다. 미국 주식(예: SPY)을 매수하면 달러가 필요합니다. 즉, 각 자산은 해당 국가 통화로 거래됩니다.
@@ -173,9 +176,6 @@ ETF는 낮은 수수료를 강점으로 내세웁니다. S&P 500을 추종하는
 
 ### [2. 왜 시장 전체에 투자하라고 할까? \[투자와 데이터\]](https://kongdori.tistory.com/816) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-17 · 주식투자</sup>
 자산 배분 전략을 다루는 장기 투자 입문서를 보면, 개별 종목을 선별하기보다 주식 시장 전체에 투자하라고 권합니다. 국내 코스피 시장에는 800개가 넘는 기업이 상장되어 있습니다. 일반 투자자가 이 모든 종목, 또는 충분히 많은 종목을 적절한 비중까지 고려하여 투자하는 것은 현실적으로 가능할까요?
-
-### [1. 왜 분산 투자하라는 걸까? \[투자와 데이터\]](https://kongdori.tistory.com/815) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-17 · 주식투자</sup>
-많은 투자 입문서에서는 초보 투자자에게 개별 종목 대신 펀드나 ETF로 투자를 시작하라고 권합니다. 왜 그럴까요? 펀드는 여러 자산에 분산 투자하는 실적 배당형 금융 상품입니다. ETF(상장지수펀드)는 이러한 펀드를 증권거래소에서 주식처럼 거래할 수 있도록 만든 형태입니다.
 
 
 

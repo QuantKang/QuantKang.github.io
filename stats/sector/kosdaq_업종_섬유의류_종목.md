@@ -5,7 +5,7 @@ excerpt: KOSDAQ 섬유의류 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-26
 ---
 
 
@@ -16,27 +16,27 @@ last_modified_at: 2026-10-23
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| 코데즈컴바인 | 23.3 | 1.5 | - | 12.0<small>%</small> |
-| 나인앤컴퍼니 | 12.7 | 1.1 | 1.9<small>%</small> | 11.6<small>%</small> |
-| 기도산업 | 1.2 | 0.3 | 19.5<small>%</small> | 10.0<small>%</small> |
-| 더네이쳐홀딩스 | 13.7 | 0.3 | 7.8<small>%</small> | 8.9<small>%</small> |
+| 코데즈컴바인 | 24.8 | 1.6 | - | 12.0<small>%</small> |
+| 나인앤컴퍼니 | 12.2 | 1.1 | 2.0<small>%</small> | 11.6<small>%</small> |
+| 기도산업 | 1.2 | 0.3 | 19.7<small>%</small> | 10.0<small>%</small> |
+| 더네이쳐홀딩스 | 13.4 | 0.3 | 7.9<small>%</small> | 8.9<small>%</small> |
 | 블랙야크아이앤씨 | - | 2.2 | 10.1<small>%</small> | 6.5<small>%</small> |
-| 크리스에프앤씨 | 4.7 | 0.2 | 11.1<small>%</small> | 6.3<small>%</small> |
-| 좋은사람들 | - | 0.6 | - | 5.3<small>%</small> |
-| 셀바이오휴먼텍 | 6.0 | 0.9 | - | 5.1<small>%</small> |
-| 노브랜드 | 9.3 | 0.3 | - | 4.3<small>%</small> |
-| 케이엠 | 9.4 | 0.3 | 1.6<small>%</small> | 4.0<small>%</small> |
-| 그리티 | 7.4 | 0.4 | 6.6<small>%</small> | 3.3<small>%</small> |
+| 크리스에프앤씨 | 4.7 | 0.2 | 11.2<small>%</small> | 6.3<small>%</small> |
+| 좋은사람들 | - | 0.7 | - | 5.3<small>%</small> |
+| 셀바이오휴먼텍 | 6.1 | 0.9 | - | 5.1<small>%</small> |
+| 노브랜드 | 8.7 | 0.3 | - | 4.3<small>%</small> |
+| 케이엠 | 9.5 | 0.3 | 1.6<small>%</small> | 4.0<small>%</small> |
+| 그리티 | 7.4 | 0.4 | 6.5<small>%</small> | 3.3<small>%</small> |
 | 뉴키즈온 | - | 0.7 | - | 2.9<small>%</small> |
 | 웰크론 | - | 0.8 | 1.8<small>%</small> | 2.7<small>%</small> |
 | GH신소재 | - | 0.3 | - | 2.4<small>%</small> |
-| 배럴 | 4.8 | 0.5 | 2.8<small>%</small> | 2.3<small>%</small> |
-| 씨싸이트 | - | 1.4 | - | 2.2<small>%</small> |
-| 아즈텍WB | 19.5 | 0.2 | - | 2.0<small>%</small> |
+| 배럴 | 5.0 | 0.5 | 2.7<small>%</small> | 2.3<small>%</small> |
+| 씨싸이트 | - | 1.3 | - | 2.2<small>%</small> |
+| 아즈텍WB | 18.6 | 0.2 | - | 2.0<small>%</small> |
 | 지엔코 | - | 0.3 | - | 1.9<small>%</small> |
 | 에스티오 | - | 0.9 | - | 1.7<small>%</small> |
 | 에스제이그룹 | - | 0.1 | - | 1.5<small>%</small> |
-| 패션플랫폼 | 5.6 | 0.2 | - | 1.4<small>%</small> |
+| 패션플랫폼 | 5.4 | 0.2 | - | 1.4<small>%</small> |
 | 원풍물산 | - | - | - | 1.0<small>%</small> |
 | 형지I&C | - | 0.1 | - | 0.6<small>%</small> |
 
