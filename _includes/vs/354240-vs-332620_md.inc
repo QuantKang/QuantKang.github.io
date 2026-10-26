@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [RISE 미국고정배당우선증권 TR](/354240-vs-332620/) | <span style="color: tomato">0.4<small>%</small></span> | 12.8<small>%</small> | 0.03 | -21.5<small>%</small> | -5.4<small>%</small> |
-| PLUS 미국장기우량회사채 | <span style="color: cornflowerblue">-2.4<small>%</small></span> | 12.4<small>%</small> | -0.19 | -31.8<small>%</small> | -16.3<small>%</small> |
+| [RISE 미국고정배당우선증권 TR](/354240-vs-332620/) | <span style="color: tomato">0.5<small>%</small></span> | 12.8<small>%</small> | 0.04 | -21.5<small>%</small> | -5.4<small>%</small> |
+| PLUS 미국장기우량회사채 | <span style="color: cornflowerblue">-2.4<small>%</small></span> | 12.4<small>%</small> | -0.20 | -31.8<small>%</small> | -16.3<small>%</small> |
