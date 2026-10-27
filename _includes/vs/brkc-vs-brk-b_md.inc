@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [BRKC](/brkc-vs-brk-b/) | <span style="color: tomato">4.3<small>%</small></span> | 11.9<small>%</small> | 0.36 | -7.6<small>%</small> | -3.0<small>%</small> |
-| BRK-B | <span style="color: tomato">7.8<small>%</small></span> | 14.2<small>%</small> | 0.55 | -9.4<small>%</small> | -3.7<small>%</small> |
+| [BRKC](/brkc-vs-brk-b/) | <span style="color: tomato">5.0<small>%</small></span> | 11.9<small>%</small> | 0.42 | -7.6<small>%</small> | -3.0<small>%</small> |
+| BRK-B | <span style="color: tomato">8.7<small>%</small></span> | 14.2<small>%</small> | 0.61 | -9.4<small>%</small> | -3.7<small>%</small> |

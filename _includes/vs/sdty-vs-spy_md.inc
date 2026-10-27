@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [SDTY](/sdty-vs-spy/) | <span style="color: tomato">12.4<small>%</small></span> | 15.6<small>%</small> | 0.79 | -18.6<small>%</small> | -2.6<small>%</small> |
-| SPY | <span style="color: tomato">15.4<small>%</small></span> | 17.0<small>%</small> | 0.91 | -18.8<small>%</small> | -2.3<small>%</small> |
+| [SDTY](/sdty-vs-spy/) | <span style="color: tomato">12.7<small>%</small></span> | 15.6<small>%</small> | 0.82 | -18.6<small>%</small> | -2.6<small>%</small> |
+| SPY | <span style="color: tomato">15.8<small>%</small></span> | 17.0<small>%</small> | 0.93 | -18.8<small>%</small> | -2.3<small>%</small> |
