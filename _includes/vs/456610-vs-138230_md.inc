@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [TIGER 미국달러SOFR금리액티브(합성)](/456610-vs-138230/) | <span style="color: tomato">4.6<small>%</small></span> | 9.1<small>%</small> | 0.50 | -13.8<small>%</small> | -2.7<small>%</small> |
-| KIWOOM 미국달러선물 | <span style="color: tomato">4.1<small>%</small></span> | 9.1<small>%</small> | 0.45 | -14.2<small>%</small> | -2.7<small>%</small> |
+| [TIGER 미국달러SOFR금리액티브(합성)](/456610-vs-138230/) | <span style="color: tomato">4.9<small>%</small></span> | 9.2<small>%</small> | 0.54 | -13.8<small>%</small> | -2.7<small>%</small> |
+| KIWOOM 미국달러선물 | <span style="color: tomato">4.4<small>%</small></span> | 9.1<small>%</small> | 0.49 | -14.2<small>%</small> | -2.7<small>%</small> |

@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [삼성바이오로직스](/207940/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026000243){:target="_blank"} |
-| [기업은행](/024110/#dart) | | [연결재무제표기준영업(잠정)실적(공정공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026800442){:target="_blank"} |
-| [HD현대일렉트릭](/267260/#dart) | | [타인에대한채무보증결정              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026800468){:target="_blank"} |
-| [SK바이오사이언스](/302440/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026800481){:target="_blank"} |
-| [효성중공업](/298040/#dart) | | [최대주주등소유주식변동신고서              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261026800489){:target="_blank"} |
+| [두산테스나](/131970/#dart) | | [타법인주식및출자증권취득결정              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027900472){:target="_blank"} |
+| [NAVER](/035420/#dart) | | [특수관계인과의내부거래](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027000289){:target="_blank"} |
+| [HD현대](/267250/#dart) | | [주요사항보고서(교환사채권발행결정)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027000277){:target="_blank"} |
+| [두산에너빌리티](/034020/#dart) | | [특수관계인과의수익증권거래](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027000283){:target="_blank"} |
+| [JB금융지주](/175330/#dart) | | [유상증자결정(자회사의 주요경영사항)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261027800475){:target="_blank"} |
