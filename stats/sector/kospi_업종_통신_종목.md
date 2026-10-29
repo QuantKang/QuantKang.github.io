@@ -5,7 +5,7 @@ excerpt: KOSPI 통신 업종 종목별 시가총액 비중입니다. 종목별�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 ---
 
 
@@ -16,10 +16,10 @@ last_modified_at: 2026-10-27
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [SK텔레콤](/017670/) | 40.3 | 1.2 | 2.3<small>%</small> | 52.5<small>%</small> |
-| [KT](/030200/) | 6.3 | 0.6 | 5.4<small>%</small> | 31.6<small>%</small> |
-| [LG유플러스](/032640/) | 11.2 | 0.7 | 4.8<small>%</small> | 15.1<small>%</small> |
-| 현대퓨처넷 | 46.2 | 0.5 | 4.7<small>%</small> | 0.8<small>%</small> |
-| 프리티 | - | 1.0 | - | 0.1<small>%</small> |
+| [SK텔레콤](/017670/) | 42.0 | 1.3 | 2.2<small>%</small> | 52.5<small>%</small> |
+| [KT](/030200/) | 6.4 | 0.6 | 5.2<small>%</small> | 31.6<small>%</small> |
+| [LG유플러스](/032640/) | 11.4 | 0.7 | 4.7<small>%</small> | 15.1<small>%</small> |
+| 현대퓨처넷 | 44.8 | 0.5 | 4.8<small>%</small> | 0.8<small>%</small> |
+| 프리티 | - | 0.9 | - | 0.1<small>%</small> |
 
 {% include commons/footnotes.md %}

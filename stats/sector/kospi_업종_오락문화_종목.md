@@ -5,7 +5,7 @@ excerpt: KOSPI 오락문화 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 ---
 
 
@@ -16,18 +16,18 @@ last_modified_at: 2026-10-27
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [하이브](/352820/) | - | 2.2 | 0.3<small>%</small> | 54.3<small>%</small> |
-| [강원랜드](/035250/) | 8.7 | 0.7 | 6.9<small>%</small> | 23.0<small>%</small> |
-| [파라다이스](/034230/) | 8.7 | 0.5 | 1.6<small>%</small> | 6.4<small>%</small> |
-| CJ CGV | - | 1.4 | - | 6.3<small>%</small> |
-| GKL | 10.6 | 1.1 | 5.1<small>%</small> | 4.2<small>%</small> |
-| SBS | 25.1 | 0.2 | 3.0<small>%</small> | 1.7<small>%</small> |
-| 스카이라이프 | 26.6 | 0.3 | 8.9<small>%</small> | 1.4<small>%</small> |
-| LG헬로비전 | 62.4 | 0.2 | - | 0.9<small>%</small> |
-| 비상교육 | 2.8 | 0.3 | 4.6<small>%</small> | 0.5<small>%</small> |
-| 삼성출판사 | 14.3 | 0.3 | 3.4<small>%</small> | 0.5<small>%</small> |
-| 갤럭시아에스엠 | 8.8 | 0.5 | - | 0.3<small>%</small> |
+| [하이브](/352820/) | - | 2.1 | 0.3<small>%</small> | 54.3<small>%</small> |
+| [강원랜드](/035250/) | 8.7 | 0.7 | 7.0<small>%</small> | 23.0<small>%</small> |
+| [파라다이스](/034230/) | 8.8 | 0.5 | 1.6<small>%</small> | 6.4<small>%</small> |
+| CJ CGV | - | 1.5 | - | 6.3<small>%</small> |
+| GKL | 10.5 | 1.1 | 5.2<small>%</small> | 4.2<small>%</small> |
+| SBS | 25.8 | 0.2 | 3.0<small>%</small> | 1.7<small>%</small> |
+| 스카이라이프 | 26.0 | 0.3 | 9.2<small>%</small> | 1.4<small>%</small> |
+| LG헬로비전 | 60.4 | 0.2 | - | 0.9<small>%</small> |
+| 비상교육 | 2.7 | 0.3 | 4.6<small>%</small> | 0.5<small>%</small> |
+| 삼성출판사 | 14.3 | 0.3 | 3.5<small>%</small> | 0.5<small>%</small> |
+| 갤럭시아에스엠 | 8.7 | 0.5 | - | 0.3<small>%</small> |
 | 콘텐트리중앙 | - | 0.2 | - | 0.2<small>%</small> |
-| 아센디오 | - | 0.9 | - | 0.1<small>%</small> |
+| 아센디오 | - | 1.1 | - | 0.1<small>%</small> |
 
 {% include commons/footnotes.md %}
