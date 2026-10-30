@@ -5,7 +5,7 @@ excerpt: KOSDAQ 종이목재 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 ---
 
 
@@ -16,14 +16,14 @@ last_modified_at: 2026-10-29
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| 국일제지 | - | 3.2 | - | 33.3<small>%</small> |
+| 국일제지 | - | 3.3 | - | 33.3<small>%</small> |
 | [동화기업](/025900/) | - | 0.3 | - | 28.8<small>%</small> |
 | 삼보판지 | 5.0 | 0.2 | 2.5<small>%</small> | 12.4<small>%</small> |
-| 대림제지 | 13.4 | 0.3 | 1.0<small>%</small> | 7.6<small>%</small> |
+| 대림제지 | 13.3 | 0.3 | 1.0<small>%</small> | 7.6<small>%</small> |
 | 삼륭물산 | 9.1 | 1.0 | 2.8<small>%</small> | 5.4<small>%</small> |
 | 이건홀딩스 | - | 0.3 | 1.9<small>%</small> | 5.3<small>%</small> |
 | 한국팩키지 | 6.6 | 0.3 | 4.0<small>%</small> | 3.3<small>%</small> |
 | 무림SP | - | 0.1 | 1.5<small>%</small> | 2.2<small>%</small> |
-| 리더스코스메틱 | - | 0.7 | - | 1.8<small>%</small> |
+| 리더스코스메틱 | - | 0.6 | - | 1.8<small>%</small> |
 
 {% include commons/footnotes.md %}
