@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [PGX](/pgx-vs-spy/) | <span style="color: tomato">2.4<small>%</small></span> | 20.0<small>%</small> | 0.12 | -66.4<small>%</small> | -8.2<small>%</small> |
-| SPY | <span style="color: tomato">11.6<small>%</small></span> | 19.6<small>%</small> | 0.59 | -51.5<small>%</small> | -6.4<small>%</small> |
+| [PGX](/pgx-vs-spy/) | <span style="color: tomato">2.3<small>%</small></span> | 20.0<small>%</small> | 0.12 | -66.4<small>%</small> | -8.2<small>%</small> |
+| SPY | <span style="color: tomato">11.5<small>%</small></span> | 19.6<small>%</small> | 0.59 | -51.5<small>%</small> | -6.4<small>%</small> |
