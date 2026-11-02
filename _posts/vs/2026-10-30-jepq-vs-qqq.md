@@ -79,7 +79,7 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 | JEPQ | <span style="color: tomato">14.7<small>%</small></span> | 16.7<small>%</small> | 0.88 | -20.1<small>%</small> | -3.3<small>%</small> |
 | QQQ | <span style="color: tomato">18.6<small>%</small></span> | 22.3<small>%</small> | 0.84 | -22.8<small>%</small> | -5.0<small>%</small> |
 | QQQ<sub>STD</sub> <small>(75%)</small> | <span style="color: tomato">14.2<small>%</small></span> | 16.7<small>%</small> | 0.85 | -17.4<small>%</small> | -3.7<small>%</small> |
-| QQQ<sub>MDD</sub> <small>(88%)</small> | <span style="color: tomato">16.6<small>%</small></span> | 19.6<small>%</small> | 0.84 | -20.3<small>%</small> | -4.4<small>%</small> |
+| QQQ<sub>MDD</sub> <small>(88%)</small> | <span style="color: tomato">16.5<small>%</small></span> | 19.6<small>%</small> | 0.84 | -20.3<small>%</small> | -4.4<small>%</small> |
 
 
 
@@ -87,7 +87,7 @@ QQQ<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, QQQ<
 
 **위험도 지표 (표준편차):** 75% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 14.2%로 JEPQ의 14.7%와 비슷했습니다. (비슷한 수익률)
 
-**위험도 지표 (MDD):** 88% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 16.6%로 JEPQ의 14.7%보다 1.9% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 88% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 16.5%로 JEPQ의 14.7%보다 1.9% 높았습니다. (높은 수익률)
 
 
 
