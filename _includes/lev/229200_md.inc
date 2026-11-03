@@ -1,8 +1,8 @@
 | **종목** | **배율** | **CAGR** | **<small>변동성비용</small>** | **<small>금융비용</small>** | **<small>전체비용</small>** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| KODEX 코스닥150 | | <span style="color: cornflowerblue">-22.8<small>%</small></span> | - | - | - |
-| [KODEX 코스닥150레버리지](/233740/) | 2<small>x</small> | <span style="color: cornflowerblue">-58.8<small>%</small></span> | 28.2<small>%</small> | 3.7<small>%</small> | 30.9<small>%</small> |
-| [RISE 코스닥150선물레버리지](/278240/) | 2<small>x</small> | <span style="color: cornflowerblue">-58.8<small>%</small></span> | 28.2<small>%</small> | 3.6<small>%</small> | 30.8<small>%</small> |
-| [KODEX 코스닥150선물인버스](/251340/) | -1<small>x</small> | <span style="color: cornflowerblue">-7.1<small>%</small></span> | 28.2<small>%</small> | -0.0<small>%</small> | 28.2<small>%</small> |
-| [삼성 인버스 2X 코스닥150 선물 ETN](/530107/) | -2<small>x</small> | <span style="color: cornflowerblue">-40.5<small>%</small></span> | 63.5<small>%</small> | 2.5<small>%</small> | 64.4<small>%</small> |
-| [미래에셋 인버스 2X 코스닥150 선물 ETN](/520057/) | -2<small>x</small> | <span style="color: cornflowerblue">-40.3<small>%</small></span> | 63.5<small>%</small> | 2.1<small>%</small> | 64.2<small>%</small> |
+| KODEX 코스닥150 | | <span style="color: cornflowerblue">-26.5<small>%</small></span> | - | - | - |
+| [KODEX 코스닥150레버리지](/233740/) | 2<small>x</small> | <span style="color: cornflowerblue">-62.7<small>%</small></span> | 28.4<small>%</small> | 3.6<small>%</small> | 31.0<small>%</small> |
+| [RISE 코스닥150선물레버리지](/278240/) | 2<small>x</small> | <span style="color: cornflowerblue">-62.5<small>%</small></span> | 28.4<small>%</small> | 3.2<small>%</small> | 30.7<small>%</small> |
+| [KODEX 코스닥150선물인버스](/251340/) | -1<small>x</small> | <span style="color: cornflowerblue">-2.4<small>%</small></span> | 28.3<small>%</small> | -0.2<small>%</small> | 28.2<small>%</small> |
+| [삼성 인버스 2X 코스닥150 선물 ETN](/530107/) | -2<small>x</small> | <span style="color: cornflowerblue">-34.6<small>%</small></span> | 63.7<small>%</small> | 2.5<small>%</small> | 64.6<small>%</small> |
+| [미래에셋 인버스 2X 코스닥150 선물 ETN](/520057/) | -2<small>x</small> | <span style="color: cornflowerblue">-34.4<small>%</small></span> | 63.7<small>%</small> | 2.2<small>%</small> | 64.5<small>%</small> |
