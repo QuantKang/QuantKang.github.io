@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [GPIQ](/gpiq-vs-jepq/) | <span style="color: tomato">22.9<small>%</small></span> | 17.9<small>%</small> | 1.28 | -21.1<small>%</small> | -2.4<small>%</small> |
-| JEPQ | <span style="color: tomato">19.6<small>%</small></span> | 15.7<small>%</small> | 1.25 | -20.1<small>%</small> | -2.1<small>%</small> |
+| [GPIQ](/gpiq-vs-jepq/) | <span style="color: tomato">22.8<small>%</small></span> | 17.9<small>%</small> | 1.27 | -21.1<small>%</small> | -2.4<small>%</small> |
+| JEPQ | <span style="color: tomato">19.5<small>%</small></span> | 15.7<small>%</small> | 1.24 | -20.1<small>%</small> | -2.1<small>%</small> |
