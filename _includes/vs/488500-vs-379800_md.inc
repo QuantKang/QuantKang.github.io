@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [TIGER 미국S&P500동일가중](/488500-vs-379800/) | <span style="color: tomato">11.4<small>%</small></span> | 16.6<small>%</small> | 0.69 | -15.9<small>%</small> | -3.6<small>%</small> |
-| KODEX 미국S&P500 | <span style="color: tomato">13.8<small>%</small></span> | 17.0<small>%</small> | 0.81 | -19.2<small>%</small> | -3.5<small>%</small> |
+| [TIGER 미국S&P500동일가중](/488500-vs-379800/) | <span style="color: tomato">12.6<small>%</small></span> | 16.7<small>%</small> | 0.75 | -15.9<small>%</small> | -3.6<small>%</small> |
+| KODEX 미국S&P500 | <span style="color: tomato">14.7<small>%</small></span> | 17.0<small>%</small> | 0.86 | -19.2<small>%</small> | -3.5<small>%</small> |
