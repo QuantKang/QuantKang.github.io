@@ -5,7 +5,7 @@ excerpt: KOSDAQ 기타제조 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 
@@ -16,17 +16,17 @@ last_modified_at: 2026-11-04
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| 에이스침대 | 6.0 | 0.5 | 7.2<small>%</small> | 32.9<small>%</small> |
-| 슈피겐코리아 | 5.5 | 0.3 | 1.8<small>%</small> | 16.0<small>%</small> |
-| 노바텍 | 5.8 | 0.6 | 26.4<small>%</small> | 11.1<small>%</small> |
+| 에이스침대 | 6.0 | 0.5 | 7.3<small>%</small> | 32.9<small>%</small> |
+| 슈피겐코리아 | 5.3 | 0.3 | 1.9<small>%</small> | 16.0<small>%</small> |
+| 노바텍 | 5.7 | 0.6 | 26.7<small>%</small> | 11.1<small>%</small> |
 | 에이럭스 | - | 1.7 | - | 10.1<small>%</small> |
-| 엔바이오니아 | - | 1.3 | - | 4.7<small>%</small> |
+| 엔바이오니아 | - | 1.2 | - | 4.7<small>%</small> |
 | 엑스플러스 | - | 2.8 | - | 3.8<small>%</small> |
 | 제이에스티나 | 14.6 | 0.6 | 5.5<small>%</small> | 3.2<small>%</small> |
 | 휴엠앤씨 | 17.7 | 0.6 | 7.1<small>%</small> | 3.0<small>%</small> |
-| 피코그램 | - | 0.5 | 9.0<small>%</small> | 2.6<small>%</small> |
-| 세니젠 | - | 5.8 | - | 2.6<small>%</small> |
-| 꿈비 | - | 0.6 | - | 2.6<small>%</small> |
+| 피코그램 | - | 0.5 | 9.3<small>%</small> | 2.6<small>%</small> |
+| 세니젠 | - | 5.7 | - | 2.6<small>%</small> |
+| 꿈비 | - | 0.5 | - | 2.6<small>%</small> |
 | 삼진엘앤디 | - | 0.6 | - | 2.2<small>%</small> |
 | 듀오백 | - | 0.5 | - | 1.8<small>%</small> |
 | 리튬포어스 | - | 0.5 | - | 1.8<small>%</small> |
