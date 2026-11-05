@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [BALI](/bali-vs-wdte/) | <span style="color: tomato">19.3<small>%</small></span> | 12.6<small>%</small> | 1.54 | -16.6<small>%</small> | -1.6<small>%</small> |
-| WDTE | <span style="color: tomato">13.3<small>%</small></span> | 11.3<small>%</small> | 1.18 | -15.8<small>%</small> | -1.8<small>%</small> |
+| [BALI](/bali-vs-wdte/) | <span style="color: tomato">19.8<small>%</small></span> | 12.6<small>%</small> | 1.58 | -16.6<small>%</small> | -1.6<small>%</small> |
+| WDTE | <span style="color: tomato">13.8<small>%</small></span> | 11.3<small>%</small> | 1.22 | -15.8<small>%</small> | -1.8<small>%</small> |
