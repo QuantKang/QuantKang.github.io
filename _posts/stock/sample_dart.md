@@ -1,7 +1,7 @@
 | **종목** |      |**보고서명** |
 | :------- | :--- |:----------- |
-| [롯데쇼핑](/023530/#dart) | | [기업설명회(IR)개최(안내공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800511){:target="_blank"} |
-| [이녹스첨단소재](/272290/#dart) | | [연결재무제표기준영업(잠정)실적(공정공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104900472){:target="_blank"} |
-| [고려아연](/010130/#dart) | | [연결재무제표기준영업(잠정)실적(공정공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104800476){:target="_blank"} |
-| [팬오션](/028670/#dart) | | [임원ㆍ주요주주특정증권등소유상황보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104000264){:target="_blank"} |
-| [휴젤](/145020/#dart) | | [기업설명회(IR)개최              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261104900488){:target="_blank"} |
+| [삼성증권](/016360/#dart) | | [투자설명서(일괄신고)](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105000370){:target="_blank"} |
+| [GS](/078930/#dart) | | [특수관계인에대한부동산임대](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105000366){:target="_blank"} |
+| [케이티앤지](/033780/#dart) | | [기업가치제고계획(자율공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800517){:target="_blank"} |
+| [SK바이오사이언스](/302440/#dart) | | [연결재무제표기준영업(잠정)실적(공정공시)              ](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105800512){:target="_blank"} |
+| [LS](/006260/#dart) | | [특수관계인에대한출자](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105000352){:target="_blank"} |
