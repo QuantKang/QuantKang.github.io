@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [RISE 대형고배당10TR](/315960-vs-161510/) | <span style="color: tomato">26.2<small>%</small></span> | 30.8<small>%</small> | 0.85 | -41.5<small>%</small> | -10.5<small>%</small> |
-| PLUS 고배당주 | <span style="color: tomato">13.8<small>%</small></span> | 21.0<small>%</small> | 0.66 | -47.5<small>%</small> | -8.1<small>%</small> |
+| [RISE 대형고배당10TR](/315960-vs-161510/) | <span style="color: tomato">25.2<small>%</small></span> | 30.9<small>%</small> | 0.82 | -44.8<small>%</small> | -10.6<small>%</small> |
+| PLUS 고배당주 | <span style="color: tomato">13.5<small>%</small></span> | 21.1<small>%</small> | 0.64 | -47.5<small>%</small> | -8.1<small>%</small> |
