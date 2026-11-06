@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [TIGER 미국AI빅테크10타겟데일리커버드콜](/493810-vs-490090/) | <span style="color: tomato">16.9<small>%</small></span> | 24.4<small>%</small> | 0.69 | -30.9<small>%</small> | -6.5<small>%</small> |
-| TIGER 미국AI빅테크10 | <span style="color: tomato">18.1<small>%</small></span> | 25.5<small>%</small> | 0.71 | -31.5<small>%</small> | -6.3<small>%</small> |
+| [TIGER 미국AI빅테크10타겟데일리커버드콜](/493810-vs-490090/) | <span style="color: tomato">14.9<small>%</small></span> | 24.5<small>%</small> | 0.61 | -30.9<small>%</small> | -6.5<small>%</small> |
+| TIGER 미국AI빅테크10 | <span style="color: tomato">16.1<small>%</small></span> | 25.6<small>%</small> | 0.63 | -31.5<small>%</small> | -6.3<small>%</small> |

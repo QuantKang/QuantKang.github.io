@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [YMAX](/ymax-vs-jepq/) | <span style="color: tomato">12.4<small>%</small></span> | 23.4<small>%</small> | 0.53 | -26.1<small>%</small> | -6.6<small>%</small> |
-| JEPQ | <span style="color: tomato">16.1<small>%</small></span> | 16.1<small>%</small> | 1.00 | -20.1<small>%</small> | -2.3<small>%</small> |
+| [YMAX](/ymax-vs-jepq/) | <span style="color: tomato">9.8<small>%</small></span> | 23.7<small>%</small> | 0.41 | -26.1<small>%</small> | -6.6<small>%</small> |
+| JEPQ | <span style="color: tomato">13.5<small>%</small></span> | 16.5<small>%</small> | 0.82 | -20.1<small>%</small> | -2.3<small>%</small> |
