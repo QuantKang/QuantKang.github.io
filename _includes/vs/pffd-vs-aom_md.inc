@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [PFFD](/pffd-vs-aom/) | <span style="color: tomato">1.4<small>%</small></span> | 12.6<small>%</small> | 0.11 | -30.9<small>%</small> | -6.6<small>%</small> |
-| AOM | <span style="color: tomato">5.4<small>%</small></span> | 8.2<small>%</small> | 0.66 | -20.0<small>%</small> | -3.6<small>%</small> |
+| [PFFD](/pffd-vs-aom/) | <span style="color: tomato">1.5<small>%</small></span> | 12.6<small>%</small> | 0.12 | -30.9<small>%</small> | -6.6<small>%</small> |
+| AOM | <span style="color: tomato">5.5<small>%</small></span> | 8.2<small>%</small> | 0.67 | -20.0<small>%</small> | -3.6<small>%</small> |

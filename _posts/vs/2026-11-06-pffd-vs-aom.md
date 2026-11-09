@@ -1,7 +1,7 @@
 ---
 layout: single
 title: PFFD vs AOM
-excerpt: PFFD의 최근 9년 1개월 CAGR은 1.4%로 AOM의 5.4%보다 -4.0% 낮았습니다.
+excerpt: PFFD의 최근 9년 1개월 CAGR은 1.5%로 AOM의 5.5%보다 -4.0% 낮았습니다.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -33,15 +33,15 @@ PFFD의 수익률이 AOM보다 지속적으로 우세하면 상승하고, 반대
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| PFFD | <span style="color: tomato">1.4<small>%</small></span> | 12.6<small>%</small> | 0.11 | -30.9<small>%</small> | -6.6<small>%</small> |
-| AOM | <span style="color: tomato">5.4<small>%</small></span> | 8.2<small>%</small> | 0.66 | -20.0<small>%</small> | -3.6<small>%</small> |
+| PFFD | <span style="color: tomato">1.5<small>%</small></span> | 12.6<small>%</small> | 0.12 | -30.9<small>%</small> | -6.6<small>%</small> |
+| AOM | <span style="color: tomato">5.5<small>%</small></span> | 8.2<small>%</small> | 0.67 | -20.0<small>%</small> | -3.6<small>%</small> |
 
 <!-- more -->
 
 
 성과를 분석하는 전통적인 방법인 수익률과 위험도[^fn_vs_risk]를 살펴봅니다.
 
-**수익률 지표 (CAGR):** PFFD의 CAGR은 1.4%로 AOM의 5.4%보다 -4.0% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
+**수익률 지표 (CAGR):** PFFD의 CAGR은 1.5%로 AOM의 5.5%보다 -4.0% 낮았습니다. (낮은 수익률)[^fn_vs_comp]
 
 **위험도 지표 (표준편차):** PFFD의 표준편차는 12.6%로 AOM의 8.2%보다 4.3% 높았습니다. (높은 위험도)
 
@@ -76,18 +76,18 @@ AOM<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, AOM<
 
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------------ | ------: | -----------: | -------: | ------: | -------: |
-| PFFD | <span style="color: tomato">1.4<small>%</small></span> | 12.6<small>%</small> | 0.11 | -30.9<small>%</small> | -6.6<small>%</small> |
-| AOM | <span style="color: tomato">5.4<small>%</small></span> | 8.2<small>%</small> | 0.66 | -20.0<small>%</small> | -3.6<small>%</small> |
-| AOM<sub>STD</sub> <small>(153%)</small> | <span style="color: tomato">8.1<small>%</small></span> | 12.6<small>%</small> | 0.65 | -29.1<small>%</small> | -5.5<small>%</small> |
-| AOM<sub>MDD</sub> <small>(155%)</small> | <span style="color: tomato">8.2<small>%</small></span> | 12.7<small>%</small> | 0.65 | -29.5<small>%</small> | -5.6<small>%</small> |
+| PFFD | <span style="color: tomato">1.5<small>%</small></span> | 12.6<small>%</small> | 0.12 | -30.9<small>%</small> | -6.6<small>%</small> |
+| AOM | <span style="color: tomato">5.5<small>%</small></span> | 8.2<small>%</small> | 0.67 | -20.0<small>%</small> | -3.6<small>%</small> |
+| AOM<sub>STD</sub> <small>(153%)</small> | <span style="color: tomato">8.2<small>%</small></span> | 12.6<small>%</small> | 0.66 | -29.1<small>%</small> | -5.5<small>%</small> |
+| AOM<sub>MDD</sub> <small>(155%)</small> | <span style="color: tomato">8.4<small>%</small></span> | 12.7<small>%</small> | 0.66 | -29.5<small>%</small> | -5.6<small>%</small> |
 
 
 
 각각의 경우를 PFFD의 성과와 비교해 봅니다.
 
-**위험도 지표 (표준편차):** 153% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 8.1%로 PFFD의 1.4%보다 6.7% 높았습니다. (높은 수익률)
+**위험도 지표 (표준편차):** 153% 투자 비중으로 표준편차를 비슷한 수준으로 맞추면, CAGR은 8.2%로 PFFD의 1.5%보다 6.7% 높았습니다. (높은 수익률)
 
-**위험도 지표 (MDD):** 155% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 8.2%로 PFFD의 1.4%보다 6.8% 높았습니다. (높은 수익률)
+**위험도 지표 (MDD):** 155% 투자 비중으로 하여 MDD를 비슷한 수준으로 맞추면, CAGR은 8.4%로 PFFD의 1.5%보다 6.9% 높았습니다. (높은 수익률)
 
 
 
@@ -99,8 +99,8 @@ AOM<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, AOM<
 
 지난 9년 1개월간 거치식으로 투자했다고 가정합니다.
 
-AOM의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 8.2%인 포트폴리오를 만들 수 있습니다.
-이 포트폴리오는 PFFD의 1.4%보다 6.7% 높았습니다.
+AOM의 투자 비중을 조절하여 표준편차나 MDD를 동일하게 맞추면, CAGR이 평균 8.3%인 포트폴리오를 만들 수 있습니다.
+이 포트폴리오는 PFFD의 1.5%보다 6.8% 높았습니다.
 
 ### PFFD &lt; AOM
 {: .text-center}
