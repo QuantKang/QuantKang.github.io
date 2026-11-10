@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [TIGER 미국S&P500레버리지(합성 H)](/225040-vs-sso/) | <span style="color: tomato">17.3<small>%</small></span> | 34.7<small>%</small> | 0.50 | -58.8<small>%</small> | -11.1<small>%</small> |
-| SSO | <span style="color: tomato">20.3<small>%</small></span> | 36.3<small>%</small> | 0.56 | -59.3<small>%</small> | -9.9<small>%</small> |
+| [TIGER 미국S&P500레버리지(합성 H)](/225040-vs-sso/) | <span style="color: tomato">17.4<small>%</small></span> | 34.7<small>%</small> | 0.50 | -58.8<small>%</small> | -11.1<small>%</small> |
+| SSO | <span style="color: tomato">20.8<small>%</small></span> | 36.3<small>%</small> | 0.57 | -59.3<small>%</small> | -9.9<small>%</small> |
