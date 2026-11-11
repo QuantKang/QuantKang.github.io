@@ -5,7 +5,7 @@ excerpt: KOSDAQ 종이목재 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 
@@ -18,12 +18,12 @@ last_modified_at: 2026-11-10
 | :------- | ------: | ------: | ------: | -------: |
 | 국일제지 | - | 3.3 | - | 33.3<small>%</small> |
 | [동화기업](/025900/) | - | 0.3 | - | 28.8<small>%</small> |
-| 삼보판지 | 5.0 | 0.2 | 2.4<small>%</small> | 12.4<small>%</small> |
+| 삼보판지 | 5.1 | 0.2 | 2.4<small>%</small> | 12.4<small>%</small> |
 | 대림제지 | 13.1 | 0.3 | 1.0<small>%</small> | 7.6<small>%</small> |
-| 삼륭물산 | 8.8 | 0.9 | 2.9<small>%</small> | 5.4<small>%</small> |
+| 삼륭물산 | 8.9 | 0.9 | 2.9<small>%</small> | 5.4<small>%</small> |
 | 이건홀딩스 | - | 0.3 | 1.9<small>%</small> | 5.3<small>%</small> |
 | 한국팩키지 | 6.4 | 0.3 | 4.1<small>%</small> | 3.3<small>%</small> |
-| 무림SP | - | 0.1 | 1.5<small>%</small> | 2.2<small>%</small> |
+| 무림SP | - | 0.1 | 1.4<small>%</small> | 2.2<small>%</small> |
 | 리더스코스메틱 | - | 0.7 | - | 1.8<small>%</small> |
 
 {% include commons/footnotes.md %}
