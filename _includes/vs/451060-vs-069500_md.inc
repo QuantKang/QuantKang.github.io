@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [1Q K200액티브](/451060-vs-069500/) | <span style="color: tomato">29.7<small>%</small></span> | 35.5<small>%</small> | 0.84 | -47.5<small>%</small> | -8.0<small>%</small> |
-| KODEX 200 | <span style="color: tomato">30.6<small>%</small></span> | 36.3<small>%</small> | 0.84 | -46.9<small>%</small> | -7.9<small>%</small> |
+| [1Q K200액티브](/451060-vs-069500/) | <span style="color: tomato">30.7<small>%</small></span> | 35.6<small>%</small> | 0.86 | -47.5<small>%</small> | -8.0<small>%</small> |
+| KODEX 200 | <span style="color: tomato">31.7<small>%</small></span> | 36.4<small>%</small> | 0.87 | -46.9<small>%</small> | -7.9<small>%</small> |
