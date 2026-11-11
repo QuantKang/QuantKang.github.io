@@ -2,4 +2,4 @@
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
 | KODEX 미국나스닥100(H) | | <span style="color: tomato">8.1<small>%</small></span> | - | - | - |
 | [KIWOOM 미국나스닥100(H)](/453080/) | 1<small>x</small> | <span style="color: tomato">7.4<small>%</small></span> | -0.0<small>%</small> | 0.7<small>%</small> | 0.7<small>%</small> |
-| [KODEX 미국나스닥100레버리지(합성 H)](/409820/) | 2<small>x</small> | <span style="color: tomato">9.0<small>%</small></span> | 4.5<small>%</small> | 2.5<small>%</small> | 6.8<small>%</small> |
+| [KODEX 미국나스닥100레버리지(합성 H)](/409820/) | 2<small>x</small> | <span style="color: tomato">9.6<small>%</small></span> | 4.5<small>%</small> | 1.9<small>%</small> | 6.3<small>%</small> |

@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [SOL 미국배당다우존스](/446720-vs-402970/) | <span style="color: tomato">12.3<small>%</small></span> | 14.0<small>%</small> | 0.88 | -13.3<small>%</small> | -4.7<small>%</small> |
+| [SOL 미국배당다우존스](/446720-vs-402970/) | <span style="color: tomato">12.2<small>%</small></span> | 14.0<small>%</small> | 0.87 | -13.3<small>%</small> | -4.7<small>%</small> |
 | ACE 미국배당다우존스 | <span style="color: tomato">12.6<small>%</small></span> | 14.2<small>%</small> | 0.89 | -13.2<small>%</small> | -4.5<small>%</small> |
