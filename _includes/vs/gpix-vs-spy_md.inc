@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [GPIX](/gpix-vs-spy/) | <span style="color: tomato">21.0<small>%</small></span> | 13.6<small>%</small> | 1.54 | -17.5<small>%</small> | -1.4<small>%</small> |
-| SPY | <span style="color: tomato">23.4<small>%</small></span> | 15.4<small>%</small> | 1.52 | -18.8<small>%</small> | -1.8<small>%</small> |
+| [GPIX](/gpix-vs-spy/) | <span style="color: tomato">21.5<small>%</small></span> | 13.6<small>%</small> | 1.57 | -17.5<small>%</small> | -1.4<small>%</small> |
+| SPY | <span style="color: tomato">23.9<small>%</small></span> | 15.4<small>%</small> | 1.55 | -18.8<small>%</small> | -1.8<small>%</small> |
