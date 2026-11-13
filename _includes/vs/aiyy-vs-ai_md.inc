@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [AIYY](/aiyy-vs-ai/) | <span style="color: cornflowerblue">-37.1<small>%</small></span> | 48.5<small>%</small> | -0.76 | -80.3<small>%</small> | -46.5<small>%</small> |
-| AI | <span style="color: cornflowerblue">-26.0<small>%</small></span> | 63.7<small>%</small> | -0.41 | -81.9<small>%</small> | -47.3<small>%</small> |
+| [AIYY](/aiyy-vs-ai/) | <span style="color: cornflowerblue">-37.0<small>%</small></span> | 48.5<small>%</small> | -0.76 | -80.3<small>%</small> | -46.5<small>%</small> |
+| AI | <span style="color: cornflowerblue">-26.2<small>%</small></span> | 63.7<small>%</small> | -0.41 | -81.9<small>%</small> | -47.4<small>%</small> |

@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [MSFO](/msfo-vs-msft/) | <span style="color: tomato">16.5<small>%</small></span> | 22.2<small>%</small> | 0.75 | -29.6<small>%</small> | -7.2<small>%</small> |
-| MSFT | <span style="color: tomato">16.9<small>%</small></span> | 26.2<small>%</small> | 0.64 | -34.5<small>%</small> | -9.0<small>%</small> |
+| [MSFO](/msfo-vs-msft/) | <span style="color: tomato">16.6<small>%</small></span> | 22.2<small>%</small> | 0.75 | -29.6<small>%</small> | -7.2<small>%</small> |
+| MSFT | <span style="color: tomato">17.0<small>%</small></span> | 26.2<small>%</small> | 0.65 | -34.5<small>%</small> | -9.0<small>%</small> |

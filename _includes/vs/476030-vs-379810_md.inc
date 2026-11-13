@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [SOL 미국나스닥100](/476030-vs-379810/) | <span style="color: tomato">18.9<small>%</small></span> | 21.3<small>%</small> | 0.89 | -24.2<small>%</small> | -4.9<small>%</small> |
-| KODEX 미국나스닥100 | <span style="color: tomato">19.1<small>%</small></span> | 21.3<small>%</small> | 0.90 | -24.3<small>%</small> | -4.9<small>%</small> |
+| [SOL 미국나스닥100](/476030-vs-379810/) | <span style="color: tomato">19.3<small>%</small></span> | 21.3<small>%</small> | 0.91 | -24.2<small>%</small> | -4.9<small>%</small> |
+| KODEX 미국나스닥100 | <span style="color: tomato">19.5<small>%</small></span> | 21.3<small>%</small> | 0.92 | -24.3<small>%</small> | -4.9<small>%</small> |
