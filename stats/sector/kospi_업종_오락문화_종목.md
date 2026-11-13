@@ -5,7 +5,7 @@ excerpt: KOSPI 오락문화 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 
@@ -18,15 +18,15 @@ last_modified_at: 2026-11-12
 | :------- | ------: | ------: | ------: | -------: |
 | [하이브](/352820/) | - | 2.0 | 0.3<small>%</small> | 54.3<small>%</small> |
 | [강원랜드](/035250/) | 8.9 | 0.7 | 6.8<small>%</small> | 23.0<small>%</small> |
-| [파라다이스](/034230/) | 9.2 | 0.5 | 1.5<small>%</small> | 6.4<small>%</small> |
+| [파라다이스](/034230/) | 9.5 | 0.5 | 1.5<small>%</small> | 6.4<small>%</small> |
 | CJ CGV | - | 1.5 | - | 6.3<small>%</small> |
-| GKL | 10.2 | 1.1 | 5.3<small>%</small> | 4.2<small>%</small> |
-| SBS | 26.9 | 0.2 | 2.8<small>%</small> | 1.7<small>%</small> |
+| GKL | 10.2 | 1.1 | 5.4<small>%</small> | 4.2<small>%</small> |
+| SBS | 27.2 | 0.2 | 2.8<small>%</small> | 1.7<small>%</small> |
 | 스카이라이프 | 25.5 | 0.3 | 9.3<small>%</small> | 1.4<small>%</small> |
-| LG헬로비전 | 58.5 | 0.2 | - | 0.9<small>%</small> |
-| 비상교육 | 2.8 | 0.3 | 4.6<small>%</small> | 0.5<small>%</small> |
-| 삼성출판사 | 14.8 | 0.4 | 3.3<small>%</small> | 0.5<small>%</small> |
-| 갤럭시아에스엠 | 8.3 | 0.4 | - | 0.3<small>%</small> |
+| LG헬로비전 | 59.3 | 0.2 | - | 0.9<small>%</small> |
+| 비상교육 | 2.8 | 0.3 | 4.5<small>%</small> | 0.5<small>%</small> |
+| 삼성출판사 | 14.9 | 0.4 | 3.3<small>%</small> | 0.5<small>%</small> |
+| 갤럭시아에스엠 | 8.4 | 0.4 | - | 0.3<small>%</small> |
 | 콘텐트리중앙 | - | 0.2 | - | 0.2<small>%</small> |
 | 아센디오 | - | 1.1 | - | 0.1<small>%</small> |
 
