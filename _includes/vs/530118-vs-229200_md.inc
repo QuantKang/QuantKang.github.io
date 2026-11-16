@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [삼성 코스닥 150 TR ETN](/530118-vs-229200/) | <span style="color: cornflowerblue">-5.5<small>%</small></span> | 40.5<small>%</small> | -0.14 | -50.6<small>%</small> | -15.7<small>%</small> |
-| KODEX 코스닥150 | <span style="color: cornflowerblue">-6.3<small>%</small></span> | 40.9<small>%</small> | -0.15 | -51.3<small>%</small> | -15.8<small>%</small> |
+| [삼성 코스닥 150 TR ETN](/530118-vs-229200/) | <span style="color: cornflowerblue">-7.2<small>%</small></span> | 40.6<small>%</small> | -0.18 | -50.6<small>%</small> | -15.7<small>%</small> |
+| KODEX 코스닥150 | <span style="color: cornflowerblue">-8.1<small>%</small></span> | 41.0<small>%</small> | -0.20 | -51.3<small>%</small> | -15.8<small>%</small> |

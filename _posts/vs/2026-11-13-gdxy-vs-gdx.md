@@ -79,7 +79,7 @@ GDX<sub>STD</sub>는 표준편차를 맞춘[^fn_vs_weighting] 경우이고, GDX<
 | GDXY | <span style="color: tomato">16.6<small>%</small></span> | 33.5<small>%</small> | 0.49 | -37.0<small>%</small> | -10.0<small>%</small> |
 | GDX | <span style="color: tomato">38.7<small>%</small></span> | 42.3<small>%</small> | 0.92 | -38.9<small>%</small> | -11.1<small>%</small> |
 | GDX<sub>STD</sub> <small>(79%)</small> | <span style="color: tomato">31.6<small>%</small></span> | 33.5<small>%</small> | 0.94 | -31.7<small>%</small> | -8.8<small>%</small> |
-| GDX<sub>MDD</sub> <small>(95%)</small> | <span style="color: tomato">37.1<small>%</small></span> | 40.2<small>%</small> | 0.92 | -37.3<small>%</small> | -10.5<small>%</small> |
+| GDX<sub>MDD</sub> <small>(95%)</small> | <span style="color: tomato">37.1<small>%</small></span> | 40.2<small>%</small> | 0.92 | -37.2<small>%</small> | -10.5<small>%</small> |
 
 
 
