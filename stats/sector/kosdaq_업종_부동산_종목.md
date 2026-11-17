@@ -5,7 +5,7 @@ excerpt: KOSDAQ 부동산 업종 종목별 시가총액 비중입니다. 종목�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 
@@ -17,7 +17,7 @@ last_modified_at: 2026-11-16
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
 | 부방 | 23.6 | 0.3 | - | 45.6<small>%</small> |
-| 디티씨 | 13.7 | 0.3 | - | 45.6<small>%</small> |
-| 신라섬유 | 130.7 | 0.7 | - | 8.8<small>%</small> |
+| 디티씨 | 13.5 | 0.3 | - | 45.6<small>%</small> |
+| 신라섬유 | 126.0 | 0.6 | - | 8.8<small>%</small> |
 
 {% include commons/footnotes.md %}
