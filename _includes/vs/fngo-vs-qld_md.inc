@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [FNGO](/fngo-vs-qld/) | <span style="color: tomato">34.8<small>%</small></span> | 61.1<small>%</small> | 0.57 | -78.4<small>%</small> | -23.1<small>%</small> |
-| QLD | <span style="color: tomato">25.3<small>%</small></span> | 48.3<small>%</small> | 0.52 | -63.7<small>%</small> | -16.8<small>%</small> |
+| [FNGO](/fngo-vs-qld/) | <span style="color: tomato">34.5<small>%</small></span> | 61.0<small>%</small> | 0.56 | -78.4<small>%</small> | -23.1<small>%</small> |
+| QLD | <span style="color: tomato">25.0<small>%</small></span> | 48.2<small>%</small> | 0.52 | -63.7<small>%</small> | -16.8<small>%</small> |
