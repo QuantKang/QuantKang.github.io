@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [PFFD](/pffd-vs-aok/) | <span style="color: tomato">1.2<small>%</small></span> | 12.6<small>%</small> | 0.10 | -30.9<small>%</small> | -6.6<small>%</small> |
-| AOK | <span style="color: tomato">4.4<small>%</small></span> | 6.9<small>%</small> | 0.64 | -18.9<small>%</small> | -3.5<small>%</small> |
+| [PFFD](/pffd-vs-aok/) | <span style="color: tomato">1.2<small>%</small></span> | 12.6<small>%</small> | 0.09 | -30.9<small>%</small> | -6.6<small>%</small> |
+| AOK | <span style="color: tomato">4.4<small>%</small></span> | 6.9<small>%</small> | 0.63 | -18.9<small>%</small> | -3.5<small>%</small> |
