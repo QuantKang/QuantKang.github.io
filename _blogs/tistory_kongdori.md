@@ -2,7 +2,7 @@
 title: 오렌시자사과의 티스토리 최근 글 목록
 header:
   overlay_image: "/assets/images/report.jpg"
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-20
 excerpt: 오렌시자사과의 티스토리에서 최근 작성한 글 50건을 정리한 목록입니다. 
 ##toc: true
 toc_sticky: false
@@ -17,6 +17,9 @@ categories:
 
 
 ## 최근 글 50건
+### [커버드콜 대신 기초자산 장기 투자 권유가 수익률만 본다는 오해](https://kongdori.tistory.com/868) <sup style="font-weight: normal; font-size: 0.7em;">2026-11-20 · 주식투자</sup>
+커버드콜 대신 기초자산이 장기 투자에 더 유리하다는 글을 올리면, 수익률만 보고 그런 이야기를 할 수 있냐는 반론이 나오곤 합니다. 더 나아가 그렇게 수익률만 본다면 장기 수익률이 더 높았던 TQQQ와 같은 레버리지 ETF를 추천해야 하는 것이 아니냐고 이야기하기도 합니다.
+
 ### [(26-09) 커버드콜과 기초자산에 n년간 거치식&middot;적립식&middot;인출식으로 투자했다면?](https://kongdori.tistory.com/867) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-30 · 주식투자</sup>
 주요 커버드콜과 기초자산 ETF에 공통 기간 동안 n년간 동일한 조건으로 투자했을 때의 잔여 자산 차이의 통계를 투자 기간과 투자 방식에 따라 정리한 글 모음입니다. 2026년 9월까지의 데이터기를 활용했습니다.
 
@@ -29,10 +32,10 @@ categories:
 ### [TIGER 미국배당다우존스타겟데일리커버드콜, 월 300만원 현금 흐름을 만들려면? (vs TIGER 미국배당다우존스, 30년 거치식&middot;적립식)](https://kongdori.tistory.com/864) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-12 · 주식투자</sup>
 TIGER 미국배당다우존스타겟데일리커버드콜(0008S0) 또는 기초자산인 TIGER 미국배당다우존스(458730)에 30년간 거치식 또는 적립식으로 장기 투자하고, 은퇴 후 월 300만원의 현금 흐름을 만들고자 한다면 필요한 투자금은 얼마일까요?
 
+{% include /commons/ads/adsense.html %}
+
 ### [KODEX 미국배당다우존스타겟커버드콜, 월 300만원 현금 흐름을 만들려면? (vs TIGER 미국배당다우존스, 30년 거치식&middot;적립식)](https://kongdori.tistory.com/863) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-11 · 주식투자</sup>
 KODEX 미국배당다우존스타겟커버드콜(483290) 또는 기초자산인 TIGER 미국배당다우존스(458730)에 30년간 거치식 또는 적립식으로 장기 투자하고, 은퇴 후 월 300만원의 현금 흐름을 만들고자 한다면 필요한 투자금은 얼마일까요?
-
-{% include /commons/ads/adsense.html %}
 
 ### [TIGER 미국배당다우존스타겟커버드콜2호, 월 300만원 현금 흐름을 만들려면? (vs TIGER 미국배당다우존스, 30년 거치식&middot;적립식)](https://kongdori.tistory.com/862) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-10 · 주식투자</sup>
 TIGER 미국배당다우존스타겟커버드콜2호(458760) 또는 기초자산인 TIGER 미국배당다우존스(458730)에 30년간 거치식 또는 적립식으로 장기 투자하고, 은퇴 후 월 300만원의 현금 흐름을 만들고자 한다면 필요한 투자금은 얼마일까요?
@@ -61,10 +64,10 @@ TIGER 200커버드콜OTM(166400) 또는 기초자산인 KODEX 200(069500)에 30�
 ### [TIGER 200커버드콜, 월 300만원 현금 흐름을 만들려면? (vs KODEX 200, 30년 거치식&middot;적립식)](https://kongdori.tistory.com/854) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-02 · 주식투자</sup>
 TIGER 200커버드콜(289480) 또는 기초자산인 KODEX 200(069500)에 30년간 거치식 또는 적립식으로 장기 투자하고, 은퇴 후 월 300만원의 현금 흐름을 만들고자 한다면 필요한 투자금은 얼마일까요?
 
+{% include /commons/ads/adsense.html %}
+
 ### [RISE 200위클리커버드콜, 월 300만원 현금 흐름을 만들려면? (vs KODEX 200, 30년 거치식&middot;적립식)](https://kongdori.tistory.com/853) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-01 · 주식투자</sup>
 RISE 200위클리커버드콜(475720) 또는 기초자산인 KODEX 200(069500)에 30년간 거치식 또는 적립식으로 장기 투자하고, 은퇴 후 월 300만원의 현금 흐름을 만들고자 한다면 필요한 투자금은 얼마일까요?
-
-{% include /commons/ads/adsense.html %}
 
 ### [TIGER 200타겟위클리커버드콜, 월 300만원 현금 흐름을 만들려면? (vs KODEX 200, 30년 거치식&middot;적립식)](https://kongdori.tistory.com/852) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-30 · 주식투자</sup>
 TIGER 200타겟위클리커버드콜(0104N0) 또는 기초자산인 KODEX 200(069500)에 30년간 거치식 또는 적립식으로 장기 투자하고, 은퇴 후 월 300만원의 현금 흐름을 만들고자 한다면 필요한 투자금은 얼마일까요?
@@ -93,10 +96,10 @@ KODEX 200타겟위클리커버드콜(498400) 또는 기초자산인 KODEX 200(06
 ### [월 100만원 적립 후 은퇴? KODEX 미국배당다우존스타겟커버드콜 얼마나 걸릴까? (vs TIGER 미국배당다우존스)](https://kongdori.tistory.com/843) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-21 · 주식투자</sup>
 지난 글에서 갑돌이가 2억원을 거치식으로 KODEX 미국배당다우존스타겟커버드콜과 TIGER 미국배당다우존스에 투자했을 때, 월 300만원의 실질 현금 흐름을 만드는 데 필요한 투자 기간을 간단한 모델로 추정해 보았습니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [2억원으로 은퇴? KODEX 미국배당다우존스타겟커버드콜 얼마나 걸릴까? (vs TIGER 미국배당다우존스)](https://kongdori.tistory.com/842) <sup style="font-weight: normal; font-size: 0.7em;">2026-09-20 · 주식투자</sup>
 갑돌이가 현재 2억원의 금융 자산을 가지고 있다고 가정하겠습니다. 월 300만원의 현금 흐름을 만들 수 있는 시점에 은퇴할 계획이라면, TIGER 미국배당다우존스와 KODEX 미국배당다우존스타겟커버드콜에 거치식으로 투자했을 때 은퇴까지 얼마나 걸리는지 추정해 보겠습니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [\[국내 ETF 시황\] 개인 순매수&middot;순매도 TOP 5 (2026-08-21, 일일&middot;5거래일)](https://kongdori.tistory.com/841) <sup style="font-weight: normal; font-size: 0.7em;">2026-08-21 · 주식투자/일일 시황</sup>
 국내 상장 ETF를 대상으로 개인 투자자의 일일 및 5거래일 순매수·순매도 상위 5개 ETF를 정리했습니다. ​ 대표 ETF의 수익률과 시장 전체 투자 주체별 순매수 금액도 함께 제공하여 시장의 전반적인 흐름을 한눈에 확인할 수 있도록 매일 업데이트합니다.
@@ -125,10 +128,10 @@ KODEX 200타겟위클리커버드콜(498400) 또는 기초자산인 KODEX 200(06
 ### [커버드콜 퀴즈 해설 1~7 (총 20문항) - 현금 흐름과 세금 (배당과 매도) 편](https://kongdori.tistory.com/833) <sup style="font-weight: normal; font-size: 0.7em;">2026-06-01 · 주식투자</sup>
 4월에 몇몇 카페에 올렸던 “나는 커버드콜에 대해 얼마나 알고 있을까?” 퀴즈 20문항 중 1~7번에 대한 답안 투표 결과와 해설입니다. ​나는 커버드콜에 대해 얼마나 알고 있을까?
 
+{% include /commons/ads/adsense.html %}
+
 ### [18. 자산 비교 분석에 사용하는 지표(또는 척도)란 무엇이며, 어떤 것이 있을까? \[투자와 데이터\]](https://kongdori.tistory.com/832) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-28 · 주식투자</sup>
 자산을 분석하고 비교하기 위해서는 자산이 가진 방대한 데이터를 간결하게 요약할 필요가 있습니다. 자산의 특성 요약이란 무엇이며, 왜 필요하고, 어떻게 표현되는지 살펴봅니다. 요약의 필요성: 수학 시험의 예 수학(math) 실력을 측정하는 과정을 예로 들어 보겠습니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [17. 투자 목표에 따라 달라지는 자산의 선택 \[투자와 데이터\]](https://kongdori.tistory.com/831) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-27 · 주식투자</sup>
 투자자는 저마다의 투자 목적을 가지고 있습니다. 예를 들어 은퇴 후 생활비 마련이 목적일 수 있습니다. 이를 수치와 기간으로 구체화하면 비로소 투자 목표가 됩니다. 20년간 적립식으로 투자하여 3억원의 은퇴 자금을 마련한다.
@@ -157,10 +160,10 @@ ETF는 낮은 수수료를 강점으로 내세웁니다. S&P 500을 추종하는
 ### [9. 수익률 100%와 -50%는 왜 대칭일까? - 손익비대칭성 \[투자와 데이터\]](https://kongdori.tistory.com/823) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-20 · 주식투자</sup>
 복리 투자에서 수익률 100%와 -50%는 서로 대칭 관계에 있습니다. 자산이 두 배가 된 뒤 다시 절반으로 줄어들면, 결국 원래의 자산 규모로 돌아오기 때문입니다. 숫자의 함정: 더하기와 곱하기의 차이 ​ 우리는 흔히 100%와 -50%를 보면 무의식적으로 더하기를 떠올립니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [8. 절약과 친구와의 여행도 투자일까? (인적 자산) \[투자와 데이터\]](https://kongdori.tistory.com/822) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-20 · 주식투자</sup>
 "투자는 주식이나 부동산을 사는 것 아닌가요?" 보통 그렇게 생각하기 쉽지만, 투자의 본질은 조금 더 넓게 바라볼 수 있습니다. 투자를 [미래 수익을 위해 현재의 자산을 배치하는 행위]라고 정의해 본다면 말이죠.
-
-{% include /commons/ads/adsense.html %}
 
 ### [7. CAGR은 무엇이고, 기하적으로는 어떻게 표현될까?](https://kongdori.tistory.com/821) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-19 · 주식투자</sup>
 자산의 과거 성과를 정량적으로 평가하고 다른 자산과 비교하려면, 복잡한 가격 흐름을 숫자로 요약해야 합니다. 이를 성과 척도(Metric) 또는 지표(Indicator)라 부릅니다.
@@ -173,9 +176,6 @@ ETF는 낮은 수수료를 강점으로 내세웁니다. S&P 500을 추종하는
 
 ### [4. 주가 그래프는 왜 로그 스케일로 봐야 할까? \[투자와 데이터\]](https://kongdori.tistory.com/818) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-18 · 주식투자</sup>
 투자자는 투자를 고려하는 자산의 지난 성과를 확인하기 위해 가격 차트(chart)를 살펴봅니다. 엑셀이나 구글 스프레드시트로 본인의 투자 자산 평가액을 시점별로 기록하고, 그래프로 그 변화를 확인하기도 합니다.
-
-### [3. 왜 배당 재투자 수익률(TR)로 비교해야 할까? \[투자와 데이터\]](https://kongdori.tistory.com/817) <sup style="font-weight: normal; font-size: 0.7em;">2026-02-17 · 주식투자</sup>
-투자자는 항상 어디에 투자할지 고민합니다. 이미 투자한 자산이나 앞으로 투자할 자산을 비교 평가하기 위해, 1차적으로 과거 수익률을 확인합니다. 하지만 자산을 비교할 때는 배당금과 세금까지 고려한 실수익률로 평가해야 합니다.
 
 
 
