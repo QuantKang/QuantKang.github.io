@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KODEX 200미국채혼합](/284430-vs-305080/) | <span style="color: tomato">7.3<small>%</small></span> | 12.1<small>%</small> | 0.60 | -31.4<small>%</small> | -5.1<small>%</small> |
-| TIGER 미국채10년선물 | <span style="color: tomato">1.9<small>%</small></span> | 9.6<small>%</small> | 0.20 | -17.9<small>%</small> | -7.7<small>%</small> |
+| [KODEX 200미국채혼합](/284430-vs-305080/) | <span style="color: tomato">7.0<small>%</small></span> | 12.2<small>%</small> | 0.58 | -32.3<small>%</small> | -5.1<small>%</small> |
+| TIGER 미국채10년선물 | <span style="color: tomato">2.0<small>%</small></span> | 9.6<small>%</small> | 0.21 | -17.9<small>%</small> | -7.7<small>%</small> |
