@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [ISPY](/ispy-vs-gpix/) | <span style="color: tomato">13.4<small>%</small></span> | 13.7<small>%</small> | 0.98 | -16.9<small>%</small> | -2.0<small>%</small> |
-| GPIX | <span style="color: tomato">15.6<small>%</small></span> | 13.8<small>%</small> | 1.13 | -17.5<small>%</small> | -1.5<small>%</small> |
+| [ISPY](/ispy-vs-gpix/) | <span style="color: tomato">12.1<small>%</small></span> | 13.9<small>%</small> | 0.87 | -16.9<small>%</small> | -2.1<small>%</small> |
+| GPIX | <span style="color: tomato">14.2<small>%</small></span> | 14.0<small>%</small> | 1.02 | -17.5<small>%</small> | -1.5<small>%</small> |
