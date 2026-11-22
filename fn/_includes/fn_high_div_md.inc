@@ -29,8 +29,8 @@
 | [KT](/030200/) | P:통신 | 6.4 | 0.6 | **5.3**<small>%</small> |
 | [대상](/001680/) | P:음식료담배 | - | 0.6 | **5.1**<small>%</small> |
 | [롯데쇼핑](/023530/) | P:유통 | 44.1 | <span style="color:tomato">0.1</span> | **5.0**<small>%</small> |
-| [롯데정밀화학](/004000/) | P:화학 | 7.4 | <span style="color:tomato">0.3</span> | **4.8**<small>%</small> |
 | [한전KPS](/051600/) | P:건설 | 12.3 | 1.1 | **4.8**<small>%</small> |
+| [롯데정밀화학](/004000/) | P:화학 | 7.4 | <span style="color:tomato">0.3</span> | **4.8**<small>%</small> |
 | [오리온홀딩스](/001800/) | P:기타금융 | 11.5 | 0.6 | **4.8**<small>%</small> |
 | [컴투스](/078340/) | Q:IT서비스 | 8.7 | <span style="color:tomato">0.3</span> | **4.7**<small>%</small> |
 | [DB손해보험](/005830/) | P:보험 | <span style="color:tomato">5.5</span> | 0.9 | **4.6**<small>%</small> |
