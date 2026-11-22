@@ -2,7 +2,7 @@
 title: 오렌지사과의 네이버 블로그 최근 글 목록
 header:
   overlay_image: "/assets/images/report.jpg"
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 excerpt: 오렌지사과의 네이버 블로그에서 최근 작성한 글 50건을 정리한 목록입니다. 
 ##toc: true
 toc_sticky: false
@@ -18,10 +18,13 @@ categories:
 
 
 ## 최근 글 50건
+### [SPY가 좋을까 QQQ가 좋을까? (포트폴리오 분석, 10년)](https://m.blog.naver.com/onuri2005/224486093189) <sup style="font-weight: normal; font-size: 0.7em;">2026-11-21 · 주식투자</sup>
+국내 투자자들이 흔히 하는 고민 중 하나는 미국 주식 시장에 투자할 때 S&P 500 지수를 추종하는 SPY(또는 VOO, IVV, SPYM)를 선택할지, 아니면 나스닥 100 지수를 추종하는 QQQ(또는 QQQM)를 선택할지일 것입니다.
+
 ### [개인이 가장 많이 산 국내 ETF TOP 7 + 주간 수익률 TOP 7 \| 2026년 11월 3주차 (+4주간)](https://m.blog.naver.com/onuri2005/224485111011) <sup style="font-weight: normal; font-size: 0.7em;">2026-11-20 · 주식투자</sup>
 2026년 11월 3주차 기준, 개인 투자자가 가장 많이 순매수한 국내 상장 ETF TOP 7을 정리했습니다. KRX 데이터를 기반으로 개인 누적 순매수 금액 기준으로 집계한 주간 ETF 순위입니다.
 
-### [TQQQ는 장기 투자 포트폴리오에 어느 정도 비중으로 편입될까?](https://m.blog.naver.com/onuri2005/224483523929) <sup style="font-weight: normal; font-size: 0.7em;">2026-11-20 · 주식투자</sup>
+### [TQQQ는 장기 투자 포트폴리오에 어느 정도 비중으로 편입될까? (포트폴리오 최적화)](https://m.blog.naver.com/onuri2005/224483523929) <sup style="font-weight: normal; font-size: 0.7em;">2026-11-20 · 주식투자</sup>
 지난 글에서는 커버드콜보다 기초자산이 유리하다는 이야기가 단순히 장기 수익률 차이 때문이 아님을 경력 사원 채용에 비유해 설명했습니다. [지난 글] 수익률만 본다면 커버드콜 대신 TQQQ에 투자해야 하는 것 아니냐는 오해 커버드콜(주로 패시브 커버드콜)과 기초자산의 위험을 동일한 수준으로 맞추면 기초자산의 수익률이 더 높은 경향을 보입니다.
 
 ### [\[영상\] RISE 미국S&P500데일리고정커버드콜 현금 흐름 (vs RISE 미국S&P500 , 1억원 거치)](https://m.blog.naver.com/onuri2005/224483537771) <sup style="font-weight: normal; font-size: 0.7em;">2026-11-19 · 주식투자</sup>
@@ -30,10 +33,10 @@ KB자산운용의 RISE 미국S&P500데일리고정커버드콜(0138T0)과 기초
 ### [수익률만 본다면 커버드콜이나 기초자산 대신 TQQQ에 투자해야 하는 것 아니냐는 오해](https://m.blog.naver.com/onuri2005/224483156493) <sup style="font-weight: normal; font-size: 0.7em;">2026-11-19 · 주식투자</sup>
 커버드콜과 기초자산 비교 글을 올리면, 수익률만 고려한다면 커버드콜 대신 기초자산에 투자할 것이 아니라 장기 수익률이 더 높았던 TQQQ(나스닥 3배 레버리지 ETF)와 같은 레버리지 ETF에 투자해야 하는 것이 아니냐는 댓글이 달리곤 합니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [\[영상\] PLUS 고배당주위클리고정커버드콜 현금 흐름 (vs PLUS 고배당주, 1억원 거치)](https://m.blog.naver.com/onuri2005/224480915161) <sup style="font-weight: normal; font-size: 0.7em;">2026-11-18 · 주식투자</sup>
 한화자산운용의 PLUS 고배당주위클리고정커버드콜(0018C0)과 기초자산인 PLUS 고배당주(161510)의 공통 상장 기간에 대해 수익률과 현금 흐름을 비교해 봅니다. PLUS 고배당주위클리커버드콜은 국내 상장된 고배당주로 기초자산을 구성하고 코스피 200 위클리 콜옵션을 30% 고정 비중으로 매도하는 커버드콜입니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [\[영상\] TIGER 200타겟위클리커버드콜 현금 흐름 (vs TIGER 200, 1억원 거치)](https://m.blog.naver.com/onuri2005/224480923895) <sup style="font-weight: normal; font-size: 0.7em;">2026-11-17 · 주식투자</sup>
 미래에셋자산운용의 TIGER 200타겟위클리커버드콜(0104N0)과 기초자산인 TIGER 200(102110)의 공통 상장 기간에 대해 수익률과 현금 흐름을 비교해 봅니다. 2026년 9월 기준 약 1.
@@ -62,10 +65,10 @@ KB자산운용의 RISE 미국S&P500데일리고정커버드콜(0138T0)과 기초
 ### [KODEX 200타겟위클리커버드콜로 본 상승장·하락장·횡보장 성과 (최근 8개월)](https://m.blog.naver.com/onuri2005/224473182653) <sup style="font-weight: normal; font-size: 0.7em;">2026-11-11 · 주식투자</sup>
 삼성자산운용의 KODEX 200타겟위클리커버드콜(498400)과 동일한 지수를 추종하는 신한자산운용의 SOL 200타겟위클리커버드콜(0167B0)의 상장일부터 2026년 11월 10일까지의 수익률 데이터를 이용해 커버드콜 투자에서 기대할 수 있는 장점이 실제로 나타났는지 살펴봅니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [\[영상\] GPIQ 커버드콜 현금 흐름 (vs QQQ, 1만 달러 거치)](https://m.blog.naver.com/onuri2005/224469237070) <sup style="font-weight: normal; font-size: 0.7em;">2026-11-10 · 주식투자</sup>
 골드만삭스의 미국 나스닥 대형주 기반 커버드콜인 GPIQ(Goldman Sachs Nasdaq-100 Premium Income ETF)와 기초자산인 QQQ의 공통 상장 기간에 대해 수익률과 현금 흐름을 비교해 봅니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [커버드콜 vs 기초자산 거치식·적립식·인출식 잔여 자산 차이 (26-10 업데이트)](https://m.blog.naver.com/onuri2005/224468466430) <sup style="font-weight: normal; font-size: 0.7em;">2026-11-09 · 주식투자</sup>
 투자자의 관심도가 높은 주요 커버드콜과 기초자산을 대상으로, 거치식·적립식·인출식으로 투자했을 때의 잔여 자산 차이를 분석한 콘텐츠를 네프콘 채널 『데이터로 이해하는 투자』에 업데이트했습니다.
@@ -94,10 +97,10 @@ KB자산운용의 RISE 미국S&P500데일리고정커버드콜(0138T0)과 기초
 ### [\[영상\] PLUS 고배당주위클리커버드콜 현금 흐름 (vs PLUS 고배당주, 1억원 거치)](https://m.blog.naver.com/onuri2005/224463154707) <sup style="font-weight: normal; font-size: 0.7em;">2026-11-03 · 주식투자</sup>
 한화자산운용의 PLUS 고배당주위클리커버드콜(489030)과 기초자산인 PLUS 고배당주(161510)의 공통 상장 기간에 대해 수익률과 현금 흐름을 비교해 봅니다. PLUS 고배당주위클리커버드콜은 국내 상장된 고배당주로 기초자산을 구성하고 코스피 200 위클리 콜옵션을 매도하는 커버드콜입니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [커버드콜 vs 기초자산 동일 세후 현금 흐름 (국내 주식 기반) \[업데이트, 26-10, KODEX 200타겟위클리커버드콜 외 18종\]](https://m.blog.naver.com/onuri2005/224462575383) <sup style="font-weight: normal; font-size: 0.7em;">2026-11-02 · 주식투자</sup>
 국내 주식 기반 국내 상장 커버드콜과 기초자산의 공통 상장 기간에 대해 비과세 배당 재투자(TR) 및 동일 세후 현금 흐름 후 잔여 자산 변화를 다각도로 정리한 네프콘 채널 『데이터로 이해하는 투자』의 콘텐츠 업데이트 목록입니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [커버드콜과 배당금 재투자로 연 40% 수익률을 얻는 방법 (가능할까?)](https://m.blog.naver.com/onuri2005/224459232135) <sup style="font-weight: normal; font-size: 0.7em;">2026-11-02 · 주식투자</sup>
 커버드콜에 투자하고 매달 받는 배당금을 적절한 시점에 재투자하면 어떻게 될까요? 장기 수익률이 낮은 커버드콜이라도 기초자산 수준, 더 나아가 조금 더 높은 수익률을 얻을 수 있지 않을까요?
@@ -126,10 +129,10 @@ KB자산운용의 RISE 미국S&P500데일리고정커버드콜(0138T0)과 기초
 ### [1. 왜 비교가 가능할까? 월 이자 지급 예금 vs 만기 이자 지급 예금 (커버드콜 vs 기초자산)](https://m.blog.naver.com/onuri2005/224456915065) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-29 · 주식투자</sup>
 커버드콜과 기초자산을 비교하는 글을 올리면 간혹 다음과 같은 댓글이 달리곤 합니다. 커버드콜과 기초자산은 현금 흐름이 다른데 어떻게 비교가 가능한가? 기초자산의 수익률이 더 높은 것은 인정하지만, 그렇게 따지면 수익률이 가장 높았던 TQQQ와 같은 자산에 투자해야 하는 것이 아닌가?
 
+{% include /commons/ads/adsense.html %}
+
 ### [GPIX와 GPIQ에 n년간 거치식·적립식·인출식으로 투자했다면? (vs 기초자산, 26-09)](https://m.blog.naver.com/onuri2005/224453022262) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-28 · 주식투자</sup>
 골드만삭스의 GPIX(Goldman Sachs S&P 500 Premium Income ETF)와 GPIQ(Goldman Sachs Nasdaq-100 Premium Income ETF) 커버드콜에 기초자산(SPY와 QQQ)과 동일한 조건으로 투자했을 때의 잔여 자산 차이의 통계를 투자 기간과 투자 방식에 따라 정리한 결과입니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [1년 후 사용할 적금, 어떻게 운용하면 좋을까?](https://m.blog.naver.com/onuri2005/224455218066) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-28 · 주식투자</sup>
 지난 글에서는 1년 후 사용할 목돈이 있을 때 원금 손실을 최소화하면서 운용하려면 포트폴리오를 어떻게 구성하는 것이 좋을지, 지난 10년간의 데이터로 살펴보았습니다. [지난 글] 1년 후 사용할 목돈, 어떻게 운용해야 할까?
@@ -158,10 +161,10 @@ JP 모건의 JEPQ(JPMorgan Nasdaq Equity Premium Income ETF)와 비교자산인 
 ### [개인이 가장 많이 산 국내 ETF TOP 7 + 주간 수익률 TOP 7 \| 2026년 10월 3주차 (+4주간)](https://m.blog.naver.com/onuri2005/224451439457) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-23 · 주간 ETF 시황</sup>
 2026년 10월 3주차 기준, 개인 투자자가 가장 많이 순매수한 국내 상장 ETF TOP 7을 정리했습니다. KRX 데이터를 기반으로 개인 누적 순매수 금액 기준으로 집계한 주간 ETF 순위입니다.
 
+{% include /commons/ads/adsense.html %}
+
 ### [은퇴를 위해 인버스에 장기 투자하세요 (TSLY, 개별 종목 기반 초고배당 커버드콜)](https://m.blog.naver.com/onuri2005/224447570320) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-22 · 주식투자</sup>
 지난 세 편의 글을 통해 시장 대표 지수를 기반으로 하는 커버드콜이 기초자산과 인버스를 함께 보유한 포트폴리오와 유사한 수익률 특성을 보였음을 데이터로 살펴보았습니다. 이번 글에서는 개별 종목인 TSLA(테슬라)에 대해 합성 커버드콜(synthetic covered call) 전략으로 커버드콜과 유사한 효과를 내는 초고배당 ETF인 일드맥스의 TSLY(YieldMax TSLA Option Income Strategy ETF) 사례를 살펴봅니다.
-
-{% include /commons/ads/adsense.html %}
 
 ### [\[영상\] KODEX 미국배당다우존스타겟커버드콜 현금 흐름 (vs TIGER 미국배당다우존스, 1억원 거치)](https://m.blog.naver.com/onuri2005/224449819186) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-22 · 주식투자</sup>
 삼성자산운용의 KODEX 미국배당다우존스타겟커버드콜(483290)과 기초자산인 TIGER 미국배당다우존스(458730)의 공통 상장 기간에 대해 수익률과 현금 흐름을 비교해 봅니다.
@@ -174,9 +177,6 @@ JP 모건의 JEPQ(JPMorgan Nasdaq Equity Premium Income ETF)와 비교자산인 
 
 ### [은퇴를 위해 인버스에 장기 투자하세요 (KODEX 200타겟위클리커버드콜, RISE 200위클리커버드콜)](https://m.blog.naver.com/onuri2005/224445645558) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-20 · 주식투자</sup>
 지난 두 편의 글을 통해 나스닥 100 지수 기반 먼슬리 커버드콜과 S&P 500 지수 기반 데일리 커버드콜이 기초자산과 인버스를 함께 보유한 포트폴리오와 유사한 수익률 특성을 보였음을 데이터로 살펴보았습니다.
-
-### [\[영상\] RISE 코리아밸류업위클리고정커버드콜 현금 흐름 (vs RISE 코리아밸류업, 1억원 거치)](https://m.blog.naver.com/onuri2005/224446930865) <sup style="font-weight: normal; font-size: 0.7em;">2026-10-20 · 주식투자</sup>
-KB자산운용의 RISE 코리아밸류업위클리고정커버드콜(0094M0)과 기초자산인 RISE 코리아밸류업(495050)의 공통 상장 기간에 대해 수익률과 현금 흐름을 비교해 봅니다. RISE 코리아밸류업위클리고정커버드콜은 코리아 밸류업 지수로 기초자산을 구성하고 코스피 200 위클리 콜옵션을 30% 고정 비율로 매도하는 커버드콜입니다.
 
 
 
