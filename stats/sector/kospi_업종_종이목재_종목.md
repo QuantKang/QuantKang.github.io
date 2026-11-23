@@ -5,7 +5,7 @@ excerpt: KOSPI 종이목재 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-23
 ---
 
 
@@ -16,23 +16,23 @@ last_modified_at: 2026-11-20
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| 신대양제지 | 11.9 | 0.5 | 2.5<small>%</small> | 21.2<small>%</small> |
-| 아세아제지 | 8.2 | 0.3 | 4.0<small>%</small> | 16.5<small>%</small> |
-| 한솔제지 | 36.8 | 0.2 | 8.3<small>%</small> | 9.5<small>%</small> |
+| 신대양제지 | 11.2 | 0.4 | 2.6<small>%</small> | 21.2<small>%</small> |
+| 아세아제지 | 8.0 | 0.3 | 4.1<small>%</small> | 16.5<small>%</small> |
+| 한솔제지 | 36.0 | 0.2 | 8.5<small>%</small> | 9.5<small>%</small> |
 | 태림포장 | - | 0.2 | - | 6.7<small>%</small> |
-| 한국제지 | - | 0.2 | - | 5.7<small>%</small> |
-| 무림P&P | - | 0.2 | 8.3<small>%</small> | 5.5<small>%</small> |
-| 한국수출포장 | - | 0.3 | 3.1<small>%</small> | 4.7<small>%</small> |
+| 한국제지 | - | 0.1 | - | 5.7<small>%</small> |
+| 무림P&P | - | 0.1 | 8.5<small>%</small> | 5.5<small>%</small> |
+| 한국수출포장 | - | 0.3 | 3.3<small>%</small> | 4.7<small>%</small> |
 | 페이퍼코리아 | - | 0.2 | - | 4.6<small>%</small> |
-| 대영포장 | 31.4 | 0.2 | - | 4.3<small>%</small> |
+| 대영포장 | 30.6 | 0.2 | - | 4.3<small>%</small> |
 | 삼정펄프 | 2.0 | 0.2 | 4.0<small>%</small> | 3.9<small>%</small> |
-| 무림페이퍼 | - | 0.1 | 9.4<small>%</small> | 3.4<small>%</small> |
-| 모나리자 | 30.9 | 0.5 | 4.0<small>%</small> | 2.8<small>%</small> |
+| 무림페이퍼 | - | 0.1 | 9.8<small>%</small> | 3.4<small>%</small> |
+| 모나리자 | 29.8 | 0.5 | 4.1<small>%</small> | 2.8<small>%</small> |
 | 깨끗한나라 | - | 0.2 | - | 2.4<small>%</small> |
 | 한창제지 | - | 0.3 | - | 2.3<small>%</small> |
 | 유니드비티플러스 | - | 0.2 | - | 2.1<small>%</small> |
 | 한솔홈데코 | - | 0.1 | - | 1.6<small>%</small> |
-| 이건산업 | - | 0.2 | 3.7<small>%</small> | 1.5<small>%</small> |
+| 이건산업 | - | 0.1 | 3.9<small>%</small> | 1.5<small>%</small> |
 | 블루산업개발 | - | 0.2 | - | 1.4<small>%</small> |
 | 깨끗한나라우 | - | - | - | 0.1<small>%</small> |
 
