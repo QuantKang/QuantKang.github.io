@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [SOL 미국S&P500](/433330-vs-360750/) | <span style="color: tomato">17.5<small>%</small></span> | 15.7<small>%</small> | 1.11 | -19.3<small>%</small> | -3.5<small>%</small> |
-| TIGER 미국S&P500 | <span style="color: tomato">17.9<small>%</small></span> | 15.7<small>%</small> | 1.14 | -19.2<small>%</small> | -3.5<small>%</small> |
+| [SOL 미국S&P500](/433330-vs-360750/) | <span style="color: tomato">17.4<small>%</small></span> | 15.7<small>%</small> | 1.11 | -19.3<small>%</small> | -3.6<small>%</small> |
+| TIGER 미국S&P500 | <span style="color: tomato">17.8<small>%</small></span> | 15.7<small>%</small> | 1.13 | -19.2<small>%</small> | -3.5<small>%</small> |
