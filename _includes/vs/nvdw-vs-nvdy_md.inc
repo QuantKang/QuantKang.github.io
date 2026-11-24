@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [NVDW](/nvdw-vs-nvdy/) | <span style="color: cornflowerblue">-13.0<small>%</small></span> | 52.8<small>%</small> | -0.25 | -54.8<small>%</small> | -11.8<small>%</small> |
-| NVDY | <span style="color: cornflowerblue">-7.0<small>%</small></span> | 36.1<small>%</small> | -0.19 | -44.9<small>%</small> | -7.1<small>%</small> |
+| [NVDW](/nvdw-vs-nvdy/) | <span style="color: tomato">4.5<small>%</small></span> | 59.9<small>%</small> | 0.08 | -54.8<small>%</small> | -11.9<small>%</small> |
+| NVDY | <span style="color: tomato">7.3<small>%</small></span> | 41.9<small>%</small> | 0.17 | -44.9<small>%</small> | -7.2<small>%</small> |
