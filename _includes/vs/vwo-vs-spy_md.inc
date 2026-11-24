@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [VWO](/vwo-vs-spy/) | <span style="color: tomato">6.0<small>%</small></span> | 25.9<small>%</small> | 0.23 | -67.7<small>%</small> | -15.6<small>%</small> |
-| SPY | <span style="color: tomato">10.3<small>%</small></span> | 18.9<small>%</small> | 0.55 | -55.2<small>%</small> | -7.0<small>%</small> |
+| [VWO](/vwo-vs-spy/) | <span style="color: tomato">6.3<small>%</small></span> | 25.9<small>%</small> | 0.24 | -67.7<small>%</small> | -15.6<small>%</small> |
+| SPY | <span style="color: tomato">10.6<small>%</small></span> | 18.9<small>%</small> | 0.56 | -55.2<small>%</small> | -7.0<small>%</small> |

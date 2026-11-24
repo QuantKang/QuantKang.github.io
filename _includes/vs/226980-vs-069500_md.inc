@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KODEX 200 중소형](/226980-vs-069500/) | <span style="color: tomato">5.0<small>%</small></span> | 22.6<small>%</small> | 0.22 | -56.7<small>%</small> | -14.1<small>%</small> |
-| KODEX 200 | <span style="color: tomato">13.1<small>%</small></span> | 25.5<small>%</small> | 0.52 | -50.1<small>%</small> | -11.3<small>%</small> |
+| [KODEX 200 중소형](/226980-vs-069500/) | <span style="color: tomato">5.4<small>%</small></span> | 22.7<small>%</small> | 0.24 | -56.7<small>%</small> | -14.1<small>%</small> |
+| KODEX 200 | <span style="color: tomato">13.8<small>%</small></span> | 25.6<small>%</small> | 0.54 | -50.1<small>%</small> | -11.3<small>%</small> |

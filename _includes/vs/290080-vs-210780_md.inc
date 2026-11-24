@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [RISE 200고배당커버드콜ATM](/290080-vs-210780/) | <span style="color: tomato">1.0<small>%</small></span> | 17.2<small>%</small> | 0.06 | -45.4<small>%</small> | -12.9<small>%</small> |
-| TIGER 코스피고배당 | <span style="color: tomato">9.2<small>%</small></span> | 18.4<small>%</small> | 0.50 | -44.5<small>%</small> | -8.6<small>%</small> |
+| [RISE 200고배당커버드콜ATM](/290080-vs-210780/) | <span style="color: tomato">1.2<small>%</small></span> | 17.2<small>%</small> | 0.07 | -45.4<small>%</small> | -12.9<small>%</small> |
+| TIGER 코스피고배당 | <span style="color: tomato">9.5<small>%</small></span> | 18.5<small>%</small> | 0.51 | -44.5<small>%</small> | -8.6<small>%</small> |
