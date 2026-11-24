@@ -3269,9 +3269,9 @@ iShares사의 PFF는 우선주에도 투자하지만 CB(Convertable Bond; 전환
 
 
 
-### [AMOM vs SPY](/amom-vs-spy/)<a id="amom-vs-spy"></a>
+### [AIED vs SPY](/aied-vs-spy/)<a id="aied-vs-spy"></a>
 
-{% include vs/amom-vs-spy_md.inc %}
+{% include vs/aied-vs-spy_md.inc %}
 
 
 
