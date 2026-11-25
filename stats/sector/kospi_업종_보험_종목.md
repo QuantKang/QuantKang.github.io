@@ -5,7 +5,7 @@ excerpt: KOSPI 보험 업종 종목별 시가총액 비중입니다. 종목별�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 
@@ -16,16 +16,16 @@ last_modified_at: 2026-11-24
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [삼성생명](/032830/) | 19.3 | 0.7 | 2.1<small>%</small> | 51.0<small>%</small> |
+| [삼성생명](/032830/) | 17.2 | 0.6 | 2.4<small>%</small> | 51.0<small>%</small> |
 | [삼성화재](/000810/) | 10.8 | 1.0 | 3.8<small>%</small> | 22.9<small>%</small> |
-| [DB손해보험](/005830/) | 5.5 | 0.9 | 4.6<small>%</small> | 9.0<small>%</small> |
-| [한화생명](/088350/) | 5.1 | 0.2 | - | 3.7<small>%</small> |
+| [DB손해보험](/005830/) | 5.6 | 0.9 | 4.6<small>%</small> | 9.0<small>%</small> |
+| [한화생명](/088350/) | 5.0 | 0.2 | - | 3.7<small>%</small> |
 | [현대해상](/001450/) | 2.6 | 0.5 | - | 3.3<small>%</small> |
-| 미래에셋생명 | 16.1 | 0.9 | - | 2.6<small>%</small> |
-| 서울보증보험 | 9.6 | 0.5 | 7.7<small>%</small> | 2.3<small>%</small> |
-| 코리안리 | 7.4 | 0.6 | 4.9<small>%</small> | 2.0<small>%</small> |
+| 미래에셋생명 | 15.5 | 0.8 | - | 2.6<small>%</small> |
+| 서울보증보험 | 9.6 | 0.5 | 7.8<small>%</small> | 2.3<small>%</small> |
+| 코리안리 | 7.3 | 0.6 | 4.9<small>%</small> | 2.0<small>%</small> |
 | 동양생명 | - | - | - | 1.0<small>%</small> |
-| 삼성화재우 | - | - | 5.4<small>%</small> | 1.0<small>%</small> |
+| 삼성화재우 | - | - | 5.5<small>%</small> | 1.0<small>%</small> |
 | 한화손해보험 | 3.2 | 0.3 | - | 0.7<small>%</small> |
 | 롯데손해보험 | 16.1 | 1.3 | - | 0.5<small>%</small> |
 | 흥국화재 | 1.4 | 0.2 | - | 0.2<small>%</small> |
