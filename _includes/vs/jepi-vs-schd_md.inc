@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [JEPI](/jepi-vs-schd/) | <span style="color: tomato">10.7<small>%</small></span> | 10.8<small>%</small> | 0.99 | -13.7<small>%</small> | -2.1<small>%</small> |
-| SCHD | <span style="color: tomato">15.5<small>%</small></span> | 15.1<small>%</small> | 1.03 | -16.8<small>%</small> | -3.9<small>%</small> |
+| [JEPI](/jepi-vs-schd/) | <span style="color: tomato">10.7<small>%</small></span> | 10.8<small>%</small> | 1.00 | -13.7<small>%</small> | -2.1<small>%</small> |
+| SCHD | <span style="color: tomato">15.8<small>%</small></span> | 15.1<small>%</small> | 1.05 | -16.8<small>%</small> | -3.9<small>%</small> |
