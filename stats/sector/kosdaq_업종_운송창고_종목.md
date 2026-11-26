@@ -5,7 +5,7 @@ excerpt: KOSDAQ 운송창고 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 
@@ -16,9 +16,9 @@ last_modified_at: 2026-11-25
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| 유성티엔에스 | 2.0 | 0.2 | - | 39.7<small>%</small> |
+| 유성티엔에스 | 1.9 | 0.2 | - | 39.7<small>%</small> |
 | 선광 | 2.9 | 0.3 | 2.5<small>%</small> | 35.1<small>%</small> |
-| 태웅로직스 | - | 0.3 | 6.9<small>%</small> | 19.4<small>%</small> |
-| 삼일 | 21.2 | 0.3 | 3.0<small>%</small> | 5.7<small>%</small> |
+| 태웅로직스 | - | 0.3 | 6.8<small>%</small> | 19.4<small>%</small> |
+| 삼일 | 21.4 | 0.3 | 3.0<small>%</small> | 5.7<small>%</small> |
 
 {% include commons/footnotes.md %}

@@ -5,7 +5,7 @@ excerpt: KOSDAQ 오락문화 업종 종목별 시가총액 비중입니다. 종�
 header:
   overlay_color: "#800000"
   show_overlay_excerpt: false
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 
@@ -16,45 +16,45 @@ last_modified_at: 2026-11-25
 
 | **종목** | **PER** | **PBR** | **DIV** | **비중** |
 | :------- | ------: | ------: | ------: | -------: |
-| [에스엠](/041510/) | 6.3 | 2.2 | 1.7<small>%</small> | 20.6<small>%</small> |
-| [JYP Ent.](/035900/) | 9.6 | 2.5 | 1.9<small>%</small> | 17.4<small>%</small> |
-| [와이지엔터테인먼트](/122870/) | 23.6 | 1.7 | 0.6<small>%</small> | 9.2<small>%</small> |
-| [CJ ENM](/035760/) | 37.5 | 0.4 | - | 8.8<small>%</small> |
-| [스튜디오드래곤](/253450/) | 99.1 | 1.3 | - | 8.0<small>%</small> |
-| SAMG엔터 | 3.6 | 1.4 | - | 2.7<small>%</small> |
-| 더핑크퐁컴퍼니 | 6.9 | 0.8 | - | 2.0<small>%</small> |
-| 메가스터디 | 5.3 | 0.4 | 10.3<small>%</small> | 2.0<small>%</small> |
-| 애니플러스 | 8.0 | 0.9 | 4.6<small>%</small> | 1.8<small>%</small> |
+| [에스엠](/041510/) | 6.6 | 2.3 | 1.6<small>%</small> | 20.6<small>%</small> |
+| [JYP Ent.](/035900/) | 10.1 | 2.6 | 1.8<small>%</small> | 17.4<small>%</small> |
+| [와이지엔터테인먼트](/122870/) | 24.4 | 1.8 | 0.6<small>%</small> | 9.2<small>%</small> |
+| [CJ ENM](/035760/) | 38.4 | 0.4 | - | 8.8<small>%</small> |
+| [스튜디오드래곤](/253450/) | 99.0 | 1.3 | - | 8.0<small>%</small> |
+| SAMG엔터 | 3.5 | 1.4 | - | 2.7<small>%</small> |
+| 더핑크퐁컴퍼니 | 7.0 | 0.8 | - | 2.0<small>%</small> |
+| 메가스터디 | 5.3 | 0.4 | 10.4<small>%</small> | 2.0<small>%</small> |
+| 애니플러스 | 8.1 | 0.9 | 4.6<small>%</small> | 1.8<small>%</small> |
 | KX | 4.5 | 0.2 | - | 1.6<small>%</small> |
 | 노머스 | 8.7 | 1.2 | - | 1.6<small>%</small> |
 | 쇼박스 | - | 0.8 | - | 1.6<small>%</small> |
-| 한국경제TV | 27.1 | 0.5 | 3.3<small>%</small> | 1.3<small>%</small> |
+| 한국경제TV | 27.2 | 0.5 | 3.3<small>%</small> | 1.3<small>%</small> |
 | 씨씨에스 | - | 3.6 | - | 1.2<small>%</small> |
 | YTN | - | 0.4 | - | 1.2<small>%</small> |
 | 디앤씨미디어 | 8.9 | 0.7 | - | 1.2<small>%</small> |
 | 큐브엔터 | - | 0.7 | - | 1.1<small>%</small> |
-| 초록뱀미디어 | 21.8 | 0.2 | - | 0.9<small>%</small> |
+| 초록뱀미디어 | 21.7 | 0.2 | - | 0.9<small>%</small> |
 | 예림당 | 0.5 | 0.2 | - | 0.9<small>%</small> |
 | KT지니뮤직 | - | 0.3 | - | 0.9<small>%</small> |
-| 포바이포 | - | 1.3 | - | 0.9<small>%</small> |
-| KNN | 6.3 | 0.3 | 4.6<small>%</small> | 0.9<small>%</small> |
-| 남화산업 | 7.8 | 0.3 | 7.9<small>%</small> | 0.8<small>%</small> |
-| 드림어스컴퍼니 | 20.2 | 0.3 | - | 0.7<small>%</small> |
-| 에피소드컴퍼니 | - | 1.9 | - | 0.6<small>%</small> |
+| 포바이포 | - | 1.2 | - | 0.9<small>%</small> |
+| KNN | 6.5 | 0.3 | 4.5<small>%</small> | 0.9<small>%</small> |
+| 남화산업 | 7.9 | 0.3 | 7.8<small>%</small> | 0.8<small>%</small> |
+| 드림어스컴퍼니 | 20.3 | 0.4 | - | 0.7<small>%</small> |
+| 에피소드컴퍼니 | - | 1.7 | - | 0.6<small>%</small> |
 | 알비더블유 | - | 0.6 | - | 0.6<small>%</small> |
 | iMBC | - | 0.6 | - | 0.5<small>%</small> |
 | 블리츠웨이엔터테인먼트 | - | 1.6 | - | 0.5<small>%</small> |
-| 아티스트컴퍼니 | 36.6 | 1.2 | - | 0.5<small>%</small> |
-| 에프엔씨엔터 | - | 1.7 | - | 0.5<small>%</small> |
+| 아티스트컴퍼니 | 39.0 | 1.3 | - | 0.5<small>%</small> |
+| 에프엔씨엔터 | - | 1.6 | - | 0.5<small>%</small> |
 | 삼화네트웍스 | - | 0.5 | - | 0.4<small>%</small> |
 | 와이랩 | - | 0.9 | - | 0.4<small>%</small> |
 | 스튜디오미르 | - | 0.7 | - | 0.4<small>%</small> |
 | 팬엔터테인먼트 | - | 0.4 | - | 0.4<small>%</small> |
 | M83 | - | 0.9 | - | 0.4<small>%</small> |
-| 닷밀 | 24.8 | 0.6 | - | 0.4<small>%</small> |
+| 닷밀 | 24.9 | 0.6 | - | 0.4<small>%</small> |
 | 티비씨 | 8.3 | 0.2 | 4.2<small>%</small> | 0.4<small>%</small> |
 | NE능률 | - | 0.3 | - | 0.4<small>%</small> |
-| NEW | 36.2 | 0.3 | - | 0.4<small>%</small> |
+| NEW | 36.8 | 0.3 | - | 0.4<small>%</small> |
 | 빌리언스 | - | 0.3 | - | 0.3<small>%</small> |
 | 이퓨쳐 | 16.9 | 0.9 | 4.5<small>%</small> | 0.3<small>%</small> |
 | 키이스트 | - | 0.8 | - | 0.3<small>%</small> |
@@ -65,8 +65,8 @@ last_modified_at: 2026-11-25
 | 판타지오 | - | 0.2 | - | 0.2<small>%</small> |
 | 코퍼스코리아 | - | 0.5 | - | 0.2<small>%</small> |
 | 캔버스엔 | - | 2.3 | - | 0.2<small>%</small> |
-| 아이오케이이엔엠 | - | 0.3 | - | 0.2<small>%</small> |
-| 티엔엔터테인먼트 | 62.4 | 0.3 | - | 0.2<small>%</small> |
+| 아이오케이이엔엠 | - | 0.2 | - | 0.2<small>%</small> |
+| 티엔엔터테인먼트 | 61.5 | 0.3 | - | 0.2<small>%</small> |
 | 바른손이앤에이 | - | 0.1 | - | 0.2<small>%</small> |
 | 아이스크림에듀 | - | 0.2 | - | 0.2<small>%</small> |
 | 한주에이알티 | - | 0.2 | - | 0.1<small>%</small> |
