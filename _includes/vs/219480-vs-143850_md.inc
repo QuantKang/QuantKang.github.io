@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [KODEX 미국S&P500선물(H)](/219480-vs-143850/) | <span style="color: tomato">10.3<small>%</small></span> | 20.8<small>%</small> | 0.50 | -34.8<small>%</small> | -6.6<small>%</small> |
-| TIGER 미국S&P500선물(H) | <span style="color: tomato">9.9<small>%</small></span> | 17.5<small>%</small> | 0.57 | -35.0<small>%</small> | -4.9<small>%</small> |
+| [KODEX 미국S&P500선물(H)](/219480-vs-143850/) | <span style="color: tomato">10.4<small>%</small></span> | 20.8<small>%</small> | 0.50 | -34.8<small>%</small> | -6.7<small>%</small> |
+| TIGER 미국S&P500선물(H) | <span style="color: tomato">10.0<small>%</small></span> | 17.5<small>%</small> | 0.57 | -35.0<small>%</small> | -4.9<small>%</small> |
