@@ -1,4 +1,4 @@
 | **종목** | **CAGR** | **편차** | **샤프** | **MDD** | **AvDD** |
 | :------- | -------: | ------: | --------------: | ------------: | ------------: |
-| [SPYG](/spyg-vs-schd/) | <span style="color: tomato">15.8<small>%</small></span> | 18.9<small>%</small> | 0.84 | -32.7<small>%</small> | -5.0<small>%</small> |
-| SCHD | <span style="color: tomato">13.5<small>%</small></span> | 15.3<small>%</small> | 0.88 | -33.4<small>%</small> | -3.3<small>%</small> |
+| [SPYG](/spyg-vs-schd/) | <span style="color: tomato">15.7<small>%</small></span> | 18.9<small>%</small> | 0.83 | -32.7<small>%</small> | -5.0<small>%</small> |
+| SCHD | <span style="color: tomato">13.6<small>%</small></span> | 15.3<small>%</small> | 0.89 | -33.4<small>%</small> | -3.3<small>%</small> |
